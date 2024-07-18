@@ -38,7 +38,6 @@ for (i in 1:5) {
       
     }
     
-    
     final_link <- paste0('<li><a href = "', pub_link, '">', html_text(html_nodes(publications[j], "title")),'</a>')
     
     updated <- html_text(html_nodes(publications[j], "updated"))
