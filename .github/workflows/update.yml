@@ -1,0 +1,39 @@
+on:
+   push:
+     branches: main
+   schedule:
+     - cron: "0 9,16 * * 1-5"
+
+jobs:
+  import-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::xml2 
+            any::rvest
+            any::dplyr
+            any::lubridate
+
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Scrape latest publications from gov.uk
+        run: Rscript -e 'source("latest_NISRA_pubs_from_gov_uk.R")'
+        
+      - name: Scrape upcoming publications from gov.uk
+        run: Rscript -e 'source("upcoming_NISRA_pubs_from_gov_uk.R")'
+
+      - name: Commit results
+        run: |
+          git config --local user.email "techlab@nisra.gov.uk"
+          git config --local user.name "NISRA-Tech-Lab"
+          git add latest_publications.html
+          git add upcoming_publications.html
+          git commit -m 'Data updated' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"

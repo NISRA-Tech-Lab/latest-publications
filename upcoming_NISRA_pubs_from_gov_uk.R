@@ -5,7 +5,7 @@
       # dplyr: Provides functions for data manipulation.
       # lubridate: Facilitates date-time manipulation and processing.
 
-# Data Frame Initialization:
+# Data Frame Initialisation:
 #   An empty data frame, pub_info, is created to store publication titles and their associated metadata.
 
 # Outer Loop:
@@ -32,13 +32,13 @@
 # Sorting:
 #   The pub_info data frame is sorted by the release_date.
 
-# HTML Structure Initialization:
-#   Initializes the structure for the HTML output with a DOCTYPE declaration and basic HTML tags.
+# HTML Structure Initialisation:
+#   Initialises the structure for the HTML output with a DOCTYPE declaration and basic HTML tags.
 
 # Generating HTML List Items:
 #   Loops through the pub_info data frame and constructs list items for each publication with its title and metadata.
 
-# Finalizing HTML Output:
+# Finalising HTML Output:
 #   Closes the unordered list and HTML tags.
 
 # Writing to File:
@@ -53,7 +53,7 @@ library(rvest)     # For web scraping and extracting data from HTML documents
 library(dplyr)     # For data manipulation and transformation
 library(lubridate) # For working with date-time data
 
-# Initialize an empty data frame to store publication titles and metadata
+# Initialise an empty data frame to store publication titles and metadata
 pub_info <- data.frame(pub_title = character(),
                        meta_data = character(),
                        stringsAsFactors = FALSE) # Ensure character columns are not converted to factors
@@ -121,7 +121,7 @@ pub_info <- pub_info %>%
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
-# Initialize the HTML structure for the output
+# Initialise the HTML structure for the output
 output_html <- c('<!DOCTYPE html>',
                  '<html lang="en">',
                  '<body>',
@@ -138,7 +138,7 @@ for (i in 1:nrow(pub_info)) {
                           "</div></li>"))  # HTML structure for each publication
 }
 
-# Finalize the HTML output by closing the unordered list and body tags
+# Finalise the HTML output by closing the unordered list and body tags
 output_html <- c(output_html,
                  '</ul>',          # End of unordered list
                  '</body>',       # End of body

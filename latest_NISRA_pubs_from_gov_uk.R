@@ -27,15 +27,13 @@
 # Writing to File:
 #   
 #   Finally, the constructed HTML output is saved to a file named latest_publications.html.
-# Corrections:
-#   The closing tag for HTML was corrected from </hmtl> to </html>.
 # 
 # Load necessary libraries
 
 library(xml2)  # For parsing XML and HTML documents
 library(rvest) # For web scraping and extracting data from HTML documents
 
-# Initialize the HTML output
+# Initialise the HTML output
 output_html <- c('<!DOCTYPE html>',
                  '<html lang="en">',
                  '<body>',
@@ -65,7 +63,7 @@ for (i in 1:5) {
     # Extract all <p> tags from the publication page
     p_tags <- html_nodes(gov_uk_page, "p")
     
-    # Initialize pub_link variable
+    # Initialise pub_link variable
     pub_link <- gov_uk_link  # Default link if no specific link is found
     
     # Loop through each <p> tag to find specific metadata
@@ -113,11 +111,11 @@ for (i in 1:5) {
   }
 }
 
-# Finalize the HTML output by closing the unordered list and body tags
+# Finalise the HTML output by closing the unordered list and body tags
 output_html <- c(output_html,
                  '</ul>',
                  '</body>',
-                 '</html>')  # Corrected typo in closing tag from '</hmtl' to '</html>'
+                 '</html>')
 
 # Write the output HTML to a file named 'latest_publications.html'
 writeLines(output_html, "latest_publications.html")
