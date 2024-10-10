@@ -21,7 +21,7 @@ jobs:
             any::lubridate
 
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Scrape latest publications from gov.uk
         run: Rscript -e 'source("latest_NISRA_pubs_from_gov_uk.R")'
