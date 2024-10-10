@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --local user.email "techlab@nisra.gov.uk"
+          git config --local user.email " "
           git config --local user.name "NISRA-Tech-Lab"
           git add latest_publications.html
           git add upcoming_publications.html
