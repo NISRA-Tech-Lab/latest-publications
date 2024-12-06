@@ -83,12 +83,12 @@ for (i in 1:5) {
     gov_uk_page <- read_html(gov_uk_link)
     
     # Extract relevant metadata from the publication page
-    meta_data <- html_text(html_nodes(gov_uk_page, "dd"))[html_attr(html_nodes(gov_uk_page, "dd"), "class") == "app-c-important-metadata__definition"]
+    meta_data <- html_text(html_nodes(gov_uk_page, "dd"))[html_attr(html_nodes(gov_uk_page, "dd"), "class") == "gem-c-metadata__definition"]
     
     # Append the extracted title and metadata to the pub_info data frame
     pub_info <- pub_info %>%
       rbind(data.frame(pub_title = pub_title,
-                       meta_data = meta_data,
+                       meta_data = trimws(tail(meta_data, 1)),
                        stringsAsFactors = FALSE)) # Avoid factors in data frame
   }
 }
