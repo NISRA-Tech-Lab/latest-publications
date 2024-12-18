@@ -110,9 +110,12 @@ pub_info <- pub_info %>%
     release_day_fixed = case_when(
       is.na(release_day) & release_month_numeric %in% c(1, 3, 5, 7, 8, 10, 12) ~ 31,  # Handle months with 31 days
       is.na(release_day) & release_month_numeric %in% c(4, 6, 9, 11) ~ 30,  # Handle months with 30 days
+      is.na(release_day) & release_month_numeric == 2 & release_year %% 4 == 0 ~ 29, # Handle Leap years
       is.na(release_day) & release_month_numeric == 2 ~ 28,  # Handle February
       TRUE ~ release_day # Default to original release_day
-    ),
+    )) %>% 
+  filter(release_month %in% month.name) %>% # Remove strings that don't contain a date
+  mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day_fixed, sep = "-")), # Construct date
     meta_data = case_when(
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
