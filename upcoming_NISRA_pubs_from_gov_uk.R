@@ -52,6 +52,7 @@ library(xml2)      # For parsing XML and HTML documents
 library(rvest)     # For web scraping and extracting data from HTML documents
 library(dplyr)     # For data manipulation and transformation
 library(lubridate) # For working with date-time data
+library(jsonlite)
 
 # Initialise an empty data frame to store publication titles and metadata
 pub_info <- data.frame(pub_title = character(),
@@ -135,6 +136,8 @@ output_html <- c('<!DOCTYPE html>',
                  '<body>',
                  '<ul>')  # Start of an unordered list
 
+output_list <- list()
+
 # Loop through each row of the processed pub_info data frame
 for (i in 1:nrow(pub_info)) {
   
@@ -144,6 +147,11 @@ for (i in 1:nrow(pub_info)) {
                           "<div><strong>Release date:</strong> ",
                           pub_info$meta_data[i],
                           "</div></li>"))  # HTML structure for each publication
+  
+  output_list[[length(output_list) + 1]] <- list(title = pub_info$pub_title[i],
+                                                 release_date = pub_info$meta_data[i])
+  
+  
 }
 
 # Finalise the HTML output by closing the unordered list and body tags
@@ -154,3 +162,8 @@ output_html <- c(output_html,
 
 # Write the output HTML to a file named 'upcoming_publications.html'
 writeLines(output_html, "upcoming_publications.html")
+
+# Write out to a json file named 'upcoming_publications.json'
+toJSON(output_list, auto_unbox = TRUE) %>% 
+  prettify() %>% 
+  writeLines("upcoming_publications.json")

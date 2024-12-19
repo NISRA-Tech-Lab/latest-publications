@@ -32,12 +32,15 @@
 
 library(xml2)  # For parsing XML and HTML documents
 library(rvest) # For web scraping and extracting data from HTML documents
+library(jsonlite)
 
 # Initialise the HTML output
 output_html <- c('<!DOCTYPE html>',
                  '<html lang="en">',
                  '<body>',
                  '<ul>')  # Start of an unordered list in HTML
+
+output_list <- list()
 
 # Loop through the first 5 pages of the RSS feed
 for (i in 1:5) {
@@ -108,6 +111,11 @@ for (i in 1:5) {
     # Append the constructed list item and metadata to the output HTML
     output_html <- c(output_html, final_link, meta_data)
     
+    # Create list for json output
+    output_list[[length(output_list) + 1]] <- list(title = html_text(html_nodes(publications[j], "title")),
+                                                   url = pub_link,
+                                                   release_date = paste(date, time))
+    
   }
 }
 
@@ -119,3 +127,8 @@ output_html <- c(output_html,
 
 # Write the output HTML to a file named 'latest_publications.html'
 writeLines(output_html, "latest_publications.html")
+
+# Write out to a json file named 'latest_publications.json'
+toJSON(output_list, auto_unbox = TRUE) %>% 
+  prettify() %>% 
+  writeLines("latest_publications.json")
