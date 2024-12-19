@@ -85,11 +85,16 @@ for (i in 1:5) {
     # Extract relevant metadata from the publication page
     meta_data <- html_text(html_nodes(gov_uk_page, "dd"))[html_attr(html_nodes(gov_uk_page, "dd"), "class") == "gem-c-metadata__definition"]
     
+    # Remove cancelled publications and only extract meta data item with publication date in it
+    meta_data <- meta_data[grepl("confirmed|provisional|delayed", meta_data)]
+    
     # Append the extracted title and metadata to the pub_info data frame
-    pub_info <- pub_info %>%
-      rbind(data.frame(pub_title = pub_title,
-                       meta_data = trimws(tail(meta_data, 1)),
-                       stringsAsFactors = FALSE)) # Avoid factors in data frame
+    if (length(meta_data > 0)) {
+      pub_info <- pub_info %>%
+        rbind(data.frame(pub_title = pub_title,
+                         meta_data = trimws(meta_data),
+                         stringsAsFactors = FALSE)) # Avoid factors in data frame
+    }
   }
 }
 
