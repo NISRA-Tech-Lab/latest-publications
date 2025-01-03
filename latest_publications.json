@@ -1,5 +1,10 @@
 [
     {
+        "title": "Deaths Registered in Northern Ireland - Week ending 27 December 2024",
+        "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+        "release_date": "03 January 2025 9:30am"
+    },
+    {
         "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2024",
         "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
         "release_date": "20 December 2024 9:30am"
@@ -492,11 +497,6 @@
     {
         "title": "Monthly Marriages (Northern Ireland): October 2024",
         "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-        "release_date": "11 November 2024 9:30am"
-    },
-    {
-        "title": "Monthly Civil Partnerships (Northern Ireland): October 2024",
-        "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
         "release_date": "11 November 2024 9:30am"
     }
 ]
