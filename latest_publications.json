@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2022/23 - 2023/24",
+        "url": "https://www.justice-ni.gov.uk/topics/prosecution-and-conviction-statistics",
+        "release_date": "07 January 2025 0:00am"
+    },
+    {
         "title": "Deaths Registered in Northern Ireland - Week ending 27 December 2024",
         "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
         "release_date": "03 January 2025 9:30am"
@@ -492,11 +497,6 @@
     {
         "title": "Monthly Stillbirths (Northern Ireland): October 2024",
         "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-        "release_date": "11 November 2024 9:30am"
-    },
-    {
-        "title": "Monthly Marriages (Northern Ireland): October 2024",
-        "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
         "release_date": "11 November 2024 9:30am"
     }
 ]
