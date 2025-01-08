@@ -34,13 +34,10 @@ library(xml2)  # For parsing XML and HTML documents
 library(rvest) # For web scraping and extracting data from HTML documents
 library(jsonlite)
 
-# Initialise the HTML output
-output_html <- c('<!DOCTYPE html>',
-                 '<html lang="en">',
-                 '<body>',
-                 '<ul>')  # Start of an unordered list in HTML
-
-output_list <- list()
+# List that will be converted to json at the end
+output_list <- list(name = "nisra release calendar",
+                    modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+                    entries = c())
 
 # Loop through the first 5 pages of the RSS feed
 for (i in 1:5) {
@@ -85,48 +82,35 @@ for (i in 1:5) {
       }
     }
     
-    # Construct the HTML list item with the publication title and link
-    final_link <- paste0('<li><a href = "', pub_link, '">', html_text(html_nodes(publications[j], "title")),'</a>')
+    # Loop through dd tags to find specific metadata
+    dd_tags <- html_nodes(gov_uk_page, "dd")
     
-    # Extract the updated date from the publication entry
-    updated <- html_text(html_nodes(publications[j], "updated"))
-    
-    # Format the date for display
-    date <- paste(substr(updated, 9, 10), month.name[as.numeric(substr(updated, 6, 7))], substr(updated, 1, 4))
-    
-    # Extract and format the time from the updated field
-    hour <- as.numeric(substr(updated, 12, 13))
-    minute <- substr(updated, 15, 16)
-    
-    # Format the time to am/pm notation
-    time <- if (hour < 12) {
-      paste0(hour, ":", minute, "am")
-    } else {
-      paste0(hour, ":", minute, "pm")
+    # Look for where a month name appears in dd tag and re-format date
+    for (k in 1:length(dd_tags)) {
+      if (grepl(paste(month.name, collapse = "|"), html_text(dd_tags[k]))) {
+        release_date <- html_text(dd_tags[k]) %>% 
+          as.Date(., "%d %B %Y") %>% 
+          format(., format = "%Y-%m-%dT09:30:00Z")
+      }
     }
     
-    # Create the metadata string containing the release date and publication information
-    meta_data <- paste('<div><strong>Release date:</strong>', date, time, '| Published </div></li>')
+    # Extract the updated date from the publication entry
+    updated <- html_text(html_nodes(publications[j], "updated")) %>% 
+      sub("\\+00:00", "Z", .)
     
-    # Append the constructed list item and metadata to the output HTML
-    output_html <- c(output_html, final_link, meta_data)
+    id <- sub(".*/", "", html_text(html_nodes(publications[j], "id")))
     
     # Create list for json output
-    output_list[[length(output_list) + 1]] <- list(title = html_text(html_nodes(publications[j], "title")),
-                                                   url = pub_link,
-                                                   release_date = paste(date, time))
+    output_list$entries[[length(output_list$entries) + 1]] <-
+      list(id = id,
+           title = html_text(html_nodes(publications[j], "title")),
+           summary = html_text(html_nodes(publications[j], "summary")),
+           url = pub_link,
+           release_date = release_date,
+           updated = updated)
     
   }
 }
-
-# Finalise the HTML output by closing the unordered list and body tags
-output_html <- c(output_html,
-                 '</ul>',
-                 '</body>',
-                 '</html>')
-
-# Write the output HTML to a file named 'latest_publications.html'
-writeLines(output_html, "latest_publications.html")
 
 # Write out to a json file named 'latest_publications.json'
 toJSON(output_list, auto_unbox = TRUE) %>% 

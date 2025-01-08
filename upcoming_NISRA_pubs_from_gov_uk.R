@@ -55,9 +55,7 @@ library(lubridate) # For working with date-time data
 library(jsonlite)
 
 # Initialise an empty data frame to store publication titles and metadata
-pub_info <- data.frame(pub_title = character(),
-                       meta_data = character(),
-                       stringsAsFactors = FALSE) # Ensure character columns are not converted to factors
+pub_info <- data.frame() # Ensure character columns are not converted to factors
 
 # Loop through the first 5 pages of the RSS feed for upcoming statistics
 for (i in 1:5) {
@@ -89,12 +87,21 @@ for (i in 1:5) {
     # Remove cancelled publications and only extract meta data item with publication date in it
     meta_data <- meta_data[grepl("confirmed|provisional|delayed", meta_data)]
     
+    updated <- html_text(html_nodes(publications[j], "updated")) %>% 
+      sub("\\+00:00", "Z", .) %>% 
+      sub("\\+01:00", "Z", .)
+    
+    id <- sub(".*/", "", html_text(html_nodes(publications[j], "id")))
+    
     # Append the extracted title and metadata to the pub_info data frame
     if (length(meta_data > 0)) {
       pub_info <- pub_info %>%
-        rbind(data.frame(pub_title = pub_title,
-                         meta_data = trimws(meta_data),
-                         stringsAsFactors = FALSE)) # Avoid factors in data frame
+        bind_rows(data.frame(pub_title = pub_title,
+                             id = id,
+                             meta_data = trimws(meta_data),
+                             updated = updated,
+                             summary = trimws(html_text(html_nodes(publications[j], "summary"))),
+                             stringsAsFactors = FALSE)) # Avoid factors in data frame
     }
   }
 }
@@ -102,6 +109,7 @@ for (i in 1:5) {
 # Process the pub_info data frame to extract release dates and modify metadata
 pub_info <- pub_info %>%
   mutate(
+    status = sub("\\)", "", sub(".*\\(", "", meta_data)),
     release_day = as.numeric(substr(meta_data, 1, 2)), # Extract day as numeric
     release_month = case_when(
       is.na(release_day) ~ sub(" .*", "", meta_data), # Extract month name if release_day is NA
@@ -123,45 +131,31 @@ pub_info <- pub_info %>%
   filter(release_month %in% month.name) %>% # Remove strings that don't contain a date
   mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day_fixed, sep = "-")), # Construct date
-    meta_data = case_when(
+    status = case_when(
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
-      TRUE ~ meta_data  # Otherwise keep original metadata
-    )
+      TRUE ~ status  # Otherwise keep original metadata
+    ),
+    release_date = format(release_date, format = "%Y-%m-%dT%09:30:00Z")
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
-# Initialise the HTML structure for the output
-output_html <- c('<!DOCTYPE html>',
-                 '<html lang="en">',
-                 '<body>',
-                 '<ul>')  # Start of an unordered list
 
-output_list <- list()
+output_list <- list(name = "upcoming nisra publications",
+                    modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+                    entries = c())
 
 # Loop through each row of the processed pub_info data frame
 for (i in 1:nrow(pub_info)) {
   
-  # Construct the HTML list item for each publication
-  output_html <- c(output_html,
-                   paste0("<li>", pub_info$pub_title[i],
-                          "<div><strong>Release date:</strong> ",
-                          pub_info$meta_data[i],
-                          "</div></li>"))  # HTML structure for each publication
   
-  output_list[[length(output_list) + 1]] <- list(title = pub_info$pub_title[i],
-                                                 release_date = pub_info$meta_data[i])
-  
+  output_list$entries[[length(output_list$entries) + 1]] <-
+    list(id = pub_info$id[i],
+         title = pub_info$pub_title[i],
+         summary = pub_info$summary[i],
+         release_date = pub_info$release_date[i],
+         updated = pub_info$updated[i])
   
 }
-
-# Finalise the HTML output by closing the unordered list and body tags
-output_html <- c(output_html,
-                 '</ul>',          # End of unordered list
-                 '</body>',       # End of body
-                 '</html>')      # End of HTML document
-
-# Write the output HTML to a file named 'upcoming_publications.html'
-writeLines(output_html, "upcoming_publications.html")
 
 # Write out to a json file named 'upcoming_publications.json'
 toJSON(output_list, auto_unbox = TRUE) %>% 
