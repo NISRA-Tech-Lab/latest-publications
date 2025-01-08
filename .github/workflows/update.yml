@@ -34,8 +34,6 @@ jobs:
         run: |
           git config --local user.email " "
           git config --local user.name "NISRA-Tech-Lab"
-          git add latest_publications.html
-          git add upcoming_publications.html
           git add latest_publications.json
           git add upcoming_publications.json
           git commit -m 'Data updated' || echo "No changes to commit"
