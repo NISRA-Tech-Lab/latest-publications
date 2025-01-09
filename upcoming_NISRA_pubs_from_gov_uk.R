@@ -44,6 +44,8 @@
 # 7. Output Result
 # The script produces a structured list (output_list$entries) with metadata and release information for the upcoming publications, suitable for further use, such as generating reports or API responses.
 
+# Initialise pub_info data_frame
+pub_info <- data.frame()
 
 # Loop through the first 5 pages of the RSS feed for upcoming statistics
 for (i in 1:5) {
