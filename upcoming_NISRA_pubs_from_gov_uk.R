@@ -125,7 +125,7 @@ pub_info <- pub_info %>%
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
       TRUE ~ status  # Otherwise keep original metadata
     ),
-    release_date = format(release_date, format = "%Y-%m-%dT%09:30:00Z")
+    release_date = format(release_date, format = "%Y-%m-%dT09:30:00Z")
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
