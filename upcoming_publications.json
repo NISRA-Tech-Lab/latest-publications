@@ -1,6 +1,6 @@
 {
     "name": "upcoming nisra publications",
-    "modified": "2025-01-08T16:39:40Z",
+    "modified": "2025-01-09T09:15:20Z",
     "entries": [
         {
             "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2025",
@@ -171,13 +171,6 @@
             "updated": "2024-12-09T11:36:14Z"
         },
         {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
-            "release_date": "2025-01-31T00000%09:30:00Z",
-            "updated": "2024-12-05T15:11:48Z"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
@@ -281,6 +274,13 @@
             "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
             "release_date": "2025-02-27T00000%09:30:00Z",
             "updated": "2024-10-30T13:38:50Z"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "release_date": "2025-02-28T00000%09:30:00Z",
+            "updated": "2025-01-09T08:40:53Z"
         },
         {
             "id": "quarterly-autism-statistics-for-ni-october-december-2024",
