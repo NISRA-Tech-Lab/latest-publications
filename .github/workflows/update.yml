@@ -24,17 +24,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Scrape latest publications from gov.uk
-        run: Rscript -e 'source("latest_NISRA_pubs_from_gov_uk.R")'
-        
-      - name: Scrape upcoming publications from gov.uk
-        run: Rscript -e 'source("upcoming_NISRA_pubs_from_gov_uk.R")'
+      - name: Scrape publications from gov.uk
+        run: Rscript -e 'source("create_json.R")'
 
       - name: Commit results
         run: |
           git config --local user.email " "
           git config --local user.name "NISRA-Tech-Lab"
-          git add latest_publications.json
-          git add upcoming_publications.json
+          git add nisra_release_calendar.json
           git commit -m 'Data updated' || echo "No changes to commit"
           git push origin || echo "No changes to commit"

@@ -1,61 +1,49 @@
 # Code Explanation:
-###   Library Loading:
-      #   xml2: Used for parsing XML and HTML documents.
-      # rvest: A package for web scraping and extracting data from HTML.
-      # dplyr: Provides functions for data manipulation.
-      # lubridate: Facilitates date-time manipulation and processing.
+# This R script automates the process of retrieving, parsing, and organizing metadata from an RSS feed for upcoming statistics published by the Northern Ireland Statistics and Research Agency. Here’s a summary of what the code does:
+#   
+#   1. Loop Through RSS Feed Pages
+# The script loops through the first 5 pages of the RSS feed to gather entries.
+# 
+# For each page:
+#   It constructs the URL dynamically.
+# Reads the HTML content of the RSS feed.
+# 
+# 2. Extract Publication Entries
+# For each entry (publication) in the RSS feed:
+#   Extracts the publication title and link.
+# Reads the detailed content from the publication's webpage.
+# 
+# 3. Parse Metadata
+# From the detailed publication webpage:
+# Extracts metadata values, focusing on publication statuses (e.g., "confirmed," "provisional," or "delayed").
+# Processes the updated date and the publication id.
+# 
+# 4. Store Extracted Information
+# Constructs a data frame (pub_info) to store:
+# Title
+# ID
+# Metadata
+# Updated timestamp
+# Summary
+# Filters out cancelled publications and keeps only those with valid release dates or statuses.
+# 
+# 5. Process Metadata and Release Dates
+# The metadata is parsed to extract:
+# Release Day, Month, and Year:
+# Handles edge cases like missing day values, leap years, and non-date strings.
+# Status:
+# If the release date is in the past, marks the status as delayed.
+# Constructs a proper release_date in ISO 8601 format (YYYY-MM-DDT09:30:00Z) for sorting and further processing.
+# 
+# 6. Build Output Data Structure
+# For each row in the processed pub_info data frame:
+# Creates an entry in output_list$entries containing:
+# ID, Title, Summary, Release Date, and Updated timestamp.
+# Entries are sorted by release_date.
+# 
+# 7. Output Result
+# The script produces a structured list (output_list$entries) with metadata and release information for the upcoming publications, suitable for further use, such as generating reports or API responses.
 
-# Data Frame Initialisation:
-#   An empty data frame, pub_info, is created to store publication titles and their associated metadata.
-
-# Outer Loop:
-#   Loops through the first 5 pages of the RSS feed for upcoming statistics publications.
-
-# RSS Feed URL Construction:
-#   Constructs the URL for each page using paste0 to include pagination.
-
-# Fetching RSS Feed:
-#   Reads the RSS feed and extracts the entry nodes containing publication details.
-
-# Inner Loop:
-#   For each publication entry, it extracts the title and link.
-# Reads the linked publication page and extracts the metadata using appropriate class attributes.
-
-# Data Frame Population:
-#   The extracted publication title and metadata are appended to pub_info.
-
-# Data Processing:
-#   The metadata is processed to extract the release day, month, and year.
-# The month is converted from a name to a numeric value.
-# The release date is constructed, and metadata is updated to indicate if the publication is delayed.
-
-# Sorting:
-#   The pub_info data frame is sorted by the release_date.
-
-# HTML Structure Initialisation:
-#   Initialises the structure for the HTML output with a DOCTYPE declaration and basic HTML tags.
-
-# Generating HTML List Items:
-#   Loops through the pub_info data frame and constructs list items for each publication with its title and metadata.
-
-# Finalising HTML Output:
-#   Closes the unordered list and HTML tags.
-
-# Writing to File:
-#   Writes the constructed HTML content to a file named upcoming_publications.html.
-
-
-
-
-# Load necessary libraries
-library(xml2)      # For parsing XML and HTML documents
-library(rvest)     # For web scraping and extracting data from HTML documents
-library(dplyr)     # For data manipulation and transformation
-library(lubridate) # For working with date-time data
-library(jsonlite)
-
-# Initialise an empty data frame to store publication titles and metadata
-pub_info <- data.frame() # Ensure character columns are not converted to factors
 
 # Loop through the first 5 pages of the RSS feed for upcoming statistics
 for (i in 1:5) {
@@ -139,14 +127,8 @@ pub_info <- pub_info %>%
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
-
-output_list <- list(name = "upcoming nisra publications",
-                    modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
-                    entries = c())
-
 # Loop through each row of the processed pub_info data frame
 for (i in 1:nrow(pub_info)) {
-  
   
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
@@ -156,8 +138,3 @@ for (i in 1:nrow(pub_info)) {
          updated = pub_info$updated[i])
   
 }
-
-# Write out to a json file named 'upcoming_publications.json'
-toJSON(output_list, auto_unbox = TRUE) %>% 
-  prettify() %>% 
-  writeLines("upcoming_publications.json")

@@ -1,43 +1,51 @@
 # Code Explanation:
-#   Libraries Loaded:
+# This R script is designed to scrape publication details from a statistics RSS feed on the UK government's website, process the information, and construct a structured JSON-like output. Here's a breakdown of the steps:
 #   
-#   xml2: Provides functions for parsing XML and HTML documents.
-# rvest: A package for web scraping and extracting data from HTML documents.
-# HTML Structure:
-#   
-#   The code constructs an HTML document with a list of publications, beginning with the document type declaration and HTML tags.
-# Looping Through Pages:
-#   
-#   The outer loop (for (i in 1:5)) iterates through the first five pages of the RSS feed.
-# Fetching RSS Feed:
-#   
-#   The RSS URL is constructed with pagination, and the content is read and parsed.
-# Extracting Publications:
-#   
-#   Each publication's details are extracted by iterating through the entry nodes.
-# Metadata Extraction:
+# 1. Loop Through RSS Feed Pages
+# The script loops through the first 5 pages of the RSS feed.
+# For each page:
+#   Constructs the URL dynamically using the page number (i).
+# Fetches the RSS feed content.
 # 
-# For each publication, the link to the detailed page is retrieved, and the code looks for metadata within <p> tags to get publication links.
-# Date and Time Formatting:
+# 2. Extract Publication Entries
+# Retrieves all <entry> nodes from the RSS feed, where each node corresponds to a publication.
+# Loops through each entry:
+#   Extracts the URL of the publication page.
 # 
-# The code extracts the publication's update time and formats it into a human-readable date and time format.
-# HTML Output Construction:
+# 3. Process Publication Page
+# For each publication page:
 #   
-#   The publication titles and their respective links, along with the formatted date and time, are appended to the output HTML structure.
-# Writing to File:
+#   Extract Paragraph (<p>) Metadata:
 #   
-#   Finally, the constructed HTML output is saved to a file named latest_publications.html.
+#   Searches for <p> tags in the publication page to find links or metadata.
+# Looks specifically for tags with the class "gem-c-attachment__metadata":
+#   If found and contains an HTTP link, sets it as the pub_link.
+# Defaults to the main publication page URL if no specific link is found.
+# Extract Date Metadata:
+#   
+#   Retrieves <dd> tags and searches for text containing month names.
+# Converts this text into a standardized ISO 8601 date format (YYYY-MM-DDT09:30:00Z).
 # 
-# Load necessary libraries
+# 4. Extract RSS Entry Metadata
+# From the RSS entry:
+#   
+#   Extracts:
+#   Title: The title of the publication.
+# Summary: A brief summary of the publication.
+# Updated Timestamp: The last updated date in the RSS feed, formatted as ISO 8601.
+# ID: A unique identifier derived from the <id> tag.
+# 
+# 5. Build Output List
+# Constructs a JSON-like list (output_list$entries):
+#   Each entry contains:
+#   id: Unique identifier.
+# title: Publication title.
+# summary: Publication summary.
+# url: Either a specific metadata link or the main publication URL.
+# release_date: Extracted or formatted release date.
+# updated: Last updated timestamp.
+# Adds each processed publication as an entry in output_list$entries.
 
-library(xml2)  # For parsing XML and HTML documents
-library(rvest) # For web scraping and extracting data from HTML documents
-library(jsonlite)
-
-# List that will be converted to json at the end
-output_list <- list(name = "nisra release calendar",
-                    modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
-                    entries = c())
 
 # Loop through the first 5 pages of the RSS feed
 for (i in 1:5) {
@@ -112,7 +120,3 @@ for (i in 1:5) {
   }
 }
 
-# Write out to a json file named 'latest_publications.json'
-toJSON(output_list, auto_unbox = TRUE) %>% 
-  prettify() %>% 
-  writeLines("latest_publications.json")
