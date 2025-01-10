@@ -1,7 +1,23 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-10T09:12:55Z",
+    "modified": "2025-01-10T16:14:19Z",
     "entries": [
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2024",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2024",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-01-10T09:30:00Z",
+            "updated": "2025-01-10T09:30:07Z"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-3-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-01-10T09:30:00Z",
+            "updated": "2025-01-10T09:30:06Z"
+        },
         {
             "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2025",
             "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2025",
@@ -787,36 +803,6 @@
             "updated": "2024-11-15T09:30:02Z"
         },
         {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202425",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2024/25",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q2-2024-2025.html",
-            "release_date": "2024-11-14T09:30:00Z",
-            "updated": "2024-11-14T09:30:10Z"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-1-2024",
-            "title": "Northern Ireland Tourism Statistics, Quarter 1 2024",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2024.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/annual-and-quarterly-tourism-statistics-publications",
-            "release_date": "2024-11-12T09:30:00Z",
-            "updated": "2024-11-12T09:30:03Z"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2024",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2024",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-01-10T09:30:00Z",
-            "updated": "2024-12-17T14:36:00Z"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
-            "release_date": "2025-01-10T09:30:00Z",
-            "updated": "2024-10-15T11:46:31Z"
-        },
-        {
             "id": "census-2021-public-microdata-teaching-sample-for-northern-ireland",
             "title": "Census 2021 public microdata teaching sample for Northern Ireland",
             "summary": "A 1% sample of individual records from Census 2021 with no identifying information and available to all for teaching of statistics and social sciences.",
@@ -1062,6 +1048,13 @@
             "updated": "2024-10-24T09:50:15Z"
         },
         {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
+            "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2024 ",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-01-10T09:45:36Z"
+        },
+        {
             "id": "community-pharmaceutical-services-statistics-for-ni-q3-202425",
             "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
             "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
@@ -1284,6 +1277,13 @@
             "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned &amp; unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
             "release_date": "2025-07-09T09:30:00Z",
             "updated": "2024-10-24T12:30:05Z"
+        },
+        {
+            "id": "ni-labour-market-statistics-july-2025",
+            "title": "NI Labour Market statistics: July 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-07-17T09:30:00Z",
+            "updated": "2024-08-29T10:49:54Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1st-july-2025",
