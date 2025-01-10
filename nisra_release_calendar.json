@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-09T16:14:21Z",
+    "modified": "2025-01-10T09:12:55Z",
     "entries": [
         {
             "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2025",
@@ -1076,6 +1076,13 @@
             "updated": "2024-10-30T13:38:50Z"
         },
         {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-10T01:14:32Z"
+        },
+        {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
             "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
@@ -1277,13 +1284,6 @@
             "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned &amp; unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
             "release_date": "2025-07-09T09:30:00Z",
             "updated": "2024-10-24T12:30:05Z"
-        },
-        {
-            "id": "ni-labour-market-statistics-july-2025",
-            "title": "NI Labour Market statistics: July 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-07-17T09:30:00Z",
-            "updated": "2024-08-29T10:49:54Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1st-july-2025",
