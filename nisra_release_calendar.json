@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-13T12:21:38Z",
+    "modified": "2025-01-13T15:59:46Z",
     "entries": [
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
@@ -810,18 +810,18 @@
             "updated": "2024-12-19T08:54:45Z"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025. The release for week ending Friday 10 January will also include a provisional, weekly total for the number of flu-related and pneumonia-related deaths regi…",
+            "release_date": "2025-01-17T09:30:00Z",
+            "updated": "2025-01-13T14:56:11Z"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-december-2024",
             "title": "DVA Monthly Tests Conducted Statistics: December 2024",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-01-17T09:30:00Z",
             "updated": "2025-01-09T15:20:59Z"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
-            "release_date": "2025-01-17T09:30:00Z",
-            "updated": "2024-10-15T11:58:15Z"
         },
         {
             "id": "christmas-drinkdrug-drive-campaign-to-202425",
