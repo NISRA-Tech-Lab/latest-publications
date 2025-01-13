@@ -18,7 +18,7 @@ This project contains scripts to scrape, process, and generate a JSON file (`nis
 
 ## **Automation with GitHub Actions**
 This project includes a GitHub Actions workflow file named `update.yml`. The workflow:
-- Runs on pushes to the `main` branch and on a schedule (weekdays at 09:00 and 16:00 UTC).
+- Runs on pushes to the `main` branch and on a schedule (weekdays at 09:30 and 17:30 UTC).
 - Automatically:
   - Sets up the R environment.
   - Installs required R packages.
