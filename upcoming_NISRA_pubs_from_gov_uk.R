@@ -2,7 +2,7 @@
 # This R script automates the process of retrieving, parsing, and organizing metadata from an RSS feed for upcoming statistics published by the Northern Ireland Statistics and Research Agency. Here’s a summary of what the code does:
 #   
 #   1. Loop Through RSS Feed Pages
-# The script loops through the first 5 pages of the RSS feed to gather entries.
+# The script loops through the first all pages of the RSS feed to gather entries.
 # 
 # For each page:
 #   It constructs the URL dynamically.
@@ -47,17 +47,25 @@
 # Initialise pub_info data_frame
 pub_info <- data.frame()
 
-# Loop through the first 5 pages of the RSS feed for upcoming statistics
-for (i in 1:5) {
+# Loop through the first all pages of the RSS feed for upcoming statistics
+i <- 1
+has_pubs <- TRUE
+while (has_pubs == TRUE) {
   
   # Construct the RSS feed URL for the specified page number
   rss_url <- paste0("https://www.gov.uk/search/research-and-statistics.atom?content_store_document_type=upcoming_statistics&organisations%5B%5D=northern-ireland-statistics-and-research-agency&page=", i)
+  
+  i <- i + 1
   
   # Read the RSS feed HTML content
   rss_feed <- read_html(rss_url)
   
   # Extract all publication entries from the RSS feed
   publications <- html_nodes(rss_feed, "entry")
+  if (length(publications) == 0) {
+    has_pubs <- FALSE
+    break
+  }
   
   # Loop through each publication entry
   for (j in 1:length(publications)) {
