@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-14T09:38:58Z",
+    "modified": "2025-01-14T14:10:08Z",
     "entries": [
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
@@ -810,6 +810,20 @@
             "updated": "2024-12-19T08:54:45Z"
         },
         {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2024",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2024",
+            "summary": "NICEI is an experimental quarterly measure of the performance of the Northern Ireland (NI) economy based on available official statistics.",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2024-07-25T09:41:35Z"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1st-july-to-30th-september-2024",
+            "title": "Northern Ireland Construction Bulletin: 1st July to 30th September 2024",
+            "summary": "This release provides a measure of the value of construction output in Northern Ireland.",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2024-07-25T08:13:43Z"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025. The release for week ending Friday 10 January will also include a provisional, weekly total for the number of flu-related and pneumonia-related deaths regi…",
@@ -824,11 +838,25 @@
             "updated": "2025-01-09T15:20:59Z"
         },
         {
+            "id": "ni-labour-market-statistics-january-2025",
+            "title": "NI Labour Market statistics: January 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-01-21T09:30:00Z",
+            "updated": "2024-08-29T10:23:47Z"
+        },
+        {
             "id": "christmas-drinkdrug-drive-campaign-to-202425",
             "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
             "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2024/25, which ran from 1st December 2024 to 1st January 2025 inclusive, specifically the outcomes in terms …",
             "release_date": "2025-01-23T09:30:00Z",
             "updated": "2024-12-18T10:14:42Z"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202324",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2024/25",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman.",
+            "release_date": "2025-01-23T09:30:00Z",
+            "updated": "2024-07-08T11:35:14Z"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
@@ -915,6 +943,13 @@
             "updated": "2024-10-30T13:33:19Z"
         },
         {
+            "id": "northern-ireland-local-authority-collected-municipal-waste-management-statistics-report-jul-sep-2024",
+            "title": "Northern Ireland local authority collected municipal waste management statistics report - Jul-Sep 2024",
+            "summary": "This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland.",
+            "release_date": "2025-01-30T09:30:00Z",
+            "updated": "2024-02-12T13:59:14Z"
+        },
+        {
             "id": "higher-level-apprenticeships-in-further-education-academic-year-202324",
             "title": "Higher Level Apprenticeships in Further Education, academic year 2023/24",
             "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Further Education colleges and Cafre, including the number of starts, occupancy and qualifications achieved.",
@@ -999,6 +1034,13 @@
             "updated": "2024-10-15T12:15:43Z"
         },
         {
+            "id": "road-safety-issues-in-northern-ireland-202324",
+            "title": "Road Safety issues in Northern Ireland 2023/24",
+            "summary": "This report presents information from the 2023/24 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselv…",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-01-14T11:26:13Z"
+        },
+        {
             "id": "general-medical-services-statistics-for-ni-quarter-3-202425--2",
             "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
             "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
@@ -1013,6 +1055,13 @@
             "updated": "2024-10-15T12:21:29Z"
         },
         {
+            "id": "ni-labour-market-statistics-february-2025",
+            "title": "NI Labour Market statistics: February 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-02-18T09:30:00Z",
+            "updated": "2024-08-29T10:23:54Z"
+        },
+        {
             "id": "northern-ireland-new-dwelling-statistics-quarter-4-2024",
             "title": "Northern Ireland New Dwelling Statistics Quarter 4 2024",
             "summary": "New Dwellings in each local government district in Northern Ireland during Oct - Dec 2024",
@@ -1025,6 +1074,20 @@
             "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2024",
             "release_date": "2025-02-19T09:30:00Z",
             "updated": "2025-01-06T08:31:24Z"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-december-2024",
+            "title": "Northern Ireland HSC Vacancies December 2024",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2025-02-19T09:30:00Z",
+            "updated": "2024-02-08T12:02:32Z"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-december-2024",
+            "title": "Northern Ireland HSC Workforce Statistics December 2024",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2025-02-19T09:30:00Z",
+            "updated": "2024-02-08T11:59:10Z"
         },
         {
             "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
@@ -1046,6 +1109,27 @@
             "summary": "Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
             "release_date": "2025-02-25T09:30:00Z",
             "updated": "2024-10-24T09:50:15Z"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-november-2024",
+            "title": "Northern Ireland Universal Credit Statistics: November 2024",
+            "summary": "Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2024-05-13T15:20:04Z"
+        },
+        {
+            "id": "personal-independence-payment-statistics-november-2024",
+            "title": "Personal Independence Payment Statistics - November 2024",
+            "summary": "The report includes further information on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2024-02-29T08:38:06Z"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-november-2024",
+            "title": "Northern Ireland Benefit Statistics Summary: November 2024",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2024-02-29T08:33:16Z"
         },
         {
             "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
@@ -1139,6 +1223,34 @@
             "updated": "2024-10-08T15:56:57Z"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-judicial-reviews-october-to-december-2024",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2024",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2024-05-21T11:22:14Z"
+        },
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2024-04-04T12:22:17Z"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-january-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: January 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2024-01-19T11:48:00Z"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2024",
+            "title": "Mortgages: Actions for possession bulletin October to December 2024",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2023-10-13T15:50:44Z"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-february-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
@@ -1174,11 +1286,32 @@
             "updated": "2024-10-03T09:57:37Z"
         },
         {
+            "id": "ni-labour-market-statistics-march-2025",
+            "title": "NI Labour Market statistics: March 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-03-20T09:30:00Z",
+            "updated": "2024-08-29T10:24:00Z"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-march-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 14 March 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 March 2025",
             "release_date": "2025-03-21T09:30:00Z",
             "updated": "2024-10-15T12:48:53Z"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-4-2024",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 4 2024",
+            "summary": "NICEI is an experimental quarterly measure of the performance of the Northern Ireland (NI) economy based on available official statistics.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2024-07-25T09:47:44Z"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1st-october-to-31st-december-2024",
+            "title": "Northern Ireland Construction Bulletin: 1st October to 31st December 2024",
+            "summary": "This release provides a measure of the value of construction output in Northern Ireland.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2024-04-17T10:09:36Z"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-march-2025",
@@ -1188,11 +1321,53 @@
             "updated": "2024-10-15T12:53:53Z"
         },
         {
+            "id": "northern-ireland-planning-statistics-october-to-december-2024",
+            "title": "Northern Ireland planning statistics October to December 2024",
+            "summary": "Provisional quarterly results for the third quarter of 2024/25. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-03-31T09:30:00Z",
+            "updated": "2024-07-02T15:48:35Z"
+        },
+        {
+            "id": "health-inequalities-annual-report-2025",
+            "title": "Health Inequalities Annual Report 2025",
+            "summary": "This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
+            "release_date": "2025-03-31T09:30:00Z",
+            "updated": "2024-05-01T14:50:22Z"
+        },
+        {
+            "id": "analysis-of-nics-recruitment-competitions-2024",
+            "title": "Analysis of NICS Recruitment Competitions 2024",
+            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
+            "release_date": "2025-03-31T09:30:00Z",
+            "updated": "2024-04-25T12:16:55Z"
+        },
+        {
+            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-3",
+            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2024-25 - Quarter 3",
+            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "release_date": "2025-03-31T09:30:00Z",
+            "updated": "2024-04-05T15:54:02Z"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-february-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: February 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2025-03-31T09:30:00Z",
+            "updated": "2024-04-05T14:38:23Z"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-march-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 28 March 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 28 March 2025",
             "release_date": "2025-04-04T09:30:00Z",
             "updated": "2024-10-15T13:00:15Z"
+        },
+        {
+            "id": "ni-labour-market-statistics-april-2025",
+            "title": "NI Labour Market statistics: April 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-04-15T09:30:00Z",
+            "updated": "2024-08-29T10:24:05Z"
         },
         {
             "id": "emergency-care-waiting-time-statistics-january-march-2025",
@@ -1202,11 +1377,32 @@
             "updated": "2024-10-24T09:53:10Z"
         },
         {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202425",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 4 2024/25",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman.",
+            "release_date": "2025-04-24T09:30:00Z",
+            "updated": "2024-07-08T11:37:24Z"
+        },
+        {
             "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202324",
             "title": "Patient education / self management programmes for people with long term conditions 2023/24",
             "summary": "This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details…",
             "release_date": "2025-04-30T09:30:00Z",
             "updated": "2025-01-08T16:32:24Z"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-march-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: March 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2025-04-30T09:30:00Z",
+            "updated": "2024-04-05T15:18:27Z"
+        },
+        {
+            "id": "ni-labour-market-statistics-may-2025",
+            "title": "NI Labour Market statistics: May 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-05-13T09:30:00Z",
+            "updated": "2024-08-29T10:24:11Z"
         },
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-1-2025",
@@ -1223,6 +1419,27 @@
             "updated": "2025-01-06T08:42:01Z"
         },
         {
+            "id": "personal-independence-payment-statistics-february-2025",
+            "title": "Personal Independence Payment Statistics - February 2025",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2024-06-03T14:31:12Z"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-february-2025",
+            "title": "Northern Ireland Benefit Statistics Summary: February 2025",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2024-05-22T11:09:28Z"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-february-2025",
+            "title": "Northern Ireland Universal Credit Statistics: February 2025",
+            "summary": "Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2024-05-13T15:16:09Z"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-april-2025",
             "title": "Employment in the Northern Ireland Civil Service - 1 April 2025",
             "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector, as well as a comparison with the previous year.",
@@ -1230,11 +1447,25 @@
             "updated": "2024-11-07T10:08:46Z"
         },
         {
+            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2023-to-24-academic-year",
+            "title": "Qualifications and destinations of Northern Ireland school leavers: 2023 to 2024 (academic year)",
+            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2023 to 2024 (academic year).",
+            "release_date": "2025-05-31T09:30:00Z",
+            "updated": "2024-08-20T09:23:43Z"
+        },
+        {
             "id": "quarterly-employment-survey-march-2025",
             "title": "Quarterly Employment Survey: March 2025",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
             "release_date": "2025-06-10T09:30:00Z",
             "updated": "2024-10-03T10:03:44Z"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2025",
+            "title": "NI Labour Market statistics: June 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2025-06-10T09:30:00Z",
+            "updated": "2024-08-29T10:24:17Z"
         },
         {
             "id": "northern-ireland-index-of-services-quarter-1-2025",
@@ -1270,6 +1501,48 @@
             "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
             "release_date": "2025-06-30T09:30:00Z",
             "updated": "2024-09-10T11:24:32Z"
+        },
+        {
+            "id": "personnel-statistics-for-the-northern-ireland-civil-service-2025",
+            "title": "Personnel Statistics for the Northern Ireland Civil Service 2025",
+            "summary": "Information on staffing numbers in the Northern Ireland Civil Service 2024/25.",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-16T08:26:02Z"
+        },
+        {
+            "id": "annual-statistical-bulletin-the-office-of-the-police-ombudsman-for-northern-ireland-202425",
+            "title": "Annual Statistical Bulletin:  The Office of the Police Ombudsman for Northern Ireland, 2024/25",
+            "summary": "This Statistical Bulletin presents information on Complaints and allegations received by the Office of the Police Ombudsman for Northern Ireland in 2024/25, including trend information for the past 5 years.",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-08T13:52:10Z"
+        },
+        {
+            "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202425",
+            "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2024/25",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-08T12:41:24Z"
+        },
+        {
+            "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202425",
+            "title": "Equality Monitoring Report:  Survey of Complainants to the Police Ombudsman for Northern Ireland, 2024/25",
+            "summary": "The Police Ombudsman&#39;s office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-08T12:37:50Z"
+        },
+        {
+            "id": "annual-report-on-police-officer-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202425",
+            "title": "Annual Report on Police Officer Satisfaction with services provided by the Police Ombudsman's Office, 2024/25",
+            "summary": "This report presents the findings from the Police Officer Satisfaction Survey.",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-08T12:16:52Z"
+        },
+        {
+            "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2024",
+            "title": "Annual Report on Public Awareness of the Police Complaints system in Northern Ireland, 2024",
+            "summary": "This statistical report presents the findings from the Police Ombudsman&#39;s module in the Northern Ireland Life and Times (NILT) Survey, 2024",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2024-07-08T11:50:43Z"
         },
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202425",
