@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-14T14:10:08Z",
+    "modified": "2025-01-14T16:58:28Z",
     "entries": [
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
@@ -1034,6 +1034,13 @@
             "updated": "2024-10-15T12:15:43Z"
         },
         {
+            "id": "employment-in-the-northern-ireland-civil-service-1st-january-2025",
+            "title": "Employment in the Northern Ireland Civil Service - 1 January 2025",
+            "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-14T15:19:08Z"
+        },
+        {
             "id": "road-safety-issues-in-northern-ireland-202324",
             "title": "Road Safety issues in Northern Ireland 2023/24",
             "summary": "This report presents information from the 2023/24 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselv…",
@@ -1193,13 +1200,6 @@
             "summary": "This report presents inequality gaps for life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland along with a life table decomposition to show the extent to which mortality within ce…",
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2024-11-19T10:54:34Z"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1st-january-2025",
-            "title": "Employment in the Northern Ireland Civil Service - 1 January 2025",
-            "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-11-07T10:09:10Z"
         },
         {
             "id": "finalised-suicide-statistics-in-northern-ireland-2023",
