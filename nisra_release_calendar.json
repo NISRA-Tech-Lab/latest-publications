@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-15T09:39:08Z",
+    "modified": "2025-01-15T17:38:49Z",
     "entries": [
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
@@ -826,9 +826,9 @@
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025. The release for week ending Friday 10 January will also include a provisional, weekly total for the number of flu-related and pneumonia-related deaths regi…",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025. We had previously indicated that the release on Friday 17 January would include a new total for deaths related to flu or pneumonia. This new statistic has …",
             "release_date": "2025-01-17T09:30:00Z",
-            "updated": "2025-01-13T14:56:11Z"
+            "updated": "2025-01-15T14:12:20Z"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2024",
@@ -971,13 +971,6 @@
             "updated": "2024-12-16T14:09:17Z"
         },
         {
-            "id": "northern-ireland-care-leavers-202324",
-            "title": "Northern Ireland Care Leavers 2023/24",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2024-12-12T11:13:54Z"
-        },
-        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2024",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2024",
             "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
@@ -1039,6 +1032,13 @@
             "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
             "release_date": "2025-02-11T09:30:00Z",
             "updated": "2025-01-14T15:19:08Z"
+        },
+        {
+            "id": "essential-skills-enrolments-and-outcomes-in-northern-ireland-further-education-colleges-201920-to-202324",
+            "title": "Essential Skills Enrolments and Outcomes in Northern Ireland Further Education Colleges: 2019/20 to 2023/24",
+            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme in NI FE Colleges, from 2019/20 to 2023/24",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-01-15T14:23:04Z"
         },
         {
             "id": "road-safety-issues-in-northern-ireland-202324",
@@ -1158,6 +1158,13 @@
             "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2024-10-30T13:38:50Z"
+        },
+        {
+            "id": "northern-ireland-care-leavers-202324",
+            "title": "Northern Ireland Care Leavers 2023/24",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-15T16:47:49Z"
         },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
