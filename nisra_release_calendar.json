@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-14T17:39:00Z",
+    "modified": "2025-01-15T09:39:08Z",
     "entries": [
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
@@ -1496,6 +1496,13 @@
             "updated": "2024-10-03T10:16:22Z"
         },
         {
+            "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202425",
+            "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2024/25",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2025-01-15T07:19:57Z"
+        },
+        {
             "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
             "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
             "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
@@ -1515,13 +1522,6 @@
             "summary": "This Statistical Bulletin presents information on Complaints and allegations received by the Office of the Police Ombudsman for Northern Ireland in 2024/25, including trend information for the past 5 years.",
             "release_date": "2025-06-30T09:30:00Z",
             "updated": "2024-07-08T13:52:10Z"
-        },
-        {
-            "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202425",
-            "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2024/25",
-            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
-            "release_date": "2025-06-30T09:30:00Z",
-            "updated": "2024-07-08T12:41:24Z"
         },
         {
             "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202425",
