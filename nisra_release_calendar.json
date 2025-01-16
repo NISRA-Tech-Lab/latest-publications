@@ -1,7 +1,31 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-15T17:38:49Z",
+    "modified": "2025-01-16T09:39:02Z",
     "entries": [
+        {
+            "id": "census-2021-public-microdata-teaching-sample-for-northern-ireland",
+            "title": "Census 2021 public microdata teaching sample for Northern Ireland",
+            "summary": "A 1% sample of individual records from Census 2021 with no identifying information and available to all for teaching of statistics and social sciences.",
+            "url": "https://www.nisra.gov.uk/publications/census-2021-public-microdata-teaching-sample-for-northern-ireland",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2024",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2024",
+            "summary": "NICEI is an experimental quarterly measure of the performance of the Northern Ireland (NI) economy based on available official statistics.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/ni-composite-economic-index",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1st-july-to-30th-september-2024",
+            "title": "Northern Ireland Construction Bulletin: 1st July to 30th September 2024",
+            "summary": "This release provides a measure of the value of construction output in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/construction-output-statistics",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
             "title": "Monthly Civil Partnerships (Northern Ireland): December 2024",
@@ -777,51 +801,6 @@
             "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
             "release_date": "2024-11-20T09:30:00Z",
             "updated": "2024-11-20T09:30:06Z"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-september-2024",
-            "title": "Northern Ireland HSC Vacancies September 2024",
-            "summary": "A quarterly publication of HSC vacancies",
-            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
-            "release_date": "2024-11-20T09:30:00Z",
-            "updated": "2024-11-20T09:30:06Z"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-september-2024",
-            "title": "Northern Ireland HSC Workforce Statistics September 2024",
-            "summary": "A quarterly summary of HSC staff",
-            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
-            "release_date": "2024-11-20T09:30:00Z",
-            "updated": "2024-11-20T09:30:06Z"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2024",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2024",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2024",
-            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
-            "release_date": "2024-11-20T09:30:00Z",
-            "updated": "2024-11-20T09:30:06Z"
-        },
-        {
-            "id": "census-2021-public-microdata-teaching-sample-for-northern-ireland",
-            "title": "Census 2021 public microdata teaching sample for Northern Ireland",
-            "summary": "A 1% sample of individual records from Census 2021 with no identifying information and available to all for teaching of statistics and social sciences.",
-            "release_date": "2025-01-16T09:30:00Z",
-            "updated": "2024-12-19T08:54:45Z"
-        },
-        {
-            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2024",
-            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2024",
-            "summary": "NICEI is an experimental quarterly measure of the performance of the Northern Ireland (NI) economy based on available official statistics.",
-            "release_date": "2025-01-16T09:30:00Z",
-            "updated": "2024-07-25T09:41:35Z"
-        },
-        {
-            "id": "northern-ireland-construction-bulletin-1st-july-to-30th-september-2024",
-            "title": "Northern Ireland Construction Bulletin: 1st July to 30th September 2024",
-            "summary": "This release provides a measure of the value of construction output in Northern Ireland.",
-            "release_date": "2025-01-16T09:30:00Z",
-            "updated": "2024-07-25T08:13:43Z"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
