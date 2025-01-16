@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-16T09:39:02Z",
+    "modified": "2025-01-16T17:38:45Z",
     "entries": [
         {
             "id": "census-2021-public-microdata-teaching-sample-for-northern-ireland",
@@ -1006,6 +1006,41 @@
             "updated": "2024-10-15T12:15:43Z"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-january-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): January 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): January 2025",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-16T15:05:39Z"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-january-2025",
+            "title": "Monthly Marriages (Northern Ireland): January 2025",
+            "summary": "Monthly Marriages (Northern Ireland): January 2025",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-16T15:02:25Z"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-january-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): January 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): January 2025",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-16T14:57:05Z"
+        },
+        {
+            "id": "monthly-births-northern-ireland-january-2025",
+            "title": "Monthly Births (Northern Ireland): January 2025",
+            "summary": "Monthly Births (Northern Ireland): January 2025",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-16T14:53:09Z"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-january-2025",
+            "title": "Monthly Deaths (Northern Ireland): January 2025",
+            "summary": "Monthly Deaths (Northern Ireland): January 2025",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-01-16T14:40:26Z"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-january-2025",
             "title": "Employment in the Northern Ireland Civil Service - 1 January 2025",
             "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
@@ -1046,6 +1081,13 @@
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-02-18T09:30:00Z",
             "updated": "2024-08-29T10:23:54Z"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-december-2024",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 31 December 2024",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "release_date": "2025-02-19T09:30:00Z",
+            "updated": "2025-01-16T12:08:14Z"
         },
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-4-2024",
@@ -1244,6 +1286,41 @@
             "updated": "2024-10-15T12:35:53Z"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-february-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-01-16T15:21:32Z"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-february-2025",
+            "title": "Monthly Marriages (Northern Ireland): February 2025",
+            "summary": "Monthly Marriages (Northern Ireland): February 2025",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-01-16T15:19:34Z"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-february-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-01-16T15:16:18Z"
+        },
+        {
+            "id": "monthly-births-northern-ireland-february-2025",
+            "title": "Monthly Births (Northern Ireland): February 2025",
+            "summary": "Monthly Births (Northern Ireland): February 2025",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-01-16T15:14:21Z"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-february-2025",
+            "title": "Monthly Deaths (Northern Ireland): February 2025",
+            "summary": "Monthly Deaths (Northern Ireland): February 2025",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-01-16T15:12:24Z"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-march-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 7 March 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 7 March 2025",
@@ -1349,6 +1426,41 @@
             "updated": "2024-10-15T13:00:15Z"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-march-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): March 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): March 2025",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-01-16T16:05:28Z"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-march-2025",
+            "title": "Monthly Marriages (Northern Ireland): March 2025",
+            "summary": "Monthly Marriages (Northern Ireland): March 2025",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-01-16T16:03:49Z"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-march-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): March 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): March 2025",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-01-16T15:34:47Z"
+        },
+        {
+            "id": "monthly-births-northern-ireland-march-2025",
+            "title": "Monthly Births (Northern Ireland): March 2025",
+            "summary": "Monthly Births (Northern Ireland): March 2025",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-01-16T15:32:36Z"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-march-2025",
+            "title": "Monthly Deaths (Northern Ireland): March 2025",
+            "summary": "Monthly Deaths (Northern Ireland): March 2025",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-01-16T15:29:14Z"
+        },
+        {
             "id": "ni-labour-market-statistics-april-2025",
             "title": "NI Labour Market statistics: April 2025",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -1382,6 +1494,41 @@
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-04-30T09:30:00Z",
             "updated": "2024-04-05T15:18:27Z"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-april-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): April 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): April 2025",
+            "release_date": "2025-05-12T09:30:00Z",
+            "updated": "2025-01-16T16:21:09Z"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-april-2025",
+            "title": "Monthly Marriages (Northern Ireland): April 2025",
+            "summary": "Monthly Marriages (Northern Ireland): April 2025",
+            "release_date": "2025-05-12T09:30:00Z",
+            "updated": "2025-01-16T16:17:59Z"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-april-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): April 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2025",
+            "release_date": "2025-05-12T09:30:00Z",
+            "updated": "2025-01-16T16:15:44Z"
+        },
+        {
+            "id": "monthly-births-northern-ireland-april-2025",
+            "title": "Monthly Births (Northern Ireland): April 2025",
+            "summary": "Monthly Births (Northern Ireland): April 2025",
+            "release_date": "2025-05-12T09:30:00Z",
+            "updated": "2025-01-16T16:13:46Z"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-april-2025",
+            "title": "Monthly Deaths (Northern Ireland): April 2025",
+            "summary": "Monthly Deaths (Northern Ireland): April 2025",
+            "release_date": "2025-05-12T09:30:00Z",
+            "updated": "2025-01-16T16:12:04Z"
         },
         {
             "id": "ni-labour-market-statistics-may-2025",
