@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-17T09:42:53Z",
+    "modified": "2025-01-17T17:40:39Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
@@ -1167,6 +1167,20 @@
             "updated": "2024-10-30T13:38:50Z"
         },
         {
+            "id": "divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
+            "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-17T11:51:18Z"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-17T11:50:01Z"
+        },
+        {
             "id": "northern-ireland-care-leavers-202324",
             "title": "Northern Ireland Care Leavers 2023/24",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
@@ -1193,13 +1207,6 @@
             "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-09T15:46:56Z"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-09T08:40:53Z"
         },
         {
             "id": "quarterly-autism-statistics-for-ni-october-december-2024",
