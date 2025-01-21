@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-21T09:39:46Z",
+    "modified": "2025-01-21T17:39:57Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-january-2025",
@@ -1118,6 +1118,13 @@
             "updated": "2024-10-24T09:50:15Z"
         },
         {
+            "id": "probation-board-ni-quarterly-caseload-quarter-3-202425",
+            "title": "Probation Board NI quarterly caseload, quarter 3, 2024/25",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2024.",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2025-01-21T10:29:31Z"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-november-2024",
             "title": "Northern Ireland Universal Credit Statistics: November 2024",
             "summary": "Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
@@ -1172,6 +1179,13 @@
             "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2024-10-30T13:38:50Z"
+        },
+        {
+            "id": "key-rural-issues-2024",
+            "title": "Key Rural Issues 2024",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-21T13:58:25Z"
         },
         {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
@@ -1368,6 +1382,13 @@
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 March 2025",
             "release_date": "2025-03-21T09:30:00Z",
             "updated": "2024-10-15T12:48:53Z"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-october-to-december-2024",
+            "title": "Working and workless households in Northern Ireland: October to December 2024",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2025-01-21T10:34:54Z"
         },
         {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-4-2024",
@@ -1657,6 +1678,13 @@
             "updated": "2024-10-04T15:43:59Z"
         },
         {
+            "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
+            "title": "Working and workless households in Northern Ireland: January to March 2025",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2025-06-19T09:30:00Z",
+            "updated": "2025-01-21T10:35:00Z"
+        },
+        {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-1-2025",
             "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 1 2025",
             "summary": "Quarterly Index of the Northern Ireland economy.",
@@ -1825,6 +1853,13 @@
             "updated": "2024-10-04T15:46:58Z"
         },
         {
+            "id": "working-and-workless-households-in-northern-ireland-april-to-june-2025",
+            "title": "Working and workless households in Northern Ireland: April to June 2025",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "updated": "2025-01-21T10:35:07Z"
+        },
+        {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2025",
             "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 2 2025",
             "summary": "Quarterly Index of the Northern Ireland economy.",
@@ -1914,6 +1949,13 @@
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-12-16T09:30:00Z",
             "updated": "2024-08-29T10:50:26Z"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-july-to-september-2025",
+            "title": "Working and workless households in Northern Ireland: July to September 2025",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "updated": "2025-01-21T10:35:12Z"
         },
         {
             "id": "northern-ireland-index-of-services-quarter-3-2025",
