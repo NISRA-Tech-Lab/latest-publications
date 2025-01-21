@@ -1,7 +1,15 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-20T17:38:13Z",
+    "modified": "2025-01-21T09:39:46Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-january-2025",
+            "title": "NI Labour Market statistics: January 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-01-21T09:30:00Z",
+            "updated": "2025-01-21T07:00:00Z"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
@@ -795,21 +803,6 @@
             "updated": "2024-11-21T09:30:05Z"
         },
         {
-            "id": "youth-engagement-statistics-for-northern-ireland-2023-to-2024",
-            "title": "Youth Engagement Statistics for Northern Ireland 2023 to 2024",
-            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2023 to 31 March 2024, includin…",
-            "url": "https://www.justice-ni.gov.uk/topics/youth-justice-statistics",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T00:00:00Z"
-        },
-        {
-            "id": "ni-labour-market-statistics-january-2025",
-            "title": "NI Labour Market statistics: January 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-01-21T09:30:00Z",
-            "updated": "2024-08-29T10:23:47Z"
-        },
-        {
             "id": "christmas-drinkdrug-drive-campaign-to-202425",
             "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
             "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2024/25, which ran from 1st December 2024 to 1st January 2025 inclusive, specifically the outcomes in terms …",
@@ -1144,6 +1137,13 @@
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
             "release_date": "2025-02-26T09:30:00Z",
             "updated": "2024-02-29T08:33:16Z"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-october-december-2024",
+            "title": "Northern Ireland Housing Bulletin October - December 2024",
+            "summary": "A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-01-21T08:56:37Z"
         },
         {
             "id": "northern-ireland-tourism-statistics-quarter-3-2024",
