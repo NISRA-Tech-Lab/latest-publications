@@ -1,7 +1,55 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-13T14:31:51Z",
+    "modified": "2025-01-22T11:46:52Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-january-2025",
+            "title": "NI Labour Market statistics: January 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-01-21T09:30:00Z",
+            "updated": "2025-01-21T07:00:00Z"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 10 January 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-01-17T09:30:00Z",
+            "updated": "2025-01-17T09:30:06Z"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-december-2024",
+            "title": "DVA Monthly Tests Conducted Statistics: December 2024",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-december-2024",
+            "release_date": "2025-01-17T09:30:00Z",
+            "updated": "2025-01-17T09:30:06Z"
+        },
+        {
+            "id": "census-2021-public-microdata-teaching-sample-for-northern-ireland",
+            "title": "Census 2021 public microdata teaching sample for Northern Ireland",
+            "summary": "A 1% sample of individual records from Census 2021 with no identifying information and available to all for teaching of statistics and social sciences.",
+            "url": "https://www.nisra.gov.uk/publications/census-2021-public-microdata-teaching-sample-for-northern-ireland",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2024",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2024",
+            "summary": "NICEI is an experimental quarterly measure of the performance of the Northern Ireland (NI) economy based on available official statistics.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/ni-composite-economic-index",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1st-july-to-30th-september-2024",
+            "title": "Northern Ireland Construction Bulletin: 1st July to 30th September 2024",
+            "summary": "This release provides a measure of the value of construction output in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/construction-output-statistics",
+            "release_date": "2025-01-16T09:30:00Z",
+            "updated": "2025-01-16T09:30:03Z"
+        },
         {
             "id": "monthly-civil-partnerships-northern-ireland-december-2024",
             "title": "Monthly Civil Partnerships (Northern Ireland): December 2024",
