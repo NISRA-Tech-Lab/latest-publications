@@ -1,7 +1,23 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-22T17:39:40Z",
+    "modified": "2025-01-23T09:41:21Z",
     "entries": [
+        {
+            "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2025",
+            "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
+            "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2024/25, which ran from 1st December 2024 to 1st January 2025 inclusive, specifically the outcomes in terms …",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2025-01-23T09:30:00Z",
+            "updated": "2025-01-23T09:30:02Z"
+        },
+        {
+            "id": "police-ombudsman-for-northern-ireland-quarterly-report-q3-2425",
+            "title": "Police Ombudsman for Northern Ireland Quarterly report, Q3 24/25",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman.  Quarter 3 2024/25.",
+            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
+            "release_date": "2025-01-23T09:30:00Z",
+            "updated": "2025-01-23T09:30:01Z"
+        },
         {
             "id": "ni-labour-market-statistics-january-2025",
             "title": "NI Labour Market statistics: January 2025",
@@ -785,36 +801,6 @@
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-annual-report",
             "release_date": "2024-11-21T09:30:00Z",
             "updated": "2024-11-21T09:30:05Z"
-        },
-        {
-            "id": "walking-and-cycling-in-northern-ireland-202324",
-            "title": "Walking and Cycling in Northern Ireland 2023/24",
-            "summary": "This report presents findings from the 2023/24 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/walking-and-cycling-0",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T09:30:05Z"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-july-september-2024",
-            "title": "Northern Ireland Housing Bulletin July - September 2024",
-            "summary": "A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "url": "https://www.communities-ni.gov.uk/topics/housing-statistics",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T09:30:05Z"
-        },
-        {
-            "id": "christmas-drinkdrug-drive-campaign-to-202425",
-            "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
-            "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2024/25, which ran from 1st December 2024 to 1st January 2025 inclusive, specifically the outcomes in terms …",
-            "release_date": "2025-01-23T09:30:00Z",
-            "updated": "2024-12-18T10:14:42Z"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202324",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2024/25",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman.",
-            "release_date": "2025-01-23T09:30:00Z",
-            "updated": "2024-07-08T11:35:14Z"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
