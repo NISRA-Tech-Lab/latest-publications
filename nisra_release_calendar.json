@@ -1,7 +1,15 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-23T17:40:37Z",
+    "modified": "2025-01-24T09:39:03Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 17 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 17 January 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-01-24T09:30:00Z",
+            "updated": "2025-01-24T09:30:01Z"
+        },
         {
             "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2025",
             "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
@@ -793,21 +801,6 @@
             "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-november-2024",
             "release_date": "2024-11-21T09:30:00Z",
             "updated": "2024-11-21T09:30:06Z"
-        },
-        {
-            "id": "registrar-general-northern-ireland-annual-report-2023",
-            "title": "Registrar General Northern Ireland Annual Report 2023",
-            "summary": "The Annual Report of the Registrar General 2023 will be published in November 2024 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
-            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-annual-report",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T09:30:05Z"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 17 January 2025",
-            "release_date": "2025-01-24T09:30:00Z",
-            "updated": "2024-10-15T12:03:05Z"
         },
         {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-31-january-2025",
