@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-27T09:39:48Z",
+    "modified": "2025-01-27T17:40:26Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
@@ -1130,6 +1130,13 @@
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
             "release_date": "2025-02-26T09:30:00Z",
             "updated": "2024-02-29T08:33:16Z"
+        },
+        {
+            "id": "public-transport-and-journey-planning-in-northern-ireland-20232024",
+            "title": "Public Transport and Journey Planning in Northern Ireland 2023/24",
+            "summary": "This report presents findings from the 2023/24 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-01-27T14:47:18Z"
         },
         {
             "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
