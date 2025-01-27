@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-24T17:38:50Z",
+    "modified": "2025-01-27T09:39:48Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
@@ -908,13 +908,6 @@
             "updated": "2025-01-08T10:52:28Z"
         },
         {
-            "id": "public-awareness-of-and-confidence-trust-in-official-statistics-northern-ireland-2023",
-            "title": "Public Awareness of and Confidence (Trust) in Official Statistics, Northern Ireland 2023",
-            "summary": "This report presents findings from the Northern Ireland Continuous Household Survey on public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2024-12-16T14:09:17Z"
-        },
-        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2024",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2024",
             "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
@@ -1137,6 +1130,20 @@
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
             "release_date": "2025-02-26T09:30:00Z",
             "updated": "2024-02-29T08:33:16Z"
+        },
+        {
+            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
+            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
+            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2024-25 academic year.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-01-27T09:33:29Z"
+        },
+        {
+            "id": "public-awareness-of-and-confidence-trust-in-official-statistics-northern-ireland-2023",
+            "title": "Public Awareness of and Confidence (Trust) in Official Statistics, Northern Ireland 2023",
+            "summary": "This report presents findings from the Northern Ireland Continuous Household Survey on public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-01-25T11:54:59Z"
         },
         {
             "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2024",
