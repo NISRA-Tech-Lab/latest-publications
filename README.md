@@ -15,6 +15,10 @@ This project contains scripts to scrape, process, and generate a JSON file (`nis
    - Orchestrates the execution of the above scripts.
    - Combines data into a JSON file (`nisra_release_calendar.json`).
    - **Instruction**: Open and run `create_json.R` to generate or update the JSON file.
+  
+4. __`historic_pubs_from_gov_uk.R`__
+   - Same process as __`latest_NISRA_pubs_from_gov_uk.R`__ - it scrapes details of _all_ publications in the RSS feed
+   - To be run as a one off to create initial feed
 
 ## **Automation with GitHub Actions**
 This project includes a GitHub Actions workflow file named `update.yml`. The workflow:
