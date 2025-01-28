@@ -1,7 +1,15 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-28T09:18:48Z",
+    "modified": "2025-01-28T09:39:49Z",
     "entries": [
+        {
+            "id": "national-population-projections-for-northern-ireland-2022-based",
+            "title": "National population projections for Northern Ireland: 2022-based",
+            "summary": "The potential future population size of Northern Ireland. These statistics are widely used in planning, for example, fiscal projections, health and education.",
+            "url": "https://www.nisra.gov.uk/publications/2022-based-population-projections-northern-ireland",
+            "release_date": "2025-01-28T09:30:00Z",
+            "updated": "2025-01-28T09:30:02Z"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 17 January 2025",
@@ -793,21 +801,6 @@
             "url": "https://www.gov.uk/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-september-2024",
             "release_date": "2024-11-21T09:30:00Z",
             "updated": "2024-11-21T09:30:10Z"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2024",
-            "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2024",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-november-2024",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T09:30:06Z"
-        },
-        {
-            "id": "national-population-projections-for-northern-ireland-2022-based",
-            "title": "National population projections for Northern Ireland: 2022-based",
-            "summary": "The potential future population size of Northern Ireland. These statistics are widely used in planning, for example, fiscal projections, health and education.",
-            "release_date": "2025-01-28T09:30:00Z",
-            "updated": "2024-12-02T11:41:32Z"
         },
         {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
