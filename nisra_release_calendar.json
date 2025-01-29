@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-29T09:38:58Z",
+    "modified": "2025-01-29T17:39:41Z",
     "entries": [
         {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
@@ -803,6 +803,20 @@
             "updated": "2024-11-22T09:30:01Z"
         },
         {
+            "id": "northern-ireland-local-authority-collected-municipal-waste-management-statistics-report-jul-sep-2024",
+            "title": "Northern Ireland local authority collected municipal waste management statistics report - Jul-Sep 2024",
+            "summary": "This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland.",
+            "release_date": "2025-01-30T09:30:00Z",
+            "updated": "2025-01-29T14:10:46Z"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-3-202425",
+            "title": "General Dental Services Statistics for NI, Quarter 3 2024/25",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2024/25.",
+            "release_date": "2025-01-30T09:30:00Z",
+            "updated": "2025-01-29T10:10:25Z"
+        },
+        {
             "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202324",
             "title": "Attendance at grant aided primary, post primary and special schools 2023/24",
             "summary": "The purpose of this statistical bulletin is to present final attendance figures for schools for the 2023/24 academic year. It includes information on the rates of absence, type of absence and reason for absence.",
@@ -850,20 +864,6 @@
             "summary": "Presents information on abortions recorded in Northern Ireland.",
             "release_date": "2025-01-30T09:30:00Z",
             "updated": "2024-11-26T12:24:01Z"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-3-202425",
-            "title": "General Dental Services Statistics for NI, Quarter 3 2024/25",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2024/25.",
-            "release_date": "2025-01-30T09:30:00Z",
-            "updated": "2024-10-30T13:33:19Z"
-        },
-        {
-            "id": "northern-ireland-local-authority-collected-municipal-waste-management-statistics-report-jul-sep-2024",
-            "title": "Northern Ireland local authority collected municipal waste management statistics report - Jul-Sep 2024",
-            "summary": "This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland.",
-            "release_date": "2025-01-30T09:30:00Z",
-            "updated": "2024-02-12T13:59:14Z"
         },
         {
             "id": "apprenticeshipsni-statistical-bulletin-oct-17-to-oct-24",
@@ -1195,6 +1195,13 @@
             "updated": "2024-10-30T13:38:50Z"
         },
         {
+            "id": "northern-ireland-care-leavers-202324",
+            "title": "Northern Ireland Care Leavers 2023/24",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-01-29T16:22:06Z"
+        },
+        {
             "id": "key-rural-issues-2024",
             "title": "Key Rural Issues 2024",
             "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
@@ -1221,13 +1228,6 @@
             "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-17T11:50:01Z"
-        },
-        {
-            "id": "northern-ireland-care-leavers-202324",
-            "title": "Northern Ireland Care Leavers 2023/24",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-15T16:47:49Z"
         },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
