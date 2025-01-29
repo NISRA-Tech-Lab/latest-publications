@@ -1,7 +1,23 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-28T17:38:37Z",
+    "modified": "2025-01-29T09:38:58Z",
     "entries": [
+        {
+            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
+            "title": "Statistics on community care for adults in Northern Ireland 2023/24",
+            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursi…",
+            "url": "https://www.health-ni.gov.uk/topics/doh-statistics-and-research/care-not-home-statistics",
+            "release_date": "2025-01-29T09:30:00Z",
+            "updated": "2025-01-29T09:30:06Z"
+        },
+        {
+            "id": "digital-skills-in-northern-ireland-202324",
+            "title": "Digital Skills in Northern Ireland 2023/24",
+            "summary": "This paper examines the level of digital skills of people aged 16 and over in Northern Ireland, as sourced from the Continuous Household Survey (CHS). ",
+            "url": "https://www.nisra.gov.uk/statistics/people-places-and-culture/digital-skills",
+            "release_date": "2025-01-29T09:30:00Z",
+            "updated": "2025-01-29T09:30:06Z"
+        },
         {
             "id": "national-population-projections-for-northern-ireland-2022-based",
             "title": "National population projections for Northern Ireland: 2022-based",
@@ -785,36 +801,6 @@
             "url": "https://www.nisra.gov.uk/publications/historical-weekly-deaths-data",
             "release_date": "2024-11-22T09:30:00Z",
             "updated": "2024-11-22T09:30:01Z"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-15-november-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 15 November 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 15 November 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2024-11-22T09:30:00Z",
-            "updated": "2024-11-22T09:30:01Z"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2024",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2024",
-            "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
-            "url": "https://www.gov.uk/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-september-2024",
-            "release_date": "2024-11-21T09:30:00Z",
-            "updated": "2024-11-21T09:30:10Z"
-        },
-        {
-            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
-            "title": "Statistics on community care for adults in Northern Ireland 2023/24",
-            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursi…",
-            "release_date": "2025-01-29T09:30:00Z",
-            "updated": "2025-01-23T13:41:18Z"
-        },
-        {
-            "id": "digital-skills-in-northern-ireland-202324",
-            "title": "Digital Skills in Northern Ireland 2023/24",
-            "summary": "This paper examines the level of digital skills of people aged 16 and over in Northern Ireland, as sourced from the Continuous Household Survey (CHS).",
-            "release_date": "2025-01-29T09:30:00Z",
-            "updated": "2025-01-06T15:49:20Z"
         },
         {
             "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202324",
