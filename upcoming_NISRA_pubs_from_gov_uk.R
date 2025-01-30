@@ -91,6 +91,20 @@ while (has_pubs == TRUE) {
     
     id <- sub(".*/", "", html_text(html_nodes(publications[j], "id")))
     
+    # Loop through span tags to find specific metadata for release type
+    span_tags <- html_nodes(gov_uk_page, "span")
+    
+    for (k in 1:length(span_tags)) {
+      
+      # Get the class attribute of the <span> tag
+      class <- html_attr(span_tags[k], "class")
+      
+      if (class == "govuk-caption-xl gem-c-title__context" & !is.na(class)) {
+        release_type <- trimws(html_text(span_tags[k]))
+        break # Exit the loop once a valid class is found
+      }
+    }
+    
     # Append the extracted title and metadata to the pub_info data frame
     if (length(meta_data > 0)) {
       pub_info <- pub_info %>%
@@ -99,6 +113,7 @@ while (has_pubs == TRUE) {
                              meta_data = trimws(meta_data),
                              updated = updated,
                              summary = trimws(html_text(html_nodes(publications[j], "summary"))),
+                             release_type = release_type,
                              stringsAsFactors = FALSE)) # Avoid factors in data frame
     }
   }
@@ -145,6 +160,8 @@ for (i in 1:nrow(pub_info)) {
          title = pub_info$pub_title[i],
          summary = pub_info$summary[i],
          release_date = pub_info$release_date[i],
-         updated = pub_info$updated[i])
+         updated = pub_info$updated[i],
+         release_type = pub_info$release_type[i],
+         status = pub_info$status[i])
   
 }

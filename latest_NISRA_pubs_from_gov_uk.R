@@ -102,6 +102,20 @@ for (i in 1:5) {
       }
     }
     
+    # Loop through span tags to find specific metadata for release type
+    span_tags <- html_nodes(gov_uk_page, "span")
+    
+    for (k in 1:length(span_tags)) {
+      
+      # Get the class attribute of the <span> tag
+      class <- html_attr(span_tags[k], "class")
+      
+      if (class == "govuk-caption-xl gem-c-title__context" & !is.na(class)) {
+        release_type <- trimws(html_text(span_tags[k]))
+        break # Exit the loop once a valid class is found
+      }
+    }
+    
     # Extract the updated date from the publication entry
     updated <- html_text(html_nodes(publications[j], "updated")) %>% 
       sub("\\+00:00", "Z", .)
@@ -115,7 +129,8 @@ for (i in 1:5) {
            summary = html_text(html_nodes(publications[j], "summary")),
            url = pub_link,
            release_date = release_date,
-           updated = updated)
+           updated = updated,
+           release_type = release_type)
     
   }
 }

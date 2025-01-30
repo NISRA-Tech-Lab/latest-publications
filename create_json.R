@@ -43,7 +43,6 @@ output_list <- list(name = "nisra release calendar",
                     modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
                     entries = c())
 
-
 source("latest_NISRA_pubs_from_gov_uk.R")
 source("upcoming_NISRA_pubs_from_gov_uk.R")
 
