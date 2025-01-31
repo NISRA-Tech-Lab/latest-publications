@@ -1,7 +1,43 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-30T17:38:59Z",
+    "modified": "2025-01-31T09:38:47Z",
     "entries": [
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-aug-18-to-oct-24",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Aug 18 to Oct 24",
+            "summary": "This covers information on the ApprenticeshipsNI programme in Northern Ireland including the number of starts, leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/publications/apprenticeshipsni-statistics-august-2018-october-2024",
+            "release_date": "2025-01-31T09:30:00Z",
+            "updated": "2025-01-31T09:30:09Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "higher-level-apprenticeships-in-further-education-202324",
+            "title": "Higher Level Apprenticeships in Further Education 2023/24",
+            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Further Education colleges and Cafre.",
+            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-fe-colleges-and-cafre-bulletins",
+            "release_date": "2025-01-31T09:30:00Z",
+            "updated": "2025-01-31T09:30:09Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-24-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-01-31T09:30:00Z",
+            "updated": "2025-01-31T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2024",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2024",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-01-31T09:30:00Z",
+            "updated": "2025-01-31T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-3-202425",
             "title": "General Dental Services Statistics for NI, Quarter 3 2024/25",
@@ -865,87 +901,6 @@
             "release_date": "2024-11-28T09:30:00Z",
             "updated": "2024-11-28T09:30:05Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2024",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2024",
-            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "pedestrian-ksi-casualties-in-northern-ireland-2019-2023",
-            "title": "Pedestrian KSI casualties in Northern Ireland 2019-2023",
-            "summary": "This statistical brief reviews PSNI road traffic collision data from 2019 to 2023 to identify any emerging issues regarding the number of pedestrians killed or seriously injured in Northern Ireland",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/statistics-and-research/road-safety",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:04Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "ni-local-authority-collected-waste-management-statistics-202324",
-            "title": "NI local authority collected waste management statistics 2023/24",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics annual report 2023/24",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-road-network-and-condition-statistics-2023-24",
-            "title": "Northern Ireland Road Network and Condition Statistics 2023-24",
-            "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure. ",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/statistics-and-research/road-network-and-condition",
-            "release_date": "2024-11-27T09:30:00Z",
-            "updated": "2024-11-27T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202324",
-            "title": "Attendance at grant aided primary, post primary and special schools 2023/24",
-            "summary": "The purpose of this statistical bulletin is to present final attendance figures for schools for the 2023/24 academic year. It includes information on the rates of absence, type of absence and reason for absence.",
-            "release_date": "2025-01-30T09:30:00Z",
-            "updated": "2024-12-19T14:03:40Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "higher-level-apprenticeships-in-further-education-academic-year-202324",
-            "title": "Higher Level Apprenticeships in Further Education, academic year 2023/24",
-            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Further Education colleges and Cafre, including the number of starts, occupancy and qualifications achieved.",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2025-01-30T10:25:48Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "apprenticeshipsni-statistical-bulletin-oct-17-to-oct-24",
-            "title": "ApprenticeshipsNI Statistical Bulletin - Aug 18 to Oct 24",
-            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in Northern Ireland including the number of starts and leavers, occupancy and qualifications achieved.",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2025-01-30T10:09:55Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2024",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2024",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2024-12-09T11:36:14Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-24-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 24 January 2025",
-            "release_date": "2025-01-31T09:30:00Z",
-            "updated": "2024-10-15T12:11:55Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202425-financial-year",
