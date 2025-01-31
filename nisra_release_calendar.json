@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-01-31T09:38:47Z",
+    "modified": "2025-01-31T17:38:25Z",
     "entries": [
         {
             "id": "apprenticeshipsni-statistical-bulletin-aug-18-to-oct-24",
@@ -903,6 +903,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2023",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023",
+            "release_date": "2025-02-05T09:30:00Z",
+            "updated": "2025-01-31T16:19:42Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202425-financial-year",
             "title": "Employment vacancies notified to DfC, Quarter three 2024/25 financial year",
             "summary": "Quarterly data showing listings of employment vacancies notified to Department for communities.",
@@ -916,9 +925,18 @@
             "title": "Business Demography Northern Ireland, 2023",
             "summary": "This release looks at the births, deaths, and survivals of Northern Ireland businesses, as a region within the UK, and at a local level. The Northern Ireland specific data are disaggregated by industry and geography.",
             "release_date": "2025-02-06T09:30:00Z",
-            "updated": "2025-01-09T11:17:19Z",
+            "updated": "2025-01-31T15:33:22Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
+            "status": "confirmed"
+        },
+        {
+            "id": "divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
+            "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "release_date": "2025-02-06T09:30:00Z",
+            "updated": "2025-01-31T12:48:43Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
@@ -1335,15 +1353,6 @@
             "status": "provisional"
         },
         {
-            "id": "divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
-            "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
-            "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-17T11:51:18Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
             "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
@@ -1395,15 +1404,6 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2024-11-19T10:54:34Z",
             "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "finalised-suicide-statistics-in-northern-ireland-2023",
-            "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
-            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-10-18T08:30:44Z",
-            "release_type": "Accredited official statistics announcement",
             "status": "provisional"
         },
         {
