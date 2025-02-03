@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-03T09:40:12Z",
+    "modified": "2025-02-03T17:39:25Z",
     "entries": [
         {
             "id": "apprenticeshipsni-statistical-bulletin-aug-18-to-oct-24",
@@ -1711,6 +1711,15 @@
             "updated": "2024-08-29T10:24:05Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2024",
+            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2024",
+            "summary": "This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland.",
+            "release_date": "2025-04-24T09:30:00Z",
+            "updated": "2025-02-03T11:28:01Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
         },
         {
             "id": "emergency-care-waiting-time-statistics-january-march-2025",
