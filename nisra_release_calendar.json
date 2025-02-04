@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-03T17:39:25Z",
+    "modified": "2025-02-04T09:39:44Z",
     "entries": [
         {
             "id": "apprenticeshipsni-statistical-bulletin-aug-18-to-oct-24",
@@ -903,6 +903,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "quarterly-autism-statistics-for-ni-october-december-2024",
+            "title": "Quarterly autism statistics for NI (October - December 2024)",
+            "summary": "These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter.",
+            "release_date": "2025-02-05T09:30:00Z",
+            "updated": "2025-02-04T09:26:02Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "finalised-suicide-statistics-in-northern-ireland-2023",
             "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
             "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023",
@@ -1386,15 +1395,6 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-09T15:46:56Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-autism-statistics-for-ni-october-december-2024",
-            "title": "Quarterly autism statistics for NI (October - December 2024)",
-            "summary": "These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-12-12T12:15:31Z",
-            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
