@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-05T09:40:10Z",
+    "modified": "2025-02-05T17:39:28Z",
     "entries": [
         {
             "id": "finalised-suicide-statistics-in-northern-ireland-2023",
@@ -903,6 +903,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2024/25",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2024/25.",
+            "release_date": "2025-02-06T09:30:00Z",
+            "updated": "2025-02-05T10:52:07Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "business-demography-northern-ireland-2023",
             "title": "Business Demography Northern Ireland, 2023",
             "summary": "This release looks at the births, deaths, and survivals of Northern Ireland businesses, as a region within the UK, and at a local level. The Northern Ireland specific data are disaggregated by industry and geography.",
@@ -917,15 +926,6 @@
             "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
             "release_date": "2025-02-06T09:30:00Z",
             "updated": "2025-01-31T12:48:43Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2024/25",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2024/25.",
-            "release_date": "2025-02-06T09:30:00Z",
-            "updated": "2024-10-30T13:34:30Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
