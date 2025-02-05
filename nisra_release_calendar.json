@@ -1,7 +1,34 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-04T17:41:19Z",
+    "modified": "2025-02-05T09:40:10Z",
     "entries": [
+        {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2023",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023",
+            "url": "https://www.nisra.gov.uk/statistics/cause-death/suicide-deaths",
+            "release_date": "2025-02-05T09:30:00Z",
+            "updated": "2025-02-05T09:30:11Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "quarterly-autism-statistics-for-ni-october-december-2024",
+            "title": "Quarterly autism statistics for NI (October - December 2024)",
+            "summary": "These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/autism-statistics",
+            "release_date": "2025-02-05T09:30:00Z",
+            "updated": "2025-02-05T09:30:11Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-three-202425-financial-year",
+            "title": "Employment vacancies notified to DfC, Quarter three 2024/25 financial year",
+            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/employment-vacancy-statistics",
+            "release_date": "2025-02-05T09:30:00Z",
+            "updated": "2025-02-05T09:30:11Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "apprenticeshipsni-statistical-bulletin-aug-18-to-oct-24",
             "title": "ApprenticeshipsNI Statistical Bulletin - Aug 18 to Oct 24",
@@ -874,60 +901,6 @@
             "release_date": "2024-11-28T09:30:00Z",
             "updated": "2024-11-28T09:30:06Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2024",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 September 2024",
-            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2024",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2024",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-october-2024",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 October 2024",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "quarterly-autism-statistics-for-ni-october-december-2024",
-            "title": "Quarterly autism statistics for NI (October - December 2024)",
-            "summary": "These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter.",
-            "release_date": "2025-02-05T09:30:00Z",
-            "updated": "2025-02-04T09:26:02Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "finalised-suicide-statistics-in-northern-ireland-2023",
-            "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
-            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023",
-            "release_date": "2025-02-05T09:30:00Z",
-            "updated": "2025-01-31T16:19:42Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-three-202425-financial-year",
-            "title": "Employment vacancies notified to DfC, Quarter three 2024/25 financial year",
-            "summary": "Quarterly data showing listings of employment vacancies notified to Department for communities.",
-            "release_date": "2025-02-05T09:30:00Z",
-            "updated": "2024-12-24T10:01:55Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "business-demography-northern-ireland-2023",
