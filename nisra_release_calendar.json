@@ -1,7 +1,34 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-05T17:39:28Z",
+    "modified": "2025-02-06T09:39:34Z",
     "entries": [
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2024/25",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2024/25.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q3-24-25.html",
+            "release_date": "2025-02-06T09:30:00Z",
+            "updated": "2025-02-06T09:30:09Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
+            "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-annual-report",
+            "release_date": "2025-02-06T09:30:00Z",
+            "updated": "2025-02-06T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "business-demography-northern-ireland-2023",
+            "title": "Business Demography Northern Ireland, 2023",
+            "summary": "This release looks at the births, deaths, and survivals of Northern Ireland businesses, as a region within the UK, and at a local level. The Northern Ireland specific data are disaggregated by industry and geography.",
+            "url": "https://www.nisra.gov.uk/publications/business-demography-ni",
+            "release_date": "2025-02-06T09:30:00Z",
+            "updated": "2025-02-06T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "finalised-suicide-statistics-in-northern-ireland-2023",
             "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
@@ -874,60 +901,6 @@
             "release_date": "2024-11-28T09:30:00Z",
             "updated": "2024-11-28T09:30:06Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-sexual-offences-202324",
-            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2023/24",
-            "summary": "PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2023/24.",
-            "url": "https://www.ppsni.gov.uk/thematic-bulletins-sexual-offences",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "experience-of-irish-culture-and-heritage-by-adults-in-northern-ireland-202324",
-            "title": "Experience of Irish culture and heritage by adults in Northern Ireland 2023/24",
-            "summary": "A biennial publication containing survey results on experience of Irish culture and heritage by adults in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/culture-and-heritage-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "experience-of-ulster-scots-culture-and-heritage-by-adults-in-northern-ireland-202324",
-            "title": "Experience of Ulster-Scots culture and heritage by adults in Northern Ireland 2023/24",
-            "summary": "A biennial publication containing survey results on the experience of Ulster-Scots culture and heritage by adults in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/culture-and-heritage-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2024/25",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2024/25.",
-            "release_date": "2025-02-06T09:30:00Z",
-            "updated": "2025-02-05T10:52:07Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "business-demography-northern-ireland-2023",
-            "title": "Business Demography Northern Ireland, 2023",
-            "summary": "This release looks at the births, deaths, and survivals of Northern Ireland businesses, as a region within the UK, and at a local level. The Northern Ireland specific data are disaggregated by industry and geography.",
-            "release_date": "2025-02-06T09:30:00Z",
-            "updated": "2025-01-31T15:33:22Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
-            "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
-            "summary": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
-            "release_date": "2025-02-06T09:30:00Z",
-            "updated": "2025-01-31T12:48:43Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2025",
