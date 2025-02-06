@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-06T09:39:34Z",
+    "modified": "2025-02-06T17:39:29Z",
     "entries": [
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
@@ -1353,15 +1353,6 @@
             "status": "provisional"
         },
         {
-            "id": "life-expectancy-in-northern-ireland-2021-23-full-report",
-            "title": "Life Expectancy in Northern Ireland 2021-23: Full Report",
-            "summary": "This report presents inequality gaps for life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland along with a life table decomposition to show the extent to which mortality within ce…",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-11-19T10:54:34Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
@@ -1402,9 +1393,9 @@
             "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
             "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
             "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-02-04T16:12:11Z",
+            "updated": "2025-02-06T10:07:56Z",
             "release_type": "Official statistics announcement",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
@@ -1566,15 +1557,6 @@
             "release_date": "2025-03-31T09:30:00Z",
             "updated": "2024-07-02T15:48:35Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "health-inequalities-annual-report-2025",
-            "title": "Health Inequalities Annual Report 2025",
-            "summary": "This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
-            "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2024-05-01T14:50:22Z",
-            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
@@ -2123,6 +2105,15 @@
             "summary": "Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
             "release_date": "2025-08-27T09:30:00Z",
             "updated": "2024-10-14T14:13:54Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
+            "id": "health-inequalities-annual-report-2025",
+            "title": "Health Inequalities Annual Report 2025",
+            "summary": "This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
+            "release_date": "2025-08-31T09:30:00Z",
+            "updated": "2025-02-06T10:11:50Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
         },
