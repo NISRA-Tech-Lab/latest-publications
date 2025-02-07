@@ -1,7 +1,25 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-06T17:39:29Z",
+    "modified": "2025-02-07T09:39:18Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-31-january-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 31 January 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 31 January 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-02-07T09:30:00Z",
+            "updated": "2025-02-07T09:30:03Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 January 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-02-07T09:30:00Z",
+            "updated": "2025-02-07T09:30:03Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202425",
             "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2024/25",
@@ -883,42 +901,6 @@
             "release_date": "2024-11-28T09:30:00Z",
             "updated": "2024-11-28T09:30:25Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-annual-ports-traffic-2023",
-            "title": "Northern Ireland Annual Ports Traffic 2023",
-            "summary": "The Northern Ireland Ports Traffic publication provides statistics on passenger and freight traffic through Northern Ireland ports.",
-            "url": "https://www.nisra.gov.uk/statistics/other-surveys/ports-traffic",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2024",
-            "title": "Motoring offences statistics in Northern Ireland to 30 September 2024",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 January 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-02-07T09:30:00Z",
-            "updated": "2024-12-17T15:36:51Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-31-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 31 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 31 January 2025",
-            "release_date": "2025-02-07T09:30:00Z",
-            "updated": "2024-10-15T12:15:43Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-january-2025",
