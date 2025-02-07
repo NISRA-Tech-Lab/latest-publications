@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-07T09:39:18Z",
+    "modified": "2025-02-07T17:39:00Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-31-january-2025",
@@ -1440,6 +1440,15 @@
             "release_date": "2025-03-11T09:30:00Z",
             "updated": "2025-01-16T15:12:24Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-16-year-olds-in-northern-ireland-in-2024",
+            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of 16 year olds in Northern Ireland in 2024",
+            "summary": "This report contains findings from the 2024 Young Life and Times Survey of 16 year olds&#39; experiences of, and attitudes to, violence against women and girls.",
+            "release_date": "2025-03-13T09:30:00Z",
+            "updated": "2025-02-07T14:44:37Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
