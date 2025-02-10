@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-10T09:40:37Z",
+    "modified": "2025-02-10T17:42:33Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-31-january-2025",
@@ -957,6 +957,15 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2024)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-10T14:16:31Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
             "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
             "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
@@ -1227,15 +1236,6 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-tourism-statistics-quarter-3-2024",
-            "title": "Northern Ireland Tourism Statistics, Quarter 3 2024",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 3 2024.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-20T10:16:51Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
             "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
             "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2024 ",
             "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
@@ -1323,15 +1323,6 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-09T15:49:33Z",
             "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2024",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2024)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-09T15:46:56Z",
-            "release_type": "Accredited official statistics announcement",
             "status": "provisional"
         },
         {
@@ -1502,6 +1493,15 @@
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 March 2025",
             "release_date": "2025-03-21T09:30:00Z",
             "updated": "2024-10-15T12:48:53Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-202324",
+            "title": "Work Quality in Northern Ireland 2023/24",
+            "summary": "This paper examines Work Quality statistics relating to a number of indicators primarily sourced from the Labour Force Survey (LFS), alongside an earnings indicator sourced from the Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2025-03-26T09:30:00Z",
+            "updated": "2025-02-10T16:38:03Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
