@@ -1,7 +1,61 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-10T17:42:33Z",
+    "modified": "2025-02-11T09:40:07Z",
     "entries": [
+        {
+            "id": "monthly-stillbirths-northern-ireland-january-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): January 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): January 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-january-2025",
+            "title": "Monthly Marriages (Northern Ireland): January 2025",
+            "summary": "Monthly Marriages (Northern Ireland): January 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-january-2025",
+            "title": "Monthly Deaths (Northern Ireland): January 2025",
+            "summary": "Monthly Deaths (Northern Ireland): January 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1-jan-2025",
+            "title": "Employment in the Northern Ireland Civil Service - 1 Jan 2025",
+            "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/employment-statistics",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-january-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): January 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): January 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-births-northern-ireland-january-2025",
+            "title": "Monthly Births (Northern Ireland): January 2025",
+            "summary": "Monthly Births (Northern Ireland): January 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-02-11T09:30:00Z",
+            "updated": "2025-02-11T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-31-january-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 31 January 2025",
@@ -849,111 +903,12 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "nicts-quarterly-provisional-figures-july-to-september-2024",
-            "title": "NICTS Quarterly Provisional Figures July to September 2024",
-            "summary": " Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2024",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2024",
-            "title": "Mortgages: Actions for possession bulletin July to September 2024",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2024",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T00:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202425",
-            "title": "General Pharmaceutical Services Statistics for NI, Q2 2024/25",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2024/25.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q2-24-25.html",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:26Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-september-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending September 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:25Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-september-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending September 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:25Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-september-2024",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending September 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2024-11-28T09:30:00Z",
-            "updated": "2024-11-28T09:30:25Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-january-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): January 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): January 2025",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-16T15:05:39Z",
+            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
+            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
+            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-11T06:37:13Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-january-2025",
-            "title": "Monthly Marriages (Northern Ireland): January 2025",
-            "summary": "Monthly Marriages (Northern Ireland): January 2025",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-16T15:02:25Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-january-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): January 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): January 2025",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-16T14:57:05Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-january-2025",
-            "title": "Monthly Births (Northern Ireland): January 2025",
-            "summary": "Monthly Births (Northern Ireland): January 2025",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-16T14:53:09Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-january-2025",
-            "title": "Monthly Deaths (Northern Ireland): January 2025",
-            "summary": "Monthly Deaths (Northern Ireland): January 2025",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-16T14:40:26Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1st-january-2025",
-            "title": "Employment in the Northern Ireland Civil Service - 1 January 2025",
-            "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
-            "release_date": "2025-02-11T09:30:00Z",
-            "updated": "2025-01-14T15:19:08Z",
-            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -962,15 +917,6 @@
             "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
             "release_date": "2025-02-13T09:30:00Z",
             "updated": "2025-02-10T14:16:31Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
-            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
-            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-01-23T13:37:51Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
