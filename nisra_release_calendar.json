@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-11T09:40:07Z",
+    "modified": "2025-02-11T17:40:34Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-january-2025",
@@ -903,6 +903,15 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "key-rural-issues-2024",
+            "title": "Key Rural Issues 2024",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-11T12:02:18Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
             "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
             "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
@@ -1227,15 +1236,6 @@
             "status": "provisional"
         },
         {
-            "id": "key-rural-issues-2024",
-            "title": "Key Rural Issues 2024",
-            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-21T13:58:25Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
             "title": "Drug-related and drug-misuse deaths 2013-2023",
             "summary": "Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.",
@@ -1377,6 +1377,15 @@
             "release_date": "2025-03-11T09:30:00Z",
             "updated": "2025-01-16T15:12:24Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
+            "title": "Northern Ireland Child Maintenance Service: Data to December 2024",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2024.",
+            "release_date": "2025-03-12T09:30:00Z",
+            "updated": "2025-02-11T13:40:33Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -2172,6 +2181,15 @@
             "status": "provisional"
         },
         {
+            "id": "air-pollution-in-ni-2024",
+            "title": "Air Pollution in NI 2024 ",
+            "summary": "Air Pollution in NI 2024",
+            "release_date": "2025-10-31T09:30:00Z",
+            "updated": "2025-02-11T11:53:48Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-oct-2025",
             "title": "Employment in the Northern Ireland Civil Service - 1 Oct 2025",
             "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.",
@@ -2214,6 +2232,15 @@
             "release_date": "2025-11-27T09:30:00Z",
             "updated": "2025-02-04T11:07:49Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
+        },
+        {
+            "id": "noise-complaint-statistics-for-ni-202425",
+            "title": "Noise Complaint statistics for NI 2024/25 ",
+            "summary": "Noise Complaint statistics for NI 2024/25",
+            "release_date": "2025-11-30T09:30:00Z",
+            "updated": "2025-02-11T11:58:09Z",
+            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
@@ -2303,6 +2330,15 @@
             "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
             "release_date": "2026-02-28T09:30:00Z",
             "updated": "2024-11-07T10:07:56Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
+            "id": "carbon-intensity-indicators-northern-ireland-2025",
+            "title": "Carbon intensity indicators: Northern Ireland 2025      ",
+            "summary": "Carbon intensity indicators: Northern Ireland 2025",
+            "release_date": "2026-12-31T09:30:00Z",
+            "updated": "2025-02-11T15:48:21Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
         }
