@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-11T17:40:34Z",
+    "modified": "2025-02-12T09:39:44Z",
     "entries": [
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
+            "release_date": "2025-02-12T09:30:00Z",
+            "updated": "2025-02-12T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-january-2025",
             "title": "Monthly Stillbirths (Northern Ireland): January 2025",
@@ -894,13 +903,13 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-november-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
+            "id": "general-medical-services-statistics-for-ni-quarter-3-202425--2",
+            "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-12T09:35:48Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "key-rural-issues-2024",
@@ -946,15 +955,6 @@
             "updated": "2025-01-14T11:26:13Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-3-202425--2",
-            "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2024-11-14T09:57:49Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2025",
@@ -1241,15 +1241,6 @@
             "summary": "Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.",
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-20T09:29:37Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-17T11:50:01Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
         },
