@@ -1,16 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-12T09:39:44Z",
+    "modified": "2025-02-12T17:40:08Z",
     "entries": [
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
-            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
-            "release_date": "2025-02-12T09:30:00Z",
-            "updated": "2025-02-12T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
         {
             "id": "monthly-stillbirths-northern-ireland-january-2025",
             "title": "Monthly Stillbirths (Northern Ireland): January 2025",
@@ -903,6 +894,15 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-22-november-2024",
+            "title": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2024-11-29T09:30:00Z",
+            "updated": "2024-11-29T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "general-medical-services-statistics-for-ni-quarter-3-202425--2",
             "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
             "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
@@ -1043,6 +1043,15 @@
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 February 2025",
             "release_date": "2025-02-21T09:30:00Z",
             "updated": "2024-10-15T12:26:36Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "release_date": "2025-02-25T09:30:00Z",
+            "updated": "2025-02-12T10:42:22Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
@@ -1731,6 +1740,15 @@
             "status": "provisional"
         },
         {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-march-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to March 2025",
+            "summary": "Statistics on number of female patients of child bearing age prescribed Sodium Valproate.",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-02-12T13:47:25Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-environmental-statistics-report-2025",
             "title": "Northern Ireland Environmental Statistics Report 2025",
             "summary": "This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
@@ -1756,6 +1774,24 @@
             "updated": "2024-08-20T09:23:43Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "fps-general-medical-services-statistics-for-ni-202425",
+            "title": "FPS General Medical Services Statistics for NI 2024/25",
+            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2024 and March 2025.",
+            "release_date": "2025-06-05T09:30:00Z",
+            "updated": "2025-02-12T14:26:22Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-4-202425",
+            "title": "General Medical Services Statistics for NI, Quarter 4 2024/25",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 24/25.",
+            "release_date": "2025-06-05T09:30:00Z",
+            "updated": "2025-02-12T14:25:14Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-march-2025",
@@ -1821,6 +1857,24 @@
             "status": "confirmed"
         },
         {
+            "id": "family-practitioner-services-ophthalmic-statistics-for-ni-202425",
+            "title": "Family Practitioner Services Ophthalmic Statistics for NI 2024/25",
+            "summary": "Activity and payment statistics relating to General Ophthalmic Services in Northern Ireland between April 2024 and March 2025.",
+            "release_date": "2025-06-12T09:30:00Z",
+            "updated": "2025-02-12T14:30:07Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-4-202425",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 4 2024/25",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 4 of 2024/25.",
+            "release_date": "2025-06-12T09:30:00Z",
+            "updated": "2025-02-12T14:28:53Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-index-of-services-quarter-1-2025",
             "title": "Northern Ireland Index of Services: Quarter 1 2025",
             "summary": "Quarterly index of the Northern Ireland private sector services output.",
@@ -1839,6 +1893,24 @@
             "status": "confirmed"
         },
         {
+            "id": "family-practitioner-services-dental-statistics-for-ni-202425",
+            "title": "Family Practitioner Services Dental Statistics for NI 2024/25",
+            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2024 and March 2025.",
+            "release_date": "2025-06-19T09:30:00Z",
+            "updated": "2025-02-12T14:31:45Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-4-202425",
+            "title": "General Dental Services Statistics for NI, Quarter 4 2024/25",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2024/25.",
+            "release_date": "2025-06-19T09:30:00Z",
+            "updated": "2025-02-12T14:31:02Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
             "title": "Working and workless households in Northern Ireland: January to March 2025",
             "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
@@ -1846,6 +1918,24 @@
             "updated": "2025-01-21T10:35:00Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "fps-pharmaceutical-statistics-for-northern-ireland-202425",
+            "title": "FPS Pharmaceutical Statistics for Northern Ireland 2024/25",
+            "summary": "Statistics related to community pharmacies and dispensing in Northern Ireland between April 2024 and March 2025.",
+            "release_date": "2025-06-26T09:30:00Z",
+            "updated": "2025-02-12T14:33:23Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q4-202425",
+            "title": "General Pharmaceutical Services Statistics for NI, Q4 2024/25",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2024/25.",
+            "release_date": "2025-06-26T09:30:00Z",
+            "updated": "2025-02-12T14:32:37Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-1-2025",
@@ -1927,6 +2017,15 @@
             "updated": "2024-07-08T11:50:43Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "family-practitioner-services-statistics-for-ni-key-facts-2425",
+            "title": "Family Practitioner Services Statistics for NI - Key Facts 24/25",
+            "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic &amp; Pharmaceutical Services.",
+            "release_date": "2025-07-03T09:30:00Z",
+            "updated": "2025-02-12T14:34:07Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202425",
@@ -2226,6 +2325,15 @@
             "status": "provisional"
         },
         {
+            "id": "carbon-intensity-indicators-northern-ireland-2025",
+            "title": "Carbon intensity indicators: Northern Ireland 2025      ",
+            "summary": "Carbon intensity indicators: Northern Ireland 2025",
+            "release_date": "2025-11-30T09:30:00Z",
+            "updated": "2025-02-12T10:45:11Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
             "id": "noise-complaint-statistics-for-ni-202425",
             "title": "Noise Complaint statistics for NI 2024/25 ",
             "summary": "Noise Complaint statistics for NI 2024/25",
@@ -2316,20 +2424,38 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-universal-credit-statistics-november-2025",
+            "title": "Northern Ireland Universal Credit Statistics: November 2025",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2026-02-25T09:30:00Z",
+            "updated": "2025-02-12T13:50:31Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-november-2025",
+            "title": "Benefit Cap Report Northern Ireland: November 2025",
+            "summary": "Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
+            "release_date": "2026-02-25T09:30:00Z",
+            "updated": "2025-02-12T13:34:18Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1-january-2026",
+            "title": "Employment in the Northern Ireland Civil Service - 1 January 2026",
+            "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "updated": "2025-02-12T11:28:47Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-january-2026",
             "title": "Employment in the Northern Ireland Civil Service - 1 January 2026",
             "summary": "This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
             "release_date": "2026-02-28T09:30:00Z",
             "updated": "2024-11-07T10:07:56Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "carbon-intensity-indicators-northern-ireland-2025",
-            "title": "Carbon intensity indicators: Northern Ireland 2025      ",
-            "summary": "Carbon intensity indicators: Northern Ireland 2025",
-            "release_date": "2026-12-31T09:30:00Z",
-            "updated": "2025-02-11T15:48:21Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
         }
