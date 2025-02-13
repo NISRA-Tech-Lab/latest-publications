@@ -1,7 +1,61 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-12T17:40:08Z",
+    "modified": "2025-02-13T09:40:37Z",
     "entries": [
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-3-202425",
+            "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 3 of 2024/25.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q3-2024-2025.html",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:10Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
+            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
+            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
+            "url": "https://www.economy-ni.gov.uk/articles/higher-education-enrolments",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "essential-skills-in-ni-further-education-colleges-201920-2324",
+            "title": "Essential Skills in NI Further Education Colleges: 2019/20-23/24",
+            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme in NI FE Colleges, from 2019/20 to 2023/24",
+            "url": "https://www.economy-ni.gov.uk/articles/essential-skills-enrolments-and-outcomes",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2024)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "road-safety-issues-in-northern-ireland-202324",
+            "title": "Road Safety issues in Northern Ireland 2023/24",
+            "summary": "This report presents information from the 2023/24 Continuous Household Survey (CHS) ",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "key-rural-issues-2024",
+            "title": "Key Rural Issues 2024",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
+            "url": "https://www.daera-ni.gov.uk/publications/key-rural-issues",
+            "release_date": "2025-02-13T09:30:00Z",
+            "updated": "2025-02-13T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-january-2025",
             "title": "Monthly Stillbirths (Northern Ireland): January 2025",
@@ -847,114 +901,6 @@
             "release_date": "2024-11-29T09:30:00Z",
             "updated": "2024-11-29T09:30:10Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "annual-domestic-abuse-trends-report-202324",
-            "title": "Annual Domestic Abuse Trends Report 2023/24",
-            "summary": "Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2023/24.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202324",
-            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2023/24",
-            "summary": "Annual update of Police Crime Outcomes.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "annual-hate-motivation-trends-report-202324",
-            "title": "Annual Hate Motivation Trends Report 2023/24",
-            "summary": "Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2023/24.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:06Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-september-2024",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 September 2024",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "annual-crime-statistics-trends-report-202324",
-            "title": "Annual Crime Statistics Trends Report 2023/24",
-            "summary": "Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2023/24.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-november-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 22 November 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-3-202425--2",
-            "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, GPs and GP Practices in NI for quarter 2 of 2024/25.",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-02-12T09:35:48Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "key-rural-issues-2024",
-            "title": "Key Rural Issues 2024",
-            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across…",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-02-11T12:02:18Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
-            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
-            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2022/23 academic year.",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-02-11T06:37:13Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2024",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2024)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-02-10T14:16:31Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "essential-skills-enrolments-and-outcomes-in-northern-ireland-further-education-colleges-201920-to-202324",
-            "title": "Essential Skills Enrolments and Outcomes in Northern Ireland Further Education Colleges: 2019/20 to 2023/24",
-            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme in NI FE Colleges, from 2019/20 to 2023/24",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-01-15T14:23:04Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "road-safety-issues-in-northern-ireland-202324",
-            "title": "Road Safety issues in Northern Ireland 2023/24",
-            "summary": "This report presents information from the 2023/24 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselv…",
-            "release_date": "2025-02-13T09:30:00Z",
-            "updated": "2025-01-14T11:26:13Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2025",
