@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-14T09:40:15Z",
+    "modified": "2025-02-14T17:38:51Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2025",
@@ -912,6 +912,24 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-hsc-workforce-statistics-december-2024",
+            "title": "Northern Ireland HSC Workforce Statistics December 2024",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2025-02-19T09:30:00Z",
+            "updated": "2025-02-14T16:19:22Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-december-2024",
+            "title": "Northern Ireland HSC Vacancies December 2024",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2025-02-19T09:30:00Z",
+            "updated": "2025-02-14T15:18:04Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-december-2024",
             "title": "Stop and Search statistics for Northern Ireland, period ending 31 December 2024",
             "summary": "Quarterly update of persons stopped and searched by PSNI.",
@@ -937,24 +955,6 @@
             "updated": "2025-01-06T08:31:24Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-december-2024",
-            "title": "Northern Ireland HSC Vacancies December 2024",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2025-02-19T09:30:00Z",
-            "updated": "2024-02-08T12:02:32Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-december-2024",
-            "title": "Northern Ireland HSC Workforce Statistics December 2024",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2025-02-19T09:30:00Z",
-            "updated": "2024-02-08T11:59:10Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
