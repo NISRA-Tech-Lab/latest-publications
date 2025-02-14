@@ -1,7 +1,25 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-13T17:39:10Z",
+    "modified": "2025-02-14T09:40:15Z",
     "entries": [
+        {
+            "id": "dva-monthly-tests-conducted-statistics-january-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: January 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-january-2025",
+            "release_date": "2025-02-14T09:30:00Z",
+            "updated": "2025-02-14T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-7-february-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 7 February 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 7 February 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-02-14T09:30:00Z",
+            "updated": "2025-02-14T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-3-202425",
             "title": "General Medical Services Statistics for NI, Quarter 3 2024/25",
@@ -883,42 +901,6 @@
             "release_date": "2024-12-04T09:30:00Z",
             "updated": "2024-12-04T09:30:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "quarterly-sickness-absence-in-the-nics-july-sep2024",
-            "title": "Quarterly Sickness Absence in the NICS: July - Sep2024",
-            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 July 2024 and 30 September 2024.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/sickness-absence-statistics",
-            "release_date": "2024-12-03T09:30:00Z",
-            "updated": "2024-12-03T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2024",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to July 2024.",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
-            "release_date": "2024-11-29T09:30:00Z",
-            "updated": "2024-11-29T09:30:10Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-january-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: January 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-02-14T09:30:00Z",
-            "updated": "2025-02-04T14:09:44Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-7-february-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 7 February 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 7 February 2025",
-            "release_date": "2025-02-14T09:30:00Z",
-            "updated": "2024-10-15T12:21:29Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-february-2025",
