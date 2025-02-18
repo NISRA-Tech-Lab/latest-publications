@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-17T17:38:53Z",
+    "modified": "2025-02-18T09:39:50Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-february-2025",
+            "title": "NI Labour Market statistics: February 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-02-18T09:30:00Z",
+            "updated": "2025-02-18T07:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2025",
             "title": "DVA Monthly Tests Conducted Statistics: January 2025",
@@ -892,24 +901,6 @@
             "release_date": "2024-12-05T09:30:00Z",
             "updated": "2024-12-05T09:30:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-september-2024",
-            "title": "Northern Ireland Child Maintenance Service: Data to September 2024",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending September 2024.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-september-2024",
-            "release_date": "2024-12-04T09:30:00Z",
-            "updated": "2024-12-04T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-february-2025",
-            "title": "NI Labour Market statistics: February 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-02-18T09:30:00Z",
-            "updated": "2024-08-29T10:23:54Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-workforce-statistics-december-2024",
