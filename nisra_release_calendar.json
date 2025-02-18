@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-18T09:39:50Z",
+    "modified": "2025-02-18T17:40:37Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-february-2025",
@@ -948,11 +948,29 @@
             "status": "confirmed"
         },
         {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
+            "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
+            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
+            "release_date": "2025-02-20T09:30:00Z",
+            "updated": "2025-02-18T13:19:39Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
             "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
             "release_date": "2025-02-20T09:30:00Z",
             "updated": "2024-11-26T12:56:06Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2025-02-21T09:30:00Z",
+            "updated": "2025-02-18T15:27:46Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -970,7 +988,7 @@
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
             "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
             "release_date": "2025-02-25T09:30:00Z",
-            "updated": "2025-02-12T10:42:22Z",
+            "updated": "2025-02-12T11:18:19Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
@@ -1011,15 +1029,6 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-universal-credit-statistics-november-2024",
-            "title": "Northern Ireland Universal Credit Statistics: November 2024",
-            "summary": "Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2025-02-26T09:30:00Z",
-            "updated": "2024-05-13T15:20:04Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "personal-independence-payment-statistics-november-2024",
             "title": "Personal Independence Payment Statistics - November 2024",
             "summary": "The report includes further information on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -1036,6 +1045,15 @@
             "updated": "2024-02-29T08:33:16Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "winter-mortality-202324-northern-ireland",
+            "title": "Winter Mortality 2023/24 (Northern Ireland)",
+            "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-18T12:37:08Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "traineeships-level-2-academic-year-202324",
@@ -1161,24 +1179,6 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-01-20T09:29:37Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-10T01:14:32Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
-            "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
-            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-09T15:49:33Z",
-            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
