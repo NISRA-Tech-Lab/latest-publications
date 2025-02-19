@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-19T09:40:07Z",
+    "modified": "2025-02-19T17:40:22Z",
     "entries": [
         {
             "id": "northern-ireland-hsc-workforce-statistics-december-2024",
@@ -903,20 +903,20 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
+            "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
+            "release_date": "2025-02-20T09:30:00Z",
+            "updated": "2025-02-19T10:21:27Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
             "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
             "release_date": "2025-02-20T09:30:00Z",
             "updated": "2025-02-18T13:19:39Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
-            "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
-            "release_date": "2025-02-20T09:30:00Z",
-            "updated": "2024-11-26T12:56:06Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -1166,10 +1166,19 @@
         {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
             "title": "Drug-related and drug-misuse deaths 2013-2023",
-            "summary": "Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.",
+            "summary": "Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.\r\n\r\nDue to the classification error omitting Pregabalin and Gabapentin from drug misuse deaths, a correction has been made to the number of drug mis…",
             "release_date": "2025-03-05T09:30:00Z",
-            "updated": "2025-02-19T09:06:20Z",
+            "updated": "2025-02-19T10:57:17Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "individual-wellbeing-in-northern-ireland-202324",
+            "title": "Individual Wellbeing in Northern Ireland 2023/24",
+            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2023/24.",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-02-19T14:46:26Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -1323,6 +1332,15 @@
             "release_date": "2025-03-26T09:30:00Z",
             "updated": "2025-02-10T16:38:03Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "graduated-driver-licensing-gdl-monitoring-report-2023",
+            "title": "Graduated Driver Licensing (GDL) Monitoring Report, 2023",
+            "summary": "This report tracks the impact of the GDL scheme on road safety by examining trends in collisions involving and caused by young and newly qualified drivers.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2025-02-19T10:23:44Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -1629,6 +1647,15 @@
             "release_date": "2025-05-29T09:30:00Z",
             "updated": "2025-02-04T13:09:43Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
+        },
+        {
+            "id": "quarterly-autism-statistics-for-ni-january-march-2025",
+            "title": "Quarterly autism statistics for NI (January - March 2025)",
+            "summary": "These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter.",
+            "release_date": "2025-05-31T09:30:00Z",
+            "updated": "2025-02-19T17:02:04Z",
+            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
