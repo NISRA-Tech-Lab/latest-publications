@@ -1,7 +1,25 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-19T17:40:22Z",
+    "modified": "2025-02-20T09:40:04Z",
     "entries": [
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2024",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
+            "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
+            "url": "https://www.gov.uk/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-december-2024",
+            "release_date": "2025-02-20T09:30:00Z",
+            "updated": "2025-02-20T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
+            "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
+            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
+            "url": "https://www.health-ni.gov.uk/articles/children-and-adolescent-mental-health-service-camhs-statistics",
+            "release_date": "2025-02-20T09:30:00Z",
+            "updated": "2025-02-20T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "northern-ireland-hsc-workforce-statistics-december-2024",
             "title": "Northern Ireland HSC Workforce Statistics December 2024",
@@ -883,42 +901,6 @@
             "release_date": "2024-12-11T09:30:00Z",
             "updated": "2024-12-11T09:30:02Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2024",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2024",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2024-12-06T09:30:00Z",
-            "updated": "2024-12-06T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "marriages-by-single-year-of-age-and-year-of-marriage-1974-to-2023",
-            "title": "Marriages by single year of age and year of marriage, 1974 to 2023",
-            "summary": "Marriages by single year of age and year of marriage, 1974 to 2023",
-            "url": "https://www.nisra.gov.uk/publications/vital-statistics-user-requested-data-tables",
-            "release_date": "2024-12-06T09:30:00Z",
-            "updated": "2024-12-06T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-july-to-december-2024",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
-            "summary": "Statistics on number of male and female patients, including those of child bearing age, prescribed and dispensed Sodium Valproate.",
-            "release_date": "2025-02-20T09:30:00Z",
-            "updated": "2025-02-19T10:21:27Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2024",
-            "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
-            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
-            "release_date": "2025-02-20T09:30:00Z",
-            "updated": "2025-02-18T13:19:39Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
