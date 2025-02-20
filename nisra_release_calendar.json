@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-20T09:40:04Z",
+    "modified": "2025-02-20T17:39:52Z",
     "entries": [
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2024",
@@ -1305,6 +1305,15 @@
             "release_date": "2025-03-21T09:30:00Z",
             "updated": "2024-10-15T12:48:53Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "creative-industries-economic-estimates-2024",
+            "title": "Creative Industries Economic Estimates 2024",
+            "summary": "An annual publication containing statistics on key economic estimates for the Creative Industries in Northern Ireland.",
+            "release_date": "2025-03-26T09:30:00Z",
+            "updated": "2025-02-20T14:25:58Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
