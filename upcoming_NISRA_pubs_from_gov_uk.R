@@ -99,7 +99,7 @@ while (has_pubs == TRUE) {
       # Get the class attribute of the <span> tag
       class <- html_attr(span_tags[k], "class")
       
-      if (class == "govuk-caption-xl gem-c-title__context" & !is.na(class)) {
+      if (grepl("govuk-caption-xl", class) & !is.na(class)) {
         release_type <- trimws(html_text(span_tags[k]))
         break # Exit the loop once a valid class is found
       }
