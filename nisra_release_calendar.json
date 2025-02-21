@@ -1,7 +1,25 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-20T17:39:52Z",
+    "modified": "2025-02-21T10:00:04Z",
     "entries": [
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
+            "release_date": "2025-02-21T09:30:00Z",
+            "updated": "2025-02-21T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-14-february-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 14 February 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 14 February 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-02-21T09:30:00Z",
+            "updated": "2025-02-21T09:30:03Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2024",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2024",
@@ -885,42 +903,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "monthly-stillbirths-northern-ireland-november-2024",
-            "title": "Monthly Stillbirths (Northern Ireland): November 2024",
-            "summary": "Monthly Stillbirths (Northern Ireland): November 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "results-from-the-northern-ireland-annual-business-inquiry-2023",
-            "title": "Results from the Northern Ireland Annual Business Inquiry 2023",
-            "summary": "The NIABI is a key resource for measuring the size, performance and structure of the Northern Ireland business economy.",
-            "url": "https://www.nisra.gov.uk/statistics/business-statistics/annual-business-inquiry",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2025-02-21T09:30:00Z",
-            "updated": "2025-02-18T15:27:46Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-14-february-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 14 February 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 14 February 2025",
-            "release_date": "2025-02-21T09:30:00Z",
-            "updated": "2024-10-15T12:26:36Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
             "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
@@ -1308,6 +1290,15 @@
             "status": "confirmed"
         },
         {
+            "id": "analysis-of-nics-recruitment-competitions-2024",
+            "title": "Analysis of NICS Recruitment Competitions 2024",
+            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
+            "release_date": "2025-03-25T09:30:00Z",
+            "updated": "2025-02-21T08:56:42Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "creative-industries-economic-estimates-2024",
             "title": "Creative Industries Economic Estimates 2024",
             "summary": "An annual publication containing statistics on key economic estimates for the Creative Industries in Northern Ireland.",
@@ -1386,15 +1377,6 @@
             "release_date": "2025-03-31T09:30:00Z",
             "updated": "2024-07-02T15:48:35Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "analysis-of-nics-recruitment-competitions-2024",
-            "title": "Analysis of NICS Recruitment Competitions 2024",
-            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
-            "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2024-04-25T12:16:55Z",
-            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
