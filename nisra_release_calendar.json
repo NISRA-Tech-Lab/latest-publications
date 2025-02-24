@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-24T09:41:12Z",
+    "modified": "2025-02-24T17:39:39Z",
     "entries": [
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
@@ -966,20 +966,20 @@
             "status": "provisional"
         },
         {
+            "id": "traineeships-level-2-academic-year-202324",
+            "title": "Traineeships (Level 2), academic year 2023/24",
+            "summary": "This publication covers key information on the Traineeships (Level2) in Northern Ireland, including  occupational areas, starts and achievement.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-24T09:58:21Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "winter-mortality-202324-northern-ireland",
             "title": "Winter Mortality 2023/24 (Northern Ireland)",
             "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2025-02-18T12:37:08Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "traineeships-level-2-academic-year-202324",
-            "title": "Traineeships (Level 2), academic year 2023/24",
-            "summary": "This publication covers key information on the Traineeships (Level2) in Northern Ireland, including  occupational areas, starts and achievement.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-30T12:27:05Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -1087,7 +1087,7 @@
             "title": "Skills for Life and Work Fact Sheet and Tables - August 2022 to October 2024.",
             "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
             "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-01-30T11:53:22Z",
+            "updated": "2025-02-24T10:08:53Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
