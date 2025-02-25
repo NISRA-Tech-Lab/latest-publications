@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-25T09:41:54Z",
+    "modified": "2025-02-25T17:42:20Z",
     "entries": [
         {
             "id": "emergency-care-waiting-time-statistics-october-december-2024",
@@ -1083,15 +1083,6 @@
             "status": "confirmed"
         },
         {
-            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025",
-            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
-            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-04-04T12:22:17Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "mortgages-actions-for-possession-bulletin-october-to-december-2024",
             "title": "Mortgages: Actions for possession bulletin October to December 2024",
             "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
@@ -1259,6 +1250,15 @@
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 March 2025",
             "release_date": "2025-03-21T09:30:00Z",
             "updated": "2024-10-15T12:48:53Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
+            "release_date": "2025-03-25T09:30:00Z",
+            "updated": "2025-02-25T15:25:31Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
