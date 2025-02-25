@@ -1,7 +1,34 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-24T17:39:39Z",
+    "modified": "2025-02-25T09:41:54Z",
     "entries": [
+        {
+            "id": "emergency-care-waiting-time-statistics-october-december-2024",
+            "title": "Emergency Care Waiting Time Statistics (October- December 2024)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
+            "release_date": "2025-02-25T09:30:00Z",
+            "updated": "2025-02-25T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-24",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 24",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
+            "release_date": "2025-02-25T09:30:00Z",
+            "updated": "2025-02-25T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-nics-oct-dec-2024",
+            "title": "Quarterly Sickness Absence in the NICS: Oct  - Dec 2024",
+            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2024 and 30 December 2024.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/sickness-absence-statistics",
+            "release_date": "2025-02-25T09:30:00Z",
+            "updated": "2025-02-25T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
             "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
@@ -874,60 +901,6 @@
             "release_date": "2024-12-11T09:30:00Z",
             "updated": "2024-12-11T09:30:02Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "year-12-and-year-14-examination-performance-at-post-primary-schools-in-northern-ireland-2023-to-2024-academic-year",
-            "title": "Year 12 and Year 14 examination performance at post-primary schools in Northern Ireland: 2023 to 2024 (academic year)",
-            "summary": "GCSE and A level data on examination performance in Northern Ireland post-primary schools from 2023 to 2024 (academic year).",
-            "url": "https://www.education-ni.gov.uk/articles/school-performance",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-november-2024",
-            "title": "Monthly Deaths (Northern Ireland): November 2024",
-            "summary": "Monthly Deaths (Northern Ireland): November 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-november-2024",
-            "title": "Monthly Civil Partnerships (Northern Ireland): November 2024",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): November 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2024",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
-            "release_date": "2025-02-25T09:30:00Z",
-            "updated": "2025-02-12T11:18:19Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2024-december-2024",
-            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2024 - December 2024",
-            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2024 and 30 December 2024.",
-            "release_date": "2025-02-25T09:30:00Z",
-            "updated": "2025-01-28T12:40:47Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-october-december-2024",
-            "title": "Emergency Care Waiting Time Statistics (October- December 2024)",
-            "summary": "Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
-            "release_date": "2025-02-25T09:30:00Z",
-            "updated": "2024-10-24T09:50:15Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "young-peoples-attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2024",
