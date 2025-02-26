@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-26T09:40:43Z",
+    "modified": "2025-02-26T17:44:03Z",
     "entries": [
         {
             "id": "personal-independence-payment-statistics-november-2024",
@@ -912,6 +912,51 @@
             "status": "provisional"
         },
         {
+            "id": "community-pharmaceutical-services-statistics-for-ni-q3-202425",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-26T10:31:48Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
+            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-26T10:27:09Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-december-2024",
+            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-26T10:27:06Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-december-2024",
+            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-26T10:27:03Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "prescription-cost-analysis-for-northern-ireland-2024",
+            "title": "Prescription Cost Analysis for Northern Ireland, 2024",
+            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-26T09:46:53Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "traineeships-level-2-academic-year-202324",
             "title": "Traineeships (Level 2), academic year 2023/24",
             "summary": "This publication covers key information on the Traineeships (Level2) in Northern Ireland, including  occupational areas, starts and achievement.",
@@ -1011,22 +1056,13 @@
             "status": "confirmed"
         },
         {
-            "id": "community-pharmaceutical-services-statistics-for-ni-q3-202425",
-            "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2024-11-26T12:55:21Z",
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
+            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2025 - December 2025",
+            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2025 and 31 December 2025.",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-26T16:00:27Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "prescription-cost-analysis-for-northern-ireland-2024",
-            "title": "Prescription Cost Analysis for Northern Ireland, 2024",
-            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2024-10-30T13:38:50Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
+            "status": "provisional"
         },
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-august-2022-to-october-2024",
@@ -1260,6 +1296,15 @@
             "release_date": "2025-03-26T09:30:00Z",
             "updated": "2025-02-10T16:38:03Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "wellbeing-and-engagement-in-culture-arts-heritage-and-sport-by-adults-in-northern-ireland-202324",
+            "title": "Wellbeing and engagement in culture, arts, heritage and sport by adults in Northern Ireland, 2023/24",
+            "summary": "An annual publication containing survey results on wellbeing and engagement in culture, arts, heritage and sport by adults in Northern Ireland.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2025-02-26T11:27:09Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
