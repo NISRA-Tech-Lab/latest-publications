@@ -1,7 +1,142 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-26T17:44:03Z",
+    "modified": "2025-02-27T09:40:54Z",
     "entries": [
+        {
+            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
+            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:20Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "prescription-cost-analysis-for-northern-ireland-2024",
+            "title": "Prescription Cost Analysis for Northern Ireland, 2024",
+            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
+            "url": "https://datavis.nisra.gov.uk/bso/pca-report-2024.html",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:20Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-december-2024",
+            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
+            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:20Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-december-2024",
+            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending December 2024",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:20Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202425",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q3-24-25.html",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:20Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "traineeships-level-2-academic-year-202324",
+            "title": "Traineeships (Level 2), academic year 2023/24",
+            "summary": "This publication covers key information on the Traineeships (Level 2) in Northern Ireland, including  occupational areas, starts and achievement.",
+            "url": "https://www.economy-ni.gov.uk/articles/level-2-traineeship-statistics",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:13Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "winter-mortality-202324-northern-ireland",
+            "title": "Winter Mortality 2023/24 (Northern Ireland)",
+            "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
+            "url": "https://www.nisra.gov.uk/statistics/cause-death/winter-mortality",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "public-transport-and-journey-planning-in-northern-ireland-202324",
+            "title": "Public Transport and Journey Planning in Northern Ireland 2023/24",
+            "summary": "This report presents findings from the 2023/24 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-and-journey-planning",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-october-december-2024",
+            "title": "Northern Ireland Housing Bulletin October - December 2024",
+            "summary": "A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-january-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 January 2025",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-january-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 January 2025",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2024",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 December 2024",
+            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2024",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 December 2024",
+            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
+            "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2024",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
+            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-february-2025",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "public-awareness-of-and-confidence-trust-in-official-statistics-northern-ireland-2023",
+            "title": "Public Awareness of and Confidence (Trust) in Official Statistics, Northern Ireland 2023",
+            "summary": "This report presents findings from the Northern Ireland Continuous Household Survey on public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA",
+            "url": "https://www.nisra.gov.uk/statistics/government/public-awareness-and-confidence-trust-official-statistics-pcos",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T09:30:06Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "personal-independence-payment-statistics-november-2024",
             "title": "Personal Independence Payment Statistics - November 2024",
@@ -768,290 +903,11 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2023",
-            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of adults in Northern Ireland in 2023",
-            "summary": "This report contains findings from the Gender Based Violence module of the 2023 Northern Ireland Life and Times survey.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research/ending-violence-against-women-and-girls-evawg",
-            "release_date": "2024-12-18T09:30:00Z",
-            "updated": "2024-12-18T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "quarterly-employment-survey-september-2024",
-            "title": "Quarterly Employment Survey: September 2024",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
-            "release_date": "2024-12-17T09:30:00Z",
-            "updated": "2024-12-17T07:00:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-december-2024",
-            "title": "NI Labour Market statistics: December 2024",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2024-12-17T09:30:00Z",
-            "updated": "2024-12-17T07:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-carers-statistics-for-northern-ireland-september-2024",
-            "title": "Quarterly Carers Statistics for Northern Ireland (September 2024)",
-            "summary": "This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/articles/carers-assessments-and-reassessments",
-            "release_date": "2024-12-13T09:30:00Z",
-            "updated": "2024-12-13T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2024",
-            "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2024",
-            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/statistics-police-use-force",
-            "release_date": "2024-12-13T09:30:00Z",
-            "updated": "2024-12-13T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-6-december-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 6 December 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 6 December 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2024-12-13T09:30:00Z",
-            "updated": "2024-12-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-enforcement-statistics-2024-25-q2",
-            "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics-2024-25-Q2",
-            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-two",
-            "release_date": "2024-12-13T09:30:00Z",
-            "updated": "2024-12-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "health-survey-northern-ireland-first-results-for-202324",
-            "title": "Health Survey Northern Ireland: First Results for 2023/24",
-            "summary": "First results from the 2023/24 Health Survey Northern Ireland. ",
-            "url": "https://www.health-ni.gov.uk/topics/doh-statistics-and-research/health-survey-northern-ireland",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:10Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-good-relations-indicators-2023-report",
-            "title": "Northern Ireland Good Relations Indicators 2023 Report",
-            "summary": "An annual publication monitoring progress against the Together: Building a United Community Strategy.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research/good-relations",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2023",
-            "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2023",
-            "summary": "A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/refugees-and-asylum-seekers",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-homelessness-bulletin-april-september-2024",
-            "title": "Northern Ireland Homelessness Bulletin April - September 2024",
-            "summary": "A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/housing-statistics",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2024",
-            "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2024",
-            "summary": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2024",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/statistics-and-research/road-safety",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-research-development-2023-results",
-            "title": "Northern Ireland Research & Development 2023 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
-            "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "further-education-sector-activity-northern-ireland-1920-2324",
-            "title": "Further Education Sector Activity Northern Ireland: 19/20 - 23/24",
-            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students in the NI FE Sector covering academic years 2019/20 to 2023/24.",
-            "url": "https://www.economy-ni.gov.uk/articles/further-education-college-statistics",
-            "release_date": "2024-12-12T09:30:00Z",
-            "updated": "2024-12-12T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-good-jobs-measure-2024",
-            "title": "Northern Ireland Good Jobs Measure 2024",
-            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/work-quality",
-            "release_date": "2024-12-11T09:30:00Z",
-            "updated": "2024-12-11T09:30:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-november-2024",
-            "title": "Northern Ireland Benefit Statistics Summary: November 2024",
-            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "release_date": "2025-02-26T09:30:00Z",
-            "updated": "2024-02-29T08:33:16Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "community-pharmaceutical-services-statistics-for-ni-q3-202425",
-            "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-26T10:31:48Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-26T10:27:09Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-december-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending December 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-26T10:27:06Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-december-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending December 2024",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-26T10:27:03Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "prescription-cost-analysis-for-northern-ireland-2024",
-            "title": "Prescription Cost Analysis for Northern Ireland, 2024",
-            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-26T09:46:53Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "traineeships-level-2-academic-year-202324",
-            "title": "Traineeships (Level 2), academic year 2023/24",
-            "summary": "This publication covers key information on the Traineeships (Level2) in Northern Ireland, including  occupational areas, starts and achievement.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-24T09:58:21Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "winter-mortality-202324-northern-ireland",
-            "title": "Winter Mortality 2023/24 (Northern Ireland)",
-            "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-18T12:37:08Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-january-2025--2",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 January 2025",
-            "summary": "Monthly update of PSNI recorded crime statistics.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-28T15:23:48Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 December 2024",
-            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-28T15:22:58Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "public-transport-and-journey-planning-in-northern-ireland-20232024",
-            "title": "Public Transport and Journey Planning in Northern Ireland 2023/24",
-            "summary": "This report presents findings from the 2023/24 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-27T14:47:18Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
             "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
             "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
             "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2024-25 academic year.",
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2025-01-27T09:33:29Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "public-awareness-of-and-confidence-trust-in-official-statistics-northern-ireland-2023",
-            "title": "Public Awareness of and Confidence (Trust) in Official Statistics, Northern Ireland 2023",
-            "summary": "This report presents findings from the Northern Ireland Continuous Household Survey on public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-25T11:54:59Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2024--2",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 December 2024",
-            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-23T16:06:40Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-january-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 January 2025",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-23T15:54:00Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-october-december-2024",
-            "title": "Northern Ireland Housing Bulletin October - December 2024",
-            "summary": "A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-21T08:56:37Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
-            "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2024 ",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-10T09:45:36Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
