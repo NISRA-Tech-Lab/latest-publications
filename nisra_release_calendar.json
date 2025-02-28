@@ -1,25 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-28T09:40:38Z",
+    "modified": "2025-02-28T17:40:31Z",
     "entries": [
-        {
-            "id": "mortgages-actions-for-possession-bulletin-october-to-december-24",
-            "title": "Mortgages: Actions for possession bulletin October to December 24",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "nicts-quarterly-provisional-figures-october-to-december-2024",
-            "title": "NICTS Quarterly Provisional Figures October to December 2024",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
@@ -37,6 +19,24 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-02-28T09:30:07Z",
             "release_type": "Official Statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-october-to-december-2024",
+            "title": "NICTS Quarterly Provisional Figures October to December 2024",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2024.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-24",
+            "title": "Mortgages: Actions for possession bulletin October to December 24",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2024.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T00:00:00Z",
+            "release_type": "Accredited official statistics"
         },
         {
             "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
