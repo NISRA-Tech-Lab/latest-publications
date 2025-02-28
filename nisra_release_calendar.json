@@ -1,7 +1,43 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-27T17:40:39Z",
+    "modified": "2025-02-28T09:40:38Z",
     "entries": [
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-24",
+            "title": "Mortgages: Actions for possession bulletin October to December 24",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2024.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-october-to-december-2024",
+            "title": "NICTS Quarterly Provisional Figures October to December 2024",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2024.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2024",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to October 2024.",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2025-02-28T09:30:00Z",
+            "updated": "2025-02-28T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
             "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
@@ -867,69 +903,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "northern-ireland-index-of-production-quarter-3-2024",
-            "title": "Northern Ireland Index of Production: Quarter 3 2024",
-            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
-            "release_date": "2024-12-19T09:30:00Z",
-            "updated": "2024-12-19T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-3-2024",
-            "title": "Northern Ireland index of services: Quarter 3 2024",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2024-12-19T09:30:00Z",
-            "updated": "2024-12-19T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-jul-sep-2024",
-            "title": "Working and workless households in Northern Ireland: Jul-Sep 2024",
-            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
-            "release_date": "2024-12-19T09:30:00Z",
-            "updated": "2024-12-19T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "alcohol-specific-deaths-2013-2023-northern-ireland",
-            "title": "Alcohol-Specific Deaths 2013-2023 (Northern Ireland)",
-            "summary": "Number of Alcohol-Specific Deaths in Northern Ireland, 2013-2023",
-            "url": "https://www.nisra.gov.uk/statistics/cause-death/alcohol-deaths",
-            "release_date": "2024-12-18T09:30:00Z",
-            "updated": "2024-12-18T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
-            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
-            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2024-25 academic year.",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-01-27T09:33:29Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2024",
-            "title": "Mortgages: Actions for possession bulletin October to December 2024",
-            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-27T13:23:24Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-judicial-reviews-october-to-december-2024",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2024",
-            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-27T13:18:26Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
             "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
             "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2025 - December 2025",
             "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2025 and 31 December 2025.",
@@ -937,24 +910,6 @@
             "updated": "2025-02-26T16:00:27Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-august-2022-to-october-2024",
-            "title": "Skills for Life and Work Fact Sheet and Tables - August 2022 to October 2024.",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-24T10:08:53Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2024-10-15T12:32:20Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "births-by-academic-year-2-july-2023-to-1-july-2024",
@@ -1164,6 +1119,15 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-planning-statistics-october-to-december-2024",
+            "title": "Northern Ireland planning statistics October to December 2024",
+            "summary": "Provisional quarterly results for the third quarter of 2024/25. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2025-02-28T09:26:48Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "motoring-offences-calendar-year-statistics-in-northern-ireland-to-31-december-2024",
             "title": "Motoring offences Calendar Year statistics in Northern Ireland to 31 December 2024",
             "summary": "Calendar Year update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1259,15 +1223,6 @@
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
             "release_date": "2025-03-31T09:30:00Z",
             "updated": "2025-02-13T12:28:35Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-october-to-december-2024",
-            "title": "Northern Ireland planning statistics October to December 2024",
-            "summary": "Provisional quarterly results for the third quarter of 2024/25. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2024-07-02T15:48:35Z",
             "release_type": "Accredited official statistics announcement",
             "status": "provisional"
         },
