@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-02-28T17:40:31Z",
+    "modified": "2025-03-03T09:46:25Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
@@ -901,15 +901,6 @@
             "release_date": "2024-12-19T09:30:00Z",
             "updated": "2024-12-19T09:30:09Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
-            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2025 - December 2025",
-            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2025 and 31 December 2025.",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-26T16:00:27Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "births-by-academic-year-2-july-2023-to-1-july-2024",
