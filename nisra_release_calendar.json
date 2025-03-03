@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-03T09:46:25Z",
+    "modified": "2025-03-03T17:40:33Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
@@ -1110,11 +1110,20 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-poverty-and-income-inequality-report-202324",
+            "title": "Northern Ireland Poverty and Income Inequality Report 2023/24",
+            "summary": "Information on Household Income and poverty rates in Northern Ireland.",
+            "release_date": "2025-03-27T09:30:00Z",
+            "updated": "2025-03-03T17:03:38Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-planning-statistics-october-to-december-2024",
             "title": "Northern Ireland planning statistics October to December 2024",
             "summary": "Provisional quarterly results for the third quarter of 2024/25. Northern Ireland planning volumes and processing performance data.",
             "release_date": "2025-03-27T09:30:00Z",
-            "updated": "2025-02-28T09:26:48Z",
+            "updated": "2025-03-03T09:50:01Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
@@ -1668,6 +1677,15 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-planning-statistics-april-2024-to-march-2025--2",
+            "title": "Northern Ireland planning statistics: April 2024 to March 2025",
+            "summary": "Finalised annual results for 2024/25. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-06-30T09:30:00Z",
+            "updated": "2025-03-03T11:18:00Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
+        },
+        {
             "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202425",
             "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2024/25",
             "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
@@ -2152,6 +2170,15 @@
             "updated": "2025-02-12T13:34:18Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
+            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2025 - December 2025",
+            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2025 and 31 December 2025.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "updated": "2025-03-03T10:17:25Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-january-2026",
