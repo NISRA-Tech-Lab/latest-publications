@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-04T09:43:02Z",
+    "modified": "2025-03-04T17:41:31Z",
     "entries": [
         {
             "id": "births-by-academic-year-2-july-2023-to-1-july-2024",
@@ -1011,6 +1011,15 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-february-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: February 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2025-03-14T09:30:00Z",
+            "updated": "2025-03-04T12:18:01Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-march-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 7 March 2025",
             "summary": "Deaths Registered in Northern Ireland - Week ending 7 March 2025",
@@ -1191,6 +1200,15 @@
             "status": "confirmed"
         },
         {
+            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-3",
+            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2024-25 - Quarter 3",
+            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "release_date": "2025-03-28T09:30:00Z",
+            "updated": "2025-03-04T12:48:21Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-calendar-year-report-to-31-december-2024",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland Calendar Year report to 31 December 2024",
             "summary": "Calendar Year update relating to injury road traffic collisions reported to Police.",
@@ -1213,26 +1231,8 @@
             "title": "Northern Ireland Care Leavers 2023/24",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
             "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2025-02-13T12:28:35Z",
+            "updated": "2025-03-04T10:23:23Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-3",
-            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2024-25 - Quarter 3",
-            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2024-04-05T15:54:02Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-february-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: February 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-03-31T09:30:00Z",
-            "updated": "2024-04-05T14:38:23Z",
-            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
