@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-04T17:41:31Z",
+    "modified": "2025-03-05T09:41:36Z",
     "entries": [
         {
             "id": "births-by-academic-year-2-july-2023-to-1-july-2024",
@@ -903,12 +903,12 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "drug-related-and-drug-misuse-deaths-2013-2023",
-            "title": "Drug-related and drug-misuse deaths 2013-2023",
-            "summary": "Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.\r\n\r\nDue to the classification error omitting Pregabalin and Gabapentin from drug misuse deaths, a correction has been made to the number of drug mis…",
-            "release_date": "2025-03-05T09:30:00Z",
-            "updated": "2025-02-19T10:57:17Z",
-            "release_type": "Accredited official statistics announcement",
+            "id": "quarterly-carers-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Carers Statistics for Northern Ireland (December 2024)",
+            "summary": "This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-04T17:03:48Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
