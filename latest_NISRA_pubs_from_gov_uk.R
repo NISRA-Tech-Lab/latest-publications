@@ -118,7 +118,8 @@ for (i in 1:5) {
     
     # Extract the updated date from the publication entry
     updated <- html_text(html_nodes(publications[j], "updated")) %>% 
-      sub("\\+00:00", "Z", .)
+      sub("\\+00:00", "Z", .) %>% 
+      sub("\\+01:00", "Z", .)
     
     id <- sub(".*/", "", html_text(html_nodes(publications[j], "id")))
     
