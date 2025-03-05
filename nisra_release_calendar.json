@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-05T14:16:47Z",
+    "modified": "2025-03-05T17:40:43Z",
     "entries": [
         {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
@@ -1233,6 +1233,15 @@
             "release_date": "2025-03-31T09:30:00Z",
             "updated": "2025-03-04T10:23:23Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "provisional"
+        },
+        {
+            "id": "participation-in-full-time-education-and-vocational-training-by-16-19-year-olds-in-northern-ireland-201819-to-202223",
+            "title": "Participation in Full-time Education and Vocational Training by 16-19 year olds in Northern Ireland 2018/19 to 2022/23",
+            "summary": "This bulletin covers information on the number of persons aged 16-19 year olds in schools, Further Education, Higher Education and other training organisations.",
+            "release_date": "2025-04-03T09:30:00Z",
+            "updated": "2025-03-05T15:52:35Z",
+            "release_type": "Official statistics announcement",
             "status": "provisional"
         },
         {
