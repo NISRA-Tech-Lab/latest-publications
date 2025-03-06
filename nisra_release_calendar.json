@@ -1,7 +1,34 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-05T17:40:43Z",
+    "modified": "2025-03-06T09:41:44Z",
     "entries": [
+        {
+            "id": "quarterly-carers-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Carers Statistics for Northern Ireland (December 2024)",
+            "summary": "This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/carers-assessments-and-reassessments",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:24Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "individual-wellbeing-in-northern-ireland-202324",
+            "title": "Individual Wellbeing in Northern Ireland 2023/24",
+            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2023/24.",
+            "url": "https://www.executiveoffice-ni.gov.uk/publications/individual-wellbeing-northern-ireland-report-202324",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:15Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2024",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:10Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
             "title": "Drug-related and drug-misuse deaths 2013-2023",
@@ -874,60 +901,6 @@
             "release_date": "2024-12-20T09:30:00Z",
             "updated": "2024-12-20T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-november-2024",
-            "title": "DVA Monthly Tests Conducted Statistics: November 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-november-2024",
-            "release_date": "2024-12-20T09:30:00Z",
-            "updated": "2024-12-20T09:30:01Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-13-december-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 13 December 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 13 December 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2024-12-20T09:30:00Z",
-            "updated": "2024-12-20T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-november-2024",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 November 2024",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2024-12-19T09:30:00Z",
-            "updated": "2024-12-19T09:30:09Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "quarterly-carers-statistics-for-northern-ireland-december-2024",
-            "title": "Quarterly Carers Statistics for Northern Ireland (December 2024)",
-            "summary": "This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
-            "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-03-04T17:03:48Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "individual-wellbeing-in-northern-ireland-202324",
-            "title": "Individual Wellbeing in Northern Ireland 2023/24",
-            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2023/24.",
-            "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-02-19T14:46:26Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2024",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-02-06T10:07:56Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-february-2025",
