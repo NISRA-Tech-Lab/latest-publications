@@ -1,7 +1,25 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-06T17:40:47Z",
+    "modified": "2025-03-07T09:41:06Z",
     "entries": [
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-03-07T09:30:00Z",
+            "updated": "2025-03-07T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-28-february-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-03-07T09:30:00Z",
+            "updated": "2025-03-07T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "quarterly-carers-statistics-for-northern-ireland-december-2024",
             "title": "Quarterly Carers Statistics for Northern Ireland (December 2024)",
@@ -883,42 +901,6 @@
             "release_date": "2025-01-07T09:30:00Z",
             "updated": "2025-01-07T00:00:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-december-2024",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 December 2024",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 27 December 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-01-03T09:30:00Z",
-            "updated": "2025-01-03T09:30:09Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2024",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2024",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2024-12-20T09:30:00Z",
-            "updated": "2024-12-20T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-28-february-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
-            "summary": "Tables containing information on deaths registered in Northern Ireland in 2025 up to and including 28 February 2025, along with revised data for 2024. This week&#39;s release will be accompanied by scheduled revisions to the…",
-            "release_date": "2025-03-07T09:30:00Z",
-            "updated": "2025-03-05T12:12:05Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-03-07T09:30:00Z",
-            "updated": "2025-01-28T10:40:46Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-february-2025",
