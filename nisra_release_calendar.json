@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-07T09:41:06Z",
+    "modified": "2025-03-07T17:39:58Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
@@ -1209,6 +1209,15 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-4-april-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 4 April 2025",
+            "summary": "Tables outlining deaths registered in 2025, up to and including week ending 4 April 2025.",
+            "release_date": "2025-04-11T09:30:00Z",
+            "updated": "2025-03-07T13:49:28Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-stillbirths-northern-ireland-march-2025",
             "title": "Monthly Stillbirths (Northern Ireland): March 2025",
             "summary": "Monthly Stillbirths (Northern Ireland): March 2025",
@@ -1263,6 +1272,15 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-1-1-april-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 11 April 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 11 April 2025.",
+            "release_date": "2025-04-18T09:30:00Z",
+            "updated": "2025-03-07T13:59:39Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2024",
             "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2024",
             "summary": "This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland.",
@@ -1287,6 +1305,15 @@
             "release_date": "2025-04-24T09:30:00Z",
             "updated": "2024-07-08T11:37:24Z",
             "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-18-april-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 18 April 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland for 2025, up to and including 18 April 2025.",
+            "release_date": "2025-04-25T09:30:00Z",
+            "updated": "2025-03-07T14:06:11Z",
+            "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
         {
