@@ -41,10 +41,12 @@ library(lubridate) # For working with date-time data
 # List that will be converted to json at the end
 output_list <- list(name = "nisra release calendar",
                     modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
-                    entries = c())
+                    entries = c(),
+                    cancelled = c())
 
 source("latest_NISRA_pubs_from_gov_uk.R")
 source("upcoming_NISRA_pubs_from_gov_uk.R")
+source("cancelled_NISRA_pubs_from_gov_uk.R")
 
 toJSON(output_list, auto_unbox = TRUE) %>%
   prettify() %>%
