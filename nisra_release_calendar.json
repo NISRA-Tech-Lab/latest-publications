@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-07T17:39:58Z",
+    "modified": "2025-03-10T09:37:53Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
@@ -237,6 +237,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
+            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
+            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2024-25 academic year.",
+            "url": "https://www.education-ni.gov.uk/articles/school-enrolments-202425-statistical-bulletins",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "personal-independence-payment-statistics-november-2024",
             "title": "Personal Independence Payment Statistics - November 2024",
             "summary": "The report includes further information on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -271,6 +280,15 @@
             "release_date": "2025-02-26T09:30:00Z",
             "updated": "2025-02-26T09:30:07Z",
             "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-november-2024",
+            "title": "Northern Ireland Benefit Statistics Summary: November 2024",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-accredited-official-statistics-november-2024",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2025-02-26T00:00:00Z",
+            "release_type": "Accredited official statistics"
         },
         {
             "id": "emergency-care-waiting-time-statistics-october-december-2024",
@@ -696,6 +714,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2024",
+            "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2024",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2024",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
+            "release_date": "2025-01-30T09:30:00Z",
+            "updated": "2025-01-30T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
             "title": "Statistics on community care for adults in Northern Ireland 2023/24",
             "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursi…",
@@ -873,33 +900,6 @@
             "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
             "release_date": "2025-01-09T09:30:00Z",
             "updated": "2025-01-09T09:30:08Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-2-2024",
-            "title": "Northern Ireland Tourism Statistics, Quarter 2 2024",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 2 2024.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/annual-and-quarterly-tourism-statistics-publications",
-            "release_date": "2025-01-09T09:30:00Z",
-            "updated": "2025-01-09T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-july-september-2024",
-            "title": "Northern Ireland waiting time statistics: cancer waiting times July-September 2024",
-            "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
-            "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
-            "release_date": "2025-01-09T09:30:00Z",
-            "updated": "2025-01-09T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case",
-            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2022/23 - 2023/24",
-            "summary": "Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
-            "url": "https://www.justice-ni.gov.uk/topics/prosecution-and-conviction-statistics",
-            "release_date": "2025-01-07T09:30:00Z",
-            "updated": "2025-01-07T00:00:00Z",
             "release_type": "Official Statistics"
         },
         {
