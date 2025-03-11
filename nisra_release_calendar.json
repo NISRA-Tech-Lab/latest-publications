@@ -1,7 +1,52 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-10T17:42:03Z",
+    "modified": "2025-03-11T09:42:04Z",
     "entries": [
+        {
+            "id": "monthly-stillbirths-northern-ireland-february-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-births-northern-ireland-february-2025",
+            "title": "Monthly Births (Northern Ireland): February 2025",
+            "summary": "Monthly Births (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-february-2025",
+            "title": "Monthly Marriages (Northern Ireland): February 2025",
+            "summary": "Monthly Marriages (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-february-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-february-2025",
+            "title": "Monthly Deaths (Northern Ireland): February 2025",
+            "summary": "Monthly Deaths (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
             "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2025",
@@ -856,96 +901,6 @@
             "release_date": "2025-01-13T09:30:00Z",
             "updated": "2025-01-13T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-december-2024",
-            "title": "Monthly Deaths (Northern Ireland): December 2024",
-            "summary": "Monthly Deaths (Northern Ireland): December 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-01-13T09:30:00Z",
-            "updated": "2025-01-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-births-northern-ireland-december-2024",
-            "title": "Monthly Births (Northern Ireland): December 2024",
-            "summary": "Monthly Births (Northern Ireland): December 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-01-13T09:30:00Z",
-            "updated": "2025-01-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2024",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2024",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-01-10T09:30:00Z",
-            "updated": "2025-01-10T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-january-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 3 January 2025",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-01-10T09:30:00Z",
-            "updated": "2025-01-10T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2025",
-            "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2025",
-            "summary": "Calls relating to domestic abuse received by PSNI during Christmas and New Year.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2025-01-09T09:30:00Z",
-            "updated": "2025-01-09T09:30:08Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-february-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): February 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): February 2025",
-            "release_date": "2025-03-11T09:30:00Z",
-            "updated": "2025-01-16T15:21:32Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-february-2025",
-            "title": "Monthly Marriages (Northern Ireland): February 2025",
-            "summary": "Monthly Marriages (Northern Ireland): February 2025",
-            "release_date": "2025-03-11T09:30:00Z",
-            "updated": "2025-01-16T15:19:34Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-february-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): February 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): February 2025",
-            "release_date": "2025-03-11T09:30:00Z",
-            "updated": "2025-01-16T15:16:18Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-february-2025",
-            "title": "Monthly Births (Northern Ireland): February 2025",
-            "summary": "Monthly Births (Northern Ireland): February 2025",
-            "release_date": "2025-03-11T09:30:00Z",
-            "updated": "2025-01-16T15:14:21Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-february-2025",
-            "title": "Monthly Deaths (Northern Ireland): February 2025",
-            "summary": "Monthly Deaths (Northern Ireland): February 2025",
-            "release_date": "2025-03-11T09:30:00Z",
-            "updated": "2025-01-16T15:12:24Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
