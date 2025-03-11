@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-11T09:42:04Z",
+    "modified": "2025-03-11T17:42:34Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-february-2025",
@@ -1362,6 +1362,24 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures January to March 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-03-11T14:23:45Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2025",
+            "title": "Mortgages: Actions for possession bulletin January to March 2025",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-03-11T14:21:02Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "personal-independence-payment-statistics-february-2025",
             "title": "Personal Independence Payment Statistics - February 2025",
             "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -1776,6 +1794,24 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-08-22T09:30:00Z",
+            "updated": "2025-03-11T14:29:11Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2025",
+            "title": "Mortgages: Actions for possession bulletin April to June 2025",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2025-08-22T09:30:00Z",
+            "updated": "2025-03-11T14:26:48Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-april-june-2025",
             "title": "Emergency Care Waiting Time Statistics (April - June 2025)",
             "summary": "Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
@@ -1992,6 +2028,24 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-11-28T09:30:00Z",
+            "updated": "2025-03-11T14:39:41Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
+            "title": "Mortgages: Actions for possession bulletin July to September 2025",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2025-11-28T09:30:00Z",
+            "updated": "2025-03-11T14:37:40Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "carbon-intensity-indicators-northern-ireland-2025",
             "title": "Carbon intensity indicators: Northern Ireland 2025      ",
             "summary": "Carbon intensity indicators: Northern Ireland 2025",
@@ -2105,6 +2159,24 @@
             "summary": "Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
             "release_date": "2026-02-25T09:30:00Z",
             "updated": "2025-02-12T13:34:18Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2026-02-27T09:30:00Z",
+            "updated": "2025-03-11T14:43:44Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
+            "title": "Mortgages: Actions for possession bulletin October to December 2025",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2026-02-27T09:30:00Z",
+            "updated": "2025-03-11T14:41:44Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
