@@ -158,7 +158,7 @@ for (i in 1:nrow(pub_info)) {
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = pub_info$summary[i],
+         summary = paste0("Status:", pub_info$status[i], ". ", pub_info$summary[i]),
          release_date = pub_info$release_date[i],
          updated = pub_info$updated[i],
          release_type = pub_info$release_type[i],
