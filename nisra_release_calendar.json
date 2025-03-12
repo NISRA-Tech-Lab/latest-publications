@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-11T17:42:34Z",
+    "modified": "2025-03-12T09:41:28Z",
     "entries": [
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
+            "title": "Northern Ireland Child Maintenance Service: Data to December 2024",
+            "summary": "Provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2024.",
+            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-december-2024",
+            "release_date": "2025-03-12T09:30:00Z",
+            "updated": "2025-03-12T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-february-2025",
             "title": "Monthly Stillbirths (Northern Ireland): February 2025",
@@ -892,24 +901,6 @@
             "release_date": "2025-01-13T09:30:00Z",
             "updated": "2025-01-13T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-december-2024",
-            "title": "Monthly Stillbirths (Northern Ireland): December 2024",
-            "summary": "Monthly Stillbirths (Northern Ireland): December 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-01-13T09:30:00Z",
-            "updated": "2025-01-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
-            "title": "Northern Ireland Child Maintenance Service: Data to December 2024",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2024.",
-            "release_date": "2025-03-12T09:30:00Z",
-            "updated": "2025-02-11T13:40:33Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-16-year-olds-in-northern-ireland-in-2024",
