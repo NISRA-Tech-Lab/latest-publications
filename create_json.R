@@ -37,6 +37,7 @@ library(rvest) # For web scraping and extracting data from HTML documents
 library(jsonlite) # For Converting data to JSON
 library(dplyr)     # For data manipulation and transformation
 library(lubridate) # For working with date-time data
+library(textutils)
 
 # List that will be converted to json at the end
 output_list <- list(name = "nisra release calendar",

@@ -127,7 +127,7 @@ for (i in 1:5) {
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = html_text(html_nodes(publications[j], "summary")),
+           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
            url = pub_link,
            release_date = release_date,
            updated = updated,

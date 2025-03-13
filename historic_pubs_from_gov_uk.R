@@ -50,6 +50,7 @@ library(xml2)  # For parsing XML and HTML documents
 library(rvest) # For web scraping and extracting data from HTML documents
 library(jsonlite) # For Converting data to JSON
 library(dplyr)     # For data manipulation and transformation
+library(textutils)
 
 # List that will be converted to json at the end
 output_list <- list(name = "nisra release calendar",
@@ -145,7 +146,7 @@ while (has_pubs == TRUE) {
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = html_text(html_nodes(publications[j], "summary")),
+           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
            url = pub_link,
            release_date = release_date,
            updated = updated,

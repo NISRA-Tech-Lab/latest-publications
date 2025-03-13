@@ -1,7 +1,106 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-05T14:00:36Z",
+    "modified": "2025-03-13T08:23:57Z",
     "entries": [
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
+            "title": "Northern Ireland Child Maintenance Service: Data to December 2024",
+            "summary": "Provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2024.",
+            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-december-2024",
+            "release_date": "2025-03-12T09:30:00Z",
+            "updated": "2025-03-12T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-february-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-births-northern-ireland-february-2025",
+            "title": "Monthly Births (Northern Ireland): February 2025",
+            "summary": "Monthly Births (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-february-2025",
+            "title": "Monthly Marriages (Northern Ireland): February 2025",
+            "summary": "Monthly Marriages (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-february-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-february-2025",
+            "title": "Monthly Deaths (Northern Ireland): February 2025",
+            "summary": "Monthly Deaths (Northern Ireland): February 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-03-11T09:30:00Z",
+            "updated": "2025-03-11T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-03-07T09:30:00Z",
+            "updated": "2025-03-07T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-28-february-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 28 February 2025",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-03-07T09:30:00Z",
+            "updated": "2025-03-07T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "quarterly-carers-statistics-for-northern-ireland-december-2024",
+            "title": "Quarterly Carers Statistics for Northern Ireland (December 2024)",
+            "summary": "This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/carers-assessments-and-reassessments",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:24Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "individual-wellbeing-in-northern-ireland-202324",
+            "title": "Individual Wellbeing in Northern Ireland 2023/24",
+            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2023/24.",
+            "url": "https://www.executiveoffice-ni.gov.uk/publications/individual-wellbeing-northern-ireland-report-202324",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:15Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2024",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
+            "release_date": "2025-03-06T09:30:00Z",
+            "updated": "2025-03-06T09:30:10Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "drug-related-and-drug-misuse-deaths-2013-2023",
             "title": "Drug-related and drug-misuse deaths 2013-2023",
@@ -192,6 +291,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
+            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
+            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2024-25 academic year.",
+            "url": "https://www.education-ni.gov.uk/articles/school-enrolments-202425-statistical-bulletins",
+            "release_date": "2025-02-27T09:30:00Z",
+            "updated": "2025-02-27T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "personal-independence-payment-statistics-november-2024",
             "title": "Personal Independence Payment Statistics - November 2024",
             "summary": "The report includes further information on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -228,6 +336,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-benefit-statistics-summary-november-2024",
+            "title": "Northern Ireland Benefit Statistics Summary: November 2024",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-accredited-official-statistics-november-2024",
+            "release_date": "2025-02-26T09:30:00Z",
+            "updated": "2025-02-26T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-october-december-2024",
             "title": "Emergency Care Waiting Time Statistics (October- December 2024)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -239,7 +356,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-24",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 24",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2025-02-25T09:30:00Z",
             "updated": "2025-02-25T09:30:00Z",
@@ -347,7 +464,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2025",
             "title": "DVA Monthly Tests Conducted Statistics: January 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-january-2025",
             "release_date": "2025-02-14T09:30:00Z",
             "updated": "2025-02-14T09:30:05Z",
@@ -651,6 +768,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2024",
+            "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2024",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2024",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
+            "release_date": "2025-01-30T09:30:00Z",
+            "updated": "2025-01-30T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202324",
             "title": "Statistics on community care for adults in Northern Ireland 2023/24",
             "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursi…",
@@ -725,7 +851,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2024",
             "title": "DVA Monthly Tests Conducted Statistics: December 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-december-2024",
             "release_date": "2025-01-17T09:30:00Z",
             "updated": "2025-01-17T09:30:06Z",
@@ -878,7 +1004,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2024",
             "title": "DVA Monthly Tests Conducted Statistics: November 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-november-2024",
             "release_date": "2024-12-20T09:30:00Z",
             "updated": "2024-12-20T09:30:01Z",
@@ -1067,7 +1193,7 @@
         {
             "id": "northern-ireland-research-development-2023-results",
             "title": "Northern Ireland Research & Development 2023 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2024-12-12T09:30:00Z",
             "updated": "2024-12-12T09:30:07Z",
@@ -1130,7 +1256,7 @@
         {
             "id": "northern-ireland-economic-trade-statistics-2023",
             "title": "Northern Ireland Economic Trade Statistics 2023",
-            "summary": "This release provides annual estimates of the sales &amp; purchases generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & purchases generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2024-12-11T09:30:00Z",
             "updated": "2024-12-11T09:30:02Z",
@@ -1697,7 +1823,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-october-2024",
             "title": "DVA Monthly Tests Conducted Statistics: October 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-october-2024",
             "release_date": "2024-11-15T09:30:00Z",
             "updated": "2024-11-15T09:30:02Z",
@@ -2174,7 +2300,7 @@
         {
             "id": "ni-analytical-input-output-tables-2019-2020",
             "title": "NI Analytical Input-Output tables 2019 & 2020",
-            "summary": "NI Analytical Input-Output tables 2019 &amp; 2020 – industry by industry",
+            "summary": "NI Analytical Input-Output tables 2019 & 2020 – industry by industry",
             "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2024-10-03T09:30:00Z",
             "updated": "2024-10-03T09:30:02Z",
@@ -2255,7 +2381,7 @@
         {
             "id": "structure-performance-of-the-ni-economy-2019-2020",
             "title": "Structure & Performance of the NI Economy 2019 & 2020",
-            "summary": "Structure &amp; Performance of the NI Economy 2019 &amp; 2020 including Detailed Supply-Use tables for 2019 and 2020.",
+            "summary": "Structure & Performance of the NI Economy 2019 & 2020 including Detailed Supply-Use tables for 2019 and 2020.",
             "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2024-09-26T09:30:00Z",
             "updated": "2024-09-26T09:30:07Z",
@@ -2309,7 +2435,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2024",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2024-09-24T09:30:00Z",
             "updated": "2024-09-24T09:30:07Z",
@@ -2885,7 +3011,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2023-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2023: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2023. Data for employees by gender, age and sector.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2023. Data for employees by gender, age and sector.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/ashe-pensions-results",
             "release_date": "2024-08-14T09:30:00Z",
             "updated": "2024-08-14T09:30:11Z",
@@ -3218,7 +3344,7 @@
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202324",
             "title": "Northern Ireland Hospital Statistics: Emergency Care 2023/24",
-            "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned &amp; unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
+            "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned & unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
             "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
             "release_date": "2024-07-19T09:30:00Z",
             "updated": "2024-07-19T09:30:05Z",
@@ -3236,7 +3362,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-june-2024",
             "title": "DVA Monthly Tests Conducted Statistics: June 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-june-2024",
             "release_date": "2024-07-17T09:30:00Z",
             "updated": "2024-07-17T09:30:03Z",
@@ -3362,7 +3488,7 @@
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2324",
             "title": "Family Practitioner Services Statistics for NI - Key Facts 23/24",
-            "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic &amp; Pharmaceutical Services.",
+            "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
             "url": "https://www.gov.uk/government/statistics/family-practitioner-services-statistics-for-ni-key-facts-2324",
             "release_date": "2024-07-05T09:30:00Z",
             "updated": "2024-07-05T09:30:00Z",
@@ -3495,10 +3621,28 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "teacher-workforce-statistics-in-grant-aided-schools-2023-24",
+            "title": "Teacher workforce statistics in grant-aided schools, 2023-24",
+            "summary": "An analysis of the latest annual data collections relating to teacher numbers and pupil: teacher ratios in grant-aided schools in Northern Ireland, 2023/24.",
+            "url": "https://www.education-ni.gov.uk/articles/education-workforce",
+            "release_date": "2024-06-27T09:30:00Z",
+            "updated": "2024-06-27T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2022-to-2023",
             "title": "First time entrants to the criminal justice system in Northern Ireland 2022 to 2023",
             "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
             "url": "https://www.justice-ni.gov.uk/topics/statistics-and-research/prosecution-and-conviction-statistics",
+            "release_date": "2024-06-27T09:30:00Z",
+            "updated": "2024-06-27T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "teacher-vacancies-sickness-absence-and-substitution-costs-202324",
+            "title": "Teacher vacancies, sickness absence and substitution costs 202324",
+            "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2023/24",
+            "url": "https://www.education-ni.gov.uk/articles/education-workforce",
             "release_date": "2024-06-27T09:30:00Z",
             "updated": "2024-06-27T00:00:00Z",
             "release_type": "Official Statistics"
@@ -3515,7 +3659,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2024",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2024",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2024-06-25T09:30:00Z",
             "updated": "2024-06-25T09:30:04Z",
@@ -3830,7 +3974,7 @@
         {
             "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202324",
             "title": "Equality Monitoring Report:  Survey of Complainants to the Police Ombudsman for Northern Ireland, 2023/24",
-            "summary": "The Police Ombudsman&#39;s office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
+            "summary": "The Police Ombudsman's office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Profile-of-Complainants",
             "release_date": "2024-06-06T09:30:00Z",
             "updated": "2024-06-06T09:30:08Z",
@@ -3875,7 +4019,7 @@
         {
             "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2023",
             "title": "Annual report on public awareness of the police complaints system in Northern Ireland, 2023",
-            "summary": "This statistical report presents the findings from the Police Ombudsman&#39;s module in the Northern Ireland Life and Times (NILT) Survey, 2023",
+            "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2023",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Public-Awareness-of-the-Office",
             "release_date": "2024-06-06T09:30:00Z",
             "updated": "2024-06-06T09:30:08Z",
@@ -3893,7 +4037,7 @@
         {
             "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202324",
             "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2023/24",
-            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant's survey",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Complainant-Satisfaction-Survey",
             "release_date": "2024-06-06T09:30:00Z",
             "updated": "2024-06-06T09:30:08Z",
@@ -4469,7 +4613,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2024",
             "title": "DVA Monthly Tests Conducted Statistics: March 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-march-2024",
             "release_date": "2024-04-12T09:30:00Z",
             "updated": "2024-04-12T09:30:03Z",
@@ -4647,6 +4791,24 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-planning-statistics-october-to-december-2023",
+            "title": "Northern Ireland planning statistics: October to December 2023",
+            "summary": "Provisional quarterly results for the third quarter of 2023/24. Northern Ireland planning volumes and processing performance data.\r\n",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/planning-activity-statistics",
+            "release_date": "2024-03-28T09:30:00Z",
+            "updated": "2024-03-28T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "walking-and-cycling-in-northern-ireland-20222023",
+            "title": "Walking and Cycling in Northern Ireland 2022/2023",
+            "summary": "This report presents findings from the 2022/2023 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.\r\n",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/statistics-and-research/active-travel-and-public-transport-research",
+            "release_date": "2024-03-28T09:30:00Z",
+            "updated": "2024-03-28T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "findings-from-the-202223-northern-ireland-safe-community-telephone-survey",
             "title": "Findings from the 2022/23 Northern Ireland Safe Community Telephone Survey",
             "summary": "A comprehensive summary of the findings from the 2022/23 Northern Ireland Safe Community Telephone Survey (NISCTS).",
@@ -4766,7 +4928,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-october-to-december-2023",
             "title": "Registrar General Quarterly Report (Northern Ireland) - October to December 2023",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2024-03-21T09:30:00Z",
             "updated": "2024-03-21T09:30:08Z",
@@ -4811,7 +4973,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2024",
             "title": "DVA Monthly Tests Conducted Statistics: February 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-february-2024",
             "release_date": "2024-03-15T09:30:00Z",
             "updated": "2024-03-15T09:30:02Z",
@@ -5054,7 +5216,7 @@
         {
             "id": "northern-ireland-research-development-2022-results",
             "title": "Northern Ireland Research & Development 2022 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2024-02-28T09:30:00Z",
             "updated": "2024-02-28T09:30:07Z",
@@ -5189,7 +5351,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2024",
             "title": "DVA Monthly Tests Conducted Statistics: January 2024",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-january-2024",
             "release_date": "2024-02-16T09:30:00Z",
             "updated": "2024-02-16T09:30:07Z",
@@ -5448,6 +5610,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202223-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2022/23 (Official statistics in development)",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2022/23",
+            "url": "https://www.health-ni.gov.uk/articles/drugs-statistics",
+            "release_date": "2024-01-31T09:30:00Z",
+            "updated": "2024-01-31T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202223",
             "title": "Patient education / self management programmes for people with long term conditions 2022/23",
             "summary": "This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details…",
@@ -5538,6 +5709,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "road-safety-issues-in-northern-ireland-202223",
+            "title": "Road Safety issues in Northern Ireland 2022/23",
+            "summary": "This report presents information from the 2022/23 Continuous Household Survey (CHS) in relation to the road use and road safety issues. ",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/road-safety-issues-northern-ireland",
+            "release_date": "2024-01-25T09:30:00Z",
+            "updated": "2024-01-25T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "results-from-the-northern-ireland-annual-business-inquiry-2022",
             "title": "Results from the Northern Ireland Annual Business Inquiry 2022",
             "summary": "The NIABI is a key resource for measuring the size, performance and structure of the Northern Ireland business economy.",
@@ -5549,7 +5729,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2023",
             "title": "DVA Monthly Tests Conducted Statistics: December 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2024-01-19T09:30:00Z",
             "updated": "2024-01-19T09:30:04Z",
@@ -5882,7 +6062,7 @@
         {
             "id": "northern-ireland-economic-trade-statistics-2022",
             "title": "Northern Ireland Economic Trade Statistics 2022",
-            "summary": "This release provides annual estimates of the sales &amp; purchases generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & purchases generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2023-12-13T09:30:00Z",
             "updated": "2023-12-13T09:30:09Z",
@@ -5963,7 +6143,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2023",
             "title": "DVA Monthly Tests Conducted Statistics: November 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-12-08T09:30:00Z",
             "updated": "2023-12-08T09:30:05Z",
@@ -6017,7 +6197,7 @@
         {
             "id": "experience-of-gambling-by-young-people-in-northern-ireland-2022",
             "title": "Experience of gambling by young people in Northern Ireland 2022",
-            "summary": "The publication provides summary statistics on findings from gambling-related questions included in the Young Persons&#39; Behaviour and Attitudes Survey 2022.\r\n",
+            "summary": "The publication provides summary statistics on findings from gambling-related questions included in the Young Persons' Behaviour and Attitudes Survey 2022.\r\n",
             "url": "https://www.communities-ni.gov.uk/topics/law-and-legislation-statistics-and-research/social-policy-statistics",
             "release_date": "2023-12-06T09:30:00Z",
             "updated": "2023-12-06T09:30:02Z",
@@ -6042,6 +6222,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "life-expectancy-in-northern-ireland-2020-22",
+            "title": "Life Expectancy in Northern Ireland 2020-22",
+            "summary": "This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/life-expectancy-northern-ireland",
+            "release_date": "2023-12-06T09:30:00Z",
+            "updated": "2023-12-06T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "annual-enrolments-at-grant-aided-schools-in-northern-ireland-2023-24-basic-provisional-statistics",
             "title": "Annual enrolments at grant-aided schools in Northern Ireland, 2023-24: Basic provisional statistics",
             "summary": "This statistical bulletin contain data gathered through the school enrolments census exercise and show information on school and pupil numbers.",
@@ -6062,7 +6251,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2023",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2023",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2023-12-05T09:30:00Z",
             "updated": "2023-12-05T09:30:09Z",
@@ -6330,6 +6519,33 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2023",
+            "title": "Mortgages: Actions for possession bulletin July to September 2023",
+            "summary": "This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2023-11-24T09:30:00Z",
+            "updated": "2023-11-24T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-july-to-september-2023",
+            "title": "NICTS Quarterly Provisional Figures July to September 2023",
+            "summary": "This bulletin presents statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2023.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2023-11-24T09:30:00Z",
+            "updated": "2023-11-24T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "travel-to-and-from-school-ypbas-2022",
+            "title": "Travel to and from school - YPBAS 2022",
+            "summary": "This factsheet presents findings from the 2022 Young Persons' Behaviour and Attitudes Survey in relation to travelling to and from school. \r\n",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/young-persons-behaviour-and-attitude-survey",
+            "release_date": "2023-11-24T09:30:00Z",
+            "updated": "2023-11-24T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "community-pharmaceutical-services-statistics-for-ni-q2-202324",
             "title": "Community Pharmaceutical Services Statistics for NI, Q2 2023/24",
             "summary": "Statistics related to community pharmacies and dispensing in Northern Ireland for quarter 2 of 2023/24.",
@@ -6422,7 +6638,7 @@
         {
             "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-16-year-olds-in-northern-ireland-in-2023",
             "title": "Ending Violence Against Women and Girls: Experiences and attitudes of 16 year olds in Northern Ireland in 2023",
-            "summary": "This report contains findings from the 2023 Young Life and Times Survey of 16 year olds&#39; experiences of, and attitudes to, violence against women and girls.",
+            "summary": "This report contains findings from the 2023 Young Life and Times Survey of 16 year olds' experiences of, and attitudes to, violence against women and girls.",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/ending-violence-against-women-and-girls-experiences-and-attitudes-16-year-olds-northern-ireland-2023",
             "release_date": "2023-11-16T09:30:00Z",
             "updated": "2023-11-16T09:30:01Z",
@@ -6474,6 +6690,24 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-house-price-index-q3-2023",
+            "title": "Northern Ireland House Price Index Q3 2023",
+            "summary": "House price index and standardised prices for Northern Ireland during Jul - Sep 2023",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2023-11-15T09:30:00Z",
+            "updated": "2023-11-15T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-q3-2023",
+            "title": "Northern Ireland New Dwelling Statistics Q3 2023",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2023",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2023-11-15T09:30:00Z",
+            "updated": "2023-11-15T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "ni-labour-market-statistics-november-2023",
             "title": "NI Labour Market statistics: November 2023",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
@@ -6503,7 +6737,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-october-2023",
             "title": "DVA Monthly Tests Conducted Statistics: October 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-11-10T09:30:00Z",
             "updated": "2023-11-10T09:30:17Z",
@@ -6548,7 +6782,7 @@
         {
             "id": "attitudes-towards-electric-vehicles-in-northern-ireland-20222023",
             "title": "Attitudes towards electric vehicles in Northern Ireland 2022/2023",
-            "summary": "This report presents the findings from the 2022/23 Continuous Household Survey in relation to people&#39;s attitudes towards electric cars.\r\n",
+            "summary": "This report presents the findings from the 2022/23 Continuous Household Survey in relation to people's attitudes towards electric cars.\r\n",
             "url": "https://www.infrastructure-ni.gov.uk/articles/electric-cars-research",
             "release_date": "2023-11-09T09:30:00Z",
             "updated": "2023-11-09T09:30:01Z",
@@ -6782,7 +7016,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2023",
             "title": "DVA Monthly Tests Conducted Statistics: September 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-10-20T09:30:00Z",
             "updated": "2023-10-20T09:30:01Z",
@@ -7023,6 +7257,15 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "northern-ireland-draft-road-safety-strategy-to-2030-statistics",
+            "title": "Northern Ireland draft Road Safety Strategy to 2030 statistics",
+            "summary": "The Northern Ireland draft Road Safety Strategy to 2030 Annual Statistical Report monitors the progress of the strategy against agreed targets and key performance indicators.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety-research",
+            "release_date": "2023-09-28T09:30:00Z",
+            "updated": "2023-09-28T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "children-adopted-from-care-in-northern-ireland-202223",
             "title": "Children Adopted from Care in Northern Ireland 2022/23",
             "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
@@ -7039,6 +7282,15 @@
             "release_date": "2023-09-27T09:30:00Z",
             "updated": "2023-09-27T09:30:16Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "public-transport-statistics-northern-ireland-2022-23",
+            "title": "Public Transport Statistics Northern Ireland 2022-23",
+            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
+            "release_date": "2023-09-27T09:30:00Z",
+            "updated": "2023-09-27T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "census-2021-new-parliamentary-constituency-geography-data-for-northern-ireland",
@@ -7124,7 +7376,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-august-2023",
             "title": "DVA Monthly Tests Conducted Statistics: August 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-09-15T09:30:00Z",
             "updated": "2023-09-15T09:30:08Z",
@@ -7268,7 +7520,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2023",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2023",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2023-09-05T09:30:00Z",
             "updated": "2023-09-05T09:30:01Z",
@@ -7331,7 +7583,7 @@
         {
             "id": "ni-analytical-input-output-tables-2018-2019",
             "title": "NI Analytical Input-Output tables 2018 & 2019",
-            "summary": "NI Analytical Input-Output tables 2018 &amp; 2019 – industry by industry",
+            "summary": "NI Analytical Input-Output tables 2018 & 2019 – industry by industry",
             "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2023-08-31T09:30:00Z",
             "updated": "2023-08-31T09:30:08Z",
@@ -7554,6 +7806,24 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-new-dwelling-statistics-q2-2023",
+            "title": "Northern Ireland New Dwelling Statistics Q2 2023",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Apr - Jun 2023",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2023-08-16T09:30:00Z",
+            "updated": "2023-08-16T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-house-price-index-q2-2023",
+            "title": "Northern Ireland House Price Index Q2 2023",
+            "summary": "House price index and standardised prices for Northern Ireland during Apr - Jun 2023\r\n\r\n",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2023-08-16T09:30:00Z",
+            "updated": "2023-08-16T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "ni-labour-market-statistics-august-2023",
             "title": "NI Labour Market statistics: August 2023",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
@@ -7574,7 +7844,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2023",
             "title": "DVA Monthly Tests Conducted Statistics: July 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-08-11T09:30:00Z",
             "updated": "2023-08-11T09:30:10Z",
@@ -7880,7 +8150,7 @@
         {
             "id": "northern-ireland-small-service-accommodation-occupancy-2022",
             "title": "Northern Ireland Small Service Accommodation Occupancy 2022",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2022.",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2022.",
             "url": "https://www.nisra.gov.uk/publications/2022-northern-ireland-small-service-accommodation-occupancy-publication",
             "release_date": "2023-07-20T09:30:00Z",
             "updated": "2023-07-20T09:30:11Z",
@@ -7889,7 +8159,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-june-2023",
             "title": "DVA Monthly Tests Conducted Statistics: June 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-07-18T09:30:00Z",
             "updated": "2023-07-18T09:30:14Z",
@@ -8141,7 +8411,7 @@
         {
             "id": "engagement-in-culture-arts-and-sport-by-adults-in-northern-irelands-local-government-districts-2022",
             "title": "Engagement in culture, arts and sport by adults in Northern Ireland’s local government districts 2022",
-            "summary": "Statistics showing the levels of adult engagement in culture, arts and sport across Northern Ireland&#39;s local government districts.",
+            "summary": "Statistics showing the levels of adult engagement in culture, arts and sport across Northern Ireland's local government districts.",
             "url": "https://www.communities-ni.gov.uk/topics/culture-and-heritage-statistics",
             "release_date": "2023-06-29T09:30:00Z",
             "updated": "2023-06-29T09:30:06Z",
@@ -8339,7 +8609,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-may-2023",
             "title": "DVA Monthly Tests Conducted Statistics: May 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-06-20T09:30:00Z",
             "updated": "2023-06-20T09:30:00Z",
@@ -8591,7 +8861,7 @@
         {
             "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202223",
             "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2022/23",
-            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant's survey",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Complainant-Satisfaction-Survey",
             "release_date": "2023-06-08T09:30:00Z",
             "updated": "2023-06-08T09:30:00Z",
@@ -8600,7 +8870,7 @@
         {
             "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202223",
             "title": "Equality Monitoring Report:  Survey of Complainants to the Police Ombudsman for Northern Ireland, 2022/23",
-            "summary": "The Police Ombudsman&#39;s office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
+            "summary": "The Police Ombudsman's office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Profile-of-Complainants",
             "release_date": "2023-06-08T09:30:00Z",
             "updated": "2023-06-08T09:30:00Z",
@@ -8609,7 +8879,7 @@
         {
             "id": "annual-report-on-the-public-awareness-of-the-police-complaints-system-in-northern-ireland-2022",
             "title": "Annual report on the public awareness of the police complaints system in Northern Ireland , 2022",
-            "summary": "This statistical report presents the findings from the Police Ombudsman&#39;s module in the Northern Ireland Life and Times (NILT) Survey, 2022",
+            "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2022",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Public-Awareness-of-the-Office",
             "release_date": "2023-06-08T09:30:00Z",
             "updated": "2023-06-08T09:30:00Z",
@@ -8859,9 +9129,27 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-new-dwelling-statistics-q1-2023",
+            "title": "Northern Ireland New Dwelling Statistics Q1 2023",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jan - Mar 2023\r\n\r\n",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2023-05-24T09:30:00Z",
+            "updated": "2023-05-24T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-house-price-index-q1-2023",
+            "title": "Northern Ireland House Price Index Q1 2023",
+            "summary": "House price index and standardised prices for Northern Ireland during Jan - Mar 2023",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2023-05-24T09:30:00Z",
+            "updated": "2023-05-24T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2023",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2023",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2023-05-23T09:30:00Z",
             "updated": "2023-05-23T09:30:02Z",
@@ -9014,7 +9302,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-april-2023",
             "title": "DVA Monthly Tests Conducted Statistics: April 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-05-12T09:30:00Z",
             "updated": "2023-05-12T09:30:03Z",
@@ -9086,7 +9374,7 @@
         {
             "id": "six-dimensions-of-the-nation-brands-index-2022",
             "title": "Six Dimensions (of the Nation Brands Index 2022)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2022 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2022 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2022",
             "release_date": "2023-05-04T09:30:00Z",
             "updated": "2023-05-04T09:30:02Z",
@@ -9138,6 +9426,15 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "school-meals-in-northern-ireland-202223",
+            "title": "School Meals in Northern Ireland 2022/23",
+            "summary": "The purpose of this statistical bulletin is to provide results of the latest annual data collection relating to the uptake of school meals in Northern Ireland schools, previously known as the school meals census. The informa…",
+            "url": "https://www.education-ni.gov.uk/articles/school-meals-statistical-bulletins",
+            "release_date": "2023-04-27T09:30:00Z",
+            "updated": "2023-04-27T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-april-2023",
             "title": "Deaths Registered in Northern Ireland - Week ending 14 April 2023",
             "summary": "Deaths Registered in Northern Ireland - Week ending 14 April 2023",
@@ -9149,7 +9446,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2023",
             "title": "DVA Monthly Tests Conducted Statistics: March 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-04-21T09:30:00Z",
             "updated": "2023-04-21T09:30:01Z",
@@ -9453,6 +9750,15 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "coronavirus-covid-19-infection-survey-northern-ireland-weekly-report-24-march-2023",
+            "title": "Coronavirus (COVID-19) Infection Survey, Northern Ireland weekly report 24 March 2023",
+            "summary": "This report presents the latest findings for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
+            "url": "https://www.health-ni.gov.uk/articles/covid-19-infection-survey",
+            "release_date": "2023-03-24T09:30:00Z",
+            "updated": "2023-03-24T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2022-23",
             "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2022-23",
             "summary": "The purpose of this statistical release is to present final enrolment figures for schools and for children in funded preschool education in the 2022-23 academic year",
@@ -9590,7 +9896,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2023",
             "title": "DVA Monthly Tests Conducted Statistics: February 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-03-14T09:30:00Z",
             "updated": "2023-03-14T09:30:02Z",
@@ -9905,7 +10211,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-october-to-december-2022",
             "title": "Registrar General Quarterly Report (Northern Ireland) - October to December 2022",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2023-02-23T09:30:00Z",
             "updated": "2023-02-23T09:30:02Z",
@@ -10013,7 +10319,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2023",
             "title": "DVA Monthly Tests Conducted Statistics: January 2023",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-02-17T09:30:00Z",
             "updated": "2023-02-17T09:30:08Z",
@@ -10272,6 +10578,15 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "essential-skills-enrolments-and-outcomes-in-ni-201718-202122",
+            "title": "Essential Skills enrolments and outcomes in NI: 2017/18 - 2021/22",
+            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme, from 2017/18 to 2021/22",
+            "url": "https://www.economy-ni.gov.uk/articles/essential-skills-enrolments-and-outcomes",
+            "release_date": "2023-01-31T09:30:00Z",
+            "updated": "2023-01-31T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "coronavirus-covid-19-infection-survey-northern-ireland-weekly-report-27-january-2023",
             "title": "Coronavirus (COVID-19) Infection Survey, Northern Ireland weekly report 27 January 2023",
             "summary": "This report presents the latest findings for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
@@ -10436,7 +10751,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2022",
             "title": "DVA Monthly Tests Conducted Statistics: December 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2023-01-17T09:30:00Z",
             "updated": "2023-01-17T09:30:03Z",
@@ -10634,7 +10949,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2022",
             "title": "DVA Monthly Tests Conducted Statistics: November 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-12-16T09:30:00Z",
             "updated": "2022-12-16T09:30:02Z",
@@ -10715,7 +11030,7 @@
         {
             "id": "northern-ireland-research-development-2021-results",
             "title": "Northern Ireland Research & Development 2021 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2022-12-15T09:30:00Z",
             "updated": "2022-12-15T09:30:10Z",
@@ -10760,7 +11075,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2021",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2021",
-            "summary": "This release provides annual estimates of the sales &amp; purchases generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & purchases generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2022-12-14T09:30:00Z",
             "updated": "2022-12-14T09:30:01Z",
@@ -10886,7 +11201,7 @@
         {
             "id": "ni-analytical-input-output-tables-2017-2018",
             "title": "NI Analytical Input-Output tables 2017 & 2018",
-            "summary": "NI Analytical Input-Output tables 2017 &amp; 2018 – industry by industry",
+            "summary": "NI Analytical Input-Output tables 2017 & 2018 – industry by industry",
             "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2022-12-06T09:30:00Z",
             "updated": "2022-12-06T09:30:03Z",
@@ -11318,7 +11633,7 @@
         {
             "id": "structure-performance-of-the-ni-economy-2017-2018",
             "title": "Structure & Performance of the NI Economy 2017 & 2018",
-            "summary": "Structure &amp; Performance of the NI Economy 2017 &amp; 2018 including Detailed Supply-Use tables for 2017 and 2018.",
+            "summary": "Structure & Performance of the NI Economy 2017 & 2018 including Detailed Supply-Use tables for 2017 and 2018.",
             "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2022-11-22T09:30:00Z",
             "updated": "2022-11-22T09:30:05Z",
@@ -11336,7 +11651,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-october-2022",
             "title": "DVA Monthly Tests Conducted Statistics: October 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-11-18T09:30:00Z",
             "updated": "2022-11-18T09:30:00Z",
@@ -11381,7 +11696,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2022",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2022",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2022-11-15T09:30:00Z",
             "updated": "2022-11-15T09:30:06Z",
@@ -11633,7 +11948,7 @@
         {
             "id": "urgent-and-emergency-care-waiting-time-statistics-july-september-2022",
             "title": "Urgent and Emergency Care Waiting Time Statistics (July - September 2022)",
-            "summary": "Presents the time spent waiting in emergency care departments for new &amp; unplanned review attendances and the performance of NI against the ministerial target.",
+            "summary": "Presents the time spent waiting in emergency care departments for new & unplanned review attendances and the performance of NI against the ministerial target.",
             "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
             "release_date": "2022-10-27T09:30:00Z",
             "updated": "2022-10-27T09:30:07Z",
@@ -11750,7 +12065,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2022",
             "title": "DVA Monthly Tests Conducted Statistics: September 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-10-14T09:30:00Z",
             "updated": "2022-10-14T09:30:00Z",
@@ -11831,7 +12146,7 @@
         {
             "id": "northern-ireland-small-service-accommodation-providers-occupancy-2021",
             "title": "Northern Ireland Small Service Accommodation Providers Occupancy 2021",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2021.",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2021.",
             "url": "https://www.nisra.gov.uk/publications/2021-northern-ireland-small-service-accommodation-occupancy-publication",
             "release_date": "2022-10-06T09:30:00Z",
             "updated": "2022-10-06T09:30:07Z",
@@ -12128,7 +12443,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-august-2022",
             "title": "DVA Monthly Tests Conducted Statistics: August 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-09-16T09:30:00Z",
             "updated": "2022-09-16T09:30:00Z",
@@ -12333,6 +12648,33 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "apprenticeshipsni-quarterly-statistics-from-august-2013-to-april-2022",
+            "title": "ApprenticeshipsNI: Quarterly Statistics from August 2013 to April 2022.",
+            "summary": "Statistics in this bulletin cover information on the ApprenticeshipsNI programme in Northern Ireland including the number of starts and leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
+            "release_date": "2022-08-31T09:30:00Z",
+            "updated": "2022-08-31T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "training-for-success-20132017-quarterly-statistics-from-may-2013-to-april-2022",
+            "title": "Training for Success 2013/2017: Quarterly Statistics from May 2013 to April 2022.",
+            "summary": "Statistics in this bulletin cover key information on the Training for Success programme in Northern Ireland including the number of starts and leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/training-success-statistics",
+            "release_date": "2022-08-31T09:30:00Z",
+            "updated": "2022-08-31T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "skills-for-life-and-work-infographic-and-tables-september-2021-to-april-2022",
+            "title": "Skills for Life and Work Infographic and Tables - September 2021 to April 2022.",
+            "summary": "Statistics in this publication cover key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2022-08-31T09:30:00Z",
+            "updated": "2022-08-31T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2022",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2022",
             "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
@@ -12349,6 +12691,15 @@
             "release_date": "2022-08-26T09:30:00Z",
             "updated": "2022-08-26T09:30:02Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "coronavirus-covid-19-infection-survey-northern-ireland-weekly-report-26-august-2022",
+            "title": "Coronavirus (COVID-19) Infection Survey, Northern Ireland weekly report 26 August 2022",
+            "summary": "This report presents the latest findings for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
+            "url": "https://www.health-ni.gov.uk/articles/covid-19-infection-survey",
+            "release_date": "2022-08-26T09:30:00Z",
+            "updated": "2022-08-26T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "community-pharmaceutical-services-statistics-for-northern-ireland-quarter-1-202223",
@@ -12468,9 +12819,18 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "coronavirus-covid-19-infection-survey-antibody-data-for-northern-ireland-24-august-2022",
+            "title": "Coronavirus (COVID-19) Infection Survey – antibody data for Northern Ireland, 24 August 2022",
+            "summary": "This report presents the latest antibody data for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
+            "url": "https://www.health-ni.gov.uk/articles/covid-19-infection-survey",
+            "release_date": "2022-08-24T09:30:00Z",
+            "updated": "2022-08-24T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2022",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2022",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2022-08-23T09:30:00Z",
             "updated": "2022-08-23T09:30:01Z",
@@ -12531,6 +12891,24 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-new-dwelling-statistics-q2-2022",
+            "title": "Northern Ireland New Dwelling Statistics Q2 2022",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Apr - Jun 2022",
+            "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/new-dwelling-statistics",
+            "release_date": "2022-08-17T09:30:00Z",
+            "updated": "2022-08-17T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-house-price-index-q2-2022",
+            "title": "Northern Ireland House Price Index Q2 2022",
+            "summary": "House price index and standardised prices in Northern Ireland during Apr - Jun 2022",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2022-08-17T09:30:00Z",
+            "updated": "2022-08-17T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-july-2022",
             "title": "Employment in the Northern Ireland Civil Service - 1st July 2022",
             "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector, as well as a comparison with the previous year.",
@@ -12578,7 +12956,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2022",
             "title": "DVA Monthly Tests Conducted Statistics: July 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-08-12T09:30:00Z",
             "updated": "2022-08-12T00:00:00Z",
@@ -12619,6 +12997,15 @@
             "release_date": "2022-08-11T09:30:00Z",
             "updated": "2022-08-11T09:30:00Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "coronavirus-covid-19-infection-survey-antibody-data-for-northern-ireland-10-august-2022",
+            "title": "Coronavirus (COVID-19) Infection Survey – antibody data for Northern Ireland, 10 August 2022",
+            "summary": "This report presents the latest antibody data for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
+            "url": "https://www.health-ni.gov.uk/articles/covid-19-infection-survey",
+            "release_date": "2022-08-10T09:30:00Z",
+            "updated": "2022-08-10T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2022",
@@ -12812,7 +13199,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-june-2022",
             "title": "DVA Monthly Tests Conducted Statistics: June 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-07-22T09:30:00Z",
             "updated": "2022-07-22T09:30:03Z",
@@ -12983,7 +13370,7 @@
         {
             "id": "hospital-statistics-emergency-care-activity-202122",
             "title": "Hospital statistics: emergency care activity 2021/22",
-            "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned &amp; unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
+            "summary": "Presents information on activity at emergency care departments, including data on new attendances, planned & unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
             "url": "https://www.health-ni.gov.uk/publications/hospital-statistics-emergency-care-activity-202122",
             "release_date": "2022-06-30T09:30:00Z",
             "updated": "2022-06-30T09:30:02Z",
@@ -13032,6 +13419,15 @@
             "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/lone-pensioner-allowance-and-disabled-persons-allowance-statistics",
             "release_date": "2022-06-29T09:30:00Z",
             "updated": "2022-06-29T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "skills-for-life-and-work-infographic-and-tables",
+            "title": "Skills for Life and Work Infographic and Tables, September 2021 to January 2022",
+            "summary": "Statistics in this publication cover key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/publications/skills-life-and-work-statistics-september-2021-january-2022",
+            "release_date": "2022-06-29T09:30:00Z",
+            "updated": "2022-06-29T00:00:00Z",
             "release_type": "Official Statistics"
         },
         {
@@ -13181,7 +13577,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-may-2022",
             "title": "DVA Monthly Tests Conducted Statistics: May 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-06-17T09:30:00Z",
             "updated": "2022-06-17T09:30:04Z",
@@ -13204,6 +13600,15 @@
             "release_date": "2022-06-17T09:30:00Z",
             "updated": "2022-06-17T09:30:04Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "coronavirus-covid-19-infection-survey-northern-ireland-weekly-report-17-june-2022",
+            "title": "Coronavirus (COVID-19) Infection Survey, Northern Ireland weekly report 17 June 2022",
+            "summary": "This report presents the latest findings for Northern Ireland from the Coronavirus (COVID-19) Infection Survey.",
+            "url": "https://www.health-ni.gov.uk/articles/covid-19-infection-survey",
+            "release_date": "2022-06-17T09:30:00Z",
+            "updated": "2022-06-17T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "family-practitioner-services-ophthalmic-statistics-for-northern-ireland-202122",
@@ -13361,7 +13766,7 @@
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-may-2022-3-june-2022",
             "title": "Deaths Registered in Northern Ireland - Week ending 27 May 2022 & 3 June 2022",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 27 May 2022 &amp; 3 June 2022",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 27 May 2022 & 3 June 2022",
             "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
             "release_date": "2022-06-10T09:30:00Z",
             "updated": "2022-06-10T09:30:07Z",
@@ -13406,7 +13811,7 @@
         {
             "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202122",
             "title": "Equality Monitoring Report: Survey of Complainants to the Police Ombudsman for Northern Ireland, 2021/22",
-            "summary": "The Police Ombudsman&#39;s office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
+            "summary": "The Police Ombudsman's office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Profile-of-Complainants",
             "release_date": "2022-06-09T09:30:00Z",
             "updated": "2022-06-09T09:30:06Z",
@@ -13415,7 +13820,7 @@
         {
             "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202122",
             "title": "Annual Report on complainant Satisfaction with services provided by the Police Ombudsman's Office, 2021/22",
-            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant&#39;s survey",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant's survey",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Complainant-Satisfaction-Survey",
             "release_date": "2022-06-09T09:30:00Z",
             "updated": "2022-06-09T09:30:06Z",
@@ -13586,7 +13991,7 @@
         {
             "id": "annual-report-on-public-awareness-of-the-police-complaints-system-2021",
             "title": "Annual Report on Public awareness of the police complaints system 2021",
-            "summary": "This statistical report presents the findings from the Police Ombudsman&#39;s module in the Northern Ireland Life and Times (NILT) Survey, 2021",
+            "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2021",
             "url": "https://www.policeombudsman.org/Statistics-and-Research/Public-Awareness-of-the-Office",
             "release_date": "2022-05-26T09:30:00Z",
             "updated": "2022-05-26T09:30:00Z",
@@ -13604,7 +14009,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2022",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2022",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths &amp; Infant Deaths",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2022-05-25T09:30:00Z",
             "updated": "2022-05-25T09:30:06Z",
@@ -13782,6 +14187,24 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "northern-ireland-house-price-index-q1-2022",
+            "title": "Northern Ireland House Price Index Q1 2022",
+            "summary": "House price index and standardised prices in Northern Ireland during Jan - Mar 2022.",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2022-05-18T09:30:00Z",
+            "updated": "2022-05-18T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-q1-2022",
+            "title": "Northern Ireland New Dwelling Statistics Q1 2022",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jan - Mar 2022",
+            "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/new-dwelling-statistics",
+            "release_date": "2022-05-18T09:30:00Z",
+            "updated": "2022-05-18T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-april-2022",
             "title": "Employment in the Northern Ireland Civil Service - 1st April 2022",
             "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector, as well as a comparison with the previous year.",
@@ -13811,7 +14234,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-april-2022",
             "title": "DVA Monthly Tests Conducted Statistics: April 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-05-13T09:30:00Z",
             "updated": "2022-05-13T09:30:00Z",
@@ -13883,7 +14306,7 @@
         {
             "id": "results-from-january-to-march-2022-of-the-nisra-coronavirus-covid-19-opinion-survey",
             "title": "Results from January to March 2022 of the NISRA Coronavirus (COVID-19) Opinion Survey",
-            "summary": "Results from January to March 2022 of the NISRA Coronavirus (COVID-19) Opinion Survey. The survey is designed to measure how the COVID-19 pandemic is affecting people&#39;s lives and behaviour in Northern Ireland. The result…",
+            "summary": "Results from January to March 2022 of the NISRA Coronavirus (COVID-19) Opinion Survey. The survey is designed to measure how the COVID-19 pandemic is affecting people's lives and behaviour in Northern Ireland. The result…",
             "url": "https://www.nisra.gov.uk/publications/nisra-coronavirus-covid-19-opinion-survey",
             "release_date": "2022-05-12T09:30:00Z",
             "updated": "2022-05-12T09:30:03Z",
@@ -14063,7 +14486,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2021-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2021: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2021. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2021. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/ashe-pensions-results",
             "release_date": "2022-04-20T09:30:00Z",
             "updated": "2022-04-20T09:30:02Z",
@@ -14072,7 +14495,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2022",
             "title": "DVA Monthly Tests Conducted Statistics: March 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-04-15T09:30:00Z",
             "updated": "2022-04-15T09:30:05Z",
@@ -14441,7 +14864,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2022",
             "title": "DVA Monthly Tests Conducted Statistics: February 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-03-16T09:30:00Z",
             "updated": "2022-03-16T09:30:06Z",
@@ -14661,6 +15084,15 @@
             "url": "https://www.daera-ni.gov.uk/articles/agricultural-census-northern-ireland",
             "release_date": "2022-03-03T09:30:00Z",
             "updated": "2022-03-03T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202021",
+            "title": "Attendance at grant aided primary, post primary and special schools 2020/21",
+            "summary": "The purpose of this statistical bulletin is to present final attendance figures for schools for the 2020/21 academic year. It includes information on the rates of absence, type of absence and reason for absence.",
+            "url": "https://www.education-ni.gov.uk/articles/pupil-attendance",
+            "release_date": "2022-03-03T09:30:00Z",
+            "updated": "2022-03-03T00:00:00Z",
             "release_type": "Accredited official statistics"
         },
         {
@@ -15026,7 +15458,7 @@
         {
             "id": "six-dimensions-of-the-nation-brands-index-2021",
             "title": "Six Dimensions (of the Nation Brands Index 2021)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2021 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2021 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2021",
             "release_date": "2022-02-16T09:30:00Z",
             "updated": "2022-02-16T09:30:01Z",
@@ -15044,7 +15476,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2022",
             "title": "DVA Monthly Tests Conducted Statistics: January 2022",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-02-16T09:30:00Z",
             "updated": "2022-02-16T09:30:01Z",
@@ -15458,7 +15890,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2021",
             "title": "DVA Monthly Tests Conducted Statistics: December 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2022-01-14T09:30:00Z",
             "updated": "2022-01-14T09:30:00Z",
@@ -15539,7 +15971,7 @@
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24th-december-2021-31st-december-2021",
             "title": "Deaths Registered in Northern Ireland - Week ending 24th December 2021 & 31st December 2021",
-            "summary": "Deaths Registered in Northern Ireland - Week ending 24th December 2021 &amp; 31st December 2021",
+            "summary": "Deaths Registered in Northern Ireland - Week ending 24th December 2021 & 31st December 2021",
             "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
             "release_date": "2022-01-07T09:30:00Z",
             "updated": "2022-01-07T09:30:06Z",
@@ -15719,7 +16151,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2021",
             "title": "DVA Monthly Tests Conducted Statistics: November 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-12-15T09:30:00Z",
             "updated": "2021-12-15T09:30:03Z",
@@ -15728,7 +16160,7 @@
         {
             "id": "northern-ireland-research-development-2020-results",
             "title": "Northern Ireland Research & Development 2020 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2021-12-15T09:30:00Z",
             "updated": "2021-12-15T09:30:03Z",
@@ -15764,7 +16196,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2020",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2020",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2021-12-15T09:30:00Z",
             "updated": "2021-12-15T09:30:03Z",
@@ -16034,7 +16466,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2021",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2021",
-            "summary": "Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2021-11-25T09:30:00Z",
             "updated": "2021-11-25T09:50:52Z",
@@ -16250,7 +16682,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-october-2021",
             "title": "DVA Monthly Tests Conducted Statistics: October 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-11-19T09:30:00Z",
             "updated": "2021-11-19T09:30:01Z",
@@ -16745,7 +17177,7 @@
         {
             "id": "structure-performance-of-the-ni-economy-2016-2017",
             "title": "Structure & Performance of the NI Economy 2016 & 2017",
-            "summary": "Structure &amp; Performance of the NI Economy 2016 &amp; 2017 including Detailed Supply-Use tables for 2016 and 2017",
+            "summary": "Structure & Performance of the NI Economy 2016 & 2017 including Detailed Supply-Use tables for 2016 and 2017",
             "url": "https://www.nisra.gov.uk/statistics/economic-accounts-project/ni-economic-accounts-overview",
             "release_date": "2021-10-21T09:30:00Z",
             "updated": "2021-10-21T09:30:02Z",
@@ -16772,7 +17204,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2021",
             "title": "DVA Monthly Tests Conducted Statistics: September 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-10-20T09:30:00Z",
             "updated": "2021-10-20T09:30:00Z",
@@ -16862,7 +17294,7 @@
         {
             "id": "investment-in-general-practice-northern-ireland-201617-to-202021",
             "title": "Investment in General Practice, Northern Ireland 2016/17 to 2020/21",
-            "summary": "This report details the investment in general practice &amp; the reimbursement for drugs dispensed in general practices in Northern Ireland from 2015/16 to 2020/21.",
+            "summary": "This report details the investment in general practice & the reimbursement for drugs dispensed in general practices in Northern Ireland from 2015/16 to 2020/21.",
             "url": "https://www.health-ni.gov.uk/articles/investment-general-practice",
             "release_date": "2021-10-08T09:30:00Z",
             "updated": "2021-10-08T09:30:05Z",
@@ -17078,7 +17510,7 @@
         {
             "id": "nation-brands-index-2021-international-perceptions-of-northern-irelands-response-to-covid-19",
             "title": "Nation Brands Index 2021: International Perceptions of Northern Ireland’s response to COVID-19",
-            "summary": "This bulletin is the first in a series on Northern Ireland’s international reputation for 2021, focusing on respondents&#39; perceptions of Northern Ireland&#39;s response to healthcare crises, including COVID-19.",
+            "summary": "This bulletin is the first in a series on Northern Ireland’s international reputation for 2021, focusing on respondents' perceptions of Northern Ireland's response to healthcare crises, including COVID-19.",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/nation-brands-index-2021-covid-19-bulletin",
             "release_date": "2021-09-29T09:30:00Z",
             "updated": "2021-09-29T09:30:03Z",
@@ -17222,7 +17654,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-august-2021",
             "title": "DVA Monthly Tests Conducted Statistics: August 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-09-14T09:30:00Z",
             "updated": "2021-09-14T09:30:05Z",
@@ -17447,7 +17879,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2021",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2021",
-            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2021-08-26T09:30:00Z",
             "updated": "2021-08-26T09:30:03Z",
@@ -17663,7 +18095,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2021",
             "title": "DVA Monthly Tests Conducted Statistics: July 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-08-18T09:30:00Z",
             "updated": "2021-08-18T09:30:06Z",
@@ -18149,7 +18581,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-june-2021",
             "title": "DVA Monthly Tests Conducted Statistics: June 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-07-20T09:30:00Z",
             "updated": "2021-07-20T09:30:05Z",
@@ -18464,7 +18896,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2021",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2021",
-            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
             "release_date": "2021-06-23T09:30:00Z",
             "updated": "2021-06-23T09:30:07Z",
@@ -18482,7 +18914,7 @@
         {
             "id": "ni-lone-pensioner-and-disabled-persons-allowance-statistics-2021",
             "title": "NI Lone Pensioner and Disabled Persons Allowance Statistics 2021",
-            "summary": "Land &amp; Property Services process applications from ratepayers for LPA and DPA.  These statistics show the number of persons and net amount awarded each year. ",
+            "summary": "Land & Property Services process applications from ratepayers for LPA and DPA.  These statistics show the number of persons and net amount awarded each year. ",
             "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/lone-pensioner-allowance-and-disabled-persons-allowance-statistics",
             "release_date": "2021-06-23T09:30:00Z",
             "updated": "2021-06-23T09:30:07Z",
@@ -18617,7 +19049,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-may-2021",
             "title": "DVA Monthly Tests Conducted Statistics: May 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-06-15T09:30:00Z",
             "updated": "2021-06-15T09:30:00Z",
@@ -19130,7 +19562,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-april-2021",
             "title": "DVA Monthly Tests Conducted Statistics: April 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-05-18T09:30:00Z",
             "updated": "2021-05-18T09:30:03Z",
@@ -19310,7 +19742,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2020-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2020: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2020. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2020. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/ashe-pensions-results",
             "release_date": "2021-05-10T09:30:00Z",
             "updated": "2021-05-10T09:30:05Z",
@@ -19364,7 +19796,7 @@
         {
             "id": "employment-vacancies-statistical-bulletin-2020-21-financial-year",
             "title": "Employment Vacancies – Statistical Bulletin 2020-21 Financial Year",
-            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs &amp; Benefits Offices (JCs and J&amp;BOs).",
+            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs & Benefits Offices (JCs and J&BOs).",
             "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/labour-market-information",
             "release_date": "2021-05-05T09:30:00Z",
             "updated": "2021-05-05T09:30:04Z",
@@ -19454,7 +19886,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2019",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2019",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2021-04-28T09:30:00Z",
             "updated": "2021-04-28T09:30:05Z",
@@ -19526,7 +19958,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2021",
             "title": "DVA Monthly Tests Conducted Statistics: March 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-04-16T09:30:00Z",
             "updated": "2021-04-16T09:30:06Z",
@@ -19778,7 +20210,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-october-to-december-2020",
             "title": "Registrar General Quarterly Report (Northern Ireland) - October to December 2020",
-            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/publications/registrar-general-quarterly-tables-2020",
             "release_date": "2021-03-24T09:30:00Z",
             "updated": "2021-03-24T09:30:02Z",
@@ -19886,7 +20318,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2021",
             "title": "DVA Monthly Tests Conducted Statistics: February 2021",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-03-12T09:30:00Z",
             "updated": "2021-03-12T09:30:00Z",
@@ -19895,7 +20327,7 @@
         {
             "id": "six-dimensions-of-the-nations-brands-index-2020",
             "title": "Six Dimensions (of the Nations Brands Index 2020)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2020 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2020 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2020",
             "release_date": "2021-03-11T09:30:00Z",
             "updated": "2021-03-11T09:30:04Z",
@@ -20363,7 +20795,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2021",
             "title": "DVA Monthly Tests Conducted Statistics: January 2021",
-            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland.",
+            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-02-12T09:30:00Z",
             "updated": "2021-02-12T09:30:04Z",
@@ -20669,7 +21101,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2020",
             "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2020",
-            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/publications/registrar-general-quarterly-tables-2020",
             "release_date": "2021-01-27T09:30:00Z",
             "updated": "2021-01-27T09:30:03Z",
@@ -20732,7 +21164,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2020",
             "title": "DVA Monthly Tests Conducted Statistics: December 2020",
-            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2021-01-15T09:30:00Z",
             "updated": "2021-01-15T09:30:04Z",
@@ -21074,7 +21506,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2020",
             "title": "DVA Monthly Tests Conducted Statistics: November 2020",
-            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2020-12-15T09:30:00Z",
             "updated": "2020-12-15T09:30:02Z",
@@ -21344,7 +21776,7 @@
         {
             "id": "attitudes-towards-electric-vehicles-in-northern-ireland-20192020",
             "title": "Attitudes towards electric vehicles in Northern Ireland 2019/2020",
-            "summary": "This report presents the findings from the 2019/20 Continuous Household Survey in relation to people&#39;s attitudes towards electric cars. ",
+            "summary": "This report presents the findings from the 2019/20 Continuous Household Survey in relation to people's attitudes towards electric cars. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/electric-cars-research",
             "release_date": "2020-11-26T09:30:00Z",
             "updated": "2020-11-26T09:30:05Z",
@@ -21668,7 +22100,7 @@
         {
             "id": "dva-monthly-tests-conducted-statistics-october-2020",
             "title": "DVA Monthly Tests Conducted Statistics: October 2020",
-            "summary": "A new, monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver &amp; Vehicle Agency (DVA) in Northern Ireland. ",
+            "summary": "A new, monthly, publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/driver-and-vehicle-agency-monthly-tests-conducted-statistics",
             "release_date": "2020-11-13T09:30:00Z",
             "updated": "2020-11-13T09:30:00Z",
@@ -22064,7 +22496,7 @@
         {
             "id": "northern-ireland-guesthouses-bed-breakfasts-and-guest-accommodation-occupancy-2019",
             "title": "Northern Ireland Guesthouses, Bed & Breakfasts and Guest Accommodation Occupancy 2019",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2019.",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2019.",
             "url": "https://www.nisra.gov.uk/publications/annual-guesthouse-bed-breakfast-and-guest-accommodation-occupancy-publications",
             "release_date": "2020-10-22T09:30:00Z",
             "updated": "2020-10-22T09:30:02Z",
@@ -22622,7 +23054,7 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2020",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2020",
-            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths &amp; Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
+            "summary": "Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables",
             "url": "https://www.nisra.gov.uk/publications/registrar-general-quarterly-tables-2020",
             "release_date": "2020-09-17T09:30:00Z",
             "updated": "2020-09-17T09:30:00Z",
@@ -22667,7 +23099,7 @@
         {
             "id": "nation-brands-index-2020-international-perceptions-of-northern-irelands-response-to-covid-19",
             "title": "Nation Brands Index 2020: International Perceptions of Northern Ireland’s response to COVID-19",
-            "summary": "This bulletin is the first in a series on Northern Ireland’s international reputation for 2020, focusing on respondents&#39; perceptions of Northern Ireland&#39;s response to healthcare crises, including COVID-19. ",
+            "summary": "This bulletin is the first in a series on Northern Ireland’s international reputation for 2020, focusing on respondents' perceptions of Northern Ireland's response to healthcare crises, including COVID-19. ",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/nation-brands-index-2020-covid-19-bulletin",
             "release_date": "2020-09-15T09:30:00Z",
             "updated": "2020-09-15T09:30:06Z",
@@ -22811,7 +23243,7 @@
         {
             "id": "travel-to-and-from-school-ypbas-2019",
             "title": "Travel to and from school - YPBAS 2019",
-            "summary": "This factsheet presents findings from the 2019 Young Persons&#39; Behaviour and Attitudes Survey in relation to travelling to and from school. ",
+            "summary": "This factsheet presents findings from the 2019 Young Persons' Behaviour and Attitudes Survey in relation to travelling to and from school. ",
             "url": "https://www.infrastructure-ni.gov.uk/articles/young-persons-behaviour-and-attitude-survey",
             "release_date": "2020-09-03T09:30:00Z",
             "updated": "2020-09-03T09:30:00Z",
@@ -23441,7 +23873,7 @@
         {
             "id": "employment-vacancies-statistical-bulletin-2019-20-financial-year",
             "title": "Employment Vacancies – Statistical Bulletin 2019-20 Financial Year",
-            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs &amp; Benefits Offices (JCs and J&amp;BOs).",
+            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs & Benefits Offices (JCs and J&BOs).",
             "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/labour-market-information",
             "release_date": "2020-07-29T09:30:00Z",
             "updated": "2020-07-29T09:30:00Z",
@@ -23684,7 +24116,7 @@
         {
             "id": "accident-emergency-care-statistics-in-northern-ireland-financial-year-ending-march-2020",
             "title": "Accident & Emergency Care Statistics in Northern Ireland: Financial Year ending March 2020",
-            "summary": "Provides information on new, planned &amp; unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
+            "summary": "Provides information on new, planned & unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
             "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
             "release_date": "2020-07-02T09:30:00Z",
             "updated": "2020-07-02T09:30:04Z",
@@ -23819,7 +24251,7 @@
         {
             "id": "ni-lone-pensioner-and-disabled-persons-allowance-statistics-2020",
             "title": "NI Lone Pensioner and Disabled Persons Allowance statistics 2020",
-            "summary": "Land &amp; Property Services NI process applications from ratepayers for LPA and DPA. These statistics show the number of persons and net amount awarded each year.",
+            "summary": "Land & Property Services NI process applications from ratepayers for LPA and DPA. These statistics show the number of persons and net amount awarded each year.",
             "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/lone-pensioner-allowance-and-disabled-persons-allowance-statistics",
             "release_date": "2020-06-24T09:30:00Z",
             "updated": "2020-06-24T09:30:03Z",
@@ -24584,7 +25016,7 @@
         {
             "id": "six-dimensions-of-the-nations-brands-index-2019",
             "title": "Six Dimensions (of the Nations Brands Index 2019)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2019 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2019 Anholt Ipsos Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tou…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2019",
             "release_date": "2020-03-25T09:30:00Z",
             "updated": "2020-03-25T09:30:08Z",
@@ -24737,7 +25169,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2019-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2019: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2019. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2019. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2020-03-04T09:30:00Z",
             "updated": "2020-03-04T09:30:08Z",
@@ -25358,7 +25790,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-july-to-september-2019",
             "title": "Waiting time statistics: cancer waiting times (July to September 2019)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during July, August &amp; September 2019.",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during July, August & September 2019.",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2020-01-08T09:30:00Z",
             "updated": "2020-01-08T09:30:00Z",
@@ -25439,7 +25871,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2018",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2018",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses.",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2019-12-19T09:30:00Z",
             "updated": "2019-12-19T09:30:03Z",
@@ -25871,7 +26303,7 @@
         {
             "id": "northern-ireland-research-development-2018-results",
             "title": "Northern Ireland Research & Development 2018 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2019-11-21T09:30:00Z",
             "updated": "2019-11-21T09:30:01Z",
@@ -26420,7 +26852,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-april-to-june-2019",
             "title": "Waiting time statistics: cancer waiting times (April to June 2019)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during April, May &amp; June 2019.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during April, May & June 2019.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2019-09-26T09:30:00Z",
             "updated": "2019-09-26T09:30:00Z",
@@ -27212,7 +27644,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-january-to-march-2019",
             "title": "Waiting time statistics: cancer waiting times (January to March 2019)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during January, February &amp; March 2019.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during January, February & March 2019.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2019-06-27T09:30:00Z",
             "updated": "2019-06-27T09:30:06Z",
@@ -27311,7 +27743,7 @@
         {
             "id": "accident-emergency-care-statistics-in-northern-ireland-financial-year-ending-march-2019",
             "title": "Accident & emergency care statistics in Northern Ireland: financial year ending March 2019",
-            "summary": "Provides information on new, planned &amp; unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
+            "summary": "Provides information on new, planned & unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
             "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
             "release_date": "2019-06-21T09:30:00Z",
             "updated": "2019-06-21T09:30:03Z",
@@ -27437,7 +27869,7 @@
         {
             "id": "ni-lone-pensioner-and-disabled-persons-allowance-statistics-2019",
             "title": "NI Lone Pensioner and Disabled Persons Allowance statistics 2019",
-            "summary": "Land &amp; Property Services NI process applications from ratepayers for LPA and DPA. These statistics show the number of persons and net amount awarded each year.",
+            "summary": "Land & Property Services NI process applications from ratepayers for LPA and DPA. These statistics show the number of persons and net amount awarded each year.",
             "url": "https://www.finance-ni.gov.uk/topics/statistics-and-research/lone-pensioner-allowance-and-disabled-persons-allowance-statistics",
             "release_date": "2019-06-12T09:30:00Z",
             "updated": "2019-06-12T09:30:04Z",
@@ -27509,7 +27941,7 @@
         {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-march-2019",
             "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending March 2019",
-            "summary": "Reports against the Programme for Government and the Executive&#39;s Strategic Energy Framework targets",
+            "summary": "Reports against the Programme for Government and the Executive's Strategic Energy Framework targets",
             "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
             "release_date": "2019-06-06T09:30:00Z",
             "updated": "2019-06-06T09:30:06Z",
@@ -27536,7 +27968,7 @@
         {
             "id": "northern-ireland-guesthouses-bed-breakfasts-and-guest-accommodation-occupancy-2018",
             "title": "Northern Ireland Guesthouses, Bed & Breakfasts and Guest Accommodation Occupancy 2018",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2018. ",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2018. ",
             "url": "https://www.nisra.gov.uk/publications/annual-guesthouse-bed-breakfast-and-guest-accommodation-occupancy-publications",
             "release_date": "2019-06-06T09:30:00Z",
             "updated": "2019-06-06T09:30:00Z",
@@ -27707,7 +28139,7 @@
         {
             "id": "six-dimensions-of-the-nations-brands-index-2018",
             "title": "Six Dimensions (of the Nations Brands Index 2018)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2018 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2018 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2018",
             "release_date": "2019-05-29T09:30:00Z",
             "updated": "2019-05-29T09:30:00Z",
@@ -27968,7 +28400,7 @@
         {
             "id": "employment-vacancies-statistical-bulletin-2018-19-financial-year",
             "title": "Employment Vacancies – Statistical Bulletin 2018-19 Financial Year",
-            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs &amp; Benefits Offices (JCs and J&amp;BOs).\r\n",
+            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities (DfC) JobCentres / Jobs & Benefits Offices (JCs and J&BOs).\r\n",
             "url": "https://www.communities-ni.gov.uk/topics/labour-market-information",
             "release_date": "2019-05-01T09:30:00Z",
             "updated": "2019-05-01T09:30:00Z",
@@ -28058,7 +28490,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2018-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2018: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2018. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2018. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2019-04-12T09:30:00Z",
             "updated": "2019-04-12T09:30:03Z",
@@ -28157,7 +28589,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-october-to-december-2018",
             "title": "Waiting time statistics: cancer waiting times (October to December 2018)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during October, November &amp; December 2018.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during October, November & December 2018.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2019-03-28T09:30:00Z",
             "updated": "2019-03-28T09:30:09Z",
@@ -28751,7 +29183,7 @@
         {
             "id": "employment-vacancies-statistics-from-october-to-december-2018",
             "title": "Employment Vacancies – Statistics from October to December 2018",
-            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities(DfC) JobCentres/Jobs &amp; Benefits Offices (JCs and J&amp;BOs).\r\n",
+            "summary": "This factsheet presents information on employment vacancies which have been notified to the Department for Communities(DfC) JobCentres/Jobs & Benefits Offices (JCs and J&BOs).\r\n",
             "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/labour-market-information",
             "release_date": "2019-01-30T09:30:00Z",
             "updated": "2019-01-30T09:30:09Z",
@@ -29039,7 +29471,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2017",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2017",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2018-12-12T09:30:00Z",
             "updated": "2018-12-12T09:30:07Z",
@@ -29291,7 +29723,7 @@
         {
             "id": "northern-ireland-research-development-2017-results",
             "title": "Northern Ireland Research & Development 2017 Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2018-11-28T09:30:00Z",
             "updated": "2018-11-28T09:30:10Z",
@@ -29498,7 +29930,7 @@
         {
             "id": "magistrates-court-bulletin-july-to-september-2018",
             "title": "Magistrates' Court Bulletin July to September 2018",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": "2018-11-09T09:30:00Z",
             "updated": "2018-11-09T09:30:00Z",
@@ -29777,7 +30209,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-april-to-june-2018",
             "title": "Waiting time statistics: cancer waiting times (April to June 2018)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during April, May &amp; June 2018.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during April, May & June 2018.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2018-09-20T09:30:00Z",
             "updated": "2018-09-20T09:30:00Z",
@@ -29912,7 +30344,7 @@
         {
             "id": "magistrates-court-bulletin-april-to-june-2018",
             "title": "Magistrates' Court Bulletin April to June 2018",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": "2018-09-03T09:30:00Z",
             "updated": "2018-09-03T16:30:00Z",
@@ -29930,7 +30362,7 @@
         {
             "id": "magistrates-court-bulletin-january-to-march-2017",
             "title": "Magistrates' Court Bulletin January to March 2017",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:43:15Z",
@@ -29984,7 +30416,7 @@
         {
             "id": "judicial-statistics-2016",
             "title": "Judicial Statistics 2016",
-            "summary": "The statistics in this report relate to criminal, civil &amp; family business conducted by the NICTS and to the work of some associated offices",
+            "summary": "The statistics in this report relate to criminal, civil & family business conducted by the NICTS and to the work of some associated offices",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
             "release_date": null,
             "updated": "2018-09-03T15:29:15Z",
@@ -30011,7 +30443,7 @@
         {
             "id": "high-court-bulletin-july-to-september-2017",
             "title": "High Court Bulletin July to September 2017",
-            "summary": "This publication contains information on the High Court in Northern Ireland in relation to the Chancery, Queen&#39;s Bench and Family Divisions.",
+            "summary": "This publication contains information on the High Court in Northern Ireland in relation to the Chancery, Queen's Bench and Family Divisions.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-high-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:28:19Z",
@@ -30029,7 +30461,7 @@
         {
             "id": "magistrates-court-bulletin-july-to-september-2017",
             "title": "Magistrates' Court Bulletin July to September 2017",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:27:48Z",
@@ -30074,7 +30506,7 @@
         {
             "id": "magistrates-court-bulletin-april-to-june-2017",
             "title": "Magistrates' Court Bulletin April to June 2017",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:23:25Z",
@@ -30101,7 +30533,7 @@
         {
             "id": "magistrates-court-bulletin-october-to-december-2017",
             "title": "Magistrates' Court Bulletin October to December 2017",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:22:10Z",
@@ -30182,7 +30614,7 @@
         {
             "id": "magistrates-court-bulletin-october-to-december-2016",
             "title": "Magistrates' Court Bulletin October to December 2016",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:17:51Z",
@@ -30236,7 +30668,7 @@
         {
             "id": "magistrates-court-bulletin-july-to-september-2016",
             "title": "Magistrates' Court Bulletin July to September 2016",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:14:41Z",
@@ -30254,7 +30686,7 @@
         {
             "id": "magistrates-court-bulletin-july-to-september-2015",
             "title": "Magistrates' Court Bulletin July to September 2015",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-09-03T15:13:41Z",
@@ -30614,7 +31046,7 @@
         {
             "id": "judicial-statistics-2017",
             "title": "Judicial Statistics 2017",
-            "summary": "The statistics in this report relate to criminal, civil &amp; family business conducted by the NICTS and to the work of some associated offices.",
+            "summary": "The statistics in this report relate to criminal, civil & family business conducted by the NICTS and to the work of some associated offices.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
             "release_date": "2018-06-29T09:30:00Z",
             "updated": "2018-06-29T10:38:00Z",
@@ -30659,7 +31091,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-january-to-march-2018",
             "title": "Waiting time statistics: cancer waiting times (January to March 2018)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during January, February &amp; March 2018\r\n",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during January, February & March 2018\r\n",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2018-06-28T09:30:00Z",
             "updated": "2018-06-28T09:30:02Z",
@@ -30749,7 +31181,7 @@
         {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2018",
             "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2018",
-            "summary": "The latest figures for key indicators of the wider social determinants of health &amp; wellbeing according to themes in the making life better strategic framework.",
+            "summary": "The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
             "url": "https://www.health-ni.gov.uk/articles/social-determinants-health-statistics",
             "release_date": "2018-06-13T09:30:00Z",
             "updated": "2018-06-13T09:30:01Z",
@@ -30794,7 +31226,7 @@
         {
             "id": "northern-ireland-guesthouses-bed-breakfasts-and-guest-accommodation-occupancy-2017",
             "title": "Northern Ireland Guesthouses, Bed & Breakfasts and Guest Accommodation Occupancy 2017",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2017. ",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2017. ",
             "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
             "release_date": "2018-06-07T09:30:00Z",
             "updated": "2018-06-07T09:30:04Z",
@@ -30857,7 +31289,7 @@
         {
             "id": "six-dimensions-of-the-nations-brands-index-2017",
             "title": "Six Dimensions (of the Nations Brands Index 2017)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2017 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2017 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
             "url": "https://www.executiveoffice-ni.gov.uk/publications/six-dimensions-nation-brands-index-2017",
             "release_date": "2018-05-31T09:30:00Z",
             "updated": "2018-05-31T09:30:11Z",
@@ -30938,7 +31370,7 @@
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-march-2018",
             "title": "Quarterly Direct Payment Statistics for Northern Ireland (March 2018)",
-            "summary": "Presents quarterly information collected from Health &amp; Social Care Trusts on the number of and the amount paid by direct payments",
+            "summary": "Presents quarterly information collected from Health & Social Care Trusts on the number of and the amount paid by direct payments",
             "url": "https://www.health-ni.gov.uk/articles/direct-payments",
             "release_date": "2018-05-24T09:30:00Z",
             "updated": "2018-05-24T09:30:13Z",
@@ -31055,7 +31487,7 @@
         {
             "id": "magistrates-court-bulletin-january-to-march-2018",
             "title": "Magistrates' Court Bulletin January to March 2018",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": "2018-05-04T09:30:00Z",
             "updated": "2018-05-04T09:30:00Z",
@@ -31145,7 +31577,7 @@
         {
             "id": "judicial-statistics-2014",
             "title": "Judicial Statistics 2014",
-            "summary": "The statistics in this report relate to criminal, civil &amp; family business conducted by the NICTS and to the work of some associated offices",
+            "summary": "The statistics in this report relate to criminal, civil & family business conducted by the NICTS and to the work of some associated offices",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
             "release_date": "2018-04-02T09:30:00Z",
             "updated": "2018-04-02T10:30:00Z",
@@ -31190,7 +31622,7 @@
         {
             "id": "magistrates-court-bulletin-january-to-march-2016",
             "title": "Magistrates' Court Bulletin January to March 2016",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland\r\n",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T16:28:01Z",
@@ -31262,7 +31694,7 @@
         {
             "id": "magistrates-court-bulletin-october-to-december-2015",
             "title": "Magistrates' Court Bulletin October to December 2015",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T16:21:42Z",
@@ -31307,7 +31739,7 @@
         {
             "id": "judicial-statistics-2015",
             "title": "Judicial Statistics 2015",
-            "summary": "The statistics in this report relate to criminal, civil &amp; family business conducted by the NICTS and to the work of some associated offices\r\n\r\n",
+            "summary": "The statistics in this report relate to criminal, civil & family business conducted by the NICTS and to the work of some associated offices\r\n\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
             "release_date": null,
             "updated": "2018-03-30T16:17:41Z",
@@ -31316,7 +31748,7 @@
         {
             "id": "magistrates-court-bulletin-april-to-june-2016",
             "title": "Magistrates' Court Bulletin April to June 2016",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.\r\n\r\n",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.\r\n\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T16:17:17Z",
@@ -31379,7 +31811,7 @@
         {
             "id": "magistrates-court-bulletin-july-to-september-2014",
             "title": "Magistrates' Court Bulletin July to September 2014",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T12:03:51Z",
@@ -31424,7 +31856,7 @@
         {
             "id": "magistrates-court-bulletin-october-to-december-2014",
             "title": "Magistrates' Court Bulletin October to December 2014",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.\r\n\r\n",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.\r\n\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T12:01:49Z",
@@ -31487,7 +31919,7 @@
         {
             "id": "magistrates-court-bulletin-january-to-march-2015",
             "title": "Magistrates' Court Bulletin January to March 2015",
-            "summary": "Magistrates&#39; Court Bulletin January to March 2015\r\n\r\n",
+            "summary": "Magistrates' Court Bulletin January to March 2015\r\n\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T11:57:39Z",
@@ -31577,7 +32009,7 @@
         {
             "id": "magistrates-court-bulletin-april-to-june-2015",
             "title": "Magistrates' Court Bulletin April to June 2015",
-            "summary": "This publication contains information on the criminal magistrates&#39; adult and youth courts and civil magistrates&#39; courts in Northern Ireland.\r\n\r\n",
+            "summary": "This publication contains information on the criminal magistrates' adult and youth courts and civil magistrates' courts in Northern Ireland.\r\n\r\n",
             "url": "https://www.justice-ni.gov.uk/publications/nicts-magistrates-court-bulletin",
             "release_date": null,
             "updated": "2018-03-30T11:30:14Z",
@@ -31676,7 +32108,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2017-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2017: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2017. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2017. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2018-03-26T09:30:00Z",
             "updated": "2018-03-26T09:30:18Z",
@@ -31802,7 +32234,7 @@
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2017",
             "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2017)",
-            "summary": "Presents quarterly information collected from Health &amp; Social Care Trusts on the number of and the amount paid by direct payments",
+            "summary": "Presents quarterly information collected from Health & Social Care Trusts on the number of and the amount paid by direct payments",
             "url": "https://www.health-ni.gov.uk/articles/direct-payments",
             "release_date": "2018-02-23T09:30:00Z",
             "updated": "2018-02-23T09:30:01Z",
@@ -31865,7 +32297,7 @@
         {
             "id": "omnibus-survey-attitudes-to-social-welfare-reform-autumn-2017",
             "title": "Omnibus Survey :Attitudes to Social Welfare & Reform Autumn  2017",
-            "summary": "This publication presents the results of a Department for Communities&#39; module in the Autumn 2017 Omnibus Survey.",
+            "summary": "This publication presents the results of a Department for Communities' module in the Autumn 2017 Omnibus Survey.",
             "url": "https://www.communities-ni.gov.uk/publications?search=omnibus&Search-exposed-form=Go&as_sfid=AAAAAAV_uqGvWYInGbP1flyT-iO9Wc_B2nZdNUSfMr5n_Z5-oZ6yde7iul5qHb_KINo5fBn0revFPIYdpZUvfy5eY4G0lqEyO55017YMTPp9DEKJNw%3D%3D&as_fid=Jlr_ok0UF-JxHBfAn1I9",
             "release_date": "2018-02-06T09:30:00Z",
             "updated": "2018-02-06T09:30:11Z",
@@ -31919,7 +32351,7 @@
         {
             "id": "six-dimensions-of-the-nations-brands-index-2016",
             "title": "Six Dimensions (of the Nations Brands Index 2016)",
-            "summary": "These bulletins provide a more detailed analysis of Northern Ireland&#39;s performance on the 2016 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
+            "summary": "These bulletins provide a more detailed analysis of Northern Ireland's performance on the 2016 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People;…",
             "url": "https://www.executiveoffice-ni.gov.uk/articles/equality-research-publications",
             "release_date": "2018-01-31T09:30:00Z",
             "updated": "2018-01-31T16:00:28Z",
@@ -32072,7 +32504,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-july-to-september-2017",
             "title": "Waiting time statistics: cancer waiting times (July to September 2017)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during July, August &amp; September 2017",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during July, August & September 2017",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2018-01-10T09:30:00Z",
             "updated": "2018-01-10T09:30:15Z",
@@ -32135,7 +32567,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2016",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2016",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses ",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses ",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2017-12-14T09:30:00Z",
             "updated": "2017-12-14T09:30:10Z",
@@ -32342,7 +32774,7 @@
         {
             "id": "northern-ireland-research-development-2016-headline-results",
             "title": "Northern Ireland Research & Development 2016 Headline Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure. ",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure. ",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2017-11-28T09:30:00Z",
             "updated": "2017-11-28T09:30:13Z",
@@ -32657,7 +33089,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-april-to-june-2017",
             "title": "Waiting time statistics: cancer waiting times (April to June 2017)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during April, May &amp; June 2017",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during April, May & June 2017",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2017-09-28T09:30:00Z",
             "updated": "2017-09-28T09:30:02Z",
@@ -32909,7 +33341,7 @@
         {
             "id": "omnibus-surveyattitudes-to-social-welfare-reform-spring-2017",
             "title": "Omnibus Survey:Attitudes to Social Welfare & Reform Spring 2017",
-            "summary": "This publication presents the results of a Department for Communities&#39; module in the Spring 2017 Omnibus Survey. ",
+            "summary": "This publication presents the results of a Department for Communities' module in the Spring 2017 Omnibus Survey. ",
             "url": "https://www.communities-ni.gov.uk/publications?search=omnibus&Search-exposed-form=Go&as_sfid=AAAAAAV_uqGvWYInGbP1flyT-iO9Wc_B2nZdNUSfMr5n_Z5-oZ6yde7iul5qHb_KINo5fBn0revFPIYdpZUvfy5eY4G0lqEyO55017YMTPp9DEKJNw%3D%3D&as_fid=Jlr_ok0UF-JxHBfAn1I9",
             "release_date": "2017-08-24T09:30:00Z",
             "updated": "2017-08-24T09:30:08Z",
@@ -33197,7 +33629,7 @@
         {
             "id": "engagement-in-culture-arts-and-leisure-in-nis-council-areas",
             "title": "Engagement in culture, arts and leisure in NI's council areas",
-            "summary": "An ad hoc publication containing survey results on engagement with sport, the arts, museums and libraries by adults in NI&#39;s council areas.",
+            "summary": "An ad hoc publication containing survey results on engagement with sport, the arts, museums and libraries by adults in NI's council areas.",
             "url": "https://www.communities-ni.gov.uk/topics/sport-museums-and-libraries-statistics#toc-4",
             "release_date": "2017-06-29T09:30:00Z",
             "updated": "2017-06-29T09:30:31Z",
@@ -33215,7 +33647,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-january-march-2017",
             "title": "Waiting time statistics: cancer waiting times (January– March 2017)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during January, February &amp; March 2017.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during January, February & March 2017.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2017-06-29T09:30:00Z",
             "updated": "2017-06-29T09:30:27Z",
@@ -33242,7 +33674,7 @@
         {
             "id": "accident-emergency-care-statistics-in-northern-ireland-financial-year-ending-march-2017",
             "title": "Accident & emergency care statistics in Northern Ireland: financial year ending March 2017",
-            "summary": "Provides information on new, planned &amp; unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
+            "summary": "Provides information on new, planned & unplanned review attendances at emergency care departments, waiting times in emergency care departments and patient transport and emergency response",
             "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
             "release_date": "2017-06-22T09:30:00Z",
             "updated": "2017-06-22T09:30:04Z",
@@ -33422,7 +33854,7 @@
         {
             "id": "northern-ireland-guesthouses-bed-breakfasts-and-guest-accommodation-occupancy-2016",
             "title": "Northern Ireland Guesthouses, Bed & Breakfasts and Guest Accommodation Occupancy 2016",
-            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed &amp; Breakfasts and Guest Accommodation up to December 2016.",
+            "summary": "Statistics on occupancy rates in NI Guesthouses, Bed & Breakfasts and Guest Accommodation up to December 2016.",
             "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
             "release_date": "2017-05-25T09:30:00Z",
             "updated": "2017-05-25T09:30:37Z",
@@ -33566,7 +33998,7 @@
         {
             "id": "2016-northern-ireland-gambling-prevalence-survey",
             "title": "2016 Northern Ireland Gambling Prevalence Survey",
-            "summary": "This publication presents the results of a Department for Communities&#39; 2016 Gambling Prevalence Survey. ",
+            "summary": "This publication presents the results of a Department for Communities' 2016 Gambling Prevalence Survey. ",
             "url": "https://www.communities-ni.gov.uk/topics/other-dfc-research ",
             "release_date": "2017-05-03T09:30:00Z",
             "updated": "2017-05-03T09:30:00Z",
@@ -33710,7 +34142,7 @@
         {
             "id": "waiting-time-statistics-cancer-waiting-times-october-december-2016",
             "title": "Waiting time statistics: cancer waiting times (October – December 2016)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during October, November &amp; December 2016.  ",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in the north of Ireland during October, November & December 2016.  ",
             "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
             "release_date": "2017-03-30T09:30:00Z",
             "updated": "2017-03-30T09:30:18Z",
@@ -33764,7 +34196,7 @@
         {
             "id": "accessni-customer-survey-report-2016",
             "title": "AccessNI Customer Survey Report 2016",
-            "summary": "This survey covers the level of satisfaction with various aspects of AccessNI&#39;s service to its customers.",
+            "summary": "This survey covers the level of satisfaction with various aspects of AccessNI's service to its customers.",
             "url": "https://www.nisra.gov.uk/publications/accessni-customer-survey-2016",
             "release_date": "2017-03-23T09:30:00Z",
             "updated": "2017-03-23T09:30:00Z",
@@ -33845,7 +34277,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2016-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2016: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2016. Data for employees by age, industry, sector &amp; occupation. ",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2016. Data for employees by age, industry, sector & occupation. ",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2017-03-02T09:30:00Z",
             "updated": "2017-03-02T09:30:00Z",
@@ -33935,7 +34367,7 @@
         {
             "id": "pensioners-income-series-northern-ireland-2014-to-2015",
             "title": "Pensioners' income series Northern Ireland 2014 to 2015",
-            "summary": "Information on estimates of the level and trends of pensioners&#39; incomes in Northern Ireland based on the Family Resources Survey, Northern Ireland",
+            "summary": "Information on estimates of the level and trends of pensioners' incomes in Northern Ireland based on the Family Resources Survey, Northern Ireland",
             "url": "https://www.communities-ni.gov.uk/topics/family-resources-survey#toc-4",
             "release_date": "2017-02-22T09:30:00Z",
             "updated": "2017-02-22T09:30:27Z",
@@ -33989,7 +34421,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics-2015",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2015",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2017-02-15T09:30:00Z",
             "updated": "2017-02-15T10:56:00Z",
@@ -33998,7 +34430,7 @@
         {
             "id": "health-inequalities-sub-regional-report-2017",
             "title": "Health inequalities sub-regional report 2017",
-            "summary": "This biennial publication is one of a series of reports produced as part of the NI Health &amp; Social Care Inequalities Monitoring System, and is a follow up to the Health Inequalities Regional Report 2016 which presented a…",
+            "summary": "This biennial publication is one of a series of reports produced as part of the NI Health & Social Care Inequalities Monitoring System, and is a follow up to the Health Inequalities Regional Report 2016 which presented a…",
             "url": "https://www.health-ni.gov.uk/articles/sub-regional-health-inequalities-statistics",
             "release_date": "2017-02-15T09:30:00Z",
             "updated": "2017-02-15T09:30:19Z",
@@ -34025,7 +34457,7 @@
         {
             "id": "omnibus-surveyattitudes-to-social-welfare-reform-octnov-2016",
             "title": "Omnibus Survey:Attitudes to Social Welfare & Reform Oct/Nov 2016",
-            "summary": "This publication presents the results of a Department for Communities&#39; module in the October/November 2016 Omnibus Survey.",
+            "summary": "This publication presents the results of a Department for Communities' module in the October/November 2016 Omnibus Survey.",
             "url": "https://www.communities-ni.gov.uk/publications?search=omnibus&Search-exposed-form=Go&as_sfid=AAAAAAV_uqGvWYInGbP1flyT-iO9Wc_B2nZdNUSfMr5n_Z5-oZ6yde7iul5qHb_KINo5fBn0revFPIYdpZUvfy5eY4G0lqEyO55017YMTPp9DEKJNw%3D%3D&as_fid=Jlr_ok0UF-JxHBfAn1I9",
             "release_date": "2017-02-07T09:30:00Z",
             "updated": "2017-02-07T09:30:04Z",
@@ -34502,7 +34934,7 @@
         {
             "id": "children-and-young-peoples-strategic-indicators",
             "title": "Children and young people's strategic indicators",
-            "summary": "The purpose of the indicators is to measure the success of the 10 Year Children and Young People&#39;s Strategy 2006 - 2016.",
+            "summary": "The purpose of the indicators is to measure the success of the 10 Year Children and Young People's Strategy 2006 - 2016.",
             "url": "https://www.education-ni.gov.uk/publications/children-and-young-peoples-strategic-indicators-2016-update",
             "release_date": "2016-11-17T09:30:00Z",
             "updated": "2016-11-17T09:30:16Z",
@@ -34520,7 +34952,7 @@
         {
             "id": "northern-ireland-research-development-2015-headline-results",
             "title": "Northern Ireland Research & Development 2015 Headline Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2016-11-17T09:30:00Z",
             "updated": "2016-11-17T09:30:00Z",
@@ -35276,7 +35708,7 @@
         {
             "id": "accident-emergency-care-statistics-in-northern-ireland-financial-year-ending-march-2016",
             "title": "Accident & emergency care statistics in Northern Ireland: financial year ending March 2016",
-            "summary": "This publication presents information on annual activity at emergency care departments in Northern Ireland. It details information on new attendances, planned &amp; unplanned re-attendances, patient transport to A&amp;E, wai…",
+            "summary": "This publication presents information on annual activity at emergency care departments in Northern Ireland. It details information on new attendances, planned & unplanned re-attendances, patient transport to A&E, wai…",
             "url": "https://www.dhsspsni.gov.uk/articles/emergency-care-and-ambulance-statistics",
             "release_date": "2016-06-24T09:30:00Z",
             "updated": "2016-06-24T09:30:01Z",
@@ -35618,7 +36050,7 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2015-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2015: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2015. Data for employees by age, industry, sector &amp; occupation.",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2015. Data for employees by age, industry, sector & occupation.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2016-03-03T09:30:00Z",
             "updated": "2016-03-03T09:30:00Z",
@@ -35735,7 +36167,7 @@
         {
             "id": "northern-ireland-broad-economy-sales-exports-statistics",
             "title": "Northern Ireland Broad Economy Sales & Exports Statistics",
-            "summary": "This release provides annual estimates of the sales &amp; exports generated by Northern Ireland businesses",
+            "summary": "This release provides annual estimates of the sales & exports generated by Northern Ireland businesses",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics",
             "release_date": "2016-02-17T09:30:00Z",
             "updated": "2016-02-17T09:30:00Z",
@@ -35834,7 +36266,7 @@
         {
             "id": "pensioners-income-series-for-northern-ireland-2013-to-2014",
             "title": "Pensioners' Income Series for Northern Ireland, 2013 to 2014",
-            "summary": "The bulletin contains estimates of the levels and trends of pensioners&#39; incomes.",
+            "summary": "The bulletin contains estimates of the levels and trends of pensioners' incomes.",
             "url": "https://www.dsdni.gov.uk/topics/dsd-statistics-and-research/family-resources-survey#toc-4",
             "release_date": "2016-01-27T09:30:00Z",
             "updated": "2016-01-27T09:30:21Z",
@@ -35969,7 +36401,7 @@
         {
             "id": "ni-manufacturing-sales-exports-2014-headline-results",
             "title": "NI Manufacturing Sales & Exports 2014 Headline Results",
-            "summary": "This release provides estimates of the sales &amp; exports generated by businesses within the manufacturing industry in Northern Ireland.",
+            "summary": "This release provides estimates of the sales & exports generated by businesses within the manufacturing industry in Northern Ireland.",
             "url": "https://www.detini.gov.uk/publications/current-publication-manufacturing-sales-exports-survey",
             "release_date": "2015-12-16T09:30:00Z",
             "updated": "2015-12-16T09:30:11Z",
@@ -36176,7 +36608,7 @@
         {
             "id": "northern-ireland-research-development-2014-headline-results",
             "title": "Northern Ireland Research & Development 2014 Headline Results",
-            "summary": "This release provides a summary of R&amp;D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
             "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
             "release_date": "2015-11-20T09:30:00Z",
             "updated": "2015-11-20T09:30:00Z",
@@ -37220,18 +37652,9 @@
         {
             "id": "ni-annual-survey-of-hours-and-earnings-2014-pension-results",
             "title": "NI Annual Survey of Hours and Earnings 2014: Pension results",
-            "summary": "Workplace pension statistics from the Annual Survey of Hours &amp; Earnings 2014. Data for employees by age, industry, sector &amp; occupation. ",
+            "summary": "Workplace pension statistics from the Annual Survey of Hours & Earnings 2014. Data for employees by age, industry, sector & occupation. ",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings",
             "release_date": "2015-02-26T09:30:00Z",
-            "updated": "2015-02-26T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-household-projections-2012-based",
-            "title": "Northern Ireland household projections (2012 based)",
-            "summary": "Household Projections for Northern Ireland by Household Type and Size\r\n",
-            "url": "http://www.nisra.gov.uk/demography/default.asp21.htm",
-            "release_date": "2015-03-26T09:30:00Z",
             "updated": "2015-02-26T09:30:00Z",
             "release_type": "Accredited official statistics"
         },
@@ -37382,7 +37805,7 @@
         {
             "id": "research-and-development-survey-northern-ireland-rd-2013",
             "title": "Research and Development Survey (Northern Ireland) - R&D 2013",
-            "summary": "Information on the level of Research &amp; Development (R&amp;D) activity in Northern Ireland.\r\n",
+            "summary": "Information on the level of Research & Development (R&D) activity in Northern Ireland.\r\n",
             "url": "http://www.detini.gov.uk/deti-stats-index/stats-surveys/stats-research-development.htm",
             "release_date": "2014-12-17T09:30:00Z",
             "updated": "2014-12-17T09:30:07Z",
@@ -37499,7 +37922,7 @@
         {
             "id": "research-and-development-survey-northern-ireland-rd-2014",
             "title": "Research and development survey (Northern Ireland): R&D 2014",
-            "summary": "Information on the level of Research &amp; Development (R&amp;D) activity in Northern Ireland.",
+            "summary": "Information on the level of Research & Development (R&D) activity in Northern Ireland.",
             "url": "http://www.detini.gov.uk/deti-stats-index/stats-surveys/stats-research-development.htm",
             "release_date": "2014-11-17T09:30:00Z",
             "updated": "2014-11-17T09:30:04Z",
@@ -37508,7 +37931,7 @@
         {
             "id": "research-and-development-survey-northern-ireland-rd-2013-headline-results",
             "title": "Research and Development Survey (Northern Ireland) - R&D 2013 - Headline Results",
-            "summary": "Information on the level of Research &amp; Development (R&amp;D) activity in Northern Ireland.",
+            "summary": "Information on the level of Research & Development (R&D) activity in Northern Ireland.",
             "url": "http://www.detini.gov.uk/deti-stats-index/stats-surveys/stats-research-development.htm",
             "release_date": "2014-11-12T09:30:00Z",
             "updated": "2014-11-12T09:30:01Z",
@@ -37652,7 +38075,7 @@
         {
             "id": "babies-first-names-bulletin-northern-ireland-2013",
             "title": "Babies first names bulletin (Northern Ireland): 2013",
-            "summary": "Top 100 most popular boys&#39; and girls&#39; names.",
+            "summary": "Top 100 most popular boys' and girls' names.",
             "url": "http://www.nisra.gov.uk/demography/default.asp28.htm",
             "release_date": "2014-08-28T09:30:00Z",
             "updated": "2014-08-28T09:30:00Z",
