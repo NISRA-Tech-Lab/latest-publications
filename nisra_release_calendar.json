@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-03-13T09:00:33Z",
+    "modified": "2025-03-13T09:42:36Z",
     "entries": [
+        {
+            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-16-year-olds-in-northern-ireland-in-2024",
+            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of 16 year olds in Northern Ireland in 2024",
+            "summary": "This report contains findings from the 2024 Young Life and Times Survey of 16 year olds' experiences of, and attitudes to, violence against women and girls.",
+            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research/ending-violence-against-women-and-girls-evawg",
+            "release_date": "2025-03-13T09:30:00Z",
+            "updated": "2025-03-13T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-december-2024",
             "title": "Northern Ireland Child Maintenance Service: Data to December 2024",
@@ -892,24 +901,6 @@
             "release_date": "2025-01-13T09:30:00Z",
             "updated": "2025-01-13T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-december-2024",
-            "title": "Monthly Marriages (Northern Ireland): December 2024",
-            "summary": "Monthly Marriages (Northern Ireland): December 2024",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-01-13T09:30:00Z",
-            "updated": "2025-01-13T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-16-year-olds-in-northern-ireland-in-2024",
-            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of 16 year olds in Northern Ireland in 2024",
-            "summary": "Status: confirmed. This report contains findings from the 2024 Young Life and Times Survey of 16 year olds' experiences of, and attitudes to, violence against women and girls.",
-            "release_date": "2025-03-13T09:30:00Z",
-            "updated": "2025-02-07T14:44:37Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2025",
