@@ -134,13 +134,6 @@ pub_info <- pub_info %>%
       grepl(year(today()) + 2, meta_data) ~ year(today()) + 2   # Two years ahead if it matches
     ),
     release_month_numeric = match(release_month, month.name)) %>% # Convert month name to numeric
-    # release_day_fixed = case_when(
-    #   is.na(release_day) & release_month_numeric %in% c(1, 3, 5, 7, 8, 10, 12) ~ 31,  # Handle months with 31 days
-    #   is.na(release_day) & release_month_numeric %in% c(4, 6, 9, 11) ~ 30,  # Handle months with 30 days
-    #   is.na(release_day) & release_month_numeric == 2 & release_year %% 4 == 0 ~ 29, # Handle Leap years
-    #   is.na(release_day) & release_month_numeric == 2 ~ 28,  # Handle February
-    #   TRUE ~ release_day # Default to original release_day
-    # )) %>% 
   filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
   mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
@@ -158,8 +151,9 @@ for (i in 1:nrow(pub_info)) {
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = paste0("Status: ", pub_info$status[i], ". ", HTMLdecode(pub_info$summary[i])),
+         summary = paste0("Status: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
          release_date = pub_info$release_date[i],
+         # updated = pub_info$updated[i],
          updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
          release_type = pub_info$release_type[i],
          status = pub_info$status[i])

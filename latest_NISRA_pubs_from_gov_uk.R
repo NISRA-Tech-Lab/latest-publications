@@ -127,10 +127,11 @@ for (i in 1:5) {
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
+           summary = paste0("Document type: ", release_type, ". ", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
            url = pub_link,
            release_date = release_date,
-           updated = updated,
+           # updated = updated,
+           updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
            release_type = release_type)
     
   }
