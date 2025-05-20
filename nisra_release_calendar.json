@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-20T09:34:48Z",
+    "modified": "2025-05-20T16:48:51Z",
     "entries": [
         {
             "id": "raw-disease-prevalence-data-202425",
@@ -954,6 +954,15 @@
             "release_date": "2025-05-21T09:30:00Z",
             "updated": "2025-01-06T08:42:01Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
+            "title": "CAMHS Waiting Time statistics for Northern Ireland (March 2025)",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
+            "release_date": "2025-05-22T09:30:00Z",
+            "updated": "2025-05-20T12:04:01Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
