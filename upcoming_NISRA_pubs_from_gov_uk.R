@@ -153,8 +153,7 @@ for (i in 1:nrow(pub_info)) {
          title = pub_info$pub_title[i],
          summary = paste0("Status: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
          release_date = pub_info$release_date[i],
-         # updated = pub_info$updated[i],
-         updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+         updated = pub_info$updated[i],
          release_type = pub_info$release_type[i],
          status = pub_info$status[i])
   

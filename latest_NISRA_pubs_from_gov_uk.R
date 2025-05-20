@@ -130,8 +130,7 @@ for (i in 1:5) {
            summary = paste0("Document type: ", release_type, ". ", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
            url = pub_link,
            release_date = release_date,
-           # updated = updated,
-           updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+           updated = updated,
            release_type = release_type)
     
   }
