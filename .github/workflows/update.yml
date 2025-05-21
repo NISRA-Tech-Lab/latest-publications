@@ -40,5 +40,5 @@ jobs:
           git config --local user.email " "
           git config --local user.name "NISRA-Tech-Lab"
           git add nisra_release_calendar.json
-          git commit -m 'Data updated' || echo "No changes to commit"
+          git commit -m "Data updated $(TZ=Europe/London date '+%d/%m/%Y at %H:%M')" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
