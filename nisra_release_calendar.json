@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-21T08:50:00Z",
+    "modified": "2025-05-21T16:49:44Z",
     "entries": [
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-1-2025",
@@ -1139,11 +1139,11 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2025",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2025",
-            "summary": "Status: provisional. Document type: Accredited official statistics announcement. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
             "release_date": "2025-06-04T09:30:00Z",
-            "updated": "2025-04-29T12:02:10Z",
+            "updated": "2025-05-21T11:36:11Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-housing-stock-april-2025",
@@ -1461,6 +1461,15 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-road-safety-publication-statistical-report-2024",
+            "title": "Northern Ireland Road Safety Partnership Statistical Report 2024",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. NIRSP statistics for the year 2024, with comparison to 2023.",
+            "release_date": "2025-06-18T09:30:00Z",
+            "updated": "2025-05-21T15:56:07Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
             "title": "Working and workless households in Northern Ireland: January to March 2025",
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
@@ -1504,6 +1513,15 @@
             "updated": "2025-04-17T12:01:25Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
+        },
+        {
+            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2023",
+            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2023",
+            "summary": "Status: provisional. Document type: Official statistics announcement. This research paper presents the number of people seriously injured in road traffic collisions in Northern Ireland for 1999 to 2023 using a clinical definition. They have been produced using data on road casualties admitted …",
+            "release_date": "2025-06-26T09:30:00Z",
+            "updated": "2025-05-21T13:46:05Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-april-2025",
@@ -2276,6 +2294,15 @@
             "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
             "release_date": "2026-02-27T09:30:00Z",
             "updated": "2025-03-11T14:41:44Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-february-2026",
+            "title": "Benefit Cap Report Northern Ireland: February 2026",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
+            "release_date": "2026-05-27T09:30:00Z",
+            "updated": "2025-05-21T10:02:24Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
