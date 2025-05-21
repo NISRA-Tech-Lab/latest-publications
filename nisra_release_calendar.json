@@ -1,7 +1,61 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-21T07:41:51Z",
+    "modified": "2025-05-21T08:44:16Z",
     "entries": [
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-1-2025",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 1 2025",
+            "summary": "Document type: Official Statistics. New Dwellings in each local government district in Northern Ireland during Jan - Mar 2025",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-1-2025",
+            "title": "Northern Ireland House Price Index Quarter 1 2025",
+            "summary": "Document type: Accredited official statistics. House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jan - Mar (Quarter 1) 2025",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2025",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2025",
+            "summary": "Document type: Official Statistics. Finalised PSNI Stop and Search Statistics for the period 1 April 2024 - 31 March 2025.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-march-2025",
+            "title": "Northern Ireland HSC Workforce Statistics March 2025",
+            "summary": "Document type: Official Statistics. A quarterly summary of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-march-2025",
+            "title": "Northern Ireland HSC Vacancies March 2025",
+            "summary": "Document type: Official Statistics. A quarterly publication of HSC vacancies",
+            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-january-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to January 2025.",
+            "summary": "Document type: Official Statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2025-05-21T09:30:00Z",
+            "updated": "2025-05-21T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "raw-disease-prevalence-data-202425",
             "title": "Raw Disease Prevalence Data 2024/25",
@@ -847,114 +901,6 @@
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2025-02-27T09:30:20Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202425",
-            "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
-            "summary": "Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q3-24-25.html",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:20Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "traineeships-level-2-academic-year-202324",
-            "title": "Traineeships (Level 2), academic year 2023/24",
-            "summary": "Document type: Official Statistics. This publication covers key information on the Traineeships (Level 2) in Northern Ireland, including  occupational areas, starts and achievement.",
-            "url": "https://www.economy-ni.gov.uk/articles/level-2-traineeship-statistics",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:13Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "winter-mortality-202324-northern-ireland",
-            "title": "Winter Mortality 2023/24 (Northern Ireland)",
-            "summary": "Document type: Official Statistics. The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
-            "url": "https://www.nisra.gov.uk/statistics/cause-death/winter-mortality",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:08Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "public-transport-and-journey-planning-in-northern-ireland-202324",
-            "title": "Public Transport and Journey Planning in Northern Ireland 2023/24",
-            "summary": "Document type: Official Statistics. This report presents findings from the 2023/24 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-and-journey-planning",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-october-december-2024",
-            "title": "Northern Ireland Housing Bulletin October - December 2024",
-            "summary": "Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-january-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 January 2025",
-            "summary": "Document type: Official Statistics. Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-march-2025",
-            "title": "Northern Ireland HSC Vacancies March 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. A quarterly publication of HSC vacancies",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-05-19T17:13:20Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-march-2025",
-            "title": "Northern Ireland HSC Workforce Statistics March 2025 ",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. A quarterly summary of HSC staff",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-05-19T17:12:49Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-august-2022-to-january-2025",
-            "title": "Skills for Life and Work Fact Sheet and Tables - August 2022 to January 2025.\t \t",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-05-14T10:58:53Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2025",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. Finalised PSNI Stop and Search Statistics for the period 1 April 2024 - 31 March 2025.",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-04-14T15:47:11Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-1-2025",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 1 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. New Dwellings in each local government district in Northern Ireland during Jan - Mar 2025",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-01-06T08:59:00Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-1-2025",
-            "title": "Northern Ireland House Price Index Quarter 1 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jan - Mar (Quarter 1) 2025",
-            "release_date": "2025-05-21T09:30:00Z",
-            "updated": "2025-01-06T08:42:01Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
