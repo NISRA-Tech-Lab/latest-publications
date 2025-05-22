@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-22T08:49:35Z",
+    "modified": "2025-05-22T16:48:41Z",
     "entries": [
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
@@ -903,6 +903,24 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures January to March 2025",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-22T11:28:20Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2025",
+            "title": "Mortgages: Actions for possession bulletin January to March 2025",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-22T11:20:42Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 16 May 2025",
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Tables showing deaths registered in Northern Ireland in 2025, up to and including 16 May 2025.",
@@ -917,24 +935,6 @@
             "summary": "Status: confirmed. Document type: Official statistics announcement. Calendar year report providing statistics in relation to Preliminary Breath Tests carried out by the Police Service of Northern Ireland.",
             "release_date": "2025-05-23T09:30:00Z",
             "updated": "2025-04-14T16:01:15Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures January to March 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-03-11T14:23:45Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2025",
-            "title": "Mortgages: Actions for possession bulletin January to March 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-03-11T14:21:02Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -999,6 +999,15 @@
             "release_date": "2025-05-28T09:30:00Z",
             "updated": "2025-03-13T12:16:24Z",
             "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-22T14:28:41Z",
+            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -1128,6 +1137,15 @@
             "status": "confirmed"
         },
         {
+            "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202324",
+            "title": "Patient education / self management programmes for people with long term conditions 2023/24",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details…",
+            "release_date": "2025-06-04T09:30:00Z",
+            "updated": "2025-05-22T16:18:51Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2025",
             "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2025",
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
@@ -1151,6 +1169,15 @@
             "summary": "Status: confirmed. Document type: Official statistics announcement. NI Analytical Input-Output tables 2021 – industry by industry",
             "release_date": "2025-06-04T09:30:00Z",
             "updated": "2025-04-16T17:40:34Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "quarterly-carers-statistics-for-northern-ireland-march-2025",
+            "title": "Quarterly Carers Statistics for Northern Ireland (March 2025)",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland.",
+            "release_date": "2025-06-05T09:30:00Z",
+            "updated": "2025-05-22T16:04:09Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -1952,15 +1979,6 @@
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Monthly Stillbirths (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "updated": "2025-04-17T14:22:06Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-august-2025",
-            "title": "Monthly Marriages (Northern Ireland): August 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Monthly Marriages (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "updated": "2025-04-17T14:20:03Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
