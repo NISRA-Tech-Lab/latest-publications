@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-22T08:43:51Z",
+    "modified": "2025-05-22T08:49:35Z",
     "entries": [
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
@@ -1952,6 +1952,15 @@
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Monthly Stillbirths (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "updated": "2025-04-17T14:22:06Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-august-2025",
+            "title": "Monthly Marriages (Northern Ireland): August 2025",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Monthly Marriages (Northern Ireland): August 2025",
+            "release_date": "2025-09-11T09:30:00Z",
+            "updated": "2025-04-17T14:20:03Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
