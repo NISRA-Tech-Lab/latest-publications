@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-22T06:17:24Z",
+    "modified": "2025-05-22T08:43:51Z",
     "entries": [
+        {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
+            "title": "CAMHS Waiting Time statistics for Northern Ireland (March 2025)",
+            "summary": "Document type: Official Statistics. This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
+            "url": "https://www.health-ni.gov.uk/articles/children-and-adolescent-mental-health-service-camhs-statistics",
+            "release_date": "2025-05-22T09:30:00Z",
+            "updated": "2025-05-22T09:30:06Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-1-2025",
             "title": "Northern Ireland New Dwelling Statistics Quarter 1 2025",
@@ -892,24 +901,6 @@
             "release_date": "2025-02-27T09:30:00Z",
             "updated": "2025-02-27T09:30:20Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-december-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending December 2024",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:20Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
-            "title": "CAMHS Waiting Time statistics for Northern Ireland (March 2025)",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
-            "release_date": "2025-05-22T09:30:00Z",
-            "updated": "2025-05-20T12:04:01Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
