@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-23T08:48:14Z",
+    "modified": "2025-05-23T16:47:12Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
@@ -966,6 +966,15 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-environmental-statistics-report-2025",
+            "title": "Northern Ireland Environmental Statistics Report 2025",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-23T13:05:59Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
             "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
             "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
@@ -1063,15 +1072,6 @@
             "updated": "2025-02-12T13:47:25Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-environmental-statistics-report-2025",
-            "title": "Northern Ireland Environmental Statistics Report 2025",
-            "summary": "Status: provisional. Document type: Accredited official statistics announcement. This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-02-04T13:09:43Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-4",
@@ -1439,6 +1439,15 @@
             "summary": "Status: confirmed. Document type: Official statistics announcement. Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2024 to 2025",
             "release_date": "2025-06-17T09:30:00Z",
             "updated": "2025-05-13T12:30:42Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2024",
+            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2024",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2024 to 31 December 2024.",
+            "release_date": "2025-06-18T09:30:00Z",
+            "updated": "2025-05-23T11:03:54Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
