@@ -1,7 +1,43 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-23T06:16:43Z",
+    "modified": "2025-05-23T08:43:51Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 16 May 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 16 May 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-23T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2024",
+            "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2024",
+            "summary": "Document type: Official Statistics. Calendar year report providing statistics in relation to Preliminary Breath Tests carried out by the Police Service of Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-23T09:30:06Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-january-to-march-2025",
+            "title": "NICTS Quarterly Provisional Figures January to March 2025.",
+            "summary": "Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter January to March 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-23T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2025",
+            "title": "Mortgages: Actions for possession bulletin January to March 2025",
+            "summary": "Document type: Official Statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period January to March 2025",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-05-23T09:30:00Z",
+            "updated": "2025-05-23T00:00:00Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-march-2025",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (March 2025)",
@@ -865,78 +901,6 @@
             "release_date": "2025-02-28T09:30:00Z",
             "updated": "2025-02-28T00:00:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-october-to-december-24",
-            "title": "Mortgages: Actions for possession bulletin October to December 24",
-            "summary": "Document type: Accredited official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T00:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
-            "summary": "Document type: Official Statistics. Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:20Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "prescription-cost-analysis-for-northern-ireland-2024",
-            "title": "Prescription Cost Analysis for Northern Ireland, 2024",
-            "summary": "Document type: Accredited official statistics. Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
-            "url": "https://datavis.nisra.gov.uk/bso/pca-report-2024.html",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:20Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-december-2024",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending December 2024",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2025-02-27T09:30:00Z",
-            "updated": "2025-02-27T09:30:20Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures January to March 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-05-22T11:28:20Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2025",
-            "title": "Mortgages: Actions for possession bulletin January to March 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-05-22T11:20:42Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 16 May 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Tables showing deaths registered in Northern Ireland in 2025, up to and including 16 May 2025.",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-04-17T11:52:07Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2024",
-            "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2024",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. Calendar year report providing statistics in relation to Preliminary Breath Tests carried out by the Police Service of Northern Ireland.",
-            "release_date": "2025-05-23T09:30:00Z",
-            "updated": "2025-04-14T16:01:15Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "higher-level-apprenticeships-at-higher-education-institutions-ni-academic-year-202223",
