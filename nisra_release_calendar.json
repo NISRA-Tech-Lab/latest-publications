@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-27T08:48:45Z",
+    "modified": "2025-05-27T16:49:23Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
@@ -966,6 +966,33 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-housing-bulletin-january-march-2025",
+            "title": "Northern Ireland Housing Bulletin January - March 2025",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-27T14:00:42Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-march-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to March 2025",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. Statistics on number of female patients of child bearing age prescribed Sodium Valproate.",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-27T11:12:17Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "family-resources-survey-report-northern-ireland-2023-to-2024",
+            "title": "Family Resources Survey Report, Northern Ireland 2023 to 2024",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This report provides an annual summary of the key findings from the Northern Ireland Family Resources Survey.",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-27T10:44:56Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-environmental-statistics-report-2025",
             "title": "Northern Ireland Environmental Statistics Report 2025",
             "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
@@ -975,30 +1002,12 @@
             "status": "confirmed"
         },
         {
-            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
-            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-05-22T14:28:41Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-annual-tourism-statistics-2024",
             "title": "Northern Ireland  Annual Tourism Statistics 2024",
             "summary": "Status: provisional. Document type: Official statistics announcement. Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2024.",
             "release_date": "2025-05-29T09:30:00Z",
             "updated": "2025-05-01T10:03:05Z",
             "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-january-march-2025",
-            "title": "Northern Ireland Housing Bulletin January - March 2025",
-            "summary": "Status: provisional. Document type: Accredited official statistics announcement. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-05-01T09:48:14Z",
-            "release_type": "Accredited official statistics announcement",
             "status": "provisional"
         },
         {
@@ -1018,15 +1027,6 @@
             "updated": "2025-04-30T15:39:01Z",
             "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
-        },
-        {
-            "id": "family-resources-survey-report-northern-ireland-2023-to-2024",
-            "title": "Family Resources Survey Report, Northern Ireland 2023 to 2024",
-            "summary": "Status: provisional. Document type: Accredited official statistics announcement. This report provides an annual summary of the key findings from the Northern Ireland Family Resources Survey.",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-04-30T11:52:47Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "provisional"
         },
         {
             "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2023-to-24-academic-year",
@@ -1065,11 +1065,11 @@
             "status": "confirmed"
         },
         {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-march-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to March 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. Statistics on number of female patients of child bearing age prescribed Sodium Valproate.",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-02-12T13:47:25Z",
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
+            "release_date": "2025-05-30T09:30:00Z",
+            "updated": "2025-05-27T14:57:33Z",
             "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
@@ -1506,6 +1506,15 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-policing-plan-survey-2025",
+            "title": "Northern Ireland Policing Plan Survey 2025",
+            "summary": "Status: provisional. Document type: Official statistics announcement. Monitoring outcomes of the Policing Plan, exploring public perceptions of the Police Service of Northern Ireland in policing and engagement with the community.",
+            "release_date": "2025-06-24T09:30:00Z",
+            "updated": "2025-05-27T13:09:06Z",
+            "release_type": "Official statistics announcement",
+            "status": "provisional"
+        },
+        {
             "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2023",
             "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2023",
             "summary": "Status: provisional. Document type: Official statistics announcement. This research paper presents the number of people seriously injured in road traffic collisions in Northern Ireland for 1999 to 2023 using a clinical definition. They have been produced using data on road casualties admitted …",
@@ -1612,6 +1621,15 @@
             "updated": "2025-05-02T09:38:21Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "pps-statistical-bulletin-2024-25",
+            "title": "PPS Statistical Bulletin 2024-25",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions.",
+            "release_date": "2025-07-03T09:30:00Z",
+            "updated": "2025-05-27T15:02:03Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2425",
