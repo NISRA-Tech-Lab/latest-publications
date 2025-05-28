@@ -1,7 +1,70 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-28T06:18:07Z",
+    "modified": "2025-05-28T08:44:55Z",
     "entries": [
+        {
+            "id": "higher-level-apprenticeships-at-he-institutions-ni-202223",
+            "title": "Higher Level Apprenticeships at HE Institutions NI, 2022/23",
+            "summary": "Document type: Official Statistics. Statistics in this bulletin present a range of analysis on the Higher Level Apprenticeship programmes at NI Higher Education Institutions.\r\n",
+            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-heis-statistical-fact-sheets",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "personal-independence-payment-statistics-february-2025",
+            "title": "Personal Independence Payment Statistics - February 2025",
+            "summary": "Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "url": "https://www.communities-ni.gov.uk/articles/personal-independence-payment-statistics",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-february-2025",
+            "title": "Northern Ireland Benefit Statistics Summary: February 2025",
+            "summary": "Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-national-statistics-february-2025",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-4-202425",
+            "title": "Probation Board NI quarterly caseload, quarter 4, 2024/25",
+            "summary": "Document type: Official Statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
+            "url": "https://www.pbni.org.uk/publication/probation-quarterly-caseload-statistics-q4-2024-25",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "labour-force-survey-annual-summary-report-2024",
+            "title": "Labour Force Survey Annual Summary Report 2024",
+            "summary": "Document type: Accredited official statistics. This report provides the key labour market results from the Labour Force Survey for the year ending 31 December 2024.",
+            "url": "https://www.nisra.gov.uk/publications/labour-force-survey-annual-summary-report-2024",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "probation-board-ni-annual-caseload-202425",
+            "title": "Probation Board NI annual caseload 2024/25",
+            "summary": "Document type: Official Statistics. This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
+            "url": "https://www.pbni.org.uk/publication/annual-caseload-statistics-report-2024-25",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "structure-performance-of-the-ni-economy-2021",
+            "title": "Structure & Performance of the NI Economy 2021",
+            "summary": "Document type: Official Statistics. Structure & Performance of the NI Economy 2021 including Detailed Supply-Use tables for 2021.",
+            "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
+            "release_date": "2025-05-28T09:30:00Z",
+            "updated": "2025-05-28T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-may-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 16 May 2025",
@@ -840,129 +903,12 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "individual-wellbeing-in-northern-ireland-202324",
-            "title": "Individual Wellbeing in Northern Ireland 2023/24",
-            "summary": "Document type: Official Statistics. This publication provides figures in relation to individual wellbeing in Northern Ireland in 2023/24.",
-            "url": "https://www.executiveoffice-ni.gov.uk/publications/individual-wellbeing-northern-ireland-report-202324",
-            "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-03-06T09:30:15Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2024",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
-            "summary": "Document type: Official Statistics. This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
-            "release_date": "2025-03-06T09:30:00Z",
-            "updated": "2025-03-06T09:30:10Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "drug-related-and-drug-misuse-deaths-2013-2023",
-            "title": "Drug-related and drug-misuse deaths 2013-2023",
-            "summary": "Document type: Accredited official statistics. Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023.",
-            "url": "https://www.nisra.gov.uk/statistics/cause-death/drug-related-deaths",
-            "release_date": "2025-03-05T09:30:00Z",
-            "updated": "2025-03-05T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "births-by-academic-year-2-july-2023-to-1-july-2024",
-            "title": "Births by Academic Year, 2 July 2023 to 1 July 2024",
-            "summary": "Document type: Official Statistics. Births by Academic Year, 2 July 2023 to 1 July 2024",
-            "url": "https://www.nisra.gov.uk/publications/vital-statistics-user-requested-data",
-            "release_date": "2025-03-04T09:30:00Z",
-            "updated": "2025-03-04T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-21-february-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 21 February 2025",
-            "summary": "Document type: Accredited official statistics. Deaths Registered in Northern Ireland - Week ending 21 February 2025",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2024",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to October 2024.",
-            "summary": "Document type: Official Statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "nicts-quarterly-provisional-figures-october-to-december-2024",
-            "title": "NICTS Quarterly Provisional Figures October to December 2024",
-            "summary": "Document type: Official Statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2025-02-28T09:30:00Z",
-            "updated": "2025-02-28T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "higher-level-apprenticeships-at-higher-education-institutions-ni-academic-year-202223",
-            "title": "Higher Level Apprenticeships at Higher Education Institutions NI, academic year 2022/23",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Higher Education Institutions, including the number of starts, participants and qualifications achieved.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-05-16T10:23:04Z",
+            "id": "legal-aid-activity-in-northern-ireland-headline-statistics-202425",
+            "title": "Legal aid activity in Northern Ireland: Headline statistics, 2024/25",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. Headline release of annual legal aid statistics for Northern Ireland summarising applications granted and authorised expenditure for criminal and civil cases.",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-28T08:55:16Z",
             "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "labour-force-survey-annual-summary-report-2024",
-            "title": "Labour Force Survey Annual Summary Report 2024",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This report provides the key labour market results from the Labour Force Survey for the year ending 31 December 2024.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-04-29T12:21:52Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "structure-performance-of-the-ni-economy-2021",
-            "title": "Structure & Performance of the NI Economy 2021",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. Structure & Performance of the NI Economy 2021 including Detailed Supply-Use tables for 2021.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-04-16T13:59:48Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-3-202425--2",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2024/25",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-04-11T15:54:37Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202425",
-            "title": "Probation Board NI annual caseload 2024/25",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-04-11T15:51:46Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "personal-independence-payment-statistics-february-2025",
-            "title": "Personal Independence Payment Statistics - February 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-03-13T12:16:55Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-february-2025",
-            "title": "Northern Ireland Benefit Statistics Summary: February 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "release_date": "2025-05-28T09:30:00Z",
-            "updated": "2025-03-13T12:16:24Z",
-            "release_type": "Accredited official statistics announcement",
             "status": "confirmed"
         },
         {
@@ -1035,15 +981,6 @@
             "release_date": "2025-05-29T09:30:00Z",
             "updated": "2025-04-30T10:56:05Z",
             "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "legal-aid-activity-in-northern-ireland-headline-statistics-202425",
-            "title": "Legal aid activity in Northern Ireland: Headline statistics, 2024/25",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. Headline release of annual legal aid statistics for Northern Ireland summarising applications granted and authorised expenditure for criminal and civil cases.",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-04-30T09:46:55Z",
-            "release_type": "Official statistics announcement",
             "status": "confirmed"
         },
         {
