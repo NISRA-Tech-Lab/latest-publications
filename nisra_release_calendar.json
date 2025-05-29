@@ -1,7 +1,16 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-29T08:48:38Z",
+    "modified": "2025-05-29T16:51:01Z",
     "entries": [
+        {
+            "id": "2023-mid-year-population-estimates-for-small-geographical-areas-within-ni",
+            "title": "2023 Mid-Year Population Estimates for Small Geographical Areas within NI",
+            "summary": "Document type: Accredited official statistics. 2023 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "url": "https://www.nisra.gov.uk/publications/2023-mid-year-population-estimates-small-geographical-areas-within-northern-ireland",
+            "release_date": null,
+            "updated": "2025-05-29T10:00:21Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "legal-aid-in-northern-ireland-headline-statistics-202425",
             "title": "Legal Aid in Northern Ireland: Headline Statistics 2024/25",
@@ -57,15 +66,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "2023-mid-year-population-estimates-for-small-geographical-areas-within-ni",
-            "title": "2023 Mid-Year Population Estimates for Small Geographical Areas within NI",
-            "summary": "Document type: Accredited official statistics. 2023 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "url": "https://www.nisra.gov.uk/publications/2022-mid-year-population-estimates-small-geographical-areas-within-northern-ireland",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-05-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
             "id": "ksi-casualties-caused-by-excessive-speed-in-northern-ireland-2019-2023",
             "title": "KSI casualties caused by Excessive speed in Northern Ireland, 2019-2023",
             "summary": "Document type: Official Statistics. This statistical brief reviews PSNI road traffic collision data from 2019 to 2023 to identify any emerging issues regarding the number of people who were killed or seriously injured due to excessive speed on Northern Ireland…",
@@ -91,6 +91,15 @@
             "release_date": "2025-05-29T09:30:00Z",
             "updated": "2025-05-29T09:30:04Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-annual-tourism-statistics-2024",
+            "title": "Northern Ireland  Annual Tourism Statistics 2024",
+            "summary": "Document type: Official Statistics. Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2024.",
+            "url": "https://www.nisra.gov.uk/publications/ni-annual-tourism-statistics-2024",
+            "release_date": "2025-05-29T09:30:00Z",
+            "updated": "2025-05-29T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "higher-level-apprenticeships-at-he-institutions-ni-202223",
@@ -894,24 +903,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-7-march-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 7 March 2025",
-            "summary": "Document type: Accredited official statistics. Deaths Registered in Northern Ireland - Week ending 7 March 2025",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-03-14T09:30:00Z",
-            "updated": "2025-03-14T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-annual-tourism-statistics-2024",
-            "title": "Northern Ireland  Annual Tourism Statistics 2024",
-            "summary": "Status: provisional. Document type: Official statistics announcement. Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2024.",
-            "release_date": "2025-05-29T09:30:00Z",
-            "updated": "2025-05-01T10:03:05Z",
-            "release_type": "Official statistics announcement",
-            "status": "provisional"
-        },
-        {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
             "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
             "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
@@ -1354,10 +1345,10 @@
         },
         {
             "id": "northern-ireland-policing-plan-survey-2025",
-            "title": "Northern Ireland Policing Plan Survey 2025",
+            "title": "NI Policing Plan Survey 2025",
             "summary": "Status: provisional. Document type: Official statistics announcement. Monitoring outcomes of the Policing Plan, exploring public perceptions of the Police Service of Northern Ireland in policing and engagement with the community.",
             "release_date": "2025-06-24T09:30:00Z",
-            "updated": "2025-05-27T13:09:06Z",
+            "updated": "2025-05-29T14:53:04Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
         },
@@ -1366,9 +1357,27 @@
             "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2023",
             "summary": "Status: provisional. Document type: Official statistics announcement. This research paper presents the number of people seriously injured in road traffic collisions in Northern Ireland for 1999 to 2023 using a clinical definition. They have been produced using data on road casualties admitted …",
             "release_date": "2025-06-26T09:30:00Z",
-            "updated": "2025-05-21T13:46:05Z",
+            "updated": "2025-05-29T11:43:32Z",
             "release_type": "Official statistics announcement",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-april-2024-to-march-2025--2",
+            "title": "Northern Ireland planning statistics: April 2024 to March 2025",
+            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Finalised annual results for 2024/25. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-06-26T09:30:00Z",
+            "updated": "2025-05-29T11:25:45Z",
+            "release_type": "Accredited official statistics announcement",
+            "status": "confirmed"
+        },
+        {
+            "id": "ethnic-identity-in-northern-ireland-a-comparison-of-census-2011-and-census-2021-outputs",
+            "title": "Ethnic identity in Northern Ireland: a comparison of Census 2011 and Census 2021 outputs",
+            "summary": "Status: confirmed. Document type: Official statistics announcement. A report presenting data on ethnic identity from the Northern Ireland Census for 2011 and 2021.",
+            "release_date": "2025-06-26T09:30:00Z",
+            "updated": "2025-05-29T11:02:30Z",
+            "release_type": "Official statistics announcement",
+            "status": "confirmed"
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-april-2025",
