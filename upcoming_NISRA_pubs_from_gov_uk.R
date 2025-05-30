@@ -100,7 +100,9 @@ while (has_pubs == TRUE) {
       class <- html_attr(span_tags[k], "class")
       
       if (grepl("govuk-caption-xl", class) & !is.na(class)) {
-        release_type <- trimws(html_text(span_tags[k]))
+        release_type <- html_text(span_tags[k]) %>% 
+          gsub("announcement", "", .) %>% 
+          trimws()
         break # Exit the loop once a valid class is found
       }
     }
@@ -151,9 +153,10 @@ for (i in 1:nrow(pub_info)) {
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = paste0("Status: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
+         summary = paste0("Date: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
          release_date = pub_info$release_date[i],
-         updated = pub_info$updated[i],
+         #updated = pub_info$updated[i],
+         updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
          release_type = pub_info$release_type[i],
          status = pub_info$status[i])
   
