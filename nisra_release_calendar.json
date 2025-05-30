@@ -1,7 +1,43 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-05-30T08:15:55Z",
+    "modified": "2025-05-30T08:44:47Z",
     "entries": [
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-202425",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland 2024/25",
+            "summary": "Document type: Accredited official statistics. Annual Report for Financial Year statistics relating to injury road traffic collisions reported to Police 2024/25.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-05-30T09:30:00Z",
+            "updated": "2025-05-30T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-may-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 May 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 23 May 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-05-30T09:30:00Z",
+            "updated": "2025-05-30T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-4",
+            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2024-25 - Quarter 4",
+            "summary": "Document type: Accredited official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-four",
+            "release_date": "2025-05-30T09:30:00Z",
+            "updated": "2025-05-30T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--2",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
+            "summary": "Document type: Official Statistics. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resources/equality-statistics",
+            "release_date": "2025-05-30T09:30:00Z",
+            "updated": "2025-05-30T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "2023-mid-year-population-estimates-for-small-geographical-areas-within-ni",
             "title": "2023 Mid-Year Population Estimates for Small Geographical Areas within NI",
@@ -865,78 +901,6 @@
             "release_date": "2025-03-20T09:30:00Z",
             "updated": "2025-03-20T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-4-2024",
-            "title": "Northern Ireland Index of Services: Quarter 4 2024",
-            "summary": "Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2025-03-20T09:30:00Z",
-            "updated": "2025-03-20T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-employment-survey-december-2024",
-            "title": "Quarterly Employment Survey: December 2024",
-            "summary": "Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
-            "release_date": "2025-03-20T09:30:00Z",
-            "updated": "2025-03-20T07:00:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-march-2025",
-            "title": "NI Labour Market statistics: March 2025",
-            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-03-20T09:30:00Z",
-            "updated": "2025-03-20T07:00:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-february-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: February 2025",
-            "summary": "Document type: Official Statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-february-2025",
-            "release_date": "2025-03-14T09:30:00Z",
-            "updated": "2025-03-14T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "equality-statistics-for-the-northern-ireland-civil-service-2025--3",
-            "title": "Equality Statistics for the Northern Ireland Civil Service - 2025",
-            "summary": "Status: confirmed. Document type: Official statistics announcement. This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
-            "release_date": "2025-05-30T09:30:00Z",
-            "updated": "2025-05-27T14:57:33Z",
-            "release_type": "Official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2024-25-quarter-4",
-            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2024-25 - Quarter 4",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2025-05-30T09:30:00Z",
-            "updated": "2025-04-18T14:56:58Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-23-may-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 23 May 2025",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Tables showing deaths registered in Northern Ireland in 2025, up to and including 23 May 2025.",
-            "release_date": "2025-05-30T09:30:00Z",
-            "updated": "2025-04-17T11:54:19Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-202425",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland 2024/25",
-            "summary": "Status: confirmed. Document type: Accredited official statistics announcement. Annual Report for Financial Year statistics relating to injury road traffic collisions reported to Police 2024/25.",
-            "release_date": "2025-05-30T09:30:00Z",
-            "updated": "2025-04-14T15:53:39Z",
-            "release_type": "Accredited official statistics announcement",
-            "status": "confirmed"
         },
         {
             "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202324",
