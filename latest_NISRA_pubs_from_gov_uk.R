@@ -96,9 +96,11 @@ for (i in 1:5) {
     # Look for where a month name appears in dd tag and re-format date
     for (k in 1:length(dd_tags)) {
       if (grepl(paste(month.name, collapse = "|"), html_text(dd_tags[k]))) {
-        release_date <- html_text(dd_tags[k]) %>% 
+        display_date <- trimws(html_text(dd_tags[k]))
+        release_date <- display_date %>% 
           as.Date(., "%d %B %Y") %>% 
           format(., format = "%Y-%m-%dT09:30:00Z")
+        break
       }
     }
     
@@ -130,6 +132,7 @@ for (i in 1:5) {
            summary = paste0("Document type: ", release_type, ". ", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
            url = pub_link,
            release_date = release_date,
+           display_date = display_date,
            updated = updated,
            release_type = release_type)
     
