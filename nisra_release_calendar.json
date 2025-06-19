@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-06-19T06:33:50Z",
+    "modified": "2025-06-19T08:45:13Z",
     "entries": [
+        {
+            "id": "family-practitioner-services-dental-statistics-for-ni-202425",
+            "title": "Family Practitioner Services Dental Statistics for NI 2024/25",
+            "summary": "Document type: Accredited official statistics. Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2024 and March 2025.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-annual-report-24-25.html",
+            "release_date": "2025-06-19T09:30:00Z",
+            "display_date": "19 June 2025",
+            "updated": "2025-06-19T09:30:13Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
+            "title": "Working and workless households in Northern Ireland: January to March 2025",
+            "summary": "Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
+            "release_date": "2025-06-19T09:30:00Z",
+            "display_date": "19 June 2025",
+            "updated": "2025-06-19T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "northern-ireland-road-safety-partnership-statistical-report-2024",
             "title": "Northern Ireland Road Safety Partnership Statistical Report 2024",
@@ -983,62 +1003,12 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-2-may-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 2 May 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland for 2025, up to and including 2 May 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-05-09T09:30:00Z",
-            "display_date": "9 May 2025",
-            "updated": "2025-05-09T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "travel-tofrom-school-by-pupils-in-northern-ireland-202324",
-            "title": "Travel to/from school by pupils in Northern Ireland 2023/24",
-            "summary": "Document type: Official Statistics. Annual report from the Continuous Household Survey on how children travel to school in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/travel-school-research",
-            "release_date": "2025-05-08T09:30:00Z",
-            "display_date": "8 May 2025",
-            "updated": "2025-05-08T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-4-202425",
-            "title": "General Dental Services Statistics for NI, Quarter 4 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2024/25.",
-            "release_date": "2025-06-19T09:30:00Z",
-            "display_date": "19 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "family-practitioner-services-dental-statistics-for-ni-202425",
-            "title": "Family Practitioner Services Dental Statistics for NI 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2024 and March 2025.",
-            "release_date": "2025-06-19T09:30:00Z",
-            "display_date": "19 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
-            "title": "Working and workless households in Northern Ireland: January to March 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "release_date": "2025-06-19T09:30:00Z",
-            "display_date": "19 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2024",
             "title": "Police recorded injury Road Traffic collisions and casualties Northern Ireland Detailed Trends report 2024",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Annual calendar year detailed trends report on road traffic collision statistics.",
             "release_date": "2025-06-20T09:30:00Z",
             "display_date": "20 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1048,7 +1018,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 13 June 2025.",
             "release_date": "2025-06-20T09:30:00Z",
             "display_date": "20 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1058,7 +1028,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Monitoring outcomes of the Policing Plan, exploring public perceptions of the Police Service of Northern Ireland in policing and engagement with the community.",
             "release_date": "2025-06-24T09:30:00Z",
             "display_date": "24 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1068,7 +1038,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Provides statistics under development on households and individuals on Universal Credit in Northern Ireland.",
             "release_date": "2025-06-25T09:30:00Z",
             "display_date": "25 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1078,7 +1048,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. This research paper presents the number of people seriously injured in road traffic collisions in Northern Ireland for 1999 to 2023 using a clinical definition. They have been produced using data on road casualties admitted …",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1088,7 +1058,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1098,7 +1068,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Finalised annual results for 2024/25. Northern Ireland planning volumes and processing performance data.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1108,7 +1078,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. A report presenting data on ethnic identity from the Northern Ireland Census for 2011 and 2021.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1118,7 +1088,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1128,7 +1098,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Monthly update of PSNI anti-social behaviour statistics.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1138,7 +1108,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1148,7 +1118,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to community pharmacies and dispensing in Northern Ireland between April 2024 and March 2025.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1158,7 +1128,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2024/25.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1168,7 +1138,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1178,7 +1148,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of the value of construction output in Northern Ireland.",
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1188,7 +1158,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
             "release_date": "2025-06-27T09:30:00Z",
             "display_date": "27 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1198,7 +1168,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. An Accredited Official Statistics publication presenting a summary of business in all court tiers of the Northern Ireland Courts and Tribunals Service for the calendar year 2024.",
             "release_date": "2025-06-27T09:30:00Z",
             "display_date": "27 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1208,7 +1178,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 20 June 2025.",
             "release_date": "2025-06-27T09:30:00Z",
             "display_date": "27 June 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1218,7 +1188,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The release ‘Ireland and Northern Ireland - A joint census publication 2021-2022’ presents detailed census results for both Ireland and Northern Ireland.",
             "release_date": "2025-07-02T09:30:00Z",
             "display_date": "2 July 2025 11:00am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1228,7 +1198,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Findings from the 2023/24 Northern Ireland Safe Community Telephone Survey. Regarding experience of crime, attitudes towards crime and policing and justice.",
             "release_date": "2025-07-02T09:30:00Z",
             "display_date": "2 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1238,7 +1208,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A comprehensive profile of HSC staff",
             "release_date": "2025-07-02T09:30:00Z",
             "display_date": "2 July 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:16Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1248,7 +1218,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions.",
             "release_date": "2025-07-03T09:30:00Z",
             "display_date": "3 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1258,7 +1228,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
             "release_date": "2025-07-03T09:30:00Z",
             "display_date": "3 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1268,7 +1238,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
             "release_date": "2025-07-03T09:30:00Z",
             "display_date": "3 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1278,7 +1248,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 27 June 2025.",
             "release_date": "2025-07-04T09:30:00Z",
             "display_date": "4 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1288,7 +1258,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
             "release_date": "2025-07-09T09:30:00Z",
             "display_date": "9 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1298,7 +1268,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Presents information on activity at emergency care departments, including data on new attendances, planned & unplanned review attendances, waiting times, patient transport and emergency (ambulance) response.",
             "release_date": "2025-07-09T09:30:00Z",
             "display_date": "9 July 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1308,7 +1278,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1318,7 +1288,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): June 2025",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1328,7 +1298,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): June 2025",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1338,7 +1308,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): June 2025",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1348,7 +1318,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): June 2025",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1358,7 +1328,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): June 2025",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1368,7 +1338,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 4 July 2025.",
             "release_date": "2025-07-11T09:30:00Z",
             "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1378,7 +1348,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-07-17T09:30:00Z",
             "display_date": "17 July 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1388,7 +1358,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 11 July 2025.",
             "release_date": "2025-07-18T09:30:00Z",
             "display_date": "18 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1398,7 +1368,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 18 July 2025.",
             "release_date": "2025-07-25T09:30:00Z",
             "display_date": "25 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1408,7 +1378,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2025/26.",
             "release_date": "2025-07-31T09:30:00Z",
             "display_date": "31 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1418,7 +1388,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - January to March 2025",
             "release_date": "2025-07-31T09:30:00Z",
             "display_date": "31 July 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1428,7 +1398,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 25 July 2025.",
             "release_date": "2025-08-01T09:30:00Z",
             "display_date": "1 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1438,7 +1408,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
             "release_date": "2025-08-07T09:30:00Z",
             "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1448,7 +1418,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
             "release_date": "2025-08-07T09:30:00Z",
             "display_date": "7 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1458,7 +1428,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 1 August 2025.",
             "release_date": "2025-08-08T09:30:00Z",
             "display_date": "8 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1468,7 +1438,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): July 2025",
             "release_date": "2025-08-11T09:30:00Z",
             "display_date": "11 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1478,7 +1448,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): July 2025",
             "release_date": "2025-08-11T09:30:00Z",
             "display_date": "11 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1488,7 +1458,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): July 2025",
             "release_date": "2025-08-11T09:30:00Z",
             "display_date": "11 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1498,7 +1468,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): July 2025",
             "release_date": "2025-08-11T09:30:00Z",
             "display_date": "11 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1508,7 +1478,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): July 2025",
             "release_date": "2025-08-11T09:30:00Z",
             "display_date": "11 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1518,7 +1488,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-08-12T09:30:00Z",
             "display_date": "12 August 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1528,7 +1498,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
             "release_date": "2025-08-14T09:30:00Z",
             "display_date": "14 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1538,7 +1508,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-08-15T09:30:00Z",
             "display_date": "15 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1548,7 +1518,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 8 August 2025.",
             "release_date": "2025-08-15T09:30:00Z",
             "display_date": "15 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1558,7 +1528,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
             "release_date": "2025-08-20T09:30:00Z",
             "display_date": "20 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1568,7 +1538,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
             "release_date": "2025-08-20T09:30:00Z",
             "display_date": "20 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1578,7 +1548,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. New Dwellings in each local government district in Northern Ireland during Apr - Jun 2025",
             "release_date": "2025-08-20T09:30:00Z",
             "display_date": "20 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1588,7 +1558,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2025",
             "release_date": "2025-08-20T09:30:00Z",
             "display_date": "20 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1598,7 +1568,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of female patients of child bearing age prescribed Sodium Valproate.",
             "release_date": "2025-08-21T09:30:00Z",
             "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1608,7 +1578,7 @@
             "summary": "Date: provisional. Document type: Official statistics. This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland.",
             "release_date": "2025-08-21T09:30:00Z",
             "display_date": "21 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1618,7 +1588,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 15 August 2025.",
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1628,7 +1598,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1638,7 +1608,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1648,7 +1618,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1658,7 +1628,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
             "release_date": "2025-08-27T09:30:00Z",
             "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1668,7 +1638,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
             "release_date": "2025-08-27T09:30:00Z",
             "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1678,7 +1648,7 @@
             "summary": "Date: provisional. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
             "release_date": "2025-08-27T09:30:00Z",
             "display_date": "27 August 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1688,7 +1658,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to community pharmacies and dispensing in Northern Ireland for quarter 1 of 2025/26.",
             "release_date": "2025-08-28T09:30:00Z",
             "display_date": "28 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1698,7 +1668,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 22 August 2025.",
             "release_date": "2025-08-29T09:30:00Z",
             "display_date": "29 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1708,7 +1678,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 29 August 2025.",
             "release_date": "2025-09-05T09:30:00Z",
             "display_date": "5 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1718,7 +1688,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1728,7 +1698,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1738,7 +1708,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1748,7 +1718,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1758,7 +1728,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): August 2025",
             "release_date": "2025-09-11T09:30:00Z",
             "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1768,7 +1738,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-09-12T09:30:00Z",
             "display_date": "12 September 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1778,7 +1748,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
             "release_date": "2025-09-16T09:30:00Z",
             "display_date": "16 September 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1788,7 +1758,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-09-16T09:30:00Z",
             "display_date": "16 September 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1798,7 +1768,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
             "release_date": "2025-09-18T09:30:00Z",
             "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1808,7 +1778,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
             "release_date": "2025-09-18T09:30:00Z",
             "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1818,7 +1788,7 @@
             "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
             "release_date": "2025-09-19T09:30:00Z",
             "display_date": "19 September 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1828,7 +1798,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
             "release_date": "2025-09-25T09:30:00Z",
             "display_date": "25 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1838,7 +1808,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
             "release_date": "2025-09-25T09:30:00Z",
             "display_date": "25 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1848,7 +1818,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of the value of construction output in Northern Ireland.",
             "release_date": "2025-09-25T09:30:00Z",
             "display_date": "25 September 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1858,7 +1828,7 @@
             "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2023 to 2024, including breakdown by specialty, diagnosis, procedure, and resource group.",
             "release_date": "2025-10-02T09:30:00Z",
             "display_date": "2 October 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1868,7 +1838,7 @@
             "summary": "Date: provisional. Document type: Official statistics. This report details investment in general practice and the reimbursement for drugs dispensed in general practices in Northern Ireland.",
             "release_date": "2025-10-03T09:30:00Z",
             "display_date": "3 October 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1878,7 +1848,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-10-14T09:30:00Z",
             "display_date": "14 October 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1888,7 +1858,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-10-17T09:30:00Z",
             "display_date": "17 October 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1898,7 +1868,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
             "release_date": "2025-10-23T09:30:00Z",
             "display_date": "23 October 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1908,7 +1878,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
             "release_date": "2025-10-23T09:30:00Z",
             "display_date": "23 October 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1918,7 +1888,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-11-11T09:30:00Z",
             "display_date": "11 November 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1928,7 +1898,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-11-14T09:30:00Z",
             "display_date": "14 November 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1938,7 +1908,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1948,7 +1918,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -1958,7 +1928,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. New Dwellings in each local government district in Northern Ireland during Jul - Sep 2025",
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1968,7 +1938,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2025",
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1978,7 +1948,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics 2024/25 annual report",
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -1988,7 +1958,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1998,7 +1968,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2008,7 +1978,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data a…",
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -2018,7 +1988,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2025-12-12T09:30:00Z",
             "display_date": "12 December 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -2028,7 +1998,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
             "release_date": "2025-12-16T09:30:00Z",
             "display_date": "16 December 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2038,7 +2008,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "release_date": "2025-12-16T09:30:00Z",
             "display_date": "16 December 2025 7:00am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2048,7 +2018,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
             "release_date": "2025-12-18T09:30:00Z",
             "display_date": "18 December 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2058,7 +2028,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
             "release_date": "2025-12-18T09:30:00Z",
             "display_date": "18 December 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2068,7 +2038,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
             "release_date": "2025-12-18T09:30:00Z",
             "display_date": "18 December 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2078,7 +2048,7 @@
             "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
             "release_date": "2025-12-19T09:30:00Z",
             "display_date": "19 December 2025 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -2088,7 +2058,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-01-16T09:30:00Z",
             "display_date": "16 January 2026 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -2098,7 +2068,7 @@
             "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - July to September 2025",
             "release_date": "2026-01-29T09:30:00Z",
             "display_date": "29 January 2026 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -2108,7 +2078,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
             "release_date": "2026-02-18T09:30:00Z",
             "display_date": "18 February 2026 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -2118,7 +2088,7 @@
             "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
             "release_date": "2026-02-18T09:30:00Z",
             "display_date": "18 February 2026 9:30am (provisional)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
@@ -2128,7 +2098,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
             "release_date": "2026-02-25T09:30:00Z",
             "display_date": "25 February 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2138,7 +2108,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
             "release_date": "2026-02-25T09:30:00Z",
             "display_date": "25 February 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2148,7 +2118,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
             "release_date": "2026-02-27T09:30:00Z",
             "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2158,7 +2128,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
             "release_date": "2026-02-27T09:30:00Z",
             "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2168,7 +2138,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
             "release_date": "2026-05-27T09:30:00Z",
             "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2178,7 +2148,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
             "release_date": "2026-05-27T09:30:00Z",
             "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2025-06-19T06:35:17Z",
+            "updated": "2025-06-19T08:46:50Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
