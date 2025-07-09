@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-09T13:21:29Z",
+    "modified": "2025-07-09T16:51:09Z",
     "entries": [
         {
             "id": "pip-daily-living-activity-score-statistics-april-2025",
@@ -1233,6 +1233,16 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-occupancy-statistics--4",
+            "title": "Monthly Occupancy Statistics ",
+            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T15:03:42Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "inpatient-and-day-case-activity-in-northern-ireland-2024-to-2025",
             "title": "Inpatient and Day Case Activity in Northern Ireland 2024 to 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
@@ -1585,10 +1595,10 @@
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-september-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 5 September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Deaths Registered in Northern Ireland - Week ending 5 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 5 September 2025.",
             "release_date": "2025-09-12T09:30:00Z",
             "display_date": "12 September 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:20:09Z",
+            "updated": "2025-07-09T14:25:49Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1643,6 +1653,16 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-september-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 September 2025.",
+            "release_date": "2025-09-19T09:30:00Z",
+            "display_date": "19 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:28:53Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-1",
             "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2025-26 - Quarter 1",
             "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
@@ -1683,6 +1703,16 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-19-september-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 19 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 19 September 2025.",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:36:37Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "acute-episode-based-activity-statistics-2023-to-2024--2",
             "title": "Acute Episode-Based Activity Statistics 2023 to 2024",
             "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2023 to 2024, including breakdown by specialty, diagnosis, procedure, and resource group.",
@@ -1693,6 +1723,16 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-26-september-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 26 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 26 September 2025.",
+            "release_date": "2025-10-03T09:30:00Z",
+            "display_date": "3 October 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:38:27Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
             "title": "Investment in General Practice, Northern Ireland 2020-21 to 2024-25",
             "summary": "Date: provisional. Document type: Official statistics. This report details investment in general practice and the reimbursement for drugs dispensed in general practices in Northern Ireland.",
@@ -1701,6 +1741,16 @@
             "updated": "2025-05-02T09:26:51Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-3-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 3 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 3 October 2025.",
+            "release_date": "2025-10-10T09:30:00Z",
+            "display_date": "10 October 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:40:16Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "monthly-civil-partnerships-northern-ireland-september-2025",
@@ -1773,6 +1823,16 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 10 October 2025.",
+            "release_date": "2025-10-17T09:30:00Z",
+            "display_date": "17 October 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:42:10Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-september-2025",
             "title": "DVA Monthly Tests Conducted Statistics: September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1801,6 +1861,36 @@
             "updated": "2024-10-24T15:22:41Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 17 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 17 October 2025.",
+            "release_date": "2025-10-24T09:30:00Z",
+            "display_date": "24 October 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:44:07Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-24-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 24 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 24 October 2025.",
+            "release_date": "2025-10-31T09:30:00Z",
+            "display_date": "31 October 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:47:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-31-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 31 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 31 October 2025.",
+            "release_date": "2025-11-07T09:30:00Z",
+            "display_date": "7 November 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:49:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "monthly-civil-partnerships-northern-ireland-october-2025",
@@ -1863,6 +1953,16 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 7 November 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 7 November 2025.",
+            "release_date": "2025-11-14T09:30:00Z",
+            "display_date": "14 November 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:55:05Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-may-2025--2",
             "title": "DVA Monthly Tests Conducted Statistics: October 2025",
             "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1913,6 +2013,16 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 14 November 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 14 November 2025.",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T14:57:29Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "health-survey-northern-ireland-first-results-202425",
             "title": "Health Survey Northern Ireland: First Results 2024/25",
             "summary": "Date: provisional. Document type: Official statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
@@ -1933,6 +2043,16 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-21-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 21 November 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 21 November 2025.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T15:00:13Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2025",
             "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
@@ -1950,6 +2070,16 @@
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:37:40Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-28-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 28 November 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 28 November 2025.",
+            "release_date": "2025-12-05T09:30:00Z",
+            "display_date": "5 December 2025 9:30am (confirmed)",
+            "updated": "2025-07-09T15:02:09Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
