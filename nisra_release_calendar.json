@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-10T08:47:19Z",
+    "modified": "2025-07-10T12:46:39Z",
     "entries": [
         {
             "id": "pip-daily-living-activity-score-statistics-april-2025",
@@ -1234,11 +1234,11 @@
         },
         {
             "id": "monthly-occupancy-statistics--4",
-            "title": "Monthly Occupancy Statistics ",
+            "title": "Monthly Occupancy Statistics, June 2025",
             "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
             "release_date": "2025-08-07T09:30:00Z",
             "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T15:03:42Z",
+            "updated": "2025-07-10T12:07:57Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
