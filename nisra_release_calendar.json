@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-10T12:46:39Z",
+    "modified": "2025-07-10T16:52:22Z",
     "entries": [
         {
             "id": "pip-daily-living-activity-score-statistics-april-2025",
@@ -81,6 +81,16 @@
             "display_date": "3 July 2025",
             "updated": "2025-07-03T09:30:05Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-occupancy-statistics-may-2025",
+            "title": "Monthly Occupancy Statistics, May 2025",
+            "summary": "Document type: Official Statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2025-07-03T09:30:00Z",
+            "display_date": "3 July 2025",
+            "updated": "2025-07-03T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "ireland-and-northern-ireland-a-joint-census-publication-2021-2022",
@@ -987,16 +997,6 @@
             "title": "Probation Board NI annual caseload 2024/25",
             "summary": "Document type: Official Statistics. This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
             "url": "https://www.pbni.org.uk/publication/annual-caseload-statistics-report-2024-25",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "structure-performance-of-the-ni-economy-2021",
-            "title": "Structure & Performance of the NI Economy 2021",
-            "summary": "Document type: Official Statistics. Structure & Performance of the NI Economy 2021 including Detailed Supply-Use tables for 2021.",
-            "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
             "release_date": "2025-05-28T09:30:00Z",
             "display_date": "28 May 2025",
             "updated": "2025-05-28T09:30:02Z",
