@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-11T08:50:41Z",
+    "modified": "2025-07-11T12:44:06Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-june-2025",
@@ -1401,6 +1401,16 @@
             "updated": "2024-10-24T12:44:38Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
+            "summary": "Date: confirmed. Document type: Official statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-11T13:41:49Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
         },
         {
             "id": "personal-independence-payment-statistics-may-2025",
