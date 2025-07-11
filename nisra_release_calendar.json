@@ -1,7 +1,77 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-11T06:34:47Z",
+    "modified": "2025-07-11T08:46:40Z",
     "entries": [
+        {
+            "id": "monthly-births-northern-ireland-june-2025",
+            "title": "Monthly Births (Northern Ireland): June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Births (Northern Ireland): June 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-june-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): June 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-june-2025",
+            "title": "Monthly Marriages (Northern Ireland): June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): June 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-june-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: June 2025",
+            "summary": "Document type: Official Statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-june-2025",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-june-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): June 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-4-july-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 4 July 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 4 July 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-june-2025",
+            "title": "Monthly Deaths (Northern Ireland): June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): June 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-07-11T09:30:00Z",
+            "display_date": "11 July 2025",
+            "updated": "2025-07-11T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "pip-daily-living-activity-score-statistics-april-2025",
             "title": "PIP Daily Living Activity Score Statistics - April 2025",
@@ -931,146 +1001,6 @@
             "display_date": "29 May 2025",
             "updated": "2025-05-29T00:00:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-annual-tourism-statistics-2024",
-            "title": "Northern Ireland  Annual Tourism Statistics 2024",
-            "summary": "Document type: Official Statistics. Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2024.",
-            "url": "https://www.nisra.gov.uk/publications/ni-annual-tourism-statistics-2024",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "higher-level-apprenticeships-at-he-institutions-ni-202223",
-            "title": "Higher Level Apprenticeships at HE Institutions NI, 2022/23",
-            "summary": "Document type: Official Statistics. Statistics in this bulletin present a range of analysis on the Higher Level Apprenticeship programmes at NI Higher Education Institutions.\r\n",
-            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-heis-statistical-fact-sheets",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "personal-independence-payment-statistics-february-2025",
-            "title": "Personal Independence Payment Statistics - February 2025",
-            "summary": "Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
-            "url": "https://www.communities-ni.gov.uk/articles/personal-independence-payment-statistics",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-february-2025",
-            "title": "Northern Ireland Benefit Statistics Summary: February 2025",
-            "summary": "Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-national-statistics-february-2025",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-4-202425",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2024/25",
-            "summary": "Document type: Official Statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "url": "https://www.pbni.org.uk/publication/probation-quarterly-caseload-statistics-q4-2024-25",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "labour-force-survey-annual-summary-report-2024",
-            "title": "Labour Force Survey Annual Summary Report 2024",
-            "summary": "Document type: Accredited official statistics. This report provides the key labour market results from the Labour Force Survey for the year ending 31 December 2024.",
-            "url": "https://www.nisra.gov.uk/publications/labour-force-survey-annual-summary-report-2024",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202425",
-            "title": "Probation Board NI annual caseload 2024/25",
-            "summary": "Document type: Official Statistics. This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "url": "https://www.pbni.org.uk/publication/annual-caseload-statistics-report-2024-25",
-            "release_date": "2025-05-28T09:30:00Z",
-            "display_date": "28 May 2025",
-            "updated": "2025-05-28T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-june-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-20T08:03:28Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-june-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): June 2025",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T13:03:58Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-june-2025",
-            "title": "Monthly Marriages (Northern Ireland): June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): June 2025",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T13:01:24Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-june-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): June 2025",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:58:25Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-june-2025",
-            "title": "Monthly Births (Northern Ireland): June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): June 2025",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:55:28Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-june-2025",
-            "title": "Monthly Deaths (Northern Ireland): June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): June 2025",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:50:00Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-4-july-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 4 July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 4 July 2025.",
-            "release_date": "2025-07-11T09:30:00Z",
-            "display_date": "11 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:07:09Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-july-2025",
