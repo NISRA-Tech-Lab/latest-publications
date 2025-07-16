@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-16T08:53:41Z",
+    "modified": "2025-07-16T12:49:38Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-june-2025",
@@ -1270,6 +1270,16 @@
             "display_date": "12 August 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:00Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
+            "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual report covering 1 April 2024 to 31 March 2025 providing data from independent custody visiting volunteers in relation to visits and outcomes.",
+            "release_date": "2025-08-13T09:30:00Z",
+            "display_date": "13 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-16T10:15:29Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
