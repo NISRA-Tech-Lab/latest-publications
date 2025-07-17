@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-16T16:57:41Z",
+    "modified": "2025-07-17T05:59:59Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-june-2025",
@@ -1001,16 +1001,6 @@
             "display_date": "29 May 2025",
             "updated": "2025-05-29T00:00:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-july-2025",
-            "title": "NI Labour Market statistics: July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-07-17T09:30:00Z",
-            "display_date": "17 July 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:49:54Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
