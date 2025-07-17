@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-17T05:59:59Z",
+    "modified": "2025-07-17T06:35:19Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-july-2025",
+            "title": "NI Labour Market statistics: July 2025",
+            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-07-17T09:30:00Z",
+            "display_date": "17 July 2025",
+            "updated": "2025-07-17T07:00:03Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "monthly-births-northern-ireland-june-2025",
             "title": "Monthly Births (Northern Ireland): June 2025",
@@ -990,16 +1000,6 @@
             "release_date": "2025-05-29T09:30:00Z",
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:04Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "2023-mid-year-population-estimates-for-northern-ireland-by-lgd",
-            "title": "2023 Mid-Year Population Estimates for Northern Ireland by Local Government District",
-            "summary": "Document type: Accredited official statistics. 2023 Mid-Year Population Estimates for Northern Ireland by Local Government District",
-            "url": "https://www.nisra.gov.uk/publications/2023-mid-year-population-estimates-northern-ireland-and-estimates-population-aged-85",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T00:00:00Z",
             "release_type": "Accredited official statistics"
         },
         {
