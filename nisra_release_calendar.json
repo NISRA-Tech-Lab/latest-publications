@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-18T06:35:58Z",
+    "modified": "2025-07-18T08:47:33Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 11 July 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 11 July 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-07-18T09:30:00Z",
+            "display_date": "18 July 2025",
+            "updated": "2025-07-18T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "ni-labour-market-statistics-july-2025",
             "title": "NI Labour Market statistics: July 2025",
@@ -991,26 +1001,6 @@
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:04Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-environmental-statistics-report-2025",
-            "title": "Northern Ireland Environmental Statistics Report 2025",
-            "summary": "Document type: Accredited official statistics. This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-environmental-statistics-report",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T09:30:04Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 11 July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 11 July 2025.",
-            "release_date": "2025-07-18T09:30:00Z",
-            "display_date": "18 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:09:03Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
