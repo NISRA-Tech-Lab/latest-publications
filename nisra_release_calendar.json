@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-21T08:56:36Z",
+    "modified": "2025-07-21T12:50:17Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
@@ -1003,16 +1003,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
-            "summary": "Date: provisional. Document type: Official statistics. Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "release_date": "2025-07-25T09:30:00Z",
-            "display_date": "25 July 2025 9:30am (provisional)",
-            "updated": "2025-07-08T09:23:53Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2025",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
@@ -1121,6 +1111,16 @@
             "updated": "2025-06-02T16:36:12Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
+            "summary": "Date: provisional. Document type: Official statistics. Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "release_date": "2025-08-01T09:30:00Z",
+            "display_date": "1 August 2025 9:30am (provisional)",
+            "updated": "2025-07-21T12:11:43Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-25-july-2025",
