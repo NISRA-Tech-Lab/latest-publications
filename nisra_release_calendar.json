@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-23T08:53:54Z",
+    "modified": "2025-07-23T12:50:45Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
@@ -1263,6 +1263,16 @@
             "status": "confirmed"
         },
         {
+            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
+            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
+            "release_date": "2025-08-14T09:30:00Z",
+            "display_date": "14 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-23T11:48:26Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
             "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
@@ -1333,6 +1343,16 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-23T11:35:57Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2025",
             "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report will monitor the progress of the strategy against agreed targets and key performance indicators.",
@@ -1340,16 +1360,6 @@
             "display_date": "21 August 2025 9:30am (confirmed)",
             "updated": "2025-07-22T10:51:24Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of female patients of child bearing age prescribed Sodium Valproate.",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-02T16:46:50Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -1401,6 +1411,16 @@
             "updated": "2024-10-24T12:44:38Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-additional-indicators-2020-to-2024",
+            "title": "Work Quality in Northern Ireland – Additional Indicators 2020 to 2024",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides the analysis of additional Work Quality indicators from the Labour Force Survey and the Annual Survey of Hours and Earnings from 2020 to 2024.",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-23T12:02:39Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
@@ -1460,6 +1480,16 @@
             "display_date": "29 August 2025 9:30am (confirmed)",
             "updated": "2025-04-17T12:22:15Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2019-to-september-2024",
+            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-23T11:34:34Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
