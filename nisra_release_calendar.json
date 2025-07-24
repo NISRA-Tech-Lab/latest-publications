@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-24T06:36:31Z",
+    "modified": "2025-07-24T08:48:47Z",
     "entries": [
+        {
+            "id": "complaints-and-allegations-received-by-oponi-202526-q1",
+            "title": "Complaints and Allegations received by OPONI 2025/26 Q1,",
+            "summary": "Document type: Official Statistics. Complaints and Allegations received by the Police Ombudsman for Northern Ireland, Quarter 1 2025/26",
+            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
+            "release_date": "2025-07-24T09:30:00Z",
+            "display_date": "24 July 2025",
+            "updated": "2025-07-24T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-july-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 11 July 2025",
@@ -991,16 +1001,6 @@
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:05Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2023-to-2024-academic-year",
-            "title": "Qualifications and destinations of Northern Ireland school leavers: 2023 to 2024 (academic year)",
-            "summary": "Document type: Accredited official statistics. An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2023 to 2024 (academic year).",
-            "url": "https://www.education-ni.gov.uk/articles/school-leavers",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T09:30:04Z",
-            "release_type": "Accredited official statistics"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2025",
