@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-25T08:47:30Z",
+    "modified": "2025-07-25T08:52:09Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
@@ -1461,6 +1461,16 @@
             "updated": "2024-10-14T14:13:54Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-july-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 July 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2025-08-28T09:30:00Z",
+            "display_date": "28 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-25T09:52:15Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "community-pharmaceutical-services-statistics-for-northern-ireland-quarter-1-202526",
