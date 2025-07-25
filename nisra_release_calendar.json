@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-25T06:36:05Z",
+    "modified": "2025-07-25T08:47:30Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 18 July 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 18 July 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-07-25T09:30:00Z",
+            "display_date": "25 July 2025",
+            "updated": "2025-07-25T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2025",
+            "summary": "Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-07-25T09:30:00Z",
+            "display_date": "25 July 2025",
+            "updated": "2025-07-25T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "complaints-and-allegations-received-by-oponi-202526-q1",
             "title": "Complaints and Allegations received by OPONI 2025/26 Q1,",
@@ -981,46 +1001,6 @@
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:05Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-march-2025",
-            "title": "Motoring offences statistics in Northern Ireland to 31 March 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ksi-casualties-caused-by-excessive-speed-in-northern-ireland-2019-2023",
-            "title": "KSI casualties caused by Excessive speed in Northern Ireland, 2019-2023",
-            "summary": "Document type: Official Statistics. This statistical brief reviews PSNI road traffic collision data from 2019 to 2023 to identify any emerging issues regarding the number of people who were killed or seriously injured due to excessive speed on Northern Ireland…",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/statistics-and-research-infrastructure",
-            "release_date": "2025-05-29T09:30:00Z",
-            "display_date": "29 May 2025",
-            "updated": "2025-05-29T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-07-25T09:30:00Z",
-            "display_date": "25 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-19T17:36:40Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 18 July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 18 July 2025.",
-            "release_date": "2025-07-25T09:30:00Z",
-            "display_date": "25 July 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:10:46Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2024",
