@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-28T06:38:08Z",
+    "modified": "2025-07-28T08:49:35Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
@@ -1339,6 +1339,16 @@
             "release_date": "2025-08-20T09:30:00Z",
             "display_date": "20 August 2025 9:30am (confirmed)",
             "updated": "2025-01-06T08:46:15Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-april-june-2025",
+            "title": "Northern Ireland Housing Bulletin April - June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-28T09:04:38Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
