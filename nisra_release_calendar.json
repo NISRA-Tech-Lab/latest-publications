@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-28T08:55:25Z",
+    "modified": "2025-07-28T12:51:56Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
@@ -1123,6 +1123,16 @@
             "status": "confirmed"
         },
         {
+            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
+            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025 ",
+            "summary": "Date: confirmed. Document type: Official statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-28T10:18:08Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics--4",
             "title": "Monthly Occupancy Statistics, June 2025",
             "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1141,16 +1151,6 @@
             "updated": "2025-06-24T12:32:08Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
-            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (provisional)",
-            "updated": "2025-06-23T15:11:22Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
@@ -1530,6 +1530,16 @@
             "display_date": "28 August 2025 9:30am (confirmed)",
             "updated": "2025-06-02T16:41:26Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-april-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to April 2025.",
+            "summary": "Date: confirmed. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2025-08-29T09:30:00Z",
+            "display_date": "29 August 2025 9:30am (confirmed)",
+            "updated": "2025-07-28T13:23:53Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
