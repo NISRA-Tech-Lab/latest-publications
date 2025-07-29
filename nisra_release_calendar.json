@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-29T12:50:57Z",
+    "modified": "2025-07-29T16:54:23Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
@@ -1559,6 +1559,16 @@
             "release_date": "2025-08-29T09:30:00Z",
             "display_date": "29 August 2025 9:30am (confirmed)",
             "updated": "2025-04-17T12:22:15Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2025",
+            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. An overview of Northern Ireland Civil Service pay statistics for the year ending March 2025.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-29T14:41:54Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
