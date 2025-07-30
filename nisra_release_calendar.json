@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-30T08:54:32Z",
+    "modified": "2025-07-30T12:51:53Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-18-july-2025",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 1 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2025/26.",
+            "release_date": "2025-07-31T09:30:00Z",
+            "display_date": "31 July 2025 9:30am (confirmed)",
+            "updated": "2025-07-30T10:05:57Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2024",
             "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - January to March 2025",
@@ -1079,16 +1089,6 @@
             "release_date": "2025-07-31T09:30:00Z",
             "display_date": "31 July 2025 9:30am (confirmed)",
             "updated": "2025-06-24T14:28:59Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2025/26.",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025 9:30am (confirmed)",
-            "updated": "2025-06-02T16:36:12Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
