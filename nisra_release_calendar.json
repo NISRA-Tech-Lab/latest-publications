@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-31T12:50:28Z",
+    "modified": "2025-07-31T16:53:39Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
@@ -1479,6 +1479,16 @@
             "release_date": "2025-09-03T09:30:00Z",
             "display_date": "3 September 2025 9:30am (confirmed)",
             "updated": "2025-07-31T12:39:15Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-july-2025",
+            "title": "Monthly Occupancy Statistics, July 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-31T16:51:05Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
