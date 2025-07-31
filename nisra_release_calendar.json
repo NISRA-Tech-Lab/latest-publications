@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-07-31T08:54:36Z",
+    "modified": "2025-07-31T12:50:28Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
@@ -1473,6 +1473,16 @@
             "status": "confirmed"
         },
         {
+            "id": "public-awareness-of-and-trust-in-official-statistics-2024",
+            "title": "Public Awareness of and Trust in Official Statistics 2024",
+            "summary": "Date: confirmed. Document type: Official statistics. Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2024.",
+            "release_date": "2025-09-03T09:30:00Z",
+            "display_date": "3 September 2025 9:30am (confirmed)",
+            "updated": "2025-07-31T12:39:15Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2025",
             "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. An overview of Northern Ireland Civil Service pay statistics for the year ending March 2025.",
@@ -2384,6 +2394,14 @@
         }
     ],
     "cancelled": [
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1st-january-2026",
+            "updated": "2025-07-31T12:30:19Z"
+        },
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1st-oct-2025",
+            "updated": "2025-07-31T12:29:31Z"
+        },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-june-2025",
             "updated": "2025-07-09T13:46:26Z"
