@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-01T06:38:21Z",
+    "modified": "2025-08-01T08:48:38Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-25-july-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 25 July 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 25 July 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-08-01T09:30:00Z",
+            "display_date": "1 August 2025",
+            "updated": "2025-08-01T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
+            "summary": "Document type: Official Statistics. Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/complaints-statistics",
+            "release_date": "2025-08-01T09:30:00Z",
+            "display_date": "1 August 2025",
+            "updated": "2025-08-01T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
             "title": "General Dental Services Statistics for NI, Quarter 1 2025/26",
@@ -981,46 +1001,6 @@
             "display_date": "4 June 2025",
             "updated": "2025-06-04T00:00:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-march-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending March 2025",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T00:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-march-2025",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending March 2025",
-            "summary": "Document type: Official Statistics. Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "release_date": "2025-08-01T09:30:00Z",
-            "display_date": "1 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-30T15:52:43Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-25-july-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 25 July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 25 July 2025.",
-            "release_date": "2025-08-01T09:30:00Z",
-            "display_date": "1 August 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:13:03Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202526-financial-year",
