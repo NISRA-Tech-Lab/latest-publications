@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-06T08:50:42Z",
+    "modified": "2025-08-06T12:52:30Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202526-financial-year",
@@ -1003,6 +1003,16 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-06T10:57:30Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
             "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025 ",
             "summary": "Date: confirmed. Document type: Official statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
@@ -1029,16 +1039,6 @@
             "release_date": "2025-08-07T09:30:00Z",
             "display_date": "7 August 2025 9:30am (confirmed)",
             "updated": "2025-06-24T12:32:08Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-02T16:40:03Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
