@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-06T06:38:26Z",
+    "modified": "2025-08-06T08:50:42Z",
     "entries": [
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-one-202526-financial-year",
+            "title": "Employment Vacancies Notified to DfC Quarter One 2025/26 Financial Year",
+            "summary": "Document type: Official Statistics. Quarterly data showing listings of employment vacancies notified to Department for Communities.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/employment-vacancy-statistics",
+            "release_date": "2025-08-06T09:30:00Z",
+            "display_date": "6 August 2025",
+            "updated": "2025-08-06T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-25-july-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 25 July 2025",
@@ -993,26 +1003,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-march-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending March 2025",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T00:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-one-202526-financial-year",
-            "title": "Employment Vacancies Notified to DfC Quarter One 2025/26 Financial Year",
-            "summary": "Date: confirmed. Document type: Official statistics. Quarterly data showing listings of employment vacancies notified to Department for Communities.",
-            "release_date": "2025-08-06T09:30:00Z",
-            "display_date": "6 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-07T15:29:20Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
             "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025 ",
             "summary": "Date: confirmed. Document type: Official statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
@@ -1311,6 +1301,16 @@
             "updated": "2024-10-24T12:44:38Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-may-2025",
+            "title": "Benefit Cap Report Northern Ireland: May 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-06T08:55:03Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
         },
         {
             "id": "work-quality-in-northern-ireland-additional-indicators-2020-to-2024",
@@ -2010,6 +2010,16 @@
             "display_date": "21 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:57:29Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-august-2025",
+            "title": "Benefit Cap Report Northern Ireland: August 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025 9:30am (confirmed)",
+            "updated": "2025-08-06T09:11:56Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
