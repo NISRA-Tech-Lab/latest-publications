@@ -1,7 +1,47 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-07T06:38:17Z",
+    "modified": "2025-08-07T08:49:36Z",
     "entries": [
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2025/26",
+            "summary": "Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q1-25-26.html",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025",
+            "updated": "2025-08-07T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-occupancy-statistics-june-2025",
+            "title": "Monthly Occupancy Statistics, June 2025",
+            "summary": "Document type: Official Statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland. ",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025",
+            "updated": "2025-08-07T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
+            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025",
+            "summary": "Document type: Official Statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
+            "url": "https://www.health-ni.gov.uk/articles/making-life-better-indicators",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025",
+            "updated": "2025-08-07T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "inpatient-and-day-case-activity-in-northern-ireland-2024-to-2025",
+            "title": "Inpatient and Day Case Activity in Northern Ireland 2024 to 2025",
+            "summary": "Document type: Accredited official statistics. Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
+            "url": "https://www.health-ni.gov.uk/articles/inpatient-and-day-case-activity",
+            "release_date": "2025-08-07T09:30:00Z",
+            "display_date": "7 August 2025",
+            "updated": "2025-08-07T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202526-financial-year",
             "title": "Employment Vacancies Notified to DfC Quarter One 2025/26 Financial Year",
@@ -961,86 +1001,6 @@
             "display_date": "5 June 2025",
             "updated": "2025-06-05T00:00:05Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202324",
-            "title": "Patient education / self management programmes for people with long term conditions 2023/24",
-            "summary": "Document type: Official Statistics. This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details…",
-            "url": "https://www.health-ni.gov.uk/topics/patient-education-programmes",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "ni-analytical-input-output-tables-2021",
-            "title": "NI Analytical Input-Output tables 2021",
-            "summary": "Document type: Official Statistics. NI Analytical Input-Output tables 2021 – industry by industry",
-            "url": "https://www.nisra.gov.uk/statistics/economy/economic-accounts-project",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2025",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2025",
-            "summary": "Document type: Accredited official statistics. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
-            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T09:30:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-housing-stock-april-2025",
-            "title": "Northern Ireland Housing Stock April 2025",
-            "summary": "Document type: Official Statistics. Statistics on the number of domestic dwellings in each council area in Northern Ireland at April each year",
-            "url": "https://www.finance-ni.gov.uk/topics/housing-stock-statistics",
-            "release_date": "2025-06-04T09:30:00Z",
-            "display_date": "4 June 2025",
-            "updated": "2025-06-04T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-06T10:57:30Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2025",
-            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2025 ",
-            "summary": "Date: confirmed. Document type: Official statistics. The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-28T10:18:08Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics--4",
-            "title": "Monthly Occupancy Statistics, June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-10T12:07:57Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "inpatient-and-day-case-activity-in-northern-ireland-2024-to-2025",
-            "title": "Inpatient and Day Case Activity in Northern Ireland 2024 to 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-24T12:32:08Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2025",
