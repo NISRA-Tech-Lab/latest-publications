@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-08T12:51:10Z",
+    "modified": "2025-08-08T16:48:16Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2025",
@@ -1560,6 +1560,16 @@
             "display_date": "16 September 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:06Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
+            "title": "Northern Ireland Youth Justice Agency Annual Workload Statistics 1 April 2024 to 31 March 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This publication provides an overview of the workload of the Youth Justice Agency from 2020/21 to 2024/25 providing descriptive analysis of trends on a range of demographics, including some Section 75 characteristics and car…",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-08T13:56:44Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
