@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-08T08:54:40Z",
+    "modified": "2025-08-08T12:51:10Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2025",
@@ -1243,6 +1243,16 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-universal-credit-statistics-may-2025",
+            "title": "Northern Ireland Universal Credit Statistics: May 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-08T12:00:06Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "benefit-cap-report-northern-ireland-may-2025",
             "title": "Benefit Cap Report Northern Ireland: May 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
@@ -1291,16 +1301,6 @@
             "updated": "2025-03-13T12:17:26Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-may-2025",
-            "title": "Northern Ireland Universal Credit Statistics: May 2025",
-            "summary": "Date: provisional. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (provisional)",
-            "updated": "2024-10-14T14:13:54Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-june-2025",
