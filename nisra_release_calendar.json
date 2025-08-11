@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-11T08:49:41Z",
+    "modified": "2025-08-11T12:50:30Z",
     "entries": [
         {
             "id": "monthly-deaths-northern-ireland-july-2025",
@@ -1513,6 +1513,16 @@
             "status": "confirmed"
         },
         {
+            "id": "statistical-bulletin-cases-involving-hate-crime-202425",
+            "title": "Statistical Bulletin: Cases Involving Hate Crime 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-11T11:29:06Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
             "title": "Northern Ireland Youth Justice Agency Annual Workload Statistics 1 April 2024 to 31 March 2025",
             "summary": "Date: confirmed. Document type: Official statistics. This publication provides an overview of the workload of the Youth Justice Agency from 2020/21 to 2024/25 providing descriptive analysis of trends on a range of demographics, including some Section 75 characteristics and car…",
@@ -1543,6 +1553,16 @@
             "status": "confirmed"
         },
         {
+            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-1",
+            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2025-26 - Quarter 1",
+            "summary": "Date: confirmed. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "release_date": "2025-09-19T09:30:00Z",
+            "display_date": "19 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-11T11:48:20Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-september-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 12 September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 September 2025.",
@@ -1551,16 +1571,6 @@
             "updated": "2025-07-09T14:28:53Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-1",
-            "title": "DfI Driver, Vehicle, Operator, and Enforcement Statistics - 2025-26 - Quarter 1",
-            "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2025-09-19T09:30:00Z",
-            "display_date": "19 September 2025 9:30am (provisional)",
-            "updated": "2025-06-03T10:53:03Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "working-and-workless-households-in-northern-ireland-april-to-june-2025",
