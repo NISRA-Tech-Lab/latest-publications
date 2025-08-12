@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-11T16:52:46Z",
+    "modified": "2025-08-12T06:00:45Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-august-2025",
+            "title": "NI Labour Market statistics: August 2025",
+            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-08-12T09:30:00Z",
+            "display_date": "12 August 2025",
+            "updated": "2025-08-12T07:00:01Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "monthly-deaths-northern-ireland-july-2025",
             "title": "Monthly Deaths (Northern Ireland): July 2025",
@@ -991,26 +1001,6 @@
             "display_date": "5 June 2025",
             "updated": "2025-06-05T09:30:02Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-april-2025",
-            "title": "Police recorded crime in Northern Ireland, period ending 30 April 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-06-05T09:30:00Z",
-            "display_date": "5 June 2025",
-            "updated": "2025-06-05T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-august-2025",
-            "title": "NI Labour Market statistics: August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-08-12T09:30:00Z",
-            "display_date": "12 August 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:50:00Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
