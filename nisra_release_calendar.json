@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-13T08:52:03Z",
+    "modified": "2025-08-13T12:47:50Z",
     "entries": [
         {
             "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
@@ -1008,7 +1008,7 @@
             "summary": "Date: confirmed. Document type: Official statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
             "release_date": "2025-08-14T09:30:00Z",
             "display_date": "14 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-23T11:48:26Z",
+            "updated": "2025-08-13T13:25:56Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1018,7 +1018,7 @@
             "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
             "release_date": "2025-08-14T09:30:00Z",
             "display_date": "14 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-02T16:37:46Z",
+            "updated": "2025-08-13T09:57:38Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1390,6 +1390,26 @@
             "display_date": "5 September 2025 9:30am (confirmed)",
             "updated": "2025-04-17T12:24:21Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "public-transport-statistics-northern-ireland-2024-25",
+            "title": "Public Transport Statistics Northern Ireland 2024-25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents statistics on public transport operated by Translink in Northern Ireland and it brings together information on public transport journeys, vehicles and staff.",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-13T12:05:19Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-june-2025",
+            "title": "Northern Ireland Child Maintenance Service: Data to June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2025.",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-13T12:00:12Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
