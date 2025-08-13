@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-13T06:34:22Z",
+    "modified": "2025-08-13T08:47:13Z",
     "entries": [
+        {
+            "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
+            "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
+            "summary": "Document type: Official Statistics. Annual report covering 1 April 2024 to 31 March 2025 providing data from independent custody visiting volunteers in relation to visits and outcomes.",
+            "url": "https://www.nipolicingboard.org.uk/independent-custody-visiting-reports",
+            "release_date": "2025-08-13T09:30:00Z",
+            "display_date": "13 August 2025",
+            "updated": "2025-08-13T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "ni-labour-market-statistics-august-2025",
             "title": "NI Labour Market statistics: August 2025",
@@ -991,26 +1001,6 @@
             "display_date": "5 June 2025",
             "updated": "2025-06-05T09:30:02Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-april-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 April 2025",
-            "summary": "Document type: Official Statistics. Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-06-05T09:30:00Z",
-            "display_date": "5 June 2025",
-            "updated": "2025-06-05T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
-            "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual report covering 1 April 2024 to 31 March 2025 providing data from independent custody visiting volunteers in relation to visits and outcomes.",
-            "release_date": "2025-08-13T09:30:00Z",
-            "display_date": "13 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-16T10:15:29Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
