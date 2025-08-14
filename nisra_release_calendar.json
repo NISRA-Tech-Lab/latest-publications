@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-14T12:49:47Z",
+    "modified": "2025-08-14T16:50:02Z",
     "entries": [
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
@@ -1033,26 +1033,6 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-hsc-vacancies-june-2025",
-            "title": "Northern Ireland HSC Vacancies June 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
-            "release_date": "2025-08-20T09:30:00Z",
-            "display_date": "20 August 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:45:14Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
-            "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
-            "release_date": "2025-08-20T09:30:00Z",
-            "display_date": "20 August 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:41:19Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-new-dwelling-statistics-quarter-2-2025",
             "title": "Northern Ireland New Dwelling Statistics Quarter 2 2025",
             "summary": "Date: confirmed. Document type: Official statistics. New Dwellings in each local government district in Northern Ireland during Apr - Jun 2025",
@@ -1143,16 +1123,6 @@
             "status": "confirmed"
         },
         {
-            "id": "emergency-care-waiting-time-statistics-april-june-2025",
-            "title": "Emergency Care Waiting Time Statistics (April - June 2025)",
-            "summary": "Date: provisional. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
-            "release_date": "2025-08-22T09:30:00Z",
-            "display_date": "22 August 2025 9:30am (provisional)",
-            "updated": "2024-10-24T12:44:38Z",
-            "release_type": "Accredited official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-universal-credit-statistics-may-2025",
             "title": "Northern Ireland Universal Credit Statistics: May 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
@@ -1209,6 +1179,16 @@
             "release_date": "2025-08-27T09:30:00Z",
             "display_date": "27 August 2025 9:30am (confirmed)",
             "updated": "2025-03-13T12:17:26Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-april-june-2025",
+            "title": "Emergency Care Waiting Time Statistics (April - June 2025)",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
+            "release_date": "2025-08-28T09:30:00Z",
+            "display_date": "28 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-14T14:25:42Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1291,6 +1271,26 @@
             "updated": "2025-04-17T12:22:15Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-june-2025",
+            "title": "Northern Ireland HSC Vacancies June 2025",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
+            "release_date": "2025-09-03T09:30:00Z",
+            "display_date": "3 September 2025 9:30am (provisional)",
+            "updated": "2025-08-14T16:56:20Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
+            "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
+            "release_date": "2025-09-03T09:30:00Z",
+            "display_date": "3 September 2025 9:30am (provisional)",
+            "updated": "2025-08-14T16:54:21Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
         },
         {
             "id": "public-awareness-of-and-trust-in-official-statistics-2024",
@@ -1550,6 +1550,16 @@
             "display_date": "19 September 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:28:53Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2024",
+            "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2024",
+            "summary": "Date: confirmed. Document type: Official statistics. A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-14T17:14:27Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
