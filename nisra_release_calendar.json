@@ -1,17 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-14T08:52:35Z",
+    "modified": "2025-08-14T12:49:47Z",
     "entries": [
-        {
-            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
-            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
-            "summary": "Document type: Official Statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
-            "url": "https://www.gov.uk/government/statistics/case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
-            "release_date": "2025-08-14T09:30:00Z",
-            "display_date": "14 August 2025",
-            "updated": "2025-08-14T09:30:10Z",
-            "release_type": "Official Statistics"
-        },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
             "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
@@ -21,6 +11,16 @@
             "display_date": "14 August 2025",
             "updated": "2025-08-14T09:30:09Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
+            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
+            "summary": "Document type: Official Statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
+            "url": "https://www.justice-ni.gov.uk/publications/case-processing-time-criminal-cases-dealt-courts-northern-ireland-2425",
+            "release_date": "2025-08-14T09:30:00Z",
+            "display_date": "14 August 2025",
+            "updated": "2025-08-14T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
