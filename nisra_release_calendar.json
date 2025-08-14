@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-14T06:34:50Z",
+    "modified": "2025-08-14T08:47:20Z",
     "entries": [
+        {
+            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
+            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
+            "summary": "Document type: Official Statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
+            "url": "https://www.gov.uk/government/statistics/case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
+            "release_date": "2025-08-14T09:30:00Z",
+            "display_date": "14 August 2025",
+            "updated": "2025-08-14T09:30:10Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
+            "summary": "Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q1-2025-2026.html",
+            "release_date": "2025-08-14T09:30:00Z",
+            "display_date": "14 August 2025",
+            "updated": "2025-08-14T09:30:09Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
             "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
@@ -981,46 +1001,6 @@
             "display_date": "5 June 2025",
             "updated": "2025-06-05T09:30:06Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "fps-general-medical-services-statistics-for-ni-202425",
-            "title": "FPS General Medical Services Statistics for NI 2024/25",
-            "summary": "Document type: Accredited official statistics. This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2024 and March 2025.",
-            "url": "https://datavis.nisra.gov.uk/bso/general-medical-statistics-2024-2025.html",
-            "release_date": "2025-06-05T09:30:00Z",
-            "display_date": "5 June 2025",
-            "updated": "2025-06-05T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "school-meals-202425",
-            "title": "School Meals 2024/25",
-            "summary": "Document type: Official Statistics. The information  includes data on uptake of school meals and entitlement of free school meals.",
-            "url": "https://www.education-ni.gov.uk/articles/school-meals-statistical-bulletins",
-            "release_date": "2025-06-05T09:30:00Z",
-            "display_date": "5 June 2025",
-            "updated": "2025-06-05T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
-            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
-            "release_date": "2025-08-14T09:30:00Z",
-            "display_date": "14 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-13T13:25:56Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
-            "release_date": "2025-08-14T09:30:00Z",
-            "display_date": "14 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-13T09:57:38Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2025",
