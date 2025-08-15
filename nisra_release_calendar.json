@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-15T08:45:10Z",
+    "modified": "2025-08-15T12:44:17Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
@@ -1381,6 +1381,16 @@
             "updated": "2025-06-25T15:08:26Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
+            "title": "2024 Mid-Year Population Estimates for Northern Ireland and Estimates of the Population Aged 85 and Over for Northern Ireland, 2024 (and 2001 to 2023 revised)",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The 2024 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and o…",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-15T11:58:58Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-august-2025",
