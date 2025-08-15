@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-15T06:33:51Z",
+    "modified": "2025-08-15T08:45:10Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 8 August 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 8 August 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-08-15T09:30:00Z",
+            "display_date": "15 August 2025",
+            "updated": "2025-08-15T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-july-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: July 2025",
+            "summary": "Document type: Official Statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-july-2025",
+            "release_date": "2025-08-15T09:30:00Z",
+            "display_date": "15 August 2025",
+            "updated": "2025-08-15T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
             "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
@@ -981,46 +1001,6 @@
             "display_date": "6 June 2025",
             "updated": "2025-06-06T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-30-may-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 30 May 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 30 May 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-06-06T09:30:00Z",
-            "display_date": "6 June 2025",
-            "updated": "2025-06-06T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-4-202425",
-            "title": "General Medical Services Statistics for NI, Quarter 4 2024/25",
-            "summary": "Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 24/25.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q4-2024-2025.html",
-            "release_date": "2025-06-05T09:30:00Z",
-            "display_date": "5 June 2025",
-            "updated": "2025-06-05T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-july-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: July 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-08-15T09:30:00Z",
-            "display_date": "15 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-20T09:44:56Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 8 August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 8 August 2025.",
-            "release_date": "2025-08-15T09:30:00Z",
-            "display_date": "15 August 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:18:42Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-june-2025",
