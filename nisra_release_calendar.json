@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-19T08:44:35Z",
+    "modified": "2025-08-19T12:43:21Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
@@ -1603,16 +1603,6 @@
             "status": "confirmed"
         },
         {
-            "id": "acute-episode-based-activity-statistics-2023-to-2024--2",
-            "title": "Acute Episode-Based Activity Statistics 2023 to 2024",
-            "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2023 to 2024, including breakdown by specialty, diagnosis, procedure, and resource group.",
-            "release_date": "2025-10-02T09:30:00Z",
-            "display_date": "2 October 2025 9:30am (provisional)",
-            "updated": "2024-10-24T15:36:18Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-september-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 26 September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 26 September 2025.",
@@ -2139,6 +2129,16 @@
             "release_date": "2026-01-16T09:30:00Z",
             "display_date": "16 January 2026 9:30am (provisional)",
             "updated": "2025-06-03T10:43:13Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "acute-episode-based-activity-statistics-2023-to-2024--2",
+            "title": "Acute Episode-Based Activity Statistics 2023 to 2024",
+            "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2023 to 2024, including breakdown by specialty, diagnosis, procedure, and resource group.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (provisional)",
+            "updated": "2025-08-19T13:42:55Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
