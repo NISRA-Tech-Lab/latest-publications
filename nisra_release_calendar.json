@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-19T12:43:21Z",
+    "modified": "2025-08-19T16:49:38Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
@@ -1543,6 +1543,46 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2025--2",
+            "title": "Motoring offences statistics in Northern Ireland to 31 July 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-19T14:43:47Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 31 July 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-19T14:32:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-august-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 August 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-19T14:12:11Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-august-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 August 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-19T14:09:30Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2024",
             "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2024",
             "summary": "Date: confirmed. Document type: Official statistics. A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
@@ -1579,6 +1619,16 @@
             "release_date": "2025-09-25T09:30:00Z",
             "display_date": "25 September 2025 9:30am (confirmed)",
             "updated": "2024-10-03T10:20:12Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-july-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 July 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-19T14:15:48Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
