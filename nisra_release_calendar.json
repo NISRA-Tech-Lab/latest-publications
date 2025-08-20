@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-20T12:45:28Z",
+    "modified": "2025-08-20T16:48:37Z",
     "entries": [
         {
             "id": "northern-ireland-house-price-index-quarter-2-2025",
@@ -1509,6 +1509,16 @@
             "release_date": "2025-09-19T09:30:00Z",
             "display_date": "19 September 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:28:53Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-april-to-june-2025",
+            "title": "Northern Ireland planning statistics: April to June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Provisional quarterly results for the first quarter of 2025/26. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-20T16:37:26Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
