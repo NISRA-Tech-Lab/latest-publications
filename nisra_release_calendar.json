@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-20T08:46:24Z",
+    "modified": "2025-08-20T12:45:28Z",
     "entries": [
         {
             "id": "northern-ireland-house-price-index-quarter-2-2025",
@@ -1003,6 +1003,16 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-20T10:51:37Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-carrier-bag-levy-statistics-202425",
             "title": "Northern Ireland Carrier Bag Levy Statistics 2024/25",
             "summary": "Date: confirmed. Document type: Official statistics. This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland.",
@@ -1020,16 +1030,6 @@
             "display_date": "21 August 2025 9:30am (confirmed)",
             "updated": "2025-07-28T09:04:38Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-23T11:35:57Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -1590,6 +1590,16 @@
             "display_date": "25 September 2025 9:30am (confirmed)",
             "updated": "2024-10-03T10:20:12Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "trends-in-police-recorded-drug-seizures-and-arrests-in-northern-ireland-200607-to-202425",
+            "title": "Trends in Police Recorded Drug Seizures and Arrests in Northern Ireland 2006/07 to 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual financial year trends report on Class A, B and C drug seizure incidents and arrests by the police in Northern Ireland covering the period 2006/07 to 2024/25.",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-20T11:16:22Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
