@@ -1,7 +1,47 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-21T06:41:29Z",
+    "modified": "2025-08-21T08:44:30Z",
     "entries": [
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
+            "summary": "Document type: Official Statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "url": "https://www.gov.uk/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025",
+            "updated": "2025-08-21T09:30:12Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2025",
+            "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2025",
+            "summary": "Document type: Accredited official statistics. The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report will monitor the progress of the strategy against agreed targets and key performance indicators.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025",
+            "updated": "2025-08-21T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-carrier-bag-levy-statistics-202425",
+            "title": "Northern Ireland Carrier Bag Levy Statistics 2024/25",
+            "summary": "Document type: Official Statistics. This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland.",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-carrier-bag-levy-statistics",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025",
+            "updated": "2025-08-21T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-april-june-2025",
+            "title": "Northern Ireland Housing Bulletin April - June 2025",
+            "summary": "Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
+            "release_date": "2025-08-21T09:30:00Z",
+            "display_date": "21 August 2025",
+            "updated": "2025-08-21T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "northern-ireland-house-price-index-quarter-2-2025",
             "title": "Northern Ireland House Price Index Quarter 2 2025",
@@ -961,86 +1001,6 @@
             "display_date": "11 June 2025",
             "updated": "2025-06-11T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-births-northern-ireland-may-2025",
-            "title": "Monthly Births (Northern Ireland): May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Births (Northern Ireland): May 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-may-2025",
-            "title": "Monthly Deaths (Northern Ireland): May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): May 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1st-april-2025",
-            "title": "Employment in the Northern Ireland Civil Service - 1st April 2025",
-            "summary": "Document type: Official Statistics. This is provided as a resource to users requiring data on NICS staff numbers and is published on a quarterly basis.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/employment-statistics",
-            "release_date": "2025-06-10T09:30:00Z",
-            "display_date": "10 June 2025",
-            "updated": "2025-06-10T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2023",
-            "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2023",
-            "summary": "Document type: Official Statistics. Northern Ireland Greenhouse Gas Inventory: 1990 to 2023     ",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-greenhouse-gas-inventory",
-            "release_date": "2025-06-10T09:30:00Z",
-            "display_date": "10 June 2025",
-            "updated": "2025-06-10T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-20T10:51:37Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-carrier-bag-levy-statistics-202425",
-            "title": "Northern Ireland Carrier Bag Levy Statistics 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland.",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-11T08:24:39Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-april-june-2025",
-            "title": "Northern Ireland Housing Bulletin April - June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-28T09:04:38Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2025",
-            "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report will monitor the progress of the strategy against agreed targets and key performance indicators.",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-22T10:51:24Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-august-2025",
