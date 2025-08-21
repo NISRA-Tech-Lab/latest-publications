@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-21T08:47:49Z",
+    "modified": "2025-08-21T12:49:20Z",
     "entries": [
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
@@ -1033,6 +1033,16 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2025",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (June 2025)",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-21T10:09:05Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-may-2025",
             "title": "Northern Ireland Universal Credit Statistics: May 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
@@ -1210,6 +1220,36 @@
             "display_date": "3 September 2025 9:30am (confirmed)",
             "updated": "2025-07-31T12:39:15Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-june-2025",
+            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-21T11:12:02Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-june-2025",
+            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-21T11:11:58Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-june-2025",
+            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-21T11:11:55Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
@@ -1599,6 +1639,16 @@
             "release_date": "2025-09-26T09:30:00Z",
             "display_date": "26 September 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:36:37Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2025",
+            "title": "Northern Ireland waiting time statistics: cancer waiting times April - June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
+            "release_date": "2025-10-02T09:30:00Z",
+            "display_date": "2 October 2025 9:30am (confirmed)",
+            "updated": "2025-08-21T11:11:52Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
