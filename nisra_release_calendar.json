@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-22T06:34:06Z",
+    "modified": "2025-08-22T08:44:15Z",
     "entries": [
+        {
+            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2025",
+            "title": "Mortgages: Actions for possession bulletin April to June 2025",
+            "summary": "Document type: Official Statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2025",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-08-22T09:30:00Z",
+            "display_date": "22 August 2025",
+            "updated": "2025-08-22T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-15-august-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 15 August 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 15 August 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-08-22T09:30:00Z",
+            "display_date": "22 August 2025",
+            "updated": "2025-08-22T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-april-to-june-2025",
+            "title": "NICTS Quarterly Provisional Figures April to June 2025",
+            "summary": "Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2025",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-08-22T09:30:00Z",
+            "display_date": "22 August 2025",
+            "updated": "2025-08-22T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
@@ -971,66 +1001,6 @@
             "display_date": "11 June 2025",
             "updated": "2025-06-11T09:30:02Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-may-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): May 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-may-2025",
-            "title": "Monthly Marriages (Northern Ireland): May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): May 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-may-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): May 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-15-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 15 August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 15 August 2025.",
-            "release_date": "2025-08-22T09:30:00Z",
-            "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:20:42Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2025-08-22T09:30:00Z",
-            "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-03-11T14:29:11Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2025",
-            "title": "Mortgages: Actions for possession bulletin April to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2025-08-22T09:30:00Z",
-            "display_date": "22 August 2025 9:30am (confirmed)",
-            "updated": "2025-03-11T14:26:48Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2025",
