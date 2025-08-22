@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-22T12:42:32Z",
+    "modified": "2025-08-22T16:47:37Z",
     "entries": [
         {
             "id": "mortgages-actions-for-possession-bulletin-april-to-june-2025",
@@ -1419,6 +1419,16 @@
             "release_date": "2025-09-16T09:30:00Z",
             "display_date": "16 September 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:06Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "highest-qualification-and-participation-in-education-and-training-2024",
+            "title": "Highest qualification and participation in education and training 2024",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The tables provide updated figures to 2024 for the highest qualification level.",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-22T14:33:01Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
