@@ -1,7 +1,77 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-27T06:31:55Z",
+    "modified": "2025-08-27T08:43:43Z",
     "entries": [
+        {
+            "id": "northern-ireland-universal-credit-statistics-may-2025",
+            "title": "Northern Ireland Universal Credit Statistics: May 2025",
+            "summary": "Document type: Official Statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
+            "summary": "Document type: Official Statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q1-2025-26.html",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-additional-indicators-2020-to-2024",
+            "title": "Work Quality in Northern Ireland – Additional Indicators 2020 to 2024",
+            "summary": "Document type: Accredited official statistics. This report provides the analysis of additional Work Quality indicators from the Labour Force Survey and the Annual Survey of Hours and Earnings from 2020 to 2024.",
+            "url": "https://www.nisra.gov.uk/publications/work-quality-northern-ireland-additional-indicators-2024",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2025",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (June 2025)",
+            "summary": "Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-may-2025",
+            "title": "Benefit Cap Report Northern Ireland: May 2025",
+            "summary": "Document type: Official Statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/benefit-cap-statistics",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-may-2025",
+            "title": "Northern Ireland Benefit Statistics Summary: May 2025",
+            "summary": "Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-national-statistics-may-2025",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "personal-independence-payment-statistics-may-2025",
+            "title": "Personal Independence Payment Statistics - May 2025",
+            "summary": "Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "url": "https://www.communities-ni.gov.uk/articles/personal-independence-payment-statistics",
+            "release_date": "2025-08-27T09:30:00Z",
+            "display_date": "27 August 2025",
+            "updated": "2025-08-27T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-august-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 15 August 2025",
@@ -931,146 +1001,6 @@
             "display_date": "12 June 2025",
             "updated": "2025-06-12T09:30:06Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "family-practitioner-services-ophthalmic-statistics-for-ni-202425",
-            "title": "Family Practitioner Services Ophthalmic Statistics for NI 2024/25",
-            "summary": "Document type: Accredited official statistics. Activity and payment statistics relating to General Ophthalmic Services in Northern Ireland between April 2024 and March 2025.",
-            "url": "https://www.gov.uk/government/statistics/family-practitioner-services-ophthalmic-statistics-for-ni-202425",
-            "release_date": "2025-06-12T09:30:00Z",
-            "display_date": "12 June 2025",
-            "updated": "2025-06-12T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "apprenticeshipsni-statistical-bulletin-oct-18-to-jan-25",
-            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 18 to Jan 25",
-            "summary": "Document type: Official Statistics. This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.\t\r\n\t\r\n",
-            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
-            "release_date": "2025-06-12T09:30:00Z",
-            "display_date": "12 June 2025",
-            "updated": "2025-06-12T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-homelessness-bulletin-october-march-202425",
-            "title": "Northern Ireland Homelessness Bulletin October - March 2024/25",
-            "summary": "Document type: Official Statistics. A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/housing-statistics",
-            "release_date": "2025-06-12T09:30:00Z",
-            "display_date": "12 June 2025",
-            "updated": "2025-06-12T09:30:01Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-1-2025",
-            "title": "Northern Ireland Index of Services: Quarter 1 2025",
-            "summary": "Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2025-06-12T09:30:00Z",
-            "display_date": "12 June 2025",
-            "updated": "2025-06-12T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-1-2025",
-            "title": "Northern Ireland Index of Production: Quarter 1 2025",
-            "summary": "Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
-            "release_date": "2025-06-12T09:30:00Z",
-            "display_date": "12 June 2025",
-            "updated": "2025-06-12T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-march-2025",
-            "title": "Northern Ireland Child Maintenance Service: Data to March 2025",
-            "summary": "Document type: Official Statistics. This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending March 2025.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-march-2025",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-business-activity-size-and-location-2025",
-            "title": "Northern Ireland business: activity, size and location, 2025",
-            "summary": "Document type: Accredited official statistics. Northern Ireland businesses broken down by industry, geography, legal status, employee and turnover size bands; and foreign ownership.",
-            "url": "https://www.nisra.gov.uk/statistics/business-statistics/inter-departmental-business-register",
-            "release_date": "2025-06-11T09:30:00Z",
-            "display_date": "11 June 2025",
-            "updated": "2025-06-11T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2025",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (June 2025)",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-21T10:09:05Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-may-2025",
-            "title": "Northern Ireland Universal Credit Statistics: May 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-08T12:00:06Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "benefit-cap-report-northern-ireland-may-2025",
-            "title": "Benefit Cap Report Northern Ireland: May 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-06T08:55:03Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "work-quality-in-northern-ireland-additional-indicators-2020-to-2024",
-            "title": "Work Quality in Northern Ireland – Additional Indicators 2020 to 2024",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides the analysis of additional Work Quality indicators from the Labour Force Survey and the Annual Survey of Hours and Earnings from 2020 to 2024.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-23T12:02:39Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
-            "summary": "Date: confirmed. Document type: Official statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-11T13:41:49Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "personal-independence-payment-statistics-may-2025",
-            "title": "Personal Independence Payment Statistics - May 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-03-13T12:18:19Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-may-2025",
-            "title": "Northern Ireland Benefit Statistics Summary: May 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025 9:30am (confirmed)",
-            "updated": "2025-03-13T12:17:26Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "emergency-care-waiting-time-statistics-april-june-2025",
