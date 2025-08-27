@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-27T08:43:43Z",
+    "modified": "2025-08-27T12:46:47Z",
     "entries": [
         {
             "id": "northern-ireland-universal-credit-statistics-may-2025",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "community-pharmaceutical-services-statistics-for-northern-ireland-quarter-1-202526",
+            "title": "Community Pharmaceutical Services Statistics for Northern Ireland, Quarter 1 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to community pharmacies and dispensing in Northern Ireland for quarter 1 of 2025/26.",
+            "release_date": "2025-08-28T09:30:00Z",
+            "display_date": "28 August 2025 9:30am (confirmed)",
+            "updated": "2025-08-27T10:11:25Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-april-june-2025",
             "title": "Emergency Care Waiting Time Statistics (April - June 2025)",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
@@ -1049,16 +1059,6 @@
             "release_date": "2025-08-28T09:30:00Z",
             "display_date": "28 August 2025 9:30am (confirmed)",
             "updated": "2025-07-25T09:52:15Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "community-pharmaceutical-services-statistics-for-northern-ireland-quarter-1-202526",
-            "title": "Community Pharmaceutical Services Statistics for Northern Ireland, Quarter 1 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to community pharmacies and dispensing in Northern Ireland for quarter 1 of 2025/26.",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025 9:30am (confirmed)",
-            "updated": "2025-06-02T16:41:26Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1430,6 +1430,16 @@
             "display_date": "19 September 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:28:53Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-gambling-licensing-and-industry-data-2024",
+            "title": "Northern Ireland Gambling Licensing and Industry Data 2024",
+            "summary": "Date: confirmed. Document type: Official statistics. Data on amusement permits, bingo clubs and bookmaking office licences, as well as the number of people employed in the gambling sector and annual gambling turnover.",
+            "release_date": "2025-09-24T09:30:00Z",
+            "display_date": "24 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-27T13:25:24Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -2114,11 +2124,11 @@
         },
         {
             "id": "acute-episode-based-activity-statistics-2023-to-2024--2",
-            "title": "Acute Episode-Based Activity Statistics 2023 to 2024",
-            "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2023 to 2024, including breakdown by specialty, diagnosis, procedure, and resource group.",
+            "title": "Acute Episode-Based Activity Statistics 2024 to 2025",
+            "summary": "Date: provisional. Document type: Official statistics. Presents data on consultant episodes in Trusts in Northern Ireland for 2024 to 2025, including breakdown by specialty, diagnosis, procedure, and resource group.",
             "release_date": "2026-01-29T09:30:00Z",
             "display_date": "29 January 2026 9:30am (provisional)",
-            "updated": "2025-08-19T13:42:55Z",
+            "updated": "2025-08-27T12:47:24Z",
             "release_type": "Official statistics",
             "status": "provisional"
         },
