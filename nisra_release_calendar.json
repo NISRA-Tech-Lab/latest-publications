@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-28T08:42:58Z",
+    "modified": "2025-08-28T12:42:15Z",
     "entries": [
         {
             "id": "general-pharmaceutical-services-statistics-for-ni-q1-202526",
@@ -1931,6 +1931,16 @@
             "updated": "2025-07-09T15:02:09Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "june-agricultural-and-horticultural-census-statistics-ni-2025",
+            "title": "June agricultural and horticultural census statistics, NI: 2025",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Statistical bulletin providing estimates of crop areas and number of livestock on active farm businesses in Northern Ireland at the beginning of June.\r\n\r\nNational statistics are produced impartially and free from any politic…",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (provisional)",
+            "updated": "2025-08-28T10:05:35Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
         },
         {
             "id": "monthly-civil-partnerships-northern-ireland-november-2025",
