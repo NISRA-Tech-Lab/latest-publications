@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-29T12:42:25Z",
+    "modified": "2025-08-29T16:47:16Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
@@ -1003,32 +1003,22 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "northern-ireland-hsc-vacancies-june-2025",
-            "title": "Northern Ireland HSC Vacancies June 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
-            "release_date": "2025-09-03T09:30:00Z",
-            "display_date": "3 September 2025 9:30am (provisional)",
-            "updated": "2025-08-14T16:56:20Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
-            "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
-            "release_date": "2025-09-03T09:30:00Z",
-            "display_date": "3 September 2025 9:30am (provisional)",
-            "updated": "2025-08-14T16:54:21Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "public-awareness-of-and-trust-in-official-statistics-2024",
             "title": "Public Awareness of and Trust in Official Statistics 2024",
             "summary": "Date: confirmed. Document type: Official statistics. Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2024.",
             "release_date": "2025-09-03T09:30:00Z",
             "display_date": "3 September 2025 9:30am (confirmed)",
             "updated": "2025-07-31T12:39:15Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-august-2025",
+            "title": "Monthly Occupancy Statistics, August 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-29T14:25:58Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1163,6 +1153,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-hsc-vacancies-june-2025",
+            "title": "Northern Ireland HSC Vacancies June 2025",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025 9:30am (provisional)",
+            "updated": "2025-08-29T17:12:13Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
+            "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025 9:30am (provisional)",
+            "updated": "2025-08-29T17:10:37Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
             "title": "2024 Mid-Year Population Estimates for Northern Ireland and Estimates of the Population Aged 85 and Over for Northern Ireland, 2024 (and 2001 to 2023 revised)",
             "summary": "Date: confirmed. Document type: Accredited official statistics. The 2024 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and o…",
@@ -1220,6 +1230,16 @@
             "display_date": "11 September 2025 9:30am (confirmed)",
             "updated": "2025-04-17T14:12:42Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-executive-spending-20232024",
+            "title": "Northern Ireland Executive Spending 2023/2024",
+            "summary": "Date: confirmed. Document type: Official statistics. This dashboard provides Northern Ireland Executive spending up to 2023/2024 as well as a detailed breakdown of expenditure by each Northern Ireland department. A quick read version is also provided which provides a fast and …",
+            "release_date": "2025-09-12T09:30:00Z",
+            "display_date": "12 September 2025 9:30am (confirmed)",
+            "updated": "2025-08-29T14:39:32Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
