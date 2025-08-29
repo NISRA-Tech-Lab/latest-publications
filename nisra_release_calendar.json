@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-08-29T06:31:45Z",
+    "modified": "2025-08-29T08:43:09Z",
     "entries": [
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2025",
+            "summary": "Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-08-29T09:30:00Z",
+            "display_date": "29 August 2025",
+            "updated": "2025-08-29T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-april-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to April 2025.",
+            "summary": "Document type: Official Statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2025-08-29T09:30:00Z",
+            "display_date": "29 August 2025",
+            "updated": "2025-08-29T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-22-august-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 22 August 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 22 August 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-08-29T09:30:00Z",
+            "display_date": "29 August 2025",
+            "updated": "2025-08-29T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-pharmaceutical-services-statistics-for-ni-q1-202526",
             "title": "General Pharmaceutical Services Statistics for NI, Q1 2025/26",
@@ -971,66 +1001,6 @@
             "display_date": "19 June 2025",
             "updated": "2025-06-19T09:30:13Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-january-to-march-2025",
-            "title": "Working and workless households in Northern Ireland: January to March 2025",
-            "summary": "Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland. ",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
-            "release_date": "2025-06-19T09:30:00Z",
-            "display_date": "19 June 2025",
-            "updated": "2025-06-19T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-road-safety-partnership-statistical-report-2024",
-            "title": "Northern Ireland Road Safety Partnership Statistical Report 2024",
-            "summary": "Document type: Official Statistics. NIRSP statistics for the year 2024, with comparison to 2023.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-road-safety-partnership/ni-road-safety-partnership-statistics",
-            "release_date": "2025-06-18T09:30:00Z",
-            "display_date": "18 June 2025",
-            "updated": "2025-06-18T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2024",
-            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2024",
-            "summary": "Document type: Official Statistics. Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2024 to 31 December 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2024",
-            "release_date": "2025-06-18T09:30:00Z",
-            "display_date": "18 June 2025",
-            "updated": "2025-06-18T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-april-2025",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to April 2025.",
-            "summary": "Date: confirmed. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025 9:30am (confirmed)",
-            "updated": "2025-08-18T15:15:51Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025 9:30am (confirmed)",
-            "updated": "2025-07-25T10:14:13Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 22 August 2025.",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T12:22:15Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-vacancies-june-2025",
