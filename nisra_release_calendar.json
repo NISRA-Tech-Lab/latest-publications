@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-01T08:44:48Z",
+    "modified": "2025-09-01T12:44:56Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
@@ -1503,16 +1503,6 @@
             "status": "confirmed"
         },
         {
-            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2025",
-            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2025",
-            "summary": "Date: provisional. Document type: Official statistics. Third release of annual legal aid statistics for Northern Ireland covering applications granted and authorised expenditure for criminal and civil cases, alongside applicant and supplier characteristics.",
-            "release_date": "2025-09-26T09:30:00Z",
-            "display_date": "26 September 2025 9:30am (provisional)",
-            "updated": "2025-08-11T08:44:57Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-19-september-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 19 September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 19 September 2025.",
@@ -1520,6 +1510,16 @@
             "display_date": "26 September 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:36:37Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2025",
+            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Third release of annual legal aid statistics for Northern Ireland covering applications granted and authorised expenditure for criminal and civil cases, alongside applicant and supplier characteristics.",
+            "release_date": "2025-09-30T09:30:00Z",
+            "display_date": "30 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-01T11:07:57Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
