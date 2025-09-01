@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-01T12:44:56Z",
+    "modified": "2025-09-01T16:45:47Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
@@ -2013,6 +2013,16 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-5-december-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 5 December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 5 December 2025.",
+            "release_date": "2025-12-12T09:30:00Z",
+            "display_date": "12 December 2025 9:30am (confirmed)",
+            "updated": "2025-09-01T15:00:46Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
             "title": "DVA Monthly Tests Conducted Statistics: November 2025",
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -2073,6 +2083,16 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-december-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 December 2025.",
+            "release_date": "2025-12-19T09:30:00Z",
+            "display_date": "19 December 2025 9:30am (confirmed)",
+            "updated": "2025-09-01T15:07:18Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-2",
             "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 2",
             "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
@@ -2083,6 +2103,76 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-2-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 2 January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 2 January 2026.",
+            "release_date": "2026-01-09T09:30:00Z",
+            "display_date": "9 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:14:55Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-december-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): December 2025",
+            "release_date": "2026-01-12T09:30:00Z",
+            "display_date": "12 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:52:11Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-december-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): December 2025",
+            "release_date": "2026-01-12T09:30:00Z",
+            "display_date": "12 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:50:23Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-december-2025",
+            "title": "Monthly Marriages (Northern Ireland): December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): December 2025",
+            "release_date": "2026-01-12T09:30:00Z",
+            "display_date": "12 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:49:04Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-december-2025",
+            "title": "Monthly Deaths (Northern Ireland): December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): December 2025",
+            "release_date": "2026-01-12T09:30:00Z",
+            "display_date": "12 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:47:26Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-december-2025",
+            "title": "Monthly Births (Northern Ireland): December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): December 2025",
+            "release_date": "2026-01-12T09:30:00Z",
+            "display_date": "12 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:45:25Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-9-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 9 January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 9 January 2026.",
+            "release_date": "2026-01-16T09:30:00Z",
+            "display_date": "16 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:18:21Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-december-2025",
             "title": "DVA Monthly Tests Conducted Statistics: December 2025",
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -2091,6 +2181,16 @@
             "updated": "2025-06-03T10:43:13Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-16-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 16 January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 16 January 2026.",
+            "release_date": "2026-01-23T09:30:00Z",
+            "display_date": "23 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:32:35Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "acute-episode-based-activity-statistics-2023-to-2024--2",
@@ -2113,6 +2213,86 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 January 2026.",
+            "release_date": "2026-01-30T09:30:00Z",
+            "display_date": "30 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:36:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-30-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 30 January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 January 2026.",
+            "release_date": "2026-02-06T09:30:00Z",
+            "display_date": "6 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:41:01Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-january-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): January 2026",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:00:00Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-january-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): January 2026",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:58:33Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-january-2026",
+            "title": "Monthly Marriages (Northern Ireland): January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): January 2026",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:57:18Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-january-2026",
+            "title": "Monthly Deaths (Northern Ireland): January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): January 2026",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:56:01Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-january-2026",
+            "title": "Monthly Births (Northern Ireland): January 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): January 2026",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:54:22Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-6-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 6 February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 February 2026.",
+            "release_date": "2026-02-13T09:30:00Z",
+            "display_date": "13 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:44:09Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hsc-vacancies-december-2025",
             "title": "Northern Ireland HSC Vacancies December 2025",
             "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
@@ -2133,6 +2313,16 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 13 February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 February 2026.",
+            "release_date": "2026-02-20T09:30:00Z",
+            "display_date": "20 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:48:14Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-november-2025",
             "title": "Northern Ireland Universal Credit Statistics: November 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
@@ -2150,6 +2340,16 @@
             "display_date": "25 February 2026 9:30am (confirmed)",
             "updated": "2025-02-12T13:34:18Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
+            "release_date": "2026-02-27T09:30:00Z",
+            "display_date": "27 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:50:49Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
@@ -2173,6 +2373,86 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 27 February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 February 2026.",
+            "release_date": "2026-03-06T09:30:00Z",
+            "display_date": "6 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:54:22Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-february-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): February 2026",
+            "release_date": "2026-03-11T09:30:00Z",
+            "display_date": "11 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:07:26Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-february-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): February 2026",
+            "release_date": "2026-03-11T09:30:00Z",
+            "display_date": "11 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:06:16Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-february-2026",
+            "title": "Monthly Marriages (Northern Ireland): February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): February 2026",
+            "release_date": "2026-03-11T09:30:00Z",
+            "display_date": "11 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:05:02Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-february-2026",
+            "title": "Monthly Deaths (Northern Ireland): February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): February 2026",
+            "release_date": "2026-03-11T09:30:00Z",
+            "display_date": "11 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:03:34Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-february-2026",
+            "title": "Monthly Births (Northern Ireland): February 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): February 2026",
+            "release_date": "2026-03-11T09:30:00Z",
+            "display_date": "11 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:02:10Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 6 March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 March 2026.",
+            "release_date": "2026-03-13T09:30:00Z",
+            "display_date": "13 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:56:48Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 13 March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 March 2026.",
+            "release_date": "2026-03-20T09:30:00Z",
+            "display_date": "20 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:59:47Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "health-inequalities-annual-report-2026",
             "title": "Health Inequalities Annual Report 2026",
             "summary": "Date: provisional. Document type: Official statistics. This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
@@ -2181,6 +2461,76 @@
             "updated": "2025-06-25T15:13:10Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-20-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 20 March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 March 2026.",
+            "release_date": "2026-03-27T09:30:00Z",
+            "display_date": "27 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:02:08Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 27 March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 March 2026.",
+            "release_date": "2026-04-03T09:30:00Z",
+            "display_date": "3 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T16:07:11Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-march-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): March 2026",
+            "release_date": "2026-04-13T09:30:00Z",
+            "display_date": "13 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:14:13Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-march-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): March 2026",
+            "release_date": "2026-04-13T09:30:00Z",
+            "display_date": "13 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:13:09Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-march-2026",
+            "title": "Monthly Marriages (Northern Ireland): March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): March 2026",
+            "release_date": "2026-04-13T09:30:00Z",
+            "display_date": "13 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:12:02Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-march-2026",
+            "title": "Monthly Deaths (Northern Ireland): March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): March 2026",
+            "release_date": "2026-04-13T09:30:00Z",
+            "display_date": "13 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:10:47Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-march-2026",
+            "title": "Monthly Births (Northern Ireland): March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): March 2026",
+            "release_date": "2026-04-13T09:30:00Z",
+            "display_date": "13 April 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T17:09:19Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-february-2026",
