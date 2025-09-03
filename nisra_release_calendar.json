@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-03T06:29:48Z",
+    "modified": "2025-09-03T08:41:17Z",
     "entries": [
+        {
+            "id": "public-awareness-of-and-trust-in-official-statistics-2024",
+            "title": "Public Awareness of and Trust in Official Statistics 2024",
+            "summary": "Document type: Official Statistics. Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2024.",
+            "url": "https://www.nisra.gov.uk/statistics/people-and-communities/public-awareness-and-trust-confidence-official-statistics-pcos",
+            "release_date": "2025-09-03T09:30:00Z",
+            "display_date": "3 September 2025",
+            "updated": "2025-09-03T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2025",
@@ -991,26 +1001,6 @@
             "display_date": "19 June 2025",
             "updated": "2025-06-19T14:43:18Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "family-practitioner-services-dental-statistics-for-ni-202425",
-            "title": "Family Practitioner Services Dental Statistics for NI 2024/25",
-            "summary": "Document type: Accredited official statistics. Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2024 and March 2025.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-annual-report-24-25.html",
-            "release_date": "2025-06-19T09:30:00Z",
-            "display_date": "19 June 2025",
-            "updated": "2025-06-19T09:30:13Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "public-awareness-of-and-trust-in-official-statistics-2024",
-            "title": "Public Awareness of and Trust in Official Statistics 2024",
-            "summary": "Date: confirmed. Document type: Official statistics. Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2024.",
-            "release_date": "2025-09-03T09:30:00Z",
-            "display_date": "3 September 2025 9:30am (confirmed)",
-            "updated": "2025-07-31T12:39:15Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2024--2",
