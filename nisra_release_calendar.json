@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-03T08:46:17Z",
+    "modified": "2025-09-03T12:43:21Z",
     "entries": [
         {
             "id": "public-awareness-of-and-trust-in-official-statistics-2024",
@@ -1003,6 +1003,16 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "ni-topiramate-monitoring-report-april-2019-to-september-2024",
+            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-03T12:42:41Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2024--2",
             "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2025)",
             "summary": "Date: confirmed. Document type: Official statistics. Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
@@ -1089,16 +1099,6 @@
             "release_date": "2025-09-04T09:30:00Z",
             "display_date": "4 September 2025 9:30am (confirmed)",
             "updated": "2025-07-24T11:19:30Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2019-to-september-2024",
-            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025 9:30am (confirmed)",
-            "updated": "2025-07-23T11:34:34Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1234,11 +1234,11 @@
         },
         {
             "id": "northern-ireland-executive-spending-20232024",
-            "title": "Northern Ireland Executive Spending 2023/2024",
-            "summary": "Date: confirmed. Document type: Official statistics. This dashboard provides Northern Ireland Executive spending up to 2023/2024 as well as a detailed breakdown of expenditure by each Northern Ireland department. A quick read version is also provided which provides a fast and …",
+            "title": "Northern Ireland Executive Spending 2024/2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This dashboard provides Northern Ireland Executive spending up to 2024/2025 as well as a detailed breakdown of expenditure by each Northern Ireland department. A quick read version is also provided which provides a fast and …",
             "release_date": "2025-09-12T09:30:00Z",
             "display_date": "12 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-29T14:39:32Z",
+            "updated": "2025-09-03T12:02:13Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
