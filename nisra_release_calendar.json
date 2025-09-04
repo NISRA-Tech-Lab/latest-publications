@@ -1,17 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-04T08:42:07Z",
+    "modified": "2025-09-04T12:39:50Z",
     "entries": [
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-june-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
-            "summary": "Document type: Official Statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "url": "https://www.gov.uk/government/statistics/ni-topiramate-monitoring-report-april-2023-to-june-2025",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "updated": "2025-09-04T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
         {
             "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-june-2025",
             "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending June 2025",
@@ -91,6 +81,16 @@
             "display_date": "4 September 2025",
             "updated": "2025-09-04T09:30:00Z",
             "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-june-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
+            "summary": "Document type: Official Statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "url": "https://www.gov.uk/government/statistics/ni-topiramate-monitoring-report-april-2023-to-june-2025",
+            "release_date": "2025-09-04T09:30:00Z",
+            "display_date": "4 September 2025",
+            "updated": "2025-09-04T00:00:00Z",
+            "release_type": "Official Statistics"
         },
         {
             "id": "public-awareness-of-and-trust-in-official-statistics-2024",
@@ -1760,6 +1760,16 @@
             "display_date": "21 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:57:29Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-august-2025",
+            "title": "Northern Ireland Universal Credit Statistics: August 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-04T10:14:24Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
