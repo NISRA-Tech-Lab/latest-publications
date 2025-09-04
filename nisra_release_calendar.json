@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-04T12:39:50Z",
+    "modified": "2025-09-04T16:46:55Z",
     "entries": [
         {
             "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-june-2025",
@@ -1433,6 +1433,16 @@
             "status": "confirmed"
         },
         {
+            "id": "experience-of-volunteering-by-adults-in-northern-ireland-202425",
+            "title": "Experience of volunteering by adults in Northern Ireland, 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. An annual publication containing survey results on volunteering by adults in Northern Ireland.",
+            "release_date": "2025-10-02T09:30:00Z",
+            "display_date": "2 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-04T14:22:43Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics-august-2025",
             "title": "Monthly Occupancy Statistics, August 2025",
             "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1471,6 +1481,16 @@
             "updated": "2025-05-02T09:26:51Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2025-10-10T09:30:00Z",
+            "display_date": "10 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-04T16:03:26Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-october-2025",
