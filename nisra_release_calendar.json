@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-09T08:48:42Z",
+    "modified": "2025-09-09T12:48:15Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2025",
@@ -1253,6 +1253,16 @@
             "status": "confirmed"
         },
         {
+            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
+            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T11:39:02Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "digest-of-statistics-for-the-public-record-office-of-northern-ireland-202324",
             "title": "Digest of statistics for the Public Record Office of Northern Ireland 2023/24",
             "summary": "Date: confirmed. Document type: Official statistics. An annual publication providing a broad overview of the Public Record Office of Northern Ireland (PRONI).",
@@ -1609,6 +1619,16 @@
             "release_date": "2025-10-24T09:30:00Z",
             "display_date": "24 October 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:44:07Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2025/26.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T13:47:47Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
