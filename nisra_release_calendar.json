@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-10T12:42:56Z",
+    "modified": "2025-09-10T16:46:06Z",
     "entries": [
         {
             "id": "public-transport-statistics-northern-ireland-2024-25",
@@ -1520,6 +1520,16 @@
             "display_date": "14 October 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:13Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
+            "summary": "Date: confirmed. Document type: Official statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-10T15:40:32Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
