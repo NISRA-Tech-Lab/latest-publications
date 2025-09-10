@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-09T16:47:57Z",
+    "modified": "2025-09-10T06:01:24Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2025",
@@ -1035,22 +1035,22 @@
         {
             "id": "northern-ireland-hsc-vacancies-june-2025",
             "title": "Northern Ireland HSC Vacancies June 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
+            "summary": "Date: confirmed. Document type: Official statistics. A quarterly publication of HSC vacancies",
             "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (provisional)",
-            "updated": "2025-08-29T17:12:13Z",
+            "display_date": "11 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T19:48:38Z",
             "release_type": "Official statistics",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-workforce-statistics-june-2025",
             "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
+            "summary": "Date: confirmed. Document type: Official statistics. A quarterly summary of HSC staff",
             "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (provisional)",
-            "updated": "2025-08-29T17:10:37Z",
+            "display_date": "11 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T19:47:27Z",
             "release_type": "Official statistics",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
