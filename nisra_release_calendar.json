@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-10T06:31:40Z",
+    "modified": "2025-09-10T08:44:47Z",
     "entries": [
+        {
+            "id": "public-transport-statistics-northern-ireland-2024-25",
+            "title": "Public Transport Statistics Northern Ireland 2024-25",
+            "summary": "Document type: Accredited official statistics. This report presents statistics on public transport operated by Translink in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025",
+            "updated": "2025-09-10T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "health-inequalities-annual-report-2025",
+            "title": "Health Inequalities Annual Report 2025",
+            "summary": "Document type: Official Statistics. This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
+            "url": "https://www.health-ni.gov.uk/articles/health-inequalities-statistics",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025",
+            "updated": "2025-09-10T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-june-2025",
+            "title": "Northern Ireland Child Maintenance Service: Data to June 2025",
+            "summary": "Document type: Official Statistics. This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2025.",
+            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-june-2025",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025",
+            "updated": "2025-09-10T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2025",
             "title": "Security Situation Statistics for Northern Ireland, period ending 31 August 2025",
@@ -971,66 +1001,6 @@
             "display_date": "26 June 2025",
             "updated": "2025-06-26T09:30:24Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2023",
-            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2023",
-            "summary": "Document type: Official Statistics. This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/clinically-serious-injured-mais-3-road-casualties-northern-ireland",
-            "release_date": "2025-06-26T09:30:00Z",
-            "display_date": "26 June 2025",
-            "updated": "2025-06-26T09:30:09Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "ethnic-identity-in-northern-ireland-a-comparison-of-census-2011-and-census-2021-outputs",
-            "title": "Ethnic identity in Northern Ireland: a comparison of Census 2011 and Census 2021 outputs",
-            "summary": "Document type: Official Statistics. A report presenting data on ethnic identity from the Northern Ireland Census for 2011 and 2021.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research",
-            "release_date": "2025-06-26T09:30:00Z",
-            "display_date": "26 June 2025",
-            "updated": "2025-06-26T09:30:09Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-may-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 May 2025",
-            "summary": "Document type: Official Statistics. Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-06-26T09:30:00Z",
-            "display_date": "26 June 2025",
-            "updated": "2025-06-26T09:30:08Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "health-inequalities-annual-report-2025",
-            "title": "Health Inequalities Annual Report 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-26T11:01:01Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "public-transport-statistics-northern-ireland-2024-25",
-            "title": "Public Transport Statistics Northern Ireland 2024-25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents statistics on public transport operated by Translink in Northern Ireland and it brings together information on public transport journeys, vehicles and staff.",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-13T12:05:19Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-june-2025",
-            "title": "Northern Ireland Child Maintenance Service: Data to June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2025.",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-13T12:00:12Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-vacancies-june-2025",
