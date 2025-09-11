@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-11T12:41:41Z",
+    "modified": "2025-09-11T16:44:10Z",
     "entries": [
         {
             "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
@@ -1143,6 +1143,16 @@
             "status": "confirmed"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2025",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-11T15:36:53Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
             "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
             "summary": "Date: confirmed. Document type: Official statistics. Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
@@ -1560,6 +1570,16 @@
             "display_date": "7 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:49:52Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "continuous-household-survey-heat-and-insulation-results-202425",
+            "title": "Continuous Household Survey Heat and Insulation Results 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. This report presents the results of the household heating and insulation questions from the 2024/25 Northern Ireland Continuous Household Survey with comparison to the 2015/16 data, where applicable.  Data were also collated…",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-11T15:50:57Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
