@@ -1,7 +1,87 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-11T06:33:18Z",
+    "modified": "2025-09-11T08:43:13Z",
     "entries": [
+        {
+            "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
+            "title": "2024 Mid-Year Population Estimates for Northern Ireland and Estimates of the Population Aged 85 and Over for Northern Ireland, 2024 (and 2001 to 2023 revised)",
+            "summary": "Document type: Accredited official statistics. The 2024 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and o…",
+            "url": "https://www.nisra.gov.uk/publications/2024-mid-year-population-estimates-northern-ireland-and-estimates-population-aged-85",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-births-northern-ireland-august-2025",
+            "title": "Monthly Births (Northern Ireland): August 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Births (Northern Ireland): August 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-august-2025",
+            "title": "Monthly Marriages (Northern Ireland): August 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): August 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-august-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): August 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): August 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-august-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): August 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): August 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
+            "title": "Northern Ireland HSC Workforce Statistics June 2025",
+            "summary": "Document type: Official Statistics. A quarterly summary of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-august-2025",
+            "title": "Monthly Deaths (Northern Ireland): August 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): August 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-june-2025",
+            "title": "Northern Ireland HSC Vacancies June 2025",
+            "summary": "Document type: Official Statistics. A quarterly publication of HSC vacancies",
+            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
+            "release_date": "2025-09-11T09:30:00Z",
+            "display_date": "11 September 2025",
+            "updated": "2025-09-11T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "public-transport-statistics-northern-ireland-2024-25",
             "title": "Public Transport Statistics Northern Ireland 2024-25",
@@ -921,166 +1001,6 @@
             "display_date": "2 July 2025",
             "updated": "2025-07-02T11:00:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-census-march-2025",
-            "title": "Northern Ireland HSC Workforce Census March 2025",
-            "summary": "Document type: Official Statistics. A comprehensive profile of HSC staff",
-            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
-            "release_date": "2025-07-02T09:30:00Z",
-            "display_date": "2 July 2025",
-            "updated": "2025-07-02T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "experience-of-crime-perceptions-of-crime-and-policing-and-justice-findings-from-the-202324-northern-ireland-safe-community-telephone-survey",
-            "title": "Experience of Crime, Perceptions of Crime, and Policing and Justice: Findings from the 2023/24 Northern Ireland Safe Community Telephone Survey",
-            "summary": "Document type: Official Statistics. Findings from the 2023/24 Northern Ireland Safe Community Telephone Survey. Regarding experience of crime and perceptions of crime and policing and justice.",
-            "url": "https://www.justice-ni.gov.uk/publications/experience-crime-and-perceptions-crime-and-policing-and-justice-findings-202324-northern-ireland-safe-community-telephone-survey",
-            "release_date": "2025-07-02T09:30:00Z",
-            "display_date": "2 July 2025",
-            "updated": "2025-07-02T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-april-2024-to-march-2025",
-            "title": "Northern Ireland planning statistics: April 2024 to March 2025",
-            "summary": "Document type: Accredited official statistics. Finalised annual results for 2024/25. Northern Ireland planning volumes and processing performance data.\r\n",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/planning-activity-statistics",
-            "release_date": "2025-06-30T09:30:00Z",
-            "display_date": "30 June 2025",
-            "updated": "2025-06-30T09:30:10Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-20-june-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 20 June 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 20 June 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-06-27T09:30:00Z",
-            "display_date": "27 June 2025",
-            "updated": "2025-06-27T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-april-2025",
-            "title": "Police recorded injury Road Traffic collisions and casualties Northern Ireland monthly report to 30 April 2025",
-            "summary": "Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2025-06-27T09:30:00Z",
-            "display_date": "27 June 2025",
-            "updated": "2025-06-27T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "judicial-statistics-2024",
-            "title": "Judicial Statistics 2024",
-            "summary": "Document type: Accredited official statistics. An Accredited Official Statistics publication presenting a summary of business in all court tiers of the NICTS for the calendar year 2024.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
-            "release_date": "2025-06-27T09:30:00Z",
-            "display_date": "27 June 2025",
-            "updated": "2025-06-27T00:00:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "fps-pharmaceutical-statistics-for-northern-ireland-202425",
-            "title": "FPS Pharmaceutical Statistics for Northern Ireland 2024/25",
-            "summary": "Document type: Accredited official statistics. Statistics related to community pharmacies and dispensing in Northern Ireland between April 2024 and March 2025.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-annual-report-24-25.html",
-            "release_date": "2025-06-26T09:30:00Z",
-            "display_date": "26 June 2025",
-            "updated": "2025-06-26T09:30:24Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q4-202425",
-            "title": "General Pharmaceutical Services Statistics for NI, Q4 2024/25",
-            "summary": "Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2024/25.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q4-24-25.html",
-            "release_date": "2025-06-26T09:30:00Z",
-            "display_date": "26 June 2025",
-            "updated": "2025-06-26T09:30:24Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-june-2025",
-            "title": "Northern Ireland HSC Vacancies June 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. A quarterly publication of HSC vacancies",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T19:48:38Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
-            "title": "Northern Ireland HSC Workforce Statistics June 2025 ",
-            "summary": "Date: confirmed. Document type: Official statistics. A quarterly summary of HSC staff",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T19:47:27Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
-            "title": "2024 Mid-Year Population Estimates for Northern Ireland and Estimates of the Population Aged 85 and Over for Northern Ireland, 2024 (and 2001 to 2023 revised)",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The 2024 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and o…",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-15T11:58:58Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-august-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T14:22:06Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-august-2025",
-            "title": "Monthly Marriages (Northern Ireland): August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T14:20:03Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-august-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T14:17:55Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-august-2025",
-            "title": "Monthly Deaths (Northern Ireland): August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T14:15:30Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-august-2025",
-            "title": "Monthly Births (Northern Ireland): August 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): August 2025",
-            "release_date": "2025-09-11T09:30:00Z",
-            "display_date": "11 September 2025 9:30am (confirmed)",
-            "updated": "2025-04-17T14:12:42Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-executive-spending-20232024",
