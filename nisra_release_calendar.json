@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-11T08:43:13Z",
+    "modified": "2025-09-11T12:41:41Z",
     "entries": [
         {
             "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
@@ -2491,6 +2491,16 @@
             "updated": "2025-06-25T15:40:58Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "profiling-suicide-drug-and-alcohol-deaths-in-northern-ireland",
+            "title": "Profiling suicide, drug and alcohol deaths in Northern Ireland",
+            "summary": "Document type: Research. Research outlining the socio-economic associations with suicide, drug-related and alcohol-specific deaths in Northern Ireland.",
+            "url": "https://datavis.nisra.gov.uk/vitalStatistics/research-report-sept25-suicide-drugs-alcohol.html",
+            "release_date": "2025-09-10T09:30:00Z",
+            "display_date": "10 September 2025",
+            "updated": "2025-09-10T00:00:00Z",
+            "release_type": "Research"
         },
         {
             "id": "disability-and-employment-transitions-in-northern-ireland-2011-2021",
