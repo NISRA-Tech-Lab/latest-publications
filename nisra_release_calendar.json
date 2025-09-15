@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-15T08:48:41Z",
+    "modified": "2025-09-15T12:43:01Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-sept-2025",
@@ -1763,6 +1763,16 @@
             "status": "provisional"
         },
         {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
+            "title": "Mortgages: Actions for possession bulletin July to September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-15T11:51:05Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-november-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 21 November 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 21 November 2025.",
@@ -1780,16 +1790,6 @@
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
-            "title": "Mortgages: Actions for possession bulletin July to September 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-03-11T14:37:40Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -2213,6 +2213,16 @@
             "status": "confirmed"
         },
         {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
+            "title": "Mortgages: Actions for possession bulletin October to December 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
+            "release_date": "2026-02-27T09:30:00Z",
+            "display_date": "27 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-15T11:50:36Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
@@ -2230,16 +2240,6 @@
             "display_date": "27 February 2026 9:30am (confirmed)",
             "updated": "2025-03-11T14:43:44Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
-            "title": "Mortgages: Actions for possession bulletin October to December 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This bulletin provides statistics for cases received (i.e. writs and originating summonses issued), cases disposed and final orders made in respect of mortgages in the Chancery Division of the Northern Ireland High Court for…",
-            "release_date": "2026-02-27T09:30:00Z",
-            "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2025-03-11T14:41:44Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
