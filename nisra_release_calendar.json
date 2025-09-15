@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-15T12:43:01Z",
+    "modified": "2025-09-15T16:46:07Z",
     "entries": [
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development)",
+            "summary": "Document type: Official Statistics. This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
+            "url": "https://www.health-ni.gov.uk/articles/drugs-statistics",
+            "release_date": "2025-09-15T09:30:00Z",
+            "display_date": "15 September 2025",
+            "updated": "2025-09-15T15:51:24Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
+            "summary": "Document type: Official Statistics. Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
+            "url": "https://www.health-ni.gov.uk/articles/tobacco-statistics",
+            "release_date": "2025-09-15T09:30:00Z",
+            "display_date": "15 September 2025",
+            "updated": "2025-09-15T15:50:34Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "health-survey-northern-ireland-first-results-202425",
+            "title": "Health Survey Northern Ireland: First Results 2024/25",
+            "summary": "Document type: Official Statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
+            "url": "https://www.health-ni.gov.uk/topics/doh-statistics-and-research/health-survey-northern-ireland",
+            "release_date": "2025-09-15T09:30:00Z",
+            "display_date": "15 September 2025",
+            "updated": "2025-09-15T15:49:53Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-sept-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 5 Sept 2025",
@@ -973,36 +1003,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "family-practitioner-services-statistics-for-ni-key-facts-2425",
-            "title": "Family Practitioner Services Statistics for NI - Key Facts 24/25",
-            "summary": "Document type: Accredited official statistics. Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
-            "url": "https://www.gov.uk/government/statistics/family-practitioner-services-statistics-for-ni-key-facts-2425",
-            "release_date": "2025-07-03T09:30:00Z",
-            "display_date": "3 July 2025",
-            "updated": "2025-07-03T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "pps-statistical-bulletin-2024-25",
-            "title": "PPS Statistical Bulletin 2024-25",
-            "summary": "Document type: Official Statistics. Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions.",
-            "url": "https://www.ppsni.gov.uk/pps-statistical-bulletin",
-            "release_date": "2025-07-03T09:30:00Z",
-            "display_date": "3 July 2025",
-            "updated": "2025-07-03T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "higher-education-statistical-fact-sheets-202223",
-            "title": "Higher Education Statistical Fact Sheets 2022/23",
-            "summary": "Document type: Official Statistics. A range of Higher Education fact sheets on the NI Age Participation Index, Equality categories and Narrow STEM qualifications in NI, 2022/23.",
-            "url": "https://www.economy-ni.gov.uk/articles/higher-education-statistical-fact-sheets",
-            "release_date": "2025-07-03T09:30:00Z",
-            "display_date": "3 July 2025",
-            "updated": "2025-07-03T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
             "id": "quarterly-employment-survey-june-2025",
             "title": "Quarterly Employment Survey: June 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
@@ -1733,16 +1733,6 @@
             "status": "confirmed"
         },
         {
-            "id": "health-survey-northern-ireland-first-results-202425",
-            "title": "Health Survey Northern Ireland: First Results 2024/25",
-            "summary": "Date: provisional. Document type: Official statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (provisional)",
-            "updated": "2025-06-25T09:22:39Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
             "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
@@ -1861,16 +1851,6 @@
             "updated": "2025-07-09T14:11:06Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
-            "title": " Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development) ",
-            "summary": "Date: provisional. Document type: Official statistics. This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-06-25T09:30:14Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
