@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-15T16:46:07Z",
+    "modified": "2025-09-16T06:03:00Z",
     "entries": [
+        {
+            "id": "quarterly-employment-survey-june-2025",
+            "title": "Quarterly Employment Survey: June 2025",
+            "summary": "Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
+            "release_date": "2025-09-16T09:30:00Z",
+            "display_date": "16 September 2025",
+            "updated": "2025-09-16T07:00:03Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "ni-labour-market-statistics-september-2025",
+            "title": "NI Labour Market statistics: September 2025",
+            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-09-16T09:30:00Z",
+            "display_date": "16 September 2025",
+            "updated": "2025-09-16T07:00:03Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
             "title": "Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development)",
@@ -981,46 +1001,6 @@
             "display_date": "9 July 2025",
             "updated": "2025-07-09T09:30:02Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-june-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-07-09T09:30:00Z",
-            "display_date": "9 July 2025",
-            "updated": "2025-07-09T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-june-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 June 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 27 June 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-07-04T09:30:00Z",
-            "display_date": "4 July 2025",
-            "updated": "2025-07-04T09:30:10Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-employment-survey-june-2025",
-            "title": "Quarterly Employment Survey: June 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
-            "release_date": "2025-09-16T09:30:00Z",
-            "display_date": "16 September 2025 7:00am (confirmed)",
-            "updated": "2024-10-03T10:06:55Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-labour-market-statistics-september-2025",
-            "title": "NI Labour Market statistics: September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-09-16T09:30:00Z",
-            "display_date": "16 September 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:50:06Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "highest-qualification-and-participation-in-education-and-training-2024",
