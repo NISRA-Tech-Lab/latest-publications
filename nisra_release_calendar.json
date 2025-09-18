@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-18T08:42:06Z",
+    "modified": "2025-09-18T12:42:27Z",
     "entries": [
         {
             "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
@@ -1363,6 +1363,16 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-good-relations-indicators-2024-report",
+            "title": "Northern Ireland Good Relations Indicators 2024 Report",
+            "summary": "Date: confirmed. Document type: Official statistics. An annual publication monitoring progress against the Together: Building a United Community Strategy.",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-18T12:57:10Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
             "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
             "summary": "Date: confirmed. Document type: Official statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
@@ -1679,16 +1689,6 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-09-04T10:14:24Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "benefit-cap-report-northern-ireland-august-2025",
-            "title": "Benefit Cap Report Northern Ireland: August 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-08-06T09:11:56Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -2153,16 +2153,6 @@
             "status": "confirmed"
         },
         {
-            "id": "benefit-cap-report-northern-ireland-november-2025",
-            "title": "Benefit Cap Report Northern Ireland: November 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
-            "release_date": "2026-02-25T09:30:00Z",
-            "display_date": "25 February 2026 9:30am (confirmed)",
-            "updated": "2025-02-12T13:34:18Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
             "title": "Mortgages: Actions for possession bulletin October to December 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
@@ -2363,16 +2353,6 @@
             "status": "confirmed"
         },
         {
-            "id": "benefit-cap-report-northern-ireland-february-2026",
-            "title": "Benefit Cap Report Northern Ireland: February 2026",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2025-05-21T10:02:24Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-benefit-statistics-summary-february-2026",
             "title": "Northern Ireland Benefit Statistics Summary: February 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
@@ -2390,16 +2370,6 @@
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-09-02T14:56:57Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "benefit-cap-report-northern-ireland-may-2026",
-            "title": "Benefit Cap Report Northern Ireland: May 2026",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households that have their Housing Benefit or Universal Credit claim capped through the Benefit Cap in Northern Ireland.",
-            "release_date": "2026-08-26T09:30:00Z",
-            "display_date": "26 August 2026 9:30am (confirmed)",
-            "updated": "2025-07-30T15:44:14Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -2455,8 +2425,24 @@
     ],
     "cancelled": [
         {
+            "id": "benefit-cap-report-northern-ireland-may-2026",
+            "updated": "2025-09-18T11:10:24Z"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-february-2026",
+            "updated": "2025-09-18T11:10:01Z"
+        },
+        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-january-2026",
             "updated": "2025-07-31T12:30:19Z"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-november-2025",
+            "updated": "2025-09-18T11:09:06Z"
+        },
+        {
+            "id": "benefit-cap-report-northern-ireland-august-2025",
+            "updated": "2025-09-18T11:07:11Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1st-oct-2025",
