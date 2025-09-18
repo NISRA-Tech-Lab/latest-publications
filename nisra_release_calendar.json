@@ -1,7 +1,57 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-18T06:32:36Z",
+    "modified": "2025-09-18T08:42:06Z",
     "entries": [
+        {
+            "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
+            "title": "Northern Ireland Youth Justice Agency Annual Workload Statistics 1 April 2024 to 31 March 2025",
+            "summary": "Document type: Official Statistics. This publication provides an overview of the workload of the Youth Justice Agency from 2020/21 to 2024/25 providing descriptive analysis of trends on a range of demographics, including some Section 75 characteristics and car…",
+            "url": "https://www.justice-ni.gov.uk/topics/youth-justice-statistics",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025",
+            "updated": "2025-09-18T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-tourism-statistics-quarter-1-2025",
+            "title": "Northern Ireland Tourism Statistics, Quarter 1 2025",
+            "summary": "Document type: Official Statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2025.\r\n\r\n",
+            "url": "https://www.nisra.gov.uk/publications/quarterly-tourism-statistics-publications",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025",
+            "updated": "2025-09-18T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "highest-qualification-and-participation-in-education-and-training-2024",
+            "title": "Highest qualification and participation in education and training 2024",
+            "summary": "Document type: Accredited official statistics. The tables provide updated figures to 2024 for the highest qualification level.",
+            "url": "https://www.nisra.gov.uk/publications/highest-qualification-and-participation-education-and-training-2024",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025",
+            "updated": "2025-09-18T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-2-2025",
+            "title": "Northern Ireland Index of Services: Quarter 2 2025",
+            "summary": "Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025",
+            "updated": "2025-09-18T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-hate-crime-202425",
+            "title": "Statistical Bulletin: Cases Involving Hate Crime 2024/25",
+            "summary": "Document type: Official Statistics. The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
+            "url": "https://www.ppsni.gov.uk/thematic-bulletins-hate-crime",
+            "release_date": "2025-09-18T09:30:00Z",
+            "display_date": "18 September 2025",
+            "updated": "2025-09-18T09:30:00Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "quarterly-employment-survey-june-2025",
             "title": "Quarterly Employment Survey: June 2025",
@@ -951,106 +1001,6 @@
             "display_date": "11 July 2025",
             "updated": "2025-07-11T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "pip-daily-living-activity-score-statistics-april-2025",
-            "title": "PIP Daily Living Activity Score Statistics - April 2025",
-            "summary": "Document type: Official Statistics. Provides statistics on PIP claimants and their respective daily living activity scores.\r\n",
-            "url": "https://www.communities-ni.gov.uk/publications/universal-credit-and-personal-independence-payment-bill-impact-analysis-tables",
-            "release_date": "2025-07-09T09:30:00Z",
-            "display_date": "9 July 2025",
-            "updated": "2025-07-09T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-hospital-statistics-emergency-care-202425",
-            "title": "Northern Ireland Hospital Statistics: Emergency Care 2024/25",
-            "summary": "Document type: Accredited official statistics. Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
-            "release_date": "2025-07-09T09:30:00Z",
-            "display_date": "9 July 2025",
-            "updated": "2025-07-09T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-june-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-07-09T09:30:00Z",
-            "display_date": "9 July 2025",
-            "updated": "2025-07-09T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-june-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 June 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 27 June 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-07-04T09:30:00Z",
-            "display_date": "4 July 2025",
-            "updated": "2025-07-04T09:30:10Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "family-practitioner-services-statistics-for-ni-key-facts-2425",
-            "title": "Family Practitioner Services Statistics for NI - Key Facts 24/25",
-            "summary": "Document type: Accredited official statistics. Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
-            "url": "https://www.gov.uk/government/statistics/family-practitioner-services-statistics-for-ni-key-facts-2425",
-            "release_date": "2025-07-03T09:30:00Z",
-            "display_date": "3 July 2025",
-            "updated": "2025-07-03T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "highest-qualification-and-participation-in-education-and-training-2024",
-            "title": "Highest qualification and participation in education and training 2024",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The tables provide updated figures to 2024 for the highest qualification level.",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-22T14:33:01Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-1-2025",
-            "title": "Northern Ireland Tourism Statistics, Quarter 1 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2025.",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-21T14:45:15Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-hate-crime-202425",
-            "title": "Statistical Bulletin: Cases Involving Hate Crime 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-11T11:29:06Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
-            "title": "Northern Ireland Youth Justice Agency Annual Workload Statistics 1 April 2024 to 31 March 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. This publication provides an overview of the workload of the Youth Justice Agency from 2020/21 to 2024/25 providing descriptive analysis of trends on a range of demographics, including some Section 75 characteristics and car…",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-08T13:56:44Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-2-2025",
-            "title": "Northern Ireland Index of Services: Quarter 2 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2024-10-04T16:15:50Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-index-of-production-quarter-2-2025",
