@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-18T16:47:53Z",
+    "modified": "2025-09-19T06:01:42Z",
     "entries": [
         {
             "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2024-to-31-march-2025",
@@ -1001,16 +1001,6 @@
             "display_date": "11 July 2025",
             "updated": "2025-07-11T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-2-2025",
-            "title": "Northern Ireland Index of Production: Quarter 2 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025 9:30am (confirmed)",
-            "updated": "2024-10-04T15:46:58Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-1",
