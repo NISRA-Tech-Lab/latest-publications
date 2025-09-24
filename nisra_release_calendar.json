@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-24T08:43:38Z",
+    "modified": "2025-09-24T12:42:38Z",
     "entries": [
         {
             "id": "northern-ireland-gambling-licensing-and-industry-data-2024",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
+            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
+            "release_date": "2025-09-25T09:30:00Z",
+            "display_date": "25 September 2025 9:30am (confirmed)",
+            "updated": "2025-09-24T10:13:01Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2025",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
@@ -1010,16 +1020,6 @@
             "display_date": "25 September 2025 9:30am (confirmed)",
             "updated": "2025-09-11T15:36:53Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
-            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
-            "release_date": "2025-09-25T09:30:00Z",
-            "display_date": "25 September 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T11:39:02Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
