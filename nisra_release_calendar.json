@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-25T12:43:48Z",
+    "modified": "2025-09-25T16:46:39Z",
     "entries": [
         {
             "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
@@ -2143,6 +2143,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-index-of-services-quarter-4-2025",
+            "title": "Northern Ireland Index of Services: Quarter 4 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
+            "release_date": "2026-03-19T09:30:00Z",
+            "display_date": "19 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:14:51Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-4-2025",
+            "title": "Northern Ireland Index of Production: Quarter 4 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2026-03-19T09:30:00Z",
+            "display_date": "19 March 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T15:44:22Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 13 March 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 March 2026.",
@@ -2243,6 +2263,16 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2025",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - October - December 2025",
+            "release_date": "2026-04-30T09:30:00Z",
+            "display_date": "30 April 2026 9:30am (provisional)",
+            "updated": "2025-09-25T15:32:23Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-february-2026",
             "title": "Northern Ireland Universal Credit Statistics: February 2026",
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
@@ -2263,6 +2293,36 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-environmental-statistics-report-2026",
+            "title": "Northern Ireland Environmental Statistics Report 2026",
+            "summary": "Date: provisional. Document type: Accredited official statistics. This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (provisional)",
+            "updated": "2025-09-25T16:11:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-1-2026",
+            "title": "Northern Ireland Index of Services: Quarter 1 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:19:49Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-1-2026",
+            "title": "Northern Ireland Index of Production: Quarter 1 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T15:54:19Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
             "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
             "summary": "Date: provisional. Document type: Accredited official statistics. Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
@@ -2279,6 +2339,16 @@
             "release_date": "2026-07-23T09:30:00Z",
             "display_date": "23 July 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:31:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
+            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (provisional)",
+            "updated": "2025-09-25T15:43:07Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
@@ -2313,6 +2383,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-index-of-services-quarter-2-2026",
+            "title": "Northern Ireland Index of Services: Quarter 2 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
+            "release_date": "2026-09-18T09:30:00Z",
+            "display_date": "18 September 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:24:53Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-2-2026",
+            "title": "Northern Ireland Index of Production: Quarter 2 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2026-09-18T09:30:00Z",
+            "display_date": "18 September 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:00:23Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-july-september-2026",
             "title": "Emergency Care Waiting Time Statistics (July - September 2026)",
             "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2331,6 +2421,26 @@
             "updated": "2025-06-25T15:40:58Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-3-2026",
+            "title": "Northern Ireland Index of Services: Quarter 3 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
+            "release_date": "2026-12-17T09:30:00Z",
+            "display_date": "17 December 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:29:35Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-3-2026",
+            "title": "Northern Ireland Index of Production: Quarter 3 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2026-12-17T09:30:00Z",
+            "display_date": "17 December 2026 9:30am (confirmed)",
+            "updated": "2025-09-25T16:04:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "profiling-suicide-drug-and-alcohol-deaths-in-northern-ireland",
