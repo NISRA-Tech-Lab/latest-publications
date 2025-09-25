@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-25T08:45:18Z",
+    "modified": "2025-09-25T12:43:48Z",
     "entries": [
         {
             "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
@@ -1323,6 +1323,16 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-tourism-statistics-quarter-2-2025",
+            "title": "Northern Ireland Tourism Statistics, Quarter 2 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2025.",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-25T12:04:31Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
             "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2025/26",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2025/26.",
@@ -1421,6 +1431,26 @@
             "updated": "2025-09-16T14:13:33Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
+            "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
+            "summary": "Date: confirmed. Document type: Official statistics. This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-25T11:57:54Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-september-2025",
+            "title": "Monthly Occupancy Statistics, September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-25T11:56:18Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
         },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
@@ -1893,6 +1923,16 @@
             "status": "confirmed"
         },
         {
+            "id": "emergency-care-waiting-time-statistics-october-december-2025",
+            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:16:07Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-30-january-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 30 January 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 January 2026.",
@@ -2193,6 +2233,16 @@
             "status": "confirmed"
         },
         {
+            "id": "emergency-care-waiting-time-statistics-january-march-2025--2",
+            "title": "Emergency Care Waiting Time Statistics (January - March 2026)",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-04-23T09:30:00Z",
+            "display_date": "23 April 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:28:27Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-february-2026",
             "title": "Northern Ireland Universal Credit Statistics: February 2026",
             "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
@@ -2211,6 +2261,26 @@
             "updated": "2025-05-09T09:15:05Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
+            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:51:40Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-april-june-2026",
+            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-07-23T09:30:00Z",
+            "display_date": "23 July 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:31:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-benefit-statistics-summary-may-2026",
@@ -2241,6 +2311,16 @@
             "updated": "2025-07-30T15:35:23Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-july-september-2026",
+            "title": "Emergency Care Waiting Time Statistics (July - September 2026)",
+            "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:37:17Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
         },
         {
             "id": "life-expectancy-in-northern-ireland-2022-24",
