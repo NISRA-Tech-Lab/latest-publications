@@ -1,7 +1,57 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-26T06:32:58Z",
+    "modified": "2025-09-26T08:44:06Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-19-sept-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 19 Sept 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 19 September 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025",
+            "updated": "2025-09-26T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-july-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 July 2025",
+            "summary": "Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025",
+            "updated": "2025-09-26T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "trends-in-police-recorded-drug-seizures-and-arrests-in-northern-ireland-200607-to-202425",
+            "title": "Trends in Police Recorded Drug Seizures and Arrests in Northern Ireland 2006/07 to 2024/25",
+            "summary": "Document type: Official Statistics. Annual financial year trends report on Class A, B and C drug seizure incidents and arrests by the police in Northern Ireland covering the period 2006/07 to 2024/25.",
+            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025",
+            "updated": "2025-09-26T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-oct-18-to-apr-25",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 18 to Apr 25",
+            "summary": "Document type: Official Statistics. This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025",
+            "updated": "2025-09-26T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-2-2025",
+            "title": "Northern Ireland Index of Production: Quarter 2 2025",
+            "summary": "Document type: Accredited official statistics. Quarterly Index of the Northern Ireland private sector production output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
+            "release_date": "2025-09-26T09:30:00Z",
+            "display_date": "26 September 2025",
+            "updated": "2025-09-26T09:06:41Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
             "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
@@ -951,86 +1001,6 @@
             "display_date": "1 August 2025",
             "updated": "2025-08-01T09:30:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-quarterly-report-q1-25-26.html",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025",
-            "updated": "2025-07-31T09:30:15Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-june-2025",
-            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Official Statistics. Quarterly update of Agricultural and Rural Crime.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025",
-            "updated": "2025-07-31T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "labour-force-survey-annual-tables-2024",
-            "title": "Labour Force Survey annual tables 2024",
-            "summary": "Document type: Accredited official statistics. Additional breakdowns for January to December 2024, as sourced from the Labour Force Survey (LFS).",
-            "url": "https://www.nisra.gov.uk/publications/labour-force-survey-annual-tables-2024",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025",
-            "updated": "2025-07-31T09:30:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-may-2025",
-            "title": "Motoring offences statistics in Northern Ireland to 31 May 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025",
-            "updated": "2025-07-31T09:30:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-june-2025",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Official Statistics. Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
-            "release_date": "2025-07-31T09:30:00Z",
-            "display_date": "31 July 2025",
-            "updated": "2025-07-31T09:30:03Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "trends-in-police-recorded-drug-seizures-and-arrests-in-northern-ireland-200607-to-202425",
-            "title": "Trends in Police Recorded Drug Seizures and Arrests in Northern Ireland 2006/07 to 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual financial year trends report on Class A, B and C drug seizure incidents and arrests by the police in Northern Ireland covering the period 2006/07 to 2024/25.",
-            "release_date": "2025-09-26T09:30:00Z",
-            "display_date": "26 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-20T11:16:22Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-july-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 July 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-09-26T09:30:00Z",
-            "display_date": "26 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-19T14:15:48Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-19-september-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 19 September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 19 September 2025.",
-            "release_date": "2025-09-26T09:30:00Z",
-            "display_date": "26 September 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:36:37Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2025",
