@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-30T12:45:14Z",
+    "modified": "2025-09-30T16:46:23Z",
     "entries": [
         {
             "id": "legal-aid-in-northern-ireland-annual-statistics-to-march-2025",
@@ -1243,6 +1243,56 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-august-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 31 August 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:54:29Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:30:11Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of Agricultural and Rural Crime.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:27:23Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:24:15Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:18:59Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "walking-and-cycling-in-northern-ireland-202425",
             "title": "Walking and Cycling in Northern Ireland 2024/25\t \t",
             "summary": "Date: confirmed. Document type: Official statistics. This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.",
@@ -1260,6 +1310,16 @@
             "display_date": "30 October 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:47:47Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2025-10-31T09:30:00Z",
+            "display_date": "31 October 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:49:15Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -1289,6 +1349,16 @@
             "release_date": "2025-11-06T09:30:00Z",
             "display_date": "6 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:49:27Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2025-11-07T09:30:00Z",
+            "display_date": "7 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-30T14:59:57Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1819,6 +1889,16 @@
             "release_date": "2026-01-12T09:30:00Z",
             "display_date": "12 January 2026 9:30am (confirmed)",
             "updated": "2025-09-01T16:45:25Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-july-to-30-september-2025",
+            "title": "Northern Ireland Construction Bulletin: 1 July to 30 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of the value of construction output in Northern Ireland.",
+            "release_date": "2026-01-15T09:30:00Z",
+            "display_date": "15 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-30T13:59:35Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
