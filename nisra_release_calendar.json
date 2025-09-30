@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-09-30T06:34:08Z",
+    "modified": "2025-09-30T08:49:44Z",
     "entries": [
+        {
+            "id": "legal-aid-in-northern-ireland-annual-statistics-to-march-2025",
+            "title": "Legal Aid in Northern Ireland: Annual Statistics to March 2025",
+            "summary": "Document type: Official Statistics. Third release of annual legal aid statistics for Northern Ireland covering applications granted and authorised expenditure for criminal and civil cases, alongside applicant and supplier characteristics.",
+            "url": "https://datavis.nisra.gov.uk/LSANI/Annual-Statistics-March-2025.html",
+            "release_date": "2025-09-30T09:30:00Z",
+            "display_date": "30 September 2025",
+            "updated": "2025-09-30T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "household-water-usage-in-northern-ireland-202425",
+            "title": "Household Water Usage in Northern Ireland 2024/25",
+            "summary": "Document type: Official Statistics. This report presents findings from the 2024/2025 Continuous Household Survey in relation to household water usage. \r\n\r\n",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/dfi-statistics-and-research",
+            "release_date": "2025-09-30T09:30:00Z",
+            "display_date": "30 September 2025",
+            "updated": "2025-09-30T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-19-sept-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 19 Sept 2025",
@@ -981,46 +1001,6 @@
             "display_date": "6 August 2025",
             "updated": "2025-08-06T09:30:01Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-25-july-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 25 July 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 25 July 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-08-01T09:30:00Z",
-            "display_date": "1 August 2025",
-            "updated": "2025-08-01T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
-            "summary": "Document type: Official Statistics. Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/articles/complaints-statistics",
-            "release_date": "2025-08-01T09:30:00Z",
-            "display_date": "1 August 2025",
-            "updated": "2025-08-01T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2025",
-            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Third release of annual legal aid statistics for Northern Ireland covering applications granted and authorised expenditure for criminal and civil cases, alongside applicant and supplier characteristics.",
-            "release_date": "2025-09-30T09:30:00Z",
-            "display_date": "30 September 2025 9:30am (confirmed)",
-            "updated": "2025-09-29T09:07:23Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "household-water-usage-in-northern-ireland-202425",
-            "title": "Household Water Usage in Northern Ireland 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. This report presents findings from the 2024/2025 Continuous Household Survey in relation to household water usage.",
-            "release_date": "2025-09-30T09:30:00Z",
-            "display_date": "30 September 2025 9:30am (confirmed)",
-            "updated": "2025-08-21T14:49:48Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "experience-of-volunteering-by-adults-in-northern-ireland-202425",
