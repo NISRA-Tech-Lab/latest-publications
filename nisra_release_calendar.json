@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-01T12:46:18Z",
+    "modified": "2025-10-01T16:46:26Z",
     "entries": [
         {
             "id": "legal-aid-in-northern-ireland-annual-statistics-to-march-2025",
@@ -2043,6 +2043,16 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-january-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: January 2026",
+            "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-02-13T09:30:00Z",
+            "display_date": "13 February 2026 9:30am (provisional)",
+            "updated": "2025-10-01T15:19:34Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 6 February 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 February 2026.",
@@ -2193,6 +2203,16 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-employment-survey-december-2025",
+            "title": "Quarterly Employment Survey: December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "release_date": "2026-03-19T09:30:00Z",
+            "display_date": "19 March 2026 7:00am (confirmed)",
+            "updated": "2025-10-01T16:26:06Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-index-of-services-quarter-4-2025",
             "title": "Northern Ireland Index of Services: Quarter 4 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
@@ -2231,6 +2251,16 @@
             "updated": "2025-06-25T15:13:10Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-october-to-31-december-2025",
+            "title": "Northern Ireland Construction Bulletin: 1 October to 31 December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T15:52:00Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-4-2025",
@@ -2383,6 +2413,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-1-2026",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 1 2026",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T16:35:12Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-january-to-31-march-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 January to 31 March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T16:02:32Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
             "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
             "summary": "Date: provisional. Document type: Accredited official statistics. Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
@@ -2473,6 +2523,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2026",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 2 2026",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T16:41:52Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T16:11:48Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-july-september-2026",
             "title": "Emergency Care Waiting Time Statistics (July - September 2026)",
             "summary": "Date: provisional. Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2509,6 +2579,26 @@
             "release_date": "2026-12-17T09:30:00Z",
             "display_date": "17 December 2026 9:30am (confirmed)",
             "updated": "2025-09-25T16:04:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2026",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2026",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
+            "release_date": "2027-01-14T09:30:00Z",
+            "display_date": "14 January 2027 9:30am (confirmed)",
+            "updated": "2025-10-01T17:19:37Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-july-to-30-september-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 July to 30 September 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2027-01-14T09:30:00Z",
+            "display_date": "14 January 2027 9:30am (confirmed)",
+            "updated": "2025-10-01T16:17:23Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
