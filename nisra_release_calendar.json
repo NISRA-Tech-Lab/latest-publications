@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-01T08:45:32Z",
+    "modified": "2025-10-01T12:46:18Z",
     "entries": [
         {
             "id": "legal-aid-in-northern-ireland-annual-statistics-to-march-2025",
@@ -2231,6 +2231,16 @@
             "updated": "2025-06-25T15:13:10Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-4-2025",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 4 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly Index of the Northern Ireland economy.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T12:38:35Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-march-2026",
