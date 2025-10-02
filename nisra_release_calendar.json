@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-02T08:43:23Z",
+    "modified": "2025-10-02T12:42:52Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-august-2025",
@@ -2363,6 +2363,16 @@
             "status": "provisional"
         },
         {
+            "id": "quarterly-employment-survey-march-2026",
+            "title": "Quarterly Employment Survey: March 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "release_date": "2026-06-16T09:30:00Z",
+            "display_date": "16 June 2026 7:00am (confirmed)",
+            "updated": "2025-10-02T11:48:22Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-index-of-services-quarter-1-2026",
             "title": "Northern Ireland Index of Services: Quarter 1 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
@@ -2469,6 +2479,16 @@
             "release_date": "2026-08-26T09:30:00Z",
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-07-30T15:35:23Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "quarterly-employment-survey-june-2026",
+            "title": "Quarterly Employment Survey: June 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "release_date": "2026-09-16T09:30:00Z",
+            "display_date": "16 September 2026 7:00am (confirmed)",
+            "updated": "2025-10-02T11:53:53Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
