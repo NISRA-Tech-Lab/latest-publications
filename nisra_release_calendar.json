@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-03T06:32:49Z",
+    "modified": "2025-10-03T08:41:59Z",
     "entries": [
+        {
+            "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
+            "title": "Investment in General Practice, Northern Ireland 2020-21 to 2024-25",
+            "summary": "Document type: Official Statistics. This report details investment in general practice and the reimbursement for drugs dispensed in general practices in Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/investment-general-practice",
+            "release_date": "2025-10-03T09:30:00Z",
+            "display_date": "3 October 2025",
+            "updated": "2025-10-03T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-26-sept-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 26 Sept 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 26 September 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-10-03T09:30:00Z",
+            "display_date": "3 October 2025",
+            "updated": "2025-10-03T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "monthly-occupancy-statistics-august-2025",
             "title": "Monthly Occupancy Statistics, August 2025",
@@ -981,46 +1001,6 @@
             "display_date": "8 August 2025",
             "updated": "2025-08-08T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q1-25-26.html",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025",
-            "updated": "2025-08-07T09:30:06Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-occupancy-statistics-june-2025",
-            "title": "Monthly Occupancy Statistics, June 2025",
-            "summary": "Document type: Official Statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland. ",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2025-08-07T09:30:00Z",
-            "display_date": "7 August 2025",
-            "updated": "2025-08-07T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
-            "title": "Investment in General Practice, Northern Ireland 2020-21 to 2024-25",
-            "summary": "Date: confirmed. Document type: Official statistics. This report details investment in general practice and the reimbursement for drugs dispensed in general practices in Northern Ireland.",
-            "release_date": "2025-10-03T09:30:00Z",
-            "display_date": "3 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-08T08:36:25Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-26-september-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 26 September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 26 September 2025.",
-            "release_date": "2025-10-03T09:30:00Z",
-            "display_date": "3 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:38:27Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2025",
@@ -2486,9 +2466,9 @@
             "id": "quarterly-employment-survey-june-2026",
             "title": "Quarterly Employment Survey: June 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
-            "release_date": "2026-09-16T09:30:00Z",
-            "display_date": "16 September 2026 7:00am (confirmed)",
-            "updated": "2025-10-02T11:53:53Z",
+            "release_date": "2026-09-15T09:30:00Z",
+            "display_date": "15 September 2026 7:00am (confirmed)",
+            "updated": "2025-10-03T08:28:12Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2551,6 +2531,16 @@
             "updated": "2025-06-25T15:40:58Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "quarterly-employment-survey-september-2026",
+            "title": "Quarterly Employment Survey: September 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "release_date": "2026-12-15T09:30:00Z",
+            "display_date": "15 December 2026 7:00am (confirmed)",
+            "updated": "2025-10-03T08:38:19Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-index-of-services-quarter-3-2026",
