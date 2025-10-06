@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-06T08:44:33Z",
+    "modified": "2025-10-06T12:44:12Z",
     "entries": [
         {
             "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
@@ -1610,6 +1610,16 @@
             "display_date": "5 December 2025 9:30am (confirmed)",
             "updated": "2025-07-09T15:02:09Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "carbon-intensity-indicators-northern-ireland-2025",
+            "title": "Carbon intensity indicators: Northern Ireland 2025      ",
+            "summary": "Date: confirmed. Document type: Official statistics. Carbon intensity indicators: Northern Ireland 2025",
+            "release_date": "2025-12-09T09:30:00Z",
+            "display_date": "9 December 2025 9:30am (confirmed)",
+            "updated": "2025-10-06T11:36:57Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
