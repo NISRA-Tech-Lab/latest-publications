@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-08T08:42:55Z",
+    "modified": "2025-10-08T12:45:18Z",
     "entries": [
         {
             "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
@@ -1280,6 +1280,16 @@
             "display_date": "31 October 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:47:52Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-two-202526-financial-year",
+            "title": "Employment Vacancies Notified to DfC Quarter Two 2025/26 Financial Year",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly data showing listings of employment vacancies notified to Department for Communities",
+            "release_date": "2025-11-05T09:30:00Z",
+            "display_date": "5 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-08T09:53:01Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
