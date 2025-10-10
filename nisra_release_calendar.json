@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-10T06:34:09Z",
+    "modified": "2025-10-10T08:42:34Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-3-oct-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 3 Oct 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 3 October 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-10-10T09:30:00Z",
+            "display_date": "10 October 2025",
+            "updated": "2025-10-10T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-10-10T09:30:00Z",
+            "display_date": "10 October 2025",
+            "updated": "2025-10-10T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
             "title": "Investment in General Practice, Northern Ireland 2020-21 to 2024-25",
@@ -981,46 +1001,6 @@
             "display_date": "11 August 2025",
             "updated": "2025-08-11T09:30:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-08-08T09:30:00Z",
-            "display_date": "8 August 2025",
-            "updated": "2025-08-08T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-1-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 1 August 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 1 August 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-08-08T09:30:00Z",
-            "display_date": "8 August 2025",
-            "updated": "2025-08-08T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-10-10T09:30:00Z",
-            "display_date": "10 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-04T16:03:26Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 3 October 2025.",
-            "release_date": "2025-10-10T09:30:00Z",
-            "display_date": "10 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:40:16Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "monthly-civil-partnerships-northern-ireland-september-2025",
