@@ -1,7 +1,57 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-13T06:35:39Z",
+    "modified": "2025-10-13T08:46:03Z",
     "entries": [
+        {
+            "id": "monthly-marriages-northern-ireland-september-2025",
+            "title": "Monthly Marriages (Northern Ireland): September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): September 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-10-13T09:30:00Z",
+            "display_date": "13 October 2025",
+            "updated": "2025-10-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-september-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): September 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-10-13T09:30:00Z",
+            "display_date": "13 October 2025",
+            "updated": "2025-10-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-september-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): September 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-10-13T09:30:00Z",
+            "display_date": "13 October 2025",
+            "updated": "2025-10-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-september-2025",
+            "title": "Monthly Deaths (Northern Ireland): September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): September 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-10-13T09:30:00Z",
+            "display_date": "13 October 2025",
+            "updated": "2025-10-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "monthly-births-northern-ireland-september-2025",
+            "title": "Monthly Births (Northern Ireland): September 2025",
+            "summary": "Document type: Accredited official statistics. Monthly Births (Northern Ireland): September 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-10-13T09:30:00Z",
+            "display_date": "13 October 2025",
+            "updated": "2025-10-13T09:30:08Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-oct-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 3 Oct 2025",
@@ -951,106 +1001,6 @@
             "display_date": "12 August 2025",
             "updated": "2025-08-12T07:00:01Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-july-2025",
-            "title": "Monthly Deaths (Northern Ireland): July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): July 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-08-11T09:30:00Z",
-            "display_date": "11 August 2025",
-            "updated": "2025-08-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-july-2025",
-            "title": "Monthly Marriages (Northern Ireland): July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): July 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-08-11T09:30:00Z",
-            "display_date": "11 August 2025",
-            "updated": "2025-08-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-july-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): July 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-08-11T09:30:00Z",
-            "display_date": "11 August 2025",
-            "updated": "2025-08-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-july-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): July 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2025-08-11T09:30:00Z",
-            "display_date": "11 August 2025",
-            "updated": "2025-08-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-births-northern-ireland-july-2025",
-            "title": "Monthly Births (Northern Ireland): July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly Births (Northern Ireland): July 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-08-11T09:30:00Z",
-            "display_date": "11 August 2025",
-            "updated": "2025-08-11T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-september-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Civil Partnerships (Northern Ireland): September 2025",
-            "release_date": "2025-10-13T09:30:00Z",
-            "display_date": "13 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T12:58:08Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-september-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Stillbirths (Northern Ireland): September 2025",
-            "release_date": "2025-10-13T09:30:00Z",
-            "display_date": "13 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T12:56:26Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-september-2025",
-            "title": "Monthly Marriages (Northern Ireland): September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Marriages (Northern Ireland): September 2025",
-            "release_date": "2025-10-13T09:30:00Z",
-            "display_date": "13 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T12:53:43Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-september-2025",
-            "title": "Monthly Deaths (Northern Ireland): September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Deaths (Northern Ireland): September 2025",
-            "release_date": "2025-10-13T09:30:00Z",
-            "display_date": "13 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T12:51:20Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-september-2025",
-            "title": "Monthly Births (Northern Ireland): September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly Births (Northern Ireland): September 2025",
-            "release_date": "2025-10-13T09:30:00Z",
-            "display_date": "13 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T12:35:13Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-october-2025",
