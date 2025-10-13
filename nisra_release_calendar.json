@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-13T08:46:03Z",
+    "modified": "2025-10-13T12:45:24Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-september-2025",
@@ -1013,6 +1013,16 @@
             "status": "confirmed"
         },
         {
+            "id": "childrens-social-care-statistics-for-northern-ireland-202425",
+            "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-13T10:26:26Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-good-relations-indicators-2024-report",
             "title": "Northern Ireland Good Relations Indicators 2024 Report",
             "summary": "Date: confirmed. Document type: Official statistics. An annual publication monitoring progress against the Together: Building a United Community Strategy.",
@@ -1053,6 +1063,16 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2024",
+            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-13T10:50:54Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "the-northern-ireland-prison-population-202425",
             "title": "The Northern Ireland Prison Population 2024/25",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
@@ -1081,16 +1101,6 @@
             "updated": "2025-07-30T09:45:47Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2024",
-            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
-            "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (provisional)",
-            "updated": "2025-02-04T10:57:20Z",
-            "release_type": "Accredited official statistics",
-            "status": "provisional"
         },
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2025",
