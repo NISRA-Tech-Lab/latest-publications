@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-13T16:47:31Z",
+    "modified": "2025-10-14T06:03:14Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-october-2025",
+            "title": "NI Labour Market statistics: October 2025",
+            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-10-14T09:30:00Z",
+            "display_date": "14 October 2025",
+            "updated": "2025-10-14T07:00:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "monthly-marriages-northern-ireland-september-2025",
             "title": "Monthly Marriages (Northern Ireland): September 2025",
@@ -991,26 +1001,6 @@
             "display_date": "13 August 2025",
             "updated": "2025-08-13T09:30:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-august-2025",
-            "title": "NI Labour Market statistics: August 2025",
-            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-08-12T09:30:00Z",
-            "display_date": "12 August 2025",
-            "updated": "2025-08-12T07:00:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-october-2025",
-            "title": "NI Labour Market statistics: October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-10-14T09:30:00Z",
-            "display_date": "14 October 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:50:13Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "childrens-social-care-statistics-for-northern-ireland-202425",
