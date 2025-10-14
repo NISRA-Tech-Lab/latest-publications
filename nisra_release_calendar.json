@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-14T12:47:41Z",
+    "modified": "2025-10-14T16:49:04Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-october-2025",
@@ -2101,6 +2101,16 @@
             "updated": "2025-09-01T17:02:10Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-february-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: February 2026",
+            "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-03-13T09:30:00Z",
+            "display_date": "13 March 2026 9:30am (provisional)",
+            "updated": "2025-10-14T15:45:36Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
