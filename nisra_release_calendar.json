@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-14T06:33:49Z",
+    "modified": "2025-10-14T08:43:44Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-october-2025",
@@ -1479,6 +1479,16 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-09-04T10:14:24Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-sexual-offences-202425",
+            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2024/25.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-14T08:14:40Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
