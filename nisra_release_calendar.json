@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-15T12:47:29Z",
+    "modified": "2025-10-15T16:44:51Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-october-2025",
@@ -1003,6 +1003,16 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
+            "summary": "Date: confirmed. Document type: Official statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-15T14:47:25Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "childrens-social-care-statistics-for-northern-ireland-202425",
             "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
@@ -1019,16 +1029,6 @@
             "release_date": "2025-10-16T09:30:00Z",
             "display_date": "16 October 2025 9:30am (confirmed)",
             "updated": "2025-09-18T12:57:10Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
-            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
-            "summary": "Date: confirmed. Document type: Official statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
-            "release_date": "2025-10-16T09:30:00Z",
-            "display_date": "16 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-10T15:40:32Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1330,6 +1330,16 @@
             "display_date": "11 November 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:19Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
+            "summary": "Date: confirmed. Document type: Official statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-15T15:34:14Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
