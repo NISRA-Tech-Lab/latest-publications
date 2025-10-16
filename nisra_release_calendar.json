@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-16T06:33:49Z",
+    "modified": "2025-10-16T08:45:20Z",
     "entries": [
+        {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
+            "summary": "Document type: Official Statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
+            "url": "https://www.gov.uk/government/statistics/adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025",
+            "updated": "2025-10-16T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "childrens-social-care-statistics-for-northern-ireland-202425",
+            "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
+            "summary": "Document type: Accredited official statistics. Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
+            "url": "https://www.health-ni.gov.uk/articles/children-need",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025",
+            "updated": "2025-10-16T09:30:02Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-good-relations-indicators-2024-report",
+            "title": "Northern Ireland Good Relations Indicators 2024 Report",
+            "summary": "Document type: Official Statistics. An annual publication monitoring progress against the Together: Building a United Community Strategy.",
+            "url": "https://www.executiveoffice-ni.gov.uk/topics/good-relations",
+            "release_date": "2025-10-16T09:30:00Z",
+            "display_date": "16 October 2025",
+            "updated": "2025-10-16T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "ni-labour-market-statistics-october-2025",
             "title": "NI Labour Market statistics: October 2025",
@@ -973,66 +1003,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "general-medical-services-statistics-for-ni-quarter-1-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
-            "summary": "Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q1-2025-2026.html",
-            "release_date": "2025-08-14T09:30:00Z",
-            "display_date": "14 August 2025",
-            "updated": "2025-08-14T09:30:09Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
-            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
-            "summary": "Document type: Official Statistics. Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland",
-            "url": "https://www.justice-ni.gov.uk/publications/case-processing-time-criminal-cases-dealt-courts-northern-ireland-2425",
-            "release_date": "2025-08-14T09:30:00Z",
-            "display_date": "14 August 2025",
-            "updated": "2025-08-14T00:00:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-independent-custody-visiting-report-2024-2025",
-            "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
-            "summary": "Document type: Official Statistics. Annual report covering 1 April 2024 to 31 March 2025 providing data from independent custody visiting volunteers in relation to visits and outcomes.",
-            "url": "https://www.nipolicingboard.org.uk/independent-custody-visiting-reports",
-            "release_date": "2025-08-13T09:30:00Z",
-            "display_date": "13 August 2025",
-            "updated": "2025-08-13T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
-            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
-            "summary": "Date: confirmed. Document type: Official statistics. Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
-            "release_date": "2025-10-16T09:30:00Z",
-            "display_date": "16 October 2025 9:30am (confirmed)",
-            "updated": "2025-10-15T14:47:25Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "childrens-social-care-statistics-for-northern-ireland-202425",
-            "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
-            "release_date": "2025-10-16T09:30:00Z",
-            "display_date": "16 October 2025 9:30am (confirmed)",
-            "updated": "2025-10-13T10:26:26Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-good-relations-indicators-2024-report",
-            "title": "Northern Ireland Good Relations Indicators 2024 Report",
-            "summary": "Date: confirmed. Document type: Official statistics. An annual publication monitoring progress against the Together: Building a United Community Strategy.",
-            "release_date": "2025-10-16T09:30:00Z",
-            "display_date": "16 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-18T12:57:10Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-october-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 October 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 10 October 2025.",
@@ -1460,6 +1430,16 @@
             "display_date": "20 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:55:05Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "registrar-general-northern-ireland-annual-report-2024",
+            "title": "Registrar General Northern Ireland Annual Report 2024",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The Annual Report of the Registrar General 2024 will be published in November 2025 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-08-27T11:30:21Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
