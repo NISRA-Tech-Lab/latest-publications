@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-16T08:45:20Z",
+    "modified": "2025-10-16T12:45:45Z",
     "entries": [
         {
             "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
@@ -1413,6 +1413,26 @@
             "status": "confirmed"
         },
         {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2024",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2024",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables detailing the number of deaths due to Suicide in Northern Ireland in 2024",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-16T09:48:35Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "registrar-general-northern-ireland-annual-report-2024",
+            "title": "Registrar General Northern Ireland Annual Report 2024",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. The Annual Report of the Registrar General 2024 will be published in November 2025 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-16T09:47:41Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "ni-topiramate-monitoring-report-april-2023-to-september-2025",
             "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
@@ -1430,16 +1450,6 @@
             "display_date": "20 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:55:05Z",
             "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "registrar-general-northern-ireland-annual-report-2024",
-            "title": "Registrar General Northern Ireland Annual Report 2024",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The Annual Report of the Registrar General 2024 will be published in November 2025 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-08-27T11:30:21Z",
-            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
