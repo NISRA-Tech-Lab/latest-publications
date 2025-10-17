@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-17T06:32:44Z",
+    "modified": "2025-10-17T08:45:36Z",
     "entries": [
+        {
+            "id": "dva-monthly-tests-conducted-statistics-september-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: September 2025",
+            "summary": "Document type: Official Statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-september-2025",
+            "release_date": "2025-10-17T09:30:00Z",
+            "display_date": "17 October 2025",
+            "updated": "2025-10-17T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-oct-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 Oct 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 10 October 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-10-17T09:30:00Z",
+            "display_date": "17 October 2025",
+            "updated": "2025-10-17T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
             "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
@@ -983,46 +1003,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-8-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 8 August 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 8 August 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-08-15T09:30:00Z",
-            "display_date": "15 August 2025",
-            "updated": "2025-08-15T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-july-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: July 2025",
-            "summary": "Document type: Official Statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-july-2025",
-            "release_date": "2025-08-15T09:30:00Z",
-            "display_date": "15 August 2025",
-            "updated": "2025-08-15T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 10 October 2025.",
-            "release_date": "2025-10-17T09:30:00Z",
-            "display_date": "17 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:42:10Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-september-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: September 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-10-17T09:30:00Z",
-            "display_date": "17 October 2025 9:30am (confirmed)",
-            "updated": "2025-06-20T09:45:54Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2024",
             "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
@@ -1409,6 +1389,16 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
             "updated": "2025-01-06T08:49:11Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2025",
+            "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-17T09:45:58Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
