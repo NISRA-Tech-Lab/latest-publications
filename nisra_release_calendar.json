@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-20T12:46:24Z",
+    "modified": "2025-10-20T16:49:00Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2025",
@@ -1073,6 +1073,16 @@
             "status": "confirmed"
         },
         {
+            "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
+            "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-20T14:55:13Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "motoring-offences-statistics-in-northern-ireland-to-31-august-2025",
             "title": "Motoring offences statistics in Northern Ireland to 31 August 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1349,6 +1359,26 @@
             "release_date": "2025-11-14T09:30:00Z",
             "display_date": "14 November 2025 9:30am (confirmed)",
             "updated": "2025-06-20T09:46:46Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
+            "title": "Experience of sport by adults in Northern Ireland 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
+            "release_date": "2025-11-18T09:30:00Z",
+            "display_date": "18 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-20T17:02:45Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425",
+            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. An annual publication containing survey results on engagement with the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
+            "release_date": "2025-11-18T09:30:00Z",
+            "display_date": "18 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-20T16:52:35Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
