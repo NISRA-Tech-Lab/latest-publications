@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-22T08:50:27Z",
+    "modified": "2025-10-22T12:48:07Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2025",
@@ -1003,22 +1003,22 @@
             "release_type": "Official Statistics"
         },
         {
+            "id": "the-northern-ireland-prison-population-202425",
+            "title": "The Northern Ireland Prison Population 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-22T10:25:44Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2024",
             "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
             "release_date": "2025-10-23T09:30:00Z",
             "display_date": "23 October 2025 9:30am (confirmed)",
             "updated": "2025-10-13T10:50:54Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "the-northern-ireland-prison-population-202425",
-            "title": "The Northern Ireland Prison Population 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-23T08:39:17Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
