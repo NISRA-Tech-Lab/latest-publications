@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-23T12:48:21Z",
+    "modified": "2025-10-23T16:47:54Z",
     "entries": [
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2025",
@@ -1443,6 +1443,16 @@
             "status": "confirmed"
         },
         {
+            "id": "good-jobs-in-northern-ireland-2025",
+            "title": "Good Jobs in Northern Ireland 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-23T16:26:50Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "health-survey-northern-ireland-first-results-202425",
             "title": "Health Survey Northern Ireland: First Results 2024/25",
             "summary": "Date: provisional. Document type: Official statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
@@ -1460,6 +1470,16 @@
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-09-04T10:14:24Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-july-september-2025",
+            "title": "Northern Ireland Housing Bulletin July - September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-23T16:35:57Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
