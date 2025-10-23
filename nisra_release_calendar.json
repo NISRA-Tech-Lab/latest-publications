@@ -1,17 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-23T08:45:07Z",
+    "modified": "2025-10-23T12:48:21Z",
     "entries": [
-        {
-            "id": "the-northern-ireland-prison-population-202425",
-            "title": "The Northern Ireland Prison Population 2024/25",
-            "summary": "Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
-            "url": "https://www.gov.uk/government/statistics/the-northern-ireland-prison-population-202425",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025",
-            "updated": "2025-10-23T09:30:12Z",
-            "release_type": "Accredited official statistics"
-        },
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2025",
             "title": "Emergency Care Waiting Time Statistics (July - September 2025)",
@@ -51,6 +41,16 @@
             "display_date": "23 October 2025",
             "updated": "2025-10-23T09:30:07Z",
             "release_type": "Official Statistics"
+        },
+        {
+            "id": "the-northern-ireland-prison-population-202425",
+            "title": "The Northern Ireland Prison Population 2024/25",
+            "summary": "Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
+            "url": "https://www.justice-ni.gov.uk/publications/northern-ireland-prison-population-2024-25",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T00:00:00Z",
+            "release_type": "Accredited official statistics"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2025",
