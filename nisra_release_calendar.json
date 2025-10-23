@@ -1,7 +1,57 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-23T06:32:38Z",
+    "modified": "2025-10-23T08:45:07Z",
     "entries": [
+        {
+            "id": "the-northern-ireland-prison-population-202425",
+            "title": "The Northern Ireland Prison Population 2024/25",
+            "summary": "Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
+            "url": "https://www.gov.uk/government/statistics/the-northern-ireland-prison-population-202425",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-july-september-2025",
+            "title": "Emergency Care Waiting Time Statistics (July - September 2025)",
+            "summary": "Document type: Accredited official statistics. Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "employee-earnings-in-ni-2025",
+            "title": "Employee earnings in NI: 2025",
+            "summary": "Document type: Accredited official statistics. The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
+            "url": "https://datavis.nisra.gov.uk/economy-and-labour-market/Employee-earnings-NI-2025.html",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
+            "summary": "Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T09:30:07Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202526",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 2 2025/26",
+            "summary": "Document type: Official Statistics. This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
+            "release_date": "2025-10-23T09:30:00Z",
+            "display_date": "23 October 2025",
+            "updated": "2025-10-23T09:30:07Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2025",
             "title": "DVA Monthly Tests Conducted Statistics: September 2025",
@@ -951,106 +1001,6 @@
             "display_date": "21 August 2025",
             "updated": "2025-08-21T09:30:07Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-carrier-bag-levy-statistics-202425",
-            "title": "Northern Ireland Carrier Bag Levy Statistics 2024/25",
-            "summary": "Document type: Official Statistics. This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland.",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-carrier-bag-levy-statistics",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025",
-            "updated": "2025-08-21T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-april-june-2025",
-            "title": "Northern Ireland Housing Bulletin April - June 2025",
-            "summary": "Document type: Accredited official statistics. A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025",
-            "updated": "2025-08-21T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-2-2025",
-            "title": "Northern Ireland House Price Index Quarter 2 2025",
-            "summary": "Document type: Accredited official statistics. House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2025",
-            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
-            "release_date": "2025-08-20T09:30:00Z",
-            "display_date": "20 August 2025",
-            "updated": "2025-08-20T09:30:01Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-june-2025",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Official Statistics. Quarterly update of persons stopped and searched by PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
-            "release_date": "2025-08-20T09:30:00Z",
-            "display_date": "20 August 2025",
-            "updated": "2025-08-20T09:30:01Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-2-2025",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 2 2025",
-            "summary": "Document type: Official Statistics. New Dwellings in each local government district in Northern Ireland during Apr - Jun 2025",
-            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
-            "release_date": "2025-08-20T09:30:00Z",
-            "display_date": "20 August 2025",
-            "updated": "2025-08-20T09:30:01Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "the-northern-ireland-prison-population-202425",
-            "title": "The Northern Ireland Prison Population 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (confirmed)",
-            "updated": "2025-10-22T10:25:44Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2024",
-            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (confirmed)",
-            "updated": "2025-10-13T10:50:54Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202526",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 2 2025/26",
-            "summary": "Date: confirmed. Document type: Official statistics. This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (confirmed)",
-            "updated": "2025-08-28T09:04:28Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "employee-earnings-in-ni-2025",
-            "title": "Employee earnings in NI: 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-30T09:45:47Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-july-september-2025",
-            "title": "Emergency Care Waiting Time Statistics (July - September 2025)",
-            "summary": "Date: provisional. Document type: Accredited official statistics. Presents information on the time spent waiting in emergency care departments in Northern Ireland for both new and unplanned review attendances, and reports on the performance of trusts against the ministerial target in North…",
-            "release_date": "2025-10-23T09:30:00Z",
-            "display_date": "23 October 2025 9:30am (provisional)",
-            "updated": "2024-10-24T15:22:41Z",
-            "release_type": "Accredited official statistics",
-            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
