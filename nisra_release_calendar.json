@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-24T06:32:54Z",
+    "modified": "2025-10-24T08:45:28Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 17 October 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 17 October 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-10-24T09:30:00Z",
+            "display_date": "24 October 2025",
+            "updated": "2025-10-24T09:30:04Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2025",
             "title": "Emergency Care Waiting Time Statistics (July - September 2025)",
@@ -991,26 +1001,6 @@
             "display_date": "21 August 2025",
             "updated": "2025-08-21T09:30:12Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2025",
-            "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2025",
-            "summary": "Document type: Accredited official statistics. The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report will monitor the progress of the strategy against agreed targets and key performance indicators.",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025",
-            "updated": "2025-08-21T09:30:07Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 17 October 2025.",
-            "release_date": "2025-10-24T09:30:00Z",
-            "display_date": "24 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:44:07Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-business-register-and-employment-survey-2023",
