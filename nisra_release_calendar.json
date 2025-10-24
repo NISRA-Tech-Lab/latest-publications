@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-24T12:46:56Z",
+    "modified": "2025-10-24T16:48:08Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
@@ -1013,16 +1013,6 @@
             "status": "confirmed"
         },
         {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
-            "release_date": "2025-10-28T09:30:00Z",
-            "display_date": "28 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-30T12:22:02Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
             "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
             "summary": "Date: confirmed. Document type: Official statistics. This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
@@ -1119,6 +1109,16 @@
             "release_date": "2025-10-31T09:30:00Z",
             "display_date": "31 October 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:47:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
+            "release_date": "2025-11-04T09:30:00Z",
+            "display_date": "4 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-24T13:53:51Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
