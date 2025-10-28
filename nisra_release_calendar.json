@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-28T08:45:11Z",
+    "modified": "2025-10-28T12:46:31Z",
     "entries": [
+        {
+            "id": "northern-ireland-business-register-and-employment-survey-2023",
+            "title": "Northern Ireland Business Register and Employment Survey 2023",
+            "summary": "Document type: Official Statistics. The total number of employee jobs in Northern Ireland. Industry and geography breakdowns provided.",
+            "url": "https://www.nisra.gov.uk/publications/bres-publication-and-tables-2023",
+            "release_date": "2025-10-28T09:30:00Z",
+            "display_date": "28 October 2025",
+            "updated": "2025-10-28T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 17 October 2025",
@@ -993,26 +1003,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
-            "summary": "Document type: Official Statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "url": "https://www.gov.uk/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
-            "release_date": "2025-08-21T09:30:00Z",
-            "display_date": "21 August 2025",
-            "updated": "2025-08-21T09:30:12Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-business-register-and-employment-survey-2023",
-            "title": "Northern Ireland Business Register and Employment Survey 2023",
-            "summary": "Date: confirmed. Document type: Official statistics. The total number of employee jobs in Northern Ireland. Industry and geography breakdowns provided.",
-            "release_date": "2025-10-28T09:30:00Z",
-            "display_date": "28 October 2025 9:30am (confirmed)",
-            "updated": "2025-10-21T17:10:38Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
             "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
             "summary": "Date: confirmed. Document type: Official statistics. This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
@@ -1459,6 +1449,46 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-09-04T10:14:24Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T12:29:03Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T12:20:25Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T12:18:16Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-october-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 October 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T12:16:04Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
