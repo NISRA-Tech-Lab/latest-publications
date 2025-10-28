@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-28T12:46:31Z",
+    "modified": "2025-10-28T16:50:41Z",
     "entries": [
         {
             "id": "northern-ireland-business-register-and-employment-survey-2023",
@@ -1323,6 +1323,16 @@
             "status": "confirmed"
         },
         {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of persons stopped and searched by PSNI.",
+            "release_date": "2025-11-19T09:30:00Z",
+            "display_date": "19 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:36:27Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hsc-vacancies-september-2025",
             "title": "Northern Ireland HSC Vacancies September 2025",
             "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
@@ -1453,6 +1463,16 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 30 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:45:07Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
             "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
@@ -1543,6 +1563,16 @@
             "status": "provisional"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-september-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:41:01Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
             "title": "Mortgages: Actions for possession bulletin July to September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
@@ -1569,6 +1599,46 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-domestic-abuse-trends-report-202425",
+            "title": "Annual Domestic Abuse Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "release_date": "2025-11-29T09:30:00Z",
+            "display_date": "29 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:32:04Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-hate-motivation-trends-report-202425",
+            "title": "Annual Hate Motivation Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "release_date": "2025-11-29T09:30:00Z",
+            "display_date": "29 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:29:51Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
+            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual update of Police Crime Outcomes.",
+            "release_date": "2025-11-29T09:30:00Z",
+            "display_date": "29 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:27:05Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-crime-statistics-trends-report-202425",
+            "title": "Annual Crime Statistics Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
+            "release_date": "2025-11-29T09:30:00Z",
+            "display_date": "29 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T14:24:40Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
