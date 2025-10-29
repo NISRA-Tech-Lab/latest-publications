@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-29T08:46:41Z",
+    "modified": "2025-10-29T12:47:06Z",
     "entries": [
         {
             "id": "northern-ireland-business-register-and-employment-survey-2023",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2025/26.",
+            "release_date": "2025-10-30T09:30:00Z",
+            "display_date": "30 October 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T10:12:28Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
             "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
             "summary": "Date: confirmed. Document type: Official statistics. This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
@@ -1070,16 +1080,6 @@
             "display_date": "30 October 2025 9:30am (confirmed)",
             "updated": "2025-09-23T14:23:53Z",
             "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-2-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 2 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2025/26.",
-            "release_date": "2025-10-30T09:30:00Z",
-            "display_date": "30 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:47:47Z",
-            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
@@ -1559,6 +1559,16 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (provisional)",
             "updated": "2025-02-04T11:07:49Z",
+            "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-research-development-2024-results",
+            "title": "Northern Ireland Research & Development 2024 Results",
+            "summary": "Date: provisional. Document type: Accredited official statistics. This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (provisional)",
+            "updated": "2025-10-29T10:01:38Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
         },
