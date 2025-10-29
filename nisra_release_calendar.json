@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-29T12:47:06Z",
+    "modified": "2025-10-29T16:53:54Z",
     "entries": [
         {
             "id": "northern-ireland-business-register-and-employment-survey-2023",
@@ -1373,6 +1373,16 @@
             "status": "confirmed"
         },
         {
+            "id": "impact-of-time-taken-to-register-a-death-on-death-statistics-in-northern-ireland-2024",
+            "title": "Impact of Time Taken to Register a Death on Death Statistics in Northern Ireland: 2024",
+            "summary": "Date: confirmed. Document type: Official statistics. Tables and report detailing impact of time taken to register a death on death statistics in Northern Ireland",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T14:56:01Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2025",
             "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
@@ -1430,6 +1440,16 @@
             "display_date": "21 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:57:29Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
+            "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
+            "summary": "Date: confirmed. Document type: Official statistics. This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T15:04:30Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -1563,6 +1583,46 @@
             "status": "provisional"
         },
         {
+            "id": "annual-hate-motivation-trends-report-202425",
+            "title": "Annual Hate Motivation Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T14:17:32Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-domestic-abuse-trends-report-202425",
+            "title": "Annual Domestic Abuse Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T14:16:39Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
+            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Annual update of Police Crime Outcomes.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T14:15:39Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-crime-statistics-trends-report-202425",
+            "title": "Annual Crime Statistics Trends Report 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-29T14:15:05Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-research-development-2024-results",
             "title": "Northern Ireland Research & Development 2024 Results",
             "summary": "Date: provisional. Document type: Accredited official statistics. This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
@@ -1609,46 +1669,6 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "annual-domestic-abuse-trends-report-202425",
-            "title": "Annual Domestic Abuse Trends Report 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
-            "release_date": "2025-11-29T09:30:00Z",
-            "display_date": "29 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T14:32:04Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "annual-hate-motivation-trends-report-202425",
-            "title": "Annual Hate Motivation Trends Report 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
-            "release_date": "2025-11-29T09:30:00Z",
-            "display_date": "29 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T14:29:51Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
-            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual update of Police Crime Outcomes.",
-            "release_date": "2025-11-29T09:30:00Z",
-            "display_date": "29 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T14:27:05Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "annual-crime-statistics-trends-report-202425",
-            "title": "Annual Crime Statistics Trends Report 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
-            "release_date": "2025-11-29T09:30:00Z",
-            "display_date": "29 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T14:24:40Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
