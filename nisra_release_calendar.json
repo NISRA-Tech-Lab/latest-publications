@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-28T16:50:41Z",
+    "modified": "2025-10-29T06:00:48Z",
     "entries": [
         {
             "id": "northern-ireland-business-register-and-employment-survey-2023",
@@ -1813,6 +1813,16 @@
             "status": "confirmed"
         },
         {
+            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-2",
+            "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 2",
+            "summary": "Date: confirmed. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "release_date": "2025-12-19T09:30:00Z",
+            "display_date": "19 December 2025 9:30am (confirmed)",
+            "updated": "2025-10-28T17:29:15Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-december-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 12 December 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 December 2025.",
@@ -1821,16 +1831,6 @@
             "updated": "2025-09-01T15:07:18Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-2",
-            "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 2",
-            "summary": "Date: provisional. Document type: Official statistics. This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2025-12-19T09:30:00Z",
-            "display_date": "19 December 2025 9:30am (provisional)",
-            "updated": "2025-06-03T11:02:12Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-2-january-2026",
