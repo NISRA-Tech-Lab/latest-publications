@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-30T12:44:51Z",
+    "modified": "2025-10-30T16:49:52Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-2-202526",
@@ -1403,6 +1403,16 @@
             "status": "confirmed"
         },
         {
+            "id": "travel-survey-for-northern-ireland-report-2022-and-2023-data",
+            "title": "Travel Survey for Northern Ireland Report 2022 and 2023 data",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Release of 2022 and 2023 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-30T15:37:28Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2025",
             "title": "Motoring offences statistics in Northern Ireland to 30 September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1590,6 +1600,16 @@
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-october-2025",
+            "title": "Monthly Occupancy Statistics, October 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2025-12-04T09:30:00Z",
+            "display_date": "4 December 2025 9:30am (confirmed)",
+            "updated": "2025-10-30T15:41:50Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
