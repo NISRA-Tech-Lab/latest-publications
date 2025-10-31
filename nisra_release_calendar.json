@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-10-31T08:45:28Z",
+    "modified": "2025-10-31T12:44:24Z",
     "entries": [
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2025",
+            "summary": "Document type: Official Statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-10-31T09:30:00Z",
+            "display_date": "31 October 2025",
+            "updated": "2025-10-31T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-24-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 24 October 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 24 October 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-10-31T09:30:00Z",
+            "display_date": "31 October 2025",
+            "updated": "2025-10-31T09:30:00Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-2-202526",
             "title": "General Dental Services Statistics for NI, Quarter 2 2025/26",
@@ -983,56 +1003,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "northern-ireland-universal-credit-statistics-may-2025",
-            "title": "Northern Ireland Universal Credit Statistics: May 2025",
-            "summary": "Document type: Official Statistics. Provides official statistics undergoing development on households and individuals on Universal Credit in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025",
-            "updated": "2025-08-27T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
-            "summary": "Document type: Official Statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q1-2025-26.html",
-            "release_date": "2025-08-27T09:30:00Z",
-            "display_date": "27 August 2025",
-            "updated": "2025-08-27T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-10-31T09:30:00Z",
-            "display_date": "31 October 2025 9:30am (confirmed)",
-            "updated": "2025-09-30T14:49:15Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-24-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 24 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 24 October 2025.",
-            "release_date": "2025-10-31T09:30:00Z",
-            "display_date": "31 October 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:47:52Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
-            "release_date": "2025-11-04T09:30:00Z",
-            "display_date": "4 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-24T13:53:51Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "employment-vacancies-notified-to-dfc-quarter-two-202526-financial-year",
             "title": "Employment Vacancies Notified to DfC Quarter Two 2025/26 Financial Year",
             "summary": "Date: confirmed. Document type: Official statistics. Quarterly data showing listings of employment vacancies notified to Department for Communities",
@@ -1079,6 +1049,16 @@
             "release_date": "2025-11-07T09:30:00Z",
             "display_date": "7 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T14:49:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025 9:30am (confirmed)",
+            "updated": "2025-10-31T09:09:29Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1639,6 +1619,16 @@
             "release_date": "2025-12-09T09:30:00Z",
             "display_date": "9 December 2025 9:30am (confirmed)",
             "updated": "2025-10-06T11:36:57Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-homelessness-bulletin-april-september-2025",
+            "title": "Northern Ireland Homelessness Bulletin April - September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-10-31T09:34:56Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
