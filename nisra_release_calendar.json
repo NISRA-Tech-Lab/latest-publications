@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-03T09:46:32Z",
+    "modified": "2025-11-03T13:31:44Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
@@ -2553,6 +2553,16 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-universal-credit-statistics-august-2026",
+            "title": "Universal Credit Statistics - August 2026",
+            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2026-11-25T09:30:00Z",
+            "display_date": "25 November 2026 9:30am (confirmed)",
+            "updated": "2025-11-03T10:27:50Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "personal-independence-payment-statistics-august-2026",
             "title": "Personal Independence Payment Statistics - August 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -2560,16 +2570,6 @@
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-03T09:46:07Z",
             "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-august-2026",
-            "title": "Northern Ireland Universal Credit Statistics: August 2026",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2025-11-03T08:45:36Z",
-            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
