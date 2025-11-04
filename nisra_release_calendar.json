@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-04T13:34:33Z",
+    "modified": "2025-11-04T17:42:44Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
@@ -1590,6 +1590,16 @@
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2025",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "release_date": "2025-12-04T09:30:00Z",
+            "display_date": "4 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-04T15:34:01Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
