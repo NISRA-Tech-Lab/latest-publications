@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-04T09:42:36Z",
+    "modified": "2025-11-04T13:34:33Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2025",
@@ -1013,6 +1013,16 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025--2",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2025)",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-04T11:32:04Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-tourism-statistics-quarter-2-2025",
             "title": "Northern Ireland Tourism Statistics, Quarter 2 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2025.",
@@ -1580,6 +1590,16 @@
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "this-report-presents-findings-from-the-20242025-continuous-household-survey-in-relation-to-attitudes-towards-electric-vehicles",
+            "title": "Attitudes towards electric vehicles in Northern Ireland 2024/2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This report presents findings from the 2024/2025 Continuous Household Survey in relation to attitudes towards electric vehicles.",
+            "release_date": "2025-12-04T09:30:00Z",
+            "display_date": "4 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-04T12:29:22Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
