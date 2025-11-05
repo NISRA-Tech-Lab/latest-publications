@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-05T13:32:51Z",
+    "modified": "2025-11-05T17:42:10Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-two-202526-financial-year",
@@ -1591,6 +1591,16 @@
             "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-abortion-statistics-202425",
+            "title": "Northern Ireland Abortion Statistics 2024/25",
+            "summary": "Date: provisional. Document type: Official statistics. Presents information on the number of medical and surgical abortions at health and social care (HSC) trusts in Northern Ireland during 2020/21 to 2024/25. It details information by HSC trust, age, weeks gestation and grounds…",
+            "release_date": "2025-12-02T09:30:00Z",
+            "display_date": "2 December 2025 9:30am (provisional)",
+            "updated": "2025-11-05T14:26:33Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
         },
         {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2025",
