@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-05T17:42:10Z",
+    "modified": "2025-11-06T07:16:59Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-two-202526-financial-year",
@@ -1500,6 +1500,16 @@
             "display_date": "27 November 2025 9:30am (provisional)",
             "updated": "2025-02-04T11:07:49Z",
             "release_type": "Accredited official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
+            "summary": "Date: provisional. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (provisional)",
+            "updated": "2025-11-06T01:29:40Z",
+            "release_type": "Official statistics",
             "status": "provisional"
         },
         {
