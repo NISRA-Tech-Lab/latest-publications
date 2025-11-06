@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-06T13:32:27Z",
+    "modified": "2025-11-06T17:44:12Z",
     "entries": [
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
@@ -1571,6 +1571,16 @@
             "updated": "2025-11-05T14:26:33Z",
             "release_type": "Official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "further-education-sector-activity-in-northern-ireland-202021-to-202425",
+            "title": "Further Education Sector Activity in Northern Ireland: 2020/21 to 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2020/21 to 2024/25. The sta…",
+            "release_date": "2025-12-04T09:30:00Z",
+            "display_date": "4 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-06T15:06:25Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
         },
         {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2025",
