@@ -1,7 +1,47 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-06T07:16:59Z",
+    "modified": "2025-11-06T09:40:29Z",
     "entries": [
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q2-25-26.html",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025",
+            "updated": "2025-11-06T09:30:06Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "employer-skills-survey-2024-northern-ireland-results",
+            "title": "Employer Skills Survey 2024: Northern Ireland results",
+            "summary": "Document type: Official Statistics. The employer skills survey 2024 focuses on recruitment and skills-shortage vacancies, skills gaps and training and workforce development.",
+            "url": "https://www.economy-ni.gov.uk/publications/employer-skills-survey-2024",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025",
+            "updated": "2025-11-06T09:30:04Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025--2",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2025)",
+            "summary": "Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025",
+            "updated": "2025-11-06T09:30:03Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "northern-ireland-tourism-statistics-quarter-2-2025",
+            "title": "Northern Ireland Tourism Statistics, Quarter 2 2025",
+            "summary": "Document type: Official Statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 2 2025.",
+            "url": "https://www.nisra.gov.uk/publications/quarterly-tourism-statistics-publications",
+            "release_date": "2025-11-06T09:30:00Z",
+            "display_date": "6 November 2025",
+            "updated": "2025-11-06T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-two-202526-financial-year",
             "title": "Employment Vacancies Notified to DfC Quarter Two 2025/26 Financial Year",
@@ -961,86 +1001,6 @@
             "display_date": "28 August 2025",
             "updated": "2025-08-28T09:30:09Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-june-2025",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Official Statistics. Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025",
-            "updated": "2025-08-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-june-2025",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 June 2025",
-            "summary": "Document type: Official Statistics. Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025",
-            "updated": "2025-08-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-july-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 July 2025",
-            "summary": "Document type: Official Statistics. Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025",
-            "updated": "2025-08-28T09:30:05Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-july-2025",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 July 2025",
-            "summary": "Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025",
-            "updated": "2025-08-28T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "employer-skills-survey-2024-northern-ireland-results",
-            "title": "Employer Skills Survey 2024: Northern Ireland results",
-            "summary": "Date: confirmed. Document type: Official statistics. The employer skills survey 2024 focuses on recruitment and skills-shortage vacancies, skills gaps and training and workforce development.",
-            "release_date": "2025-11-06T09:30:00Z",
-            "display_date": "6 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-05T12:36:06Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2025/26.",
-            "release_date": "2025-11-06T09:30:00Z",
-            "display_date": "6 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-05T11:38:33Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025--2",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2025)",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2025-11-06T09:30:00Z",
-            "display_date": "6 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-04T11:32:04Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-2-2025",
-            "title": "Northern Ireland Tourism Statistics, Quarter 2 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2025.",
-            "release_date": "2025-11-06T09:30:00Z",
-            "display_date": "6 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-25T12:04:31Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2025",
