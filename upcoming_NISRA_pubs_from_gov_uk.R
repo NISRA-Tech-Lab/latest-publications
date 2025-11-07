@@ -107,6 +107,94 @@ while (has_pubs == TRUE) {
       }
     }
     
+    type_lookup <- c(
+      "Research" = "R",
+      "Official Statistics" = "OS",
+      "Official statistics" = "OS",
+      "Accredited official statistics" = "AOS"
+    )
+    
+    release_type <- if (release_type %in% names(type_lookup)) unname(type_lookup[release_type]) else release_type
+    
+    a_tags <- html_nodes(gov_uk_page, "a")
+    
+    organisations <- c()
+    
+    # Lookup table: full names as names, codes as values
+    org_lookup <- c(
+      "Department for Communities" = "DfC",
+      "Department for Infrastructure" = "DfI",
+      "Department for the Economy" = "DfE",
+      "Environment and Rural Affairs" = "DAERA",
+      "Department of Education" = "DE",
+      "Department of Finance" = "DoF",
+      "Department of Health" = "DoH",
+      "Department of Justice" = "DoJ",
+      "HSC Business Services Organisation" = "BSO",
+      "Invest Northern Ireland" = "INI",
+      "Legal Services Agency" = "LSA",
+      "Northern Ireland Policing Board" = "NIPB",
+      "Northern Ireland Courts and Tribunals Service" = "NICTS",
+      "Northern Ireland Executive" = "NIE",
+      "Northern Ireland Prison Service" = "NIPS",
+      "Northern Ireland Statistics and Research Agency" = "NISRA",
+      "Office of the Police Ombudsman for Northern Ireland" = "OPONI",
+      "Police Service of Northern Ireland" = "PSNI",
+      "Probation Board for Northern Ireland" = "PBNI",
+      "Public Prosecution Service for Northern Ireland" = "PPS",
+      "The Executive Office" = "TEO",
+      "Youth Justice Agency of Northern Ireland" = "YJA"
+    )
+    
+    for (l in 1:length(a_tags)) {
+      
+      # Get the class attribute of the <a> tag
+      class <- html_attr(a_tags[l], "class")
+      
+      href <- html_attr(a_tags[l], "href")
+      
+      if (grepl("govuk-link", class) & !is.na(class) & grepl("organisations/", href) & !grepl("Northern Ireland Statistics and Research Agency", html_text(a_tags[l]))) {
+        org_name <- html_text(a_tags[l]) %>%
+          gsub("\\(Northern Ireland\\)", "", .) %>% 
+          trimws()
+        
+        organisations <- c(organisations, org_name)
+        
+        organisation <- paste(organisations, collapse = ", ") 
+        
+        
+        if (grepl(",", organisation)) {
+          parts <- strsplit(organisation, ",\\s*")[[1]]  # Split on comma and optional space
+          
+          
+          # Identify parts
+          non_dept <- parts[!grepl("department", parts, ignore.case = TRUE)]
+          dept <- parts[grepl("department", parts, ignore.case = TRUE)]
+          
+          
+          # Choose based on presence in org_lookup
+          if (length(non_dept) > 0 && any(non_dept %in% names(org_lookup))) {
+            organisation <- non_dept[non_dept %in% names(org_lookup)][1]  # pick first match
+          } else if (length(dept) > 0) {
+            organisation <- dept[1]  # fallback to department part
+          } else {
+            organisation <- parts[1]  # fallback to first part if nothing matches
+          }
+        }
+        
+        # Replace full name with code if it exists in the lookup
+        if (length(organisation) == 0) {
+          organisation <- "NISRA"
+        }
+        if (length(organisation) > 1) {
+          organisation <- if (organisation[1] %in% names(org_lookup)) unname(org_lookup[organisation[1]]) else organisation[1]
+        } else {
+          organisation <- if (organisation %in% names(org_lookup)) unname(org_lookup[organisation]) else organisation
+        }
+        
+      }
+    }
+    
     # Append the extracted title and metadata to the pub_info data frame
     if (length(meta_data > 0)) {
       pub_info <- pub_info %>%
@@ -115,6 +203,7 @@ while (has_pubs == TRUE) {
                              meta_data = trimws(meta_data),
                              updated = updated,
                              summary = trimws(html_text(html_nodes(publications[j], "summary"))),
+                             organisation = organisation,
                              release_type = release_type,
                              stringsAsFactors = FALSE)) # Avoid factors in data frame
     }
@@ -136,7 +225,7 @@ pub_info <- pub_info %>%
       grepl(year(today()) + 2, meta_data) ~ year(today()) + 2   # Two years ahead if it matches
     ),
     release_month_numeric = match(release_month, month.name)) %>% # Convert month name to numeric
-  filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
+  # filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
   mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
     status = case_when(
@@ -153,11 +242,12 @@ for (i in 1:nrow(pub_info)) {
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = paste0("Date: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
+         summary = HTMLdecode(pub_info$summary[i]),
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
          updated = pub_info$updated[i],
-         release_type = pub_info$release_type[i],
+         org = pub_info$organisation[i],
+         type = pub_info$release_type[i],
          status = pub_info$status[i])
   
 }
