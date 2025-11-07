@@ -156,7 +156,7 @@ pub_info <- pub_info %>%
     ),
     release_month_numeric = match(release_month, month.name),
     release_time = str_extract(meta_data, "\\S+(?=\\s+\\S+$)")) %>% # Convert month name to numeric
-  filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
+  
   mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
     status = case_when(
@@ -177,12 +177,12 @@ for (i in 1:nrow(pub_info)) {
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = paste0("Date: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
+         summary = HTMLdecode(pub_info$summary[i]),
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
          updated = pub_info$updated[i],
-         release_type = release_types[[pub_info$release_type[i]]],
          org = org,
+         type = release_types[[pub_info$release_type[i]]],
          status = pub_info$status[i])
   
 }

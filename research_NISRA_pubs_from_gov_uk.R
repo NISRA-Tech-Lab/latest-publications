@@ -130,13 +130,13 @@ while (has_pubs == TRUE) {
     output_list$entries[[length(output_list$entries) + 1]] <- 
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = paste("Document type: Research.", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
+           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
            url = pub_link,
            release_date = release_date,
            display_date = display_date,
+           org = org,
            updated = updated,
-           release_type = "R",
-           org = org)
+           type = "R")
     
   }
 }

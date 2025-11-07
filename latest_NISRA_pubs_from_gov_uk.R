@@ -141,13 +141,13 @@ for (i in 1:5) {
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = paste0("Document type: ", release_type, ". ", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
+           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
            url = pub_link,
            release_date = release_date,
            display_date = display_date,
+           org = org,
            updated = updated,
-           release_type = release_types[[release_type]],
-           org = org)
+           type = release_types[[release_type]])
     
   }
 }
