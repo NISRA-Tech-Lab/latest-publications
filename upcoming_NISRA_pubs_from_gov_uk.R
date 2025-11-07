@@ -79,6 +79,25 @@ while (has_pubs == TRUE) {
     # Read the content of the government publication page
     gov_uk_page <- read_html(gov_uk_link)
     
+    # Loop through dd tags to find specific metadata
+    dd_tags <- html_nodes(gov_uk_page, "dd")
+    
+    org <- c()
+    
+    # Look for where a month name appears in dd tag and re-format date
+    for (k in 1:length(dd_tags)) {
+      a_tags <- html_nodes(dd_tags[k], "a")
+      for (l in seq_along(a_tags)) {
+        class <- html_attr(a_tags[l], "class")
+        if (class == "govuk-link") {
+          org_long <- html_text(a_tags[l])
+          org <- c(org, org_names[[org_long]])
+        }
+      }
+    }
+    
+    if (length(org) > 1) org <- setdiff(org, "NISRA")
+    
     # Extract relevant metadata from the publication page
     meta_data <- html_text(html_nodes(gov_uk_page, "dd"))[html_attr(html_nodes(gov_uk_page, "dd"), "class") == "gem-c-metadata__definition"]
     
@@ -135,7 +154,8 @@ pub_info <- pub_info %>%
       grepl(year(today()) + 1, meta_data) ~ year(today()) + 1,  # Next year if it matches
       grepl(year(today()) + 2, meta_data) ~ year(today()) + 2   # Two years ahead if it matches
     ),
-    release_month_numeric = match(release_month, month.name)) %>% # Convert month name to numeric
+    release_month_numeric = match(release_month, month.name),
+    release_time = str_extract(meta_data, "\\S+(?=\\s+\\S+$)")) %>% # Convert month name to numeric
   filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
   mutate(
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
@@ -143,12 +163,16 @@ pub_info <- pub_info %>%
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
       TRUE ~ status  # Otherwise keep original metadata
     ),
-    release_date = format(release_date, format = "%Y-%m-%dT09:30:00Z")
+    release_date = format(release_date, format = "%Y-%m-%d"),
+    release_date = case_when(release_time == "7:00am" ~ paste0(release_date, "T07:00:00Z"),
+                             TRUE ~ paste0(release_date, "T09:30:00Z"))
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
 # Loop through each row of the processed pub_info data frame
 for (i in 1:nrow(pub_info)) {
+  
+  if (!pub_info$release_type[i] %in% names(release_types)) print (pub_info$release_type[i])
   
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
@@ -157,7 +181,8 @@ for (i in 1:nrow(pub_info)) {
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
          updated = pub_info$updated[i],
-         release_type = pub_info$release_type[i],
+         release_type = release_types[[pub_info$release_type[i]]],
+         org = org,
          status = pub_info$status[i])
   
 }

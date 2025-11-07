@@ -153,7 +153,7 @@ while (has_pubs == TRUE) {
            release_date = release_date,
            display_date = display_date,
            updated = updated,
-           release_type = release_type)
+           release_type = release_types[[release_type]])
     
   }
 }
