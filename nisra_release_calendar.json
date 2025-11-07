@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-07T07:16:45Z",
+    "modified": "2025-11-07T09:38:34Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-31-october-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 31 October 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 31 October 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-11-07T09:30:00Z",
+            "display_date": "7 November 2025",
+            "updated": "2025-11-07T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 October 2025",
+            "summary": "Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.\r\n\r\n",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-11-07T09:30:00Z",
+            "display_date": "7 November 2025",
+            "updated": "2025-11-07T09:30:01Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
             "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2025/26",
@@ -983,46 +1003,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 August 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 22 August 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025",
-            "updated": "2025-08-29T09:30:08Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q1-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q1 2025/26",
-            "summary": "Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q1-25-26.html",
-            "release_date": "2025-08-28T09:30:00Z",
-            "display_date": "28 August 2025",
-            "updated": "2025-08-28T09:30:09Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-11-07T09:30:00Z",
-            "display_date": "7 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-30T14:59:57Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-31-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 31 October 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 31 October 2025.",
-            "release_date": "2025-11-07T09:30:00Z",
-            "display_date": "7 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:49:52Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
             "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
@@ -1103,6 +1083,16 @@
             "status": "confirmed"
         },
         {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-07T09:06:40Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
             "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
             "summary": "Date: confirmed. Document type: Official statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
@@ -1111,16 +1101,6 @@
             "updated": "2025-10-15T15:34:14Z",
             "release_type": "Official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
-            "summary": "Date: provisional. Document type: Official statistics. Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
-            "release_date": "2025-11-12T09:30:00Z",
-            "display_date": "12 November 2025 9:30am (provisional)",
-            "updated": "2025-09-16T14:13:33Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
