@@ -93,8 +93,18 @@ for (i in 1:5) {
     # Loop through dd tags to find specific metadata
     dd_tags <- html_nodes(gov_uk_page, "dd")
     
+    org <- c()
+    
     # Look for where a month name appears in dd tag and re-format date
     for (k in 1:length(dd_tags)) {
+      a_tags <- html_nodes(dd_tags[k], "a")
+      for (l in seq_along(a_tags)) {
+        class <- html_attr(a_tags[l], "class")
+        if (class == "govuk-link") {
+          org_long <- html_text(a_tags[l])
+          org <- c(org, org_names[[org_long]])
+        }
+      }
       if (grepl(paste(month.name, collapse = "|"), html_text(dd_tags[k]))) {
         display_date <- trimws(html_text(dd_tags[k]))
         release_date <- display_date %>% 
@@ -103,6 +113,8 @@ for (i in 1:5) {
         break
       }
     }
+    
+    if (length(org) > 1) org <- setdiff(org, "NISRA")
     
     # Loop through span tags to find specific metadata for release type
     span_tags <- html_nodes(gov_uk_page, "span")
@@ -129,12 +141,13 @@ for (i in 1:5) {
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = paste0("Document type: ", release_type, ". ", HTMLdecode(html_text(html_nodes(publications[j], "summary")))),
+           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
            url = pub_link,
            release_date = release_date,
            display_date = display_date,
+           org = org,
            updated = updated,
-           release_type = release_type)
+           type = release_types[[release_type]])
     
   }
 }
