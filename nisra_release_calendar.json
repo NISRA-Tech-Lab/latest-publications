@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-11T13:31:21Z",
+    "modified": "2025-11-11T17:44:00Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-october-2025",
@@ -1144,11 +1144,11 @@
         },
         {
             "id": "impact-of-time-taken-to-register-a-death-on-death-statistics-in-northern-ireland-2024",
-            "title": "Impact of Time Taken to Register a Death on Death Statistics in Northern Ireland: 2024",
+            "title": "Time Taken to Register Deaths In Northern Ireland, 2024",
             "summary": "Date: confirmed. Document type: Official statistics. Tables and report detailing impact of time taken to register a death on death statistics in Northern Ireland",
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-29T14:56:01Z",
+            "updated": "2025-11-11T15:03:56Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
@@ -1743,6 +1743,36 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-october-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 31 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:24:34Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-november-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 November 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:11:45Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-november-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 November 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:08:48Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "working-and-workless-households-in-northern-ireland-july-to-september-2025",
             "title": "Working and workless households in Northern Ireland: July to September 2025",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
@@ -1769,6 +1799,16 @@
             "release_date": "2025-12-18T09:30:00Z",
             "display_date": "18 December 2025 9:30am (confirmed)",
             "updated": "2024-10-04T16:04:33Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2025-12-19T09:30:00Z",
+            "display_date": "19 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:21:41Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
