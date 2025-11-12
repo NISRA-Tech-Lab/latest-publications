@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-12T07:16:58Z",
+    "modified": "2025-11-12T09:40:29Z",
     "entries": [
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
+            "summary": "Document type: Official Statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q2-2025-26.html",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025",
+            "updated": "2025-11-12T09:30:03Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425--2",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
+            "summary": "Document type: Official Statistics. Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
+            "url": "https://www.gov.uk/government/publications/statistics-on-smoking-cessation-services-in-northern-ireland-202425",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025",
+            "updated": "2025-11-12T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-october-2025",
             "title": "Monthly Stillbirths (Northern Ireland): October 2025",
@@ -983,46 +1003,6 @@
             "release_type": "Accredited official statistics"
         },
         {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-june-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending June 2025",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "updated": "2025-09-04T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2025",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2025)",
-            "summary": "Document type: Official Statistics. Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "updated": "2025-09-04T09:30:01Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
-            "release_date": "2025-11-12T09:30:00Z",
-            "display_date": "12 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-07T09:06:40Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
-            "summary": "Date: confirmed. Document type: Official statistics. This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
-            "release_date": "2025-11-12T09:30:00Z",
-            "display_date": "12 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-15T15:34:14Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
             "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
             "summary": "Date: confirmed. Document type: Official statistics. This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
@@ -1599,6 +1579,16 @@
             "release_date": "2025-12-10T09:30:00Z",
             "display_date": "10 December 2025 9:30am (confirmed)",
             "updated": "2025-11-11T13:02:00Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2025",
+            "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This statistical brief was commissioned by DfI Active Travel. The paper considers any changes in the attitudes of children towards road safety issues associated with cycling following the completion of the Cycling Proficienc…",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-12T08:43:48Z",
             "release_type": "Official statistics",
             "status": "confirmed"
         },
