@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-12T09:45:41Z",
+    "modified": "2025-11-12T13:33:24Z",
     "entries": [
         {
             "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-12T10:08:10Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
             "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
             "summary": "Date: confirmed. Document type: Official statistics. This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
@@ -1020,16 +1030,6 @@
             "display_date": "13 November 2025 9:30am (confirmed)",
             "updated": "2025-09-25T11:56:18Z",
             "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:53:27Z",
-            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
@@ -1193,6 +1193,16 @@
             "status": "confirmed"
         },
         {
+            "id": "good-jobs-in-northern-ireland-2025",
+            "title": "Good Jobs in Northern Ireland 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2025-11-25T09:30:00Z",
+            "display_date": "25 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-12T13:28:02Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
             "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
             "summary": "Date: confirmed. Document type: Official statistics. This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
@@ -1200,16 +1210,6 @@
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T15:04:30Z",
             "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "good-jobs-in-northern-ireland-2025",
-            "title": "Good Jobs in Northern Ireland 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-23T16:26:50Z",
-            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
