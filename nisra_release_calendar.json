@@ -1,7 +1,37 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-13T07:16:48Z",
+    "modified": "2025-11-13T09:42:14Z",
     "entries": [
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q2-25-26.html",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "updated": "2025-11-13T09:30:12Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
+            "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
+            "summary": "Document type: Official Statistics. This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "updated": "2025-11-13T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "monthly-occupancy-statistics-september-2025",
+            "title": "Monthly Occupancy Statistics, September 2025",
+            "summary": "Document type: Official Statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "updated": "2025-11-13T09:30:08Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
             "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
@@ -971,66 +1001,6 @@
             "display_date": "5 September 2025",
             "updated": "2025-09-05T09:30:02Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-29-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 29 August 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 29 August 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-09-05T09:30:00Z",
-            "display_date": "5 September 2025",
-            "updated": "2025-09-05T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-june-2025",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending June 2025",
-            "summary": "Document type: Official Statistics. Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "updated": "2025-09-04T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-june-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending June 2025",
-            "summary": "Document type: Accredited official statistics. Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "updated": "2025-09-04T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-12T10:08:10Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
-            "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
-            "summary": "Date: confirmed. Document type: Official statistics. This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-25T11:57:54Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics-september-2025",
-            "title": "Monthly Occupancy Statistics, September 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-25T11:56:18Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
@@ -2641,6 +2611,16 @@
             "updated": "2025-10-01T16:17:23Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-degree-study-choices-202425",
+            "title": "Northern Ireland Degree Study Choices 2024/25",
+            "summary": "Document type: Research. This factsheet outlines the factors influencing individuals’ decisions to pursue degree level study and the reasons some choose not to. It also explores attitudes towards tuition fees.",
+            "url": "https://www.economy-ni.gov.uk/publications/northern-ireland-degree-study-choices-202425",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "updated": "2025-11-13T09:30:13Z",
+            "release_type": "Research"
         },
         {
             "id": "profiling-suicide-drug-and-alcohol-deaths-in-northern-ireland",
