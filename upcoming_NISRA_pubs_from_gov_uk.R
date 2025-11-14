@@ -135,6 +135,7 @@ while (has_pubs == TRUE) {
                              updated = updated,
                              summary = trimws(html_text(html_nodes(publications[j], "summary"))),
                              release_type = release_type,
+                             org = org,
                              stringsAsFactors = FALSE)) # Avoid factors in data frame
     }
   }
@@ -181,7 +182,7 @@ for (i in 1:nrow(pub_info)) {
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
          updated = pub_info$updated[i],
-         org = org,
+         org = pub_info$org[i],
          type = release_types[[pub_info$release_type[i]]],
          status = pub_info$status[i])
   

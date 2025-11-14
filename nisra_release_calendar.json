@@ -1,7 +1,175 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-07T15:23:24Z",
+    "modified": "2025-11-14T13:09:32Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 7 November 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 7 November 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-11-14T09:30:00Z",
+            "display_date": "14 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-14T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-october-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: October 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-october-2025",
+            "release_date": "2025-11-14T09:30:00Z",
+            "display_date": "14 November 2025",
+            "org": "DfI",
+            "updated": "2025-11-14T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q2-25-26.html",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "org": [
+                "BSO",
+                "DoH"
+            ],
+            "updated": "2025-11-13T09:30:12Z",
+            "type": "AOS"
+        },
+        {
+            "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
+            "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
+            "summary": "This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "org": "DfI",
+            "updated": "2025-11-13T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "monthly-occupancy-statistics-september-2025",
+            "title": "Monthly Occupancy Statistics, September 2025",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-13T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q2-2025-26.html",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025",
+            "org": "PBNI",
+            "updated": "2025-11-12T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425--2",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
+            "summary": "Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
+            "url": "https://www.health-ni.gov.uk/publications/statistics-smoking-cessation-services-northern-ireland-202425",
+            "release_date": "2025-11-12T09:30:00Z",
+            "display_date": "12 November 2025",
+            "org": "DoH",
+            "updated": "2025-11-12T00:00:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-october-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): October 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): October 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-october-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): October 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): October 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/sickness-absence-statistics",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-october-2025",
+            "title": "Monthly Marriages (Northern Ireland): October 2025",
+            "summary": "Monthly Marriages (Northern Ireland): October 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-october-2025",
+            "title": "Monthly Deaths (Northern Ireland): October 2025",
+            "summary": "Monthly Deaths (Northern Ireland): October 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-births-northern-ireland-october-2025",
+            "title": "Monthly Births (Northern Ireland): October 2025",
+            "summary": "Monthly Births (Northern Ireland): October 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "continuous-household-survey-heat-and-insulation-results-202425",
+            "title": "Continuous Household Survey Heat and Insulation Results 2024/25",
+            "summary": "This report presents the results of the household heating and insulation questions from the 2024/25 Northern Ireland Continuous Household Survey.",
+            "url": "https://www.economy-ni.gov.uk/articles/continuous-household-survey-heat-and-insulation-results",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "DfE",
+            "updated": "2025-11-11T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "ni-labour-market-statistics-november-2025",
+            "title": "NI Labour Market statistics: November 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-11-11T09:30:00Z",
+            "display_date": "11 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-11T07:00:02Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-31-october-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 31 October 2025",
@@ -947,346 +1115,13 @@
             "type": "OS"
         },
         {
-            "id": "northern-ireland-child-maintenance-service-data-to-june-2025",
-            "title": "Northern Ireland Child Maintenance Service: Data to June 2025",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2025.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-june-2025",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025",
-            "org": "DfC",
-            "updated": "2025-09-10T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 August 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-09-05T09:30:00Z",
-            "display_date": "5 September 2025",
-            "org": "PSNI",
-            "updated": "2025-09-05T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-29-august-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 29 August 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 29 August 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-09-05T09:30:00Z",
-            "display_date": "5 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-05T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-june-2025",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending June 2025",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-outpatient-waiting-times-quarter-ending-june-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Outpatient Waiting Times Quarter Ending June 2025",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-04T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-waiting-times-statistics-inpatient-waiting-times-quarter-ending-june-2025",
-            "title": "Northern Ireland Waiting Times Statistics: Inpatient Waiting Times Quarter Ending June 2025",
-            "summary": "Presents information on waiting times at the end of each quarter for admission for inpatient treatment.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-04T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2025",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2025)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-04T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-june-2025",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending June 2025",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "DfE",
-            "updated": "2025-09-04T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-30-june-2025",
-            "title": "Motoring offences statistics in Northern Ireland to 30 June 2025",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "PSNI",
-            "updated": "2025-09-04T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-occupancy-statistics-july-2025",
-            "title": "Monthly Occupancy Statistics, July 2025",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-04T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2025",
-            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2025",
-            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/pay-statistics",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-04T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-june-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "url": "https://www.gov.uk/government/statistics/ni-topiramate-monitoring-report-april-2023-to-june-2025",
-            "release_date": "2025-09-04T09:30:00Z",
-            "display_date": "4 September 2025",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
-            "updated": "2025-09-04T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "public-awareness-of-and-trust-in-official-statistics-2024",
-            "title": "Public Awareness of and Trust in Official Statistics 2024",
-            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2024.",
-            "url": "https://www.nisra.gov.uk/statistics/people-and-communities/public-awareness-and-trust-confidence-official-statistics-pcos",
-            "release_date": "2025-09-03T09:30:00Z",
-            "display_date": "3 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-03T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2025",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025",
-            "org": "PSNI",
-            "updated": "2025-08-29T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-april-2025",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to April 2025.",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
-            "release_date": "2025-08-29T09:30:00Z",
-            "display_date": "29 August 2025",
-            "org": "DfE",
-            "updated": "2025-08-29T09:30:08Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-november-2025",
-            "title": "NI Labour Market statistics: November 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:50:19Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-31T09:09:29Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "continuous-household-survey-heat-and-insulation-results-202425",
-            "title": "Continuous Household Survey Heat and Insulation Results 2024/25",
-            "summary": "This report presents the results of the household heating and insulation questions from the 2024/25 Northern Ireland Continuous Household Survey with comparison to the 2015/16 data, where applicable.  Data were also collated…",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-11T15:50:57Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-october-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): October 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): October 2025",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T13:22:09Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-october-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): October 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): October 2025",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T13:20:32Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-october-2025",
-            "title": "Monthly Marriages (Northern Ireland): October 2025",
-            "summary": "Monthly Marriages (Northern Ireland): October 2025",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T13:11:34Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-october-2025",
-            "title": "Monthly Deaths (Northern Ireland): October 2025",
-            "summary": "Monthly Deaths (Northern Ireland): October 2025",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T13:10:12Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-october-2025",
-            "title": "Monthly Births (Northern Ireland): October 2025",
-            "summary": "Monthly Births (Northern Ireland): October 2025",
-            "release_date": "2025-11-11T09:30:00Z",
-            "display_date": "11 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T13:08:47Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
-            "summary": "Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
-            "release_date": "2025-11-12T09:30:00Z",
-            "display_date": "12 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-07T09:06:40Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
-            "release_date": "2025-11-12T09:30:00Z",
-            "display_date": "12 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-15T15:34:14Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
-            "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
-            "summary": "This statistical brief reviews PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding collisions involving older car drivers on Northern Ireland's roads.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-25T11:57:54Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics-september-2025",
-            "title": "Monthly Occupancy Statistics, September 2025",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-25T11:56:18Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 25/26.",
-            "release_date": "2025-11-13T09:30:00Z",
-            "display_date": "13 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:53:27Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 7 November 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 7 November 2025.",
-            "release_date": "2025-11-14T09:30:00Z",
-            "display_date": "14 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:55:05Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-may-2025--2",
-            "title": "DVA Monthly Tests Conducted Statistics: October 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-11-14T09:30:00Z",
-            "display_date": "14 November 2025 9:30am (confirmed)",
-            "updated": "2025-06-20T09:46:46Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
             "title": "Experience of sport by adults in Northern Ireland 2024/25",
             "summary": "An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
             "release_date": "2025-11-18T09:30:00Z",
             "display_date": "18 November 2025 9:30am (confirmed)",
             "updated": "2025-10-20T17:02:45Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1297,7 +1132,7 @@
             "release_date": "2025-11-18T09:30:00Z",
             "display_date": "18 November 2025 9:30am (confirmed)",
             "updated": "2025-10-20T16:52:35Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1308,7 +1143,7 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T14:36:27Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1319,7 +1154,7 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (provisional)",
             "updated": "2025-05-02T09:51:20Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -1330,7 +1165,7 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (provisional)",
             "updated": "2025-05-02T09:47:28Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -1341,7 +1176,7 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
             "updated": "2025-01-06T09:03:33Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1352,17 +1187,17 @@
             "release_date": "2025-11-19T09:30:00Z",
             "display_date": "19 November 2025 9:30am (confirmed)",
             "updated": "2025-01-06T08:49:11Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
         },
         {
             "id": "impact-of-time-taken-to-register-a-death-on-death-statistics-in-northern-ireland-2024",
-            "title": "Impact of Time Taken to Register a Death on Death Statistics in Northern Ireland: 2024",
+            "title": "Time Taken to Register Deaths In Northern Ireland, 2024",
             "summary": "Tables and report detailing impact of time taken to register a death on death statistics in Northern Ireland",
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-29T14:56:01Z",
+            "updated": "2025-11-11T15:03:56Z",
             "org": "NISRA",
             "type": "OS",
             "status": "confirmed"
@@ -1385,7 +1220,7 @@
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025 9:30am (confirmed)",
             "updated": "2025-10-16T09:48:35Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1407,7 +1242,18 @@
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:56:06Z",
-            "org": "NISRA",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-september-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T13:56:06Z",
+            "org": "BSO",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1418,7 +1264,18 @@
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:55:05Z",
-            "org": "NISRA",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
+            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "release_date": "2025-11-20T09:30:00Z",
+            "display_date": "20 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T13:55:05Z",
+            "org": "BSO",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1434,25 +1291,25 @@
             "status": "confirmed"
         },
         {
+            "id": "good-jobs-in-northern-ireland-2025",
+            "title": "Good Jobs in Northern Ireland 2025",
+            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2025-11-25T09:30:00Z",
+            "display_date": "25 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-12T13:28:02Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
             "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
             "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T15:04:30Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "good-jobs-in-northern-ireland-2025",
-            "title": "Good Jobs in Northern Ireland 2025",
-            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-23T16:26:50Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1462,7 +1319,7 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (provisional)",
             "updated": "2025-09-16T10:34:38Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -1473,8 +1330,19 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025 9:30am (confirmed)",
             "updated": "2025-09-04T10:14:24Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "historical-weekly-deaths-data-2011-to-2024",
+            "title": "Historical Weekly Deaths Data, 2011 to 2024",
+            "summary": "A summary table of the number of deaths by week of registration and age, including data on deaths linked with a respiratory illness",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-14T12:22:55Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1484,7 +1352,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-30T15:37:28Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1495,7 +1363,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T14:45:07Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1506,7 +1374,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T12:29:03Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1517,7 +1385,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T12:20:25Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1528,7 +1396,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T12:18:16Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1539,7 +1407,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T12:16:04Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1550,7 +1418,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-23T16:35:57Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1561,7 +1429,7 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-10-14T08:14:40Z",
-            "org": "NISRA",
+            "org": "PPS",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1583,7 +1451,18 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-09-09T13:57:20Z",
-            "org": "NISRA",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-09T13:57:20Z",
+            "org": "BSO",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1594,9 +1473,20 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (provisional)",
             "updated": "2025-02-04T11:07:49Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-research-development-2024-results",
+            "title": "Northern Ireland Research & Development 2024 Results",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T07:36:25Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
@@ -1605,7 +1495,7 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (provisional)",
             "updated": "2025-11-06T01:29:40Z",
-            "org": "NISRA",
+            "org": "DfE",
             "type": "OS",
             "status": "provisional"
         },
@@ -1616,7 +1506,7 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T14:17:32Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1627,7 +1517,7 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T14:16:39Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1638,7 +1528,7 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T14:15:39Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1649,20 +1539,9 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-10-29T14:15:05Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-research-development-2024-results",
-            "title": "Northern Ireland Research & Development 2024 Results",
-            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (provisional)",
-            "updated": "2025-10-29T10:01:38Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-september-2025",
@@ -1671,7 +1550,7 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-10-28T14:41:01Z",
-            "org": "NISRA",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1682,7 +1561,18 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-09-15T11:51:05Z",
-            "org": "NISRA",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
+            "title": "Mortgages: Actions for possession bulletin July to September 2025",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-09-15T11:51:05Z",
+            "org": "DoJ",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1704,7 +1594,18 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-03-11T14:39:41Z",
-            "org": "NISRA",
+            "org": "DoJ",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-03-11T14:39:41Z",
+            "org": "NICTS",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1715,9 +1616,20 @@
             "release_date": "2025-12-02T09:30:00Z",
             "display_date": "2 December 2025 9:30am (provisional)",
             "updated": "2025-11-05T14:26:33Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "annual-enrolments-at-grant-aided-schools-in-northern-ireland-2025-26-basic-provisional-statistics",
+            "title": "Annual enrolments at grant-aided schools in Northern Ireland, 2025-26: Basic provisional statistics",
+            "summary": "The data in the following bulletin are taken from the school enrolments census, which was conducted in October 2024.",
+            "release_date": "2025-12-04T09:30:00Z",
+            "display_date": "4 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T11:12:26Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "further-education-sector-activity-in-northern-ireland-202021-to-202425",
@@ -1726,7 +1638,7 @@
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-06T15:06:25Z",
-            "org": "NISRA",
+            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1737,7 +1649,7 @@
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-04T15:34:01Z",
-            "org": "NISRA",
+            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1748,7 +1660,7 @@
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-04T12:29:22Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1764,13 +1676,24 @@
             "status": "confirmed"
         },
         {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2025-12-05T09:30:00Z",
+            "display_date": "5 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T10:39:00Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
             "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
             "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
             "release_date": "2025-12-05T09:30:00Z",
             "display_date": "5 December 2025 9:30am (confirmed)",
             "updated": "2025-11-07T14:48:48Z",
-            "org": "NISRA",
+            "org": "DoJ",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1781,7 +1704,7 @@
             "release_date": "2025-12-05T09:30:00Z",
             "display_date": "5 December 2025 9:30am (provisional)",
             "updated": "2025-11-07T14:00:58Z",
-            "org": "NISRA",
+            "org": "TEO",
             "type": "OS",
             "status": "provisional"
         },
@@ -1803,7 +1726,7 @@
             "release_date": "2025-12-09T09:30:00Z",
             "display_date": "9 December 2025 9:30am (provisional)",
             "updated": "2025-10-30T09:40:23Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -1814,7 +1737,62 @@
             "release_date": "2025-12-09T09:30:00Z",
             "display_date": "9 December 2025 9:30am (confirmed)",
             "updated": "2025-10-06T11:36:57Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "knowledge-and-use-of-ulster-scots-in-northern-ireland-202425",
+            "title": "Knowledge and use of Ulster-Scots in Northern Ireland 2024/25",
+            "summary": "A biennial publication containing survey results on knowledge and use of Ulster-Scots by adults in Northern Ireland.",
+            "release_date": "2025-12-10T09:30:00Z",
+            "display_date": "10 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T13:10:12Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "knowledge-and-use-of-irish-in-northern-ireland-202425",
+            "title": "Knowledge and use of Irish in Northern Ireland 2024/25",
+            "summary": "A biennial publication containing survey results on knowledge and use of Irish by adults in Northern Ireland.",
+            "release_date": "2025-12-10T09:30:00Z",
+            "display_date": "10 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T13:02:00Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
+            "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-13T15:28:31Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "homeless-deaths-in-northern-ireland-2024",
+            "title": "Homeless Deaths in Northern Ireland, 2024",
+            "summary": "Tables detailing the number of homeless deaths in Northern Ireland in 2024",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-13T13:30:57Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2025",
+            "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
+            "summary": "This statistical brief was commissioned by DfI Active Travel. The paper considers any changes in the attitudes of children towards road safety issues associated with cycling following the completion of the Cycling Proficienc…",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-12T08:43:48Z",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1825,7 +1803,7 @@
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (confirmed)",
             "updated": "2025-10-31T09:34:56Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1836,7 +1814,7 @@
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
             "updated": "2025-09-16T11:39:15Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -1847,7 +1825,7 @@
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
             "updated": "2025-08-28T10:05:35Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -1913,9 +1891,20 @@
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
             "updated": "2025-01-30T15:04:21Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
+            "release_date": "2025-12-12T09:30:00Z",
+            "display_date": "12 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T10:42:20Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-december-2025",
@@ -1935,7 +1924,7 @@
             "release_date": "2025-12-12T09:30:00Z",
             "display_date": "12 December 2025 9:30am (provisional)",
             "updated": "2025-06-03T10:37:54Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "provisional"
         },
@@ -1946,7 +1935,7 @@
             "release_date": "2025-12-16T07:00:00Z",
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-10-03T10:09:47Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1958,6 +1947,39 @@
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:26Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-october-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 31 October 2025",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:24:34Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-november-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 November 2025",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:11:45Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-november-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 November 2025",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:08:48Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1995,13 +2017,24 @@
             "status": "confirmed"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2025",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2025-12-19T09:30:00Z",
+            "display_date": "19 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-11T14:21:41Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-2",
             "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 2",
             "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
             "release_date": "2025-12-19T09:30:00Z",
             "display_date": "19 December 2025 9:30am (confirmed)",
             "updated": "2025-10-28T17:29:15Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2122,7 +2155,7 @@
             "release_date": "2026-01-16T09:30:00Z",
             "display_date": "16 January 2026 9:30am (provisional)",
             "updated": "2025-06-03T10:43:13Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "provisional"
         },
@@ -2144,7 +2177,7 @@
             "release_date": "2026-01-29T09:30:00Z",
             "display_date": "29 January 2026 9:30am (provisional)",
             "updated": "2025-08-27T12:47:24Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -2155,7 +2188,7 @@
             "release_date": "2026-01-29T09:30:00Z",
             "display_date": "29 January 2026 9:30am (provisional)",
             "updated": "2025-02-04T10:59:34Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2177,7 +2210,7 @@
             "release_date": "2026-02-05T09:30:00Z",
             "display_date": "5 February 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:16:07Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2254,7 +2287,7 @@
             "release_date": "2026-02-13T09:30:00Z",
             "display_date": "13 February 2026 9:30am (provisional)",
             "updated": "2025-10-01T15:19:34Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "provisional"
         },
@@ -2276,7 +2309,7 @@
             "release_date": "2026-02-18T09:30:00Z",
             "display_date": "18 February 2026 9:30am (provisional)",
             "updated": "2025-05-02T09:58:40Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -2287,7 +2320,7 @@
             "release_date": "2026-02-18T09:30:00Z",
             "display_date": "18 February 2026 9:30am (provisional)",
             "updated": "2025-05-02T09:53:58Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -2309,7 +2342,7 @@
             "release_date": "2026-02-25T09:30:00Z",
             "display_date": "25 February 2026 9:30am (confirmed)",
             "updated": "2025-02-12T13:50:31Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2320,7 +2353,18 @@
             "release_date": "2026-02-27T09:30:00Z",
             "display_date": "27 February 2026 9:30am (confirmed)",
             "updated": "2025-09-15T11:50:36Z",
-            "org": "NISRA",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
+            "title": "Mortgages: Actions for possession bulletin October to December 2025",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
+            "release_date": "2026-02-27T09:30:00Z",
+            "display_date": "27 February 2026 9:30am (confirmed)",
+            "updated": "2025-09-15T11:50:36Z",
+            "org": "DoJ",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2342,7 +2386,18 @@
             "release_date": "2026-02-27T09:30:00Z",
             "display_date": "27 February 2026 9:30am (confirmed)",
             "updated": "2025-03-11T14:43:44Z",
-            "org": "NISRA",
+            "org": "DoJ",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2025",
+            "summary": "This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
+            "release_date": "2026-02-27T09:30:00Z",
+            "display_date": "27 February 2026 9:30am (confirmed)",
+            "updated": "2025-03-11T14:43:44Z",
+            "org": "NICTS",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2419,7 +2474,7 @@
             "release_date": "2026-03-13T09:30:00Z",
             "display_date": "13 March 2026 9:30am (provisional)",
             "updated": "2025-10-14T15:45:36Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "OS",
             "status": "provisional"
         },
@@ -2485,7 +2540,7 @@
             "release_date": "2026-03-25T09:30:00Z",
             "display_date": "25 March 2026 9:30am (provisional)",
             "updated": "2025-06-25T15:13:10Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -2595,7 +2650,7 @@
             "release_date": "2026-04-23T09:30:00Z",
             "display_date": "23 April 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:28:27Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2606,7 +2661,7 @@
             "release_date": "2026-04-30T09:30:00Z",
             "display_date": "30 April 2026 9:30am (provisional)",
             "updated": "2025-09-25T15:32:23Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2617,7 +2672,7 @@
             "release_date": "2026-05-27T09:30:00Z",
             "display_date": "27 May 2026 9:30am (confirmed)",
             "updated": "2025-07-30T15:17:40Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2628,7 +2683,7 @@
             "release_date": "2026-05-27T09:30:00Z",
             "display_date": "27 May 2026 9:30am (confirmed)",
             "updated": "2025-05-09T09:15:05Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2639,7 +2694,7 @@
             "release_date": "2026-05-28T09:30:00Z",
             "display_date": "28 May 2026 9:30am (provisional)",
             "updated": "2025-09-25T16:11:31Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2705,7 +2760,7 @@
             "release_date": "2026-06-25T09:30:00Z",
             "display_date": "25 June 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:51:40Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2716,7 +2771,7 @@
             "release_date": "2026-07-23T09:30:00Z",
             "display_date": "23 July 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:31:31Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2727,7 +2782,7 @@
             "release_date": "2026-07-30T09:30:00Z",
             "display_date": "30 July 2026 9:30am (provisional)",
             "updated": "2025-09-25T15:43:07Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2738,7 +2793,7 @@
             "release_date": "2026-08-20T09:30:00Z",
             "display_date": "20 August 2026 9:30am (provisional)",
             "updated": "2025-09-26T13:39:01Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "OS",
             "status": "provisional"
         },
@@ -2749,7 +2804,7 @@
             "release_date": "2026-08-26T09:30:00Z",
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-09-02T14:56:57Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2760,7 +2815,7 @@
             "release_date": "2026-08-26T09:30:00Z",
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-07-30T15:44:12Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2771,7 +2826,7 @@
             "release_date": "2026-08-26T09:30:00Z",
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-07-30T15:35:23Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2837,7 +2892,7 @@
             "release_date": "2026-10-22T09:30:00Z",
             "display_date": "22 October 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:37:17Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2848,7 +2903,7 @@
             "release_date": "2026-11-25T09:30:00Z",
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-05T08:12:51Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2859,7 +2914,7 @@
             "release_date": "2026-11-25T09:30:00Z",
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-03T09:46:07Z",
-            "org": "NISRA",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2919,26 +2974,37 @@
             "status": "confirmed"
         },
         {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
+            "release_date": "NAT09:30:00Z",
+            "display_date": "June to July 2026 (provisional)",
+            "updated": "2025-11-13T16:37:16Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2025-26",
+            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2025-26",
+            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2025-26 academic year.",
+            "release_date": "NAT09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2025-11-11T11:24:59Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025",
             "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
             "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
             "release_date": "NAT09:30:00Z",
             "display_date": "February 2026 (provisional)",
             "updated": "2025-11-05T09:37:59Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "The annual Sickness report has been delayed until 11 November for additional quality assurance to take place.",
-            "updated": "2025-10-31T09:09:29Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "The annual Sickness report has been delayed until 11 November for additional quality assurance to take place."
         },
         {
             "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
@@ -2974,24 +3040,13 @@
             "status": "provisional"
         },
         {
-            "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
-            "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "December to January 2026 (provisional)",
-            "updated": "2025-10-30T13:29:56Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
             "title": "Northern Ireland planning statistics: April 2025 to March 2026",
             "summary": "Finalised annual results for 2025/26. Northern Ireland planning volumes and processing performance data.",
             "release_date": "NAT09:30:00Z",
             "display_date": "June to July 2026 (provisional)",
             "updated": "2025-10-23T14:01:03Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3002,7 +3057,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "March to April 2026 (provisional)",
             "updated": "2025-10-23T13:56:53Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3013,7 +3068,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "December to January 2026 (provisional)",
             "updated": "2025-10-23T13:48:30Z",
-            "org": "NISRA",
+            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3024,7 +3079,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "December to January 2026 (provisional)",
             "updated": "2025-10-21T16:16:18Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3035,7 +3090,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "March to April 2026 (provisional)",
             "updated": "2025-10-21T14:36:32Z",
-            "org": "NISRA",
+            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3046,7 +3101,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "December 2025 (provisional)",
             "updated": "2025-10-16T12:55:19Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3057,7 +3112,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "November to December 2025 (provisional)",
             "updated": "2025-10-13T12:31:13Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3068,7 +3123,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "December 2025 (provisional)",
             "updated": "2025-10-08T15:59:02Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3079,7 +3134,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "February 2026 (provisional)",
             "updated": "2025-10-08T15:54:48Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3090,7 +3145,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "May to June 2026 (provisional)",
             "updated": "2025-09-10T15:58:52Z",
-            "org": "NISRA",
+            "org": "DE",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3101,7 +3156,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "December to January 2026 (provisional)",
             "updated": "2025-09-10T15:44:08Z",
-            "org": "NISRA",
+            "org": "DE",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3123,7 +3178,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "November 2025 (provisional)",
             "updated": "2025-08-28T16:32:19Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -3134,7 +3189,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "August to September 2026 (provisional)",
             "updated": "2025-08-28T11:48:15Z",
-            "org": "NISRA",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -3145,7 +3200,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "July to August 2026 (provisional)",
             "updated": "2025-07-31T12:52:06Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
@@ -3156,7 +3211,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "May to June 2026 (provisional)",
             "updated": "2025-07-31T12:46:38Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
@@ -3167,7 +3222,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "May to June 2026 (provisional)",
             "updated": "2025-07-31T12:34:42Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
@@ -3178,19 +3233,8 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "August to September 2026 (provisional)",
             "updated": "2025-07-31T12:34:14Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2025-26",
-            "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2025-26",
-            "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2025-26 academic year.",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-05-15T13:44:44Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -3200,18 +3244,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "January to February 2026 (provisional)",
             "updated": "2025-05-15T13:43:12Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "annual-enrolments-at-grant-aided-schools-in-northern-ireland-2025-26-basic-provisional-statistics",
-            "title": "Annual enrolments at grant-aided schools in Northern Ireland, 2025-26: Basic provisional statistics",
-            "summary": "The data in the following bulletin are taken from the school enrolments census, which was conducted in October 2024.",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "December 2025 (provisional)",
-            "updated": "2025-05-15T13:41:28Z",
-            "org": "NISRA",
+            "org": "DE",
             "type": "AOS",
             "status": "provisional"
         },
@@ -3222,7 +3255,7 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "March to April 2026 (provisional)",
             "updated": "2025-03-25T10:09:48Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
@@ -3233,9 +3266,31 @@
             "release_date": "NAT09:30:00Z",
             "display_date": "February 2026 (provisional)",
             "updated": "2025-03-03T10:17:25Z",
-            "org": "NISRA",
+            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-degree-study-choices-202425",
+            "title": "Northern Ireland Degree Study Choices 2024/25",
+            "summary": "This factsheet outlines the factors influencing individuals’ decisions to pursue degree level study and the reasons some choose not to. It also explores attitudes towards tuition fees.",
+            "url": "https://www.economy-ni.gov.uk/publications/northern-ireland-degree-study-choices-202425",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "org": "DfE",
+            "updated": "2025-11-13T09:30:13Z",
+            "type": "R"
+        },
+        {
+            "id": "northern-ireland-international-reputation-in-focus",
+            "title": "Northern Ireland: International Reputation in Focus",
+            "summary": "Research exploring how perceptions of Northern Ireland (NI) influence global attitudes toward investment, study, tourism, favourability and familiarity with NI.",
+            "url": "https://www.executiveoffice-ni.gov.uk/articles/research-publications-executiveoffice",
+            "release_date": "2025-11-13T09:30:00Z",
+            "display_date": "13 November 2025",
+            "org": "TEO",
+            "updated": "2025-11-13T00:00:00Z",
+            "type": "R"
         },
         {
             "id": "profiling-suicide-drug-and-alcohol-deaths-in-northern-ireland",
