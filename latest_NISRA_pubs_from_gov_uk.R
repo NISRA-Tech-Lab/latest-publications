@@ -109,7 +109,7 @@ for (i in 1:5) {
         display_date <- trimws(html_text(dd_tags[k]))
         release_date <- display_date %>% 
           as.Date(., "%d %B %Y") %>% 
-          format(., format = "%Y-%m-%dT09:30:00Z")
+          format(., format = "%Y-%m-%dT07:00:00Z")
         break
       }
     }

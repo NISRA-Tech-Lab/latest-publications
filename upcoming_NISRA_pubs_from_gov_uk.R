@@ -147,6 +147,7 @@ pub_info <- pub_info %>%
     status = sub("\\)", "", sub(".*\\(", "", meta_data)),
     release_day = as.numeric(substr(meta_data, 1, 2)), # Extract day as numeric
     release_month = case_when(
+      is.na(release_day) & grepl(" to ", meta_data) ~ sub(" .*", "", sub(".*to ", "", meta_data)), # Extract month name for two month window if release_day is NA
       is.na(release_day) ~ sub(" .*", "", meta_data), # Extract month name if release_day is NA
       TRUE ~ sub("^\\s*(\\S+\\s+\\S+).*", "\\1", meta_data) %>% sub(".* ", "", .) # Otherwise extract month from metadata
     ),
@@ -156,9 +157,9 @@ pub_info <- pub_info %>%
       grepl(year(today()) + 2, meta_data) ~ year(today()) + 2   # Two years ahead if it matches
     ),
     release_month_numeric = match(release_month, month.name),
-    release_time = str_extract(meta_data, "\\S+(?=\\s+\\S+$)")) %>% # Convert month name to numeric
-  
-  mutate(
+    release_time = str_extract(meta_data, "\\S+(?=\\s+\\S+$)"),
+    release_day = case_when(is.na(release_day) ~ days_in_month(ymd(sprintf("%04d-%02d-01", release_year, release_month_numeric))),
+                            TRUE ~ release_day),
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
     status = case_when(
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
