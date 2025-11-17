@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-17T13:32:55Z",
+    "modified": "2025-11-17T17:44:04Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
@@ -1023,6 +1023,26 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-hsc-vacancies-september-2025",
+            "title": "Northern Ireland HSC Vacancies September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. A quarterly publication of HSC vacancies",
+            "release_date": "2025-11-19T09:30:00Z",
+            "display_date": "19 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-17T17:39:30Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-september-2025",
+            "title": "Northern Ireland HSC Workforce Statistics September 2025 ",
+            "summary": "Date: confirmed. Document type: Official statistics. A quarterly summary of HSC staff",
+            "release_date": "2025-11-19T09:30:00Z",
+            "display_date": "19 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-17T17:37:20Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2025",
             "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Quarterly update of persons stopped and searched by PSNI.",
@@ -1031,26 +1051,6 @@
             "updated": "2025-10-28T14:36:27Z",
             "release_type": "Official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-september-2025",
-            "title": "Northern Ireland HSC Vacancies September 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:51:20Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-september-2025",
-            "title": "Northern Ireland HSC Workforce Statistics September 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:47:28Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-3-2025",
