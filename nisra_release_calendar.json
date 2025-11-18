@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-18T07:16:48Z",
+    "modified": "2025-11-18T09:40:26Z",
     "entries": [
+        {
+            "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
+            "title": "Experience of sport by adults in Northern Ireland 2024/25",
+            "summary": "Document type: Official Statistics. An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/sport-museums-and-libraries-statistics",
+            "release_date": "2025-11-18T09:30:00Z",
+            "display_date": "18 November 2025",
+            "updated": "2025-11-18T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425",
+            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
+            "summary": "Document type: Official Statistics. An annual publication containing survey results on engagement with the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/culture-and-heritage-statistics",
+            "release_date": "2025-11-18T09:30:00Z",
+            "display_date": "18 November 2025",
+            "updated": "2025-11-18T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 7 November 2025",
@@ -981,46 +1001,6 @@
             "display_date": "11 September 2025",
             "updated": "2025-09-11T09:30:04Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "public-transport-statistics-northern-ireland-2024-25",
-            "title": "Public Transport Statistics Northern Ireland 2024-25",
-            "summary": "Document type: Accredited official statistics. This report presents statistics on public transport operated by Translink in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025",
-            "updated": "2025-09-10T09:30:02Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "health-inequalities-annual-report-2025",
-            "title": "Health Inequalities Annual Report 2025",
-            "summary": "Document type: Official Statistics. This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
-            "url": "https://www.health-ni.gov.uk/articles/health-inequalities-statistics",
-            "release_date": "2025-09-10T09:30:00Z",
-            "display_date": "10 September 2025",
-            "updated": "2025-09-10T09:30:02Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
-            "title": "Experience of sport by adults in Northern Ireland 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
-            "release_date": "2025-11-18T09:30:00Z",
-            "display_date": "18 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-20T17:02:45Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425",
-            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. An annual publication containing survey results on engagement with the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
-            "release_date": "2025-11-18T09:30:00Z",
-            "display_date": "18 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-20T16:52:35Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-vacancies-september-2025",
