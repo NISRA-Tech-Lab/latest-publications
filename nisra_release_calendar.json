@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-18T09:45:08Z",
+    "modified": "2025-11-18T13:32:27Z",
     "entries": [
         {
             "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
@@ -1323,16 +1323,6 @@
             "status": "confirmed"
         },
         {
-            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
-            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. Annual update of Police Crime Outcomes.",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-29T14:15:39Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
             "id": "annual-crime-statistics-trends-report-202425",
             "title": "Annual Crime Statistics Trends Report 2024/25",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
@@ -1690,6 +1680,16 @@
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:26Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-september-2025",
+            "title": "Northern Ireland Child Maintenance Service: Data to September 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending September 2025.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-18T11:25:01Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
@@ -2669,6 +2669,10 @@
         {
             "id": "benefit-cap-report-northern-ireland-november-2025",
             "updated": "2025-09-18T11:09:06Z"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
+            "updated": "2025-11-18T10:25:43Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-august-2025",
