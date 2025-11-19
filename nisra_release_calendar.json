@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-18T17:43:39Z",
+    "modified": "2025-11-19T07:17:09Z",
     "entries": [
         {
             "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
@@ -1680,6 +1680,16 @@
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:26Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "traineeships-level-2-academic-year-202425",
+            "title": "Traineeships (Level 2), academic year 2024/25",
+            "summary": "Date: confirmed. Document type: Official statistics. This publication covers key information on Traineeships (Level 2) in Northern Ireland, including occupational areas, starts and achievement.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-18T17:53:27Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
