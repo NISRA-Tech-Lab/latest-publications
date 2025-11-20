@@ -1,7 +1,145 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-17T10:16:46Z",
+    "modified": "2025-11-20T09:54:09Z",
     "entries": [
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
+            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "url": "https://datavis.nisra.gov.uk/bso/sodium-valproate-monitoring-dashboard.html",
+            "release_date": "2025-11-20T07:00:00Z",
+            "display_date": "20 November 2025",
+            "org": [
+                "BSO",
+                "DoH"
+            ],
+            "updated": "2025-11-20T09:30:10Z",
+            "type": "OS"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-september-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "url": "https://www.gov.uk/government/statistics/ni-topiramate-monitoring-report-april-2023-to-september-2025",
+            "release_date": "2025-11-20T07:00:00Z",
+            "display_date": "20 November 2025",
+            "org": [
+                "BSO",
+                "DoH"
+            ],
+            "updated": "2025-11-20T09:30:10Z",
+            "type": "OS"
+        },
+        {
+            "id": "registrar-general-northern-ireland-annual-report-2024",
+            "title": "Registrar General Northern Ireland Annual Report 2024",
+            "summary": "The Annual Report of the Registrar General 2024 will be published in November 2025 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-annual-report",
+            "release_date": "2025-11-20T07:00:00Z",
+            "display_date": "20 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-20T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2024",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2024",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2024",
+            "url": "https://www.nisra.gov.uk/statistics/cause-death/suicide-deaths",
+            "release_date": "2025-11-20T07:00:00Z",
+            "display_date": "20 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-20T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2025",
+            "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2025",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
+            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-november-2025",
+            "release_date": "2025-11-20T07:00:00Z",
+            "display_date": "20 November 2025",
+            "org": "NISRA",
+            "updated": "2025-11-20T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-september-2025",
+            "title": "Northern Ireland HSC Vacancies September 2025",
+            "summary": "A quarterly publication of HSC vacancies",
+            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
+            "release_date": "2025-11-19T07:00:00Z",
+            "display_date": "19 November 2025",
+            "org": "DoH",
+            "updated": "2025-11-19T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2025",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2025",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2025",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2025-11-19T07:00:00Z",
+            "display_date": "19 November 2025",
+            "org": "DoF",
+            "updated": "2025-11-19T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-3-2025",
+            "title": "Northern Ireland House Price Index Quarter 3 2025",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2025",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2025-11-19T07:00:00Z",
+            "display_date": "19 November 2025",
+            "org": "DoF",
+            "updated": "2025-11-19T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
+            "release_date": "2025-11-19T07:00:00Z",
+            "display_date": "19 November 2025",
+            "org": "PSNI",
+            "updated": "2025-11-19T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-september-2025",
+            "title": "Northern Ireland HSC Workforce Statistics September 2025",
+            "summary": "A quarterly summary of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2025-11-19T07:00:00Z",
+            "display_date": "19 November 2025",
+            "org": "DoH",
+            "updated": "2025-11-19T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
+            "title": "Experience of sport by adults in Northern Ireland 2024/25",
+            "summary": "An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/sport-museums-and-libraries-statistics",
+            "release_date": "2025-11-18T07:00:00Z",
+            "display_date": "18 November 2025",
+            "org": "DfC",
+            "updated": "2025-11-18T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425",
+            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
+            "summary": "An annual publication containing survey results on engagement with the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/culture-and-heritage-statistics",
+            "release_date": "2025-11-18T07:00:00Z",
+            "display_date": "18 November 2025",
+            "org": "DfC",
+            "updated": "2025-11-18T09:30:02Z",
+            "type": "OS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-november-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 7 November 2025",
@@ -460,17 +598,6 @@
             "type": "AOS"
         },
         {
-            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
-            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
-            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
-            "url": "https://www.gov.uk/government/statistics/adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
-            "release_date": "2025-10-16T07:00:00Z",
-            "display_date": "16 October 2025",
-            "org": "DoJ",
-            "updated": "2025-10-16T09:30:05Z",
-            "type": "OS"
-        },
-        {
             "id": "childrens-social-care-statistics-for-northern-ireland-202425",
             "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
             "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
@@ -490,6 +617,17 @@
             "display_date": "16 October 2025",
             "org": "TEO",
             "updated": "2025-10-16T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
+            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
+            "url": "https://www.justice-ni.gov.uk/publications/adult-and-youth-reoffending-northern-ireland-202223-cohort",
+            "release_date": "2025-10-16T07:00:00Z",
+            "display_date": "16 October 2025",
+            "org": "DoJ",
+            "updated": "2025-10-16T00:00:00Z",
             "type": "OS"
         },
         {
@@ -716,17 +854,6 @@
             "type": "AOS"
         },
         {
-            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
-            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
-            "summary": "Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
-            "url": "https://www.gov.uk/government/statistics/the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
-            "release_date": "2025-09-25T07:00:00Z",
-            "display_date": "25 September 2025",
-            "org": "DoJ",
-            "updated": "2025-09-25T09:30:18Z",
-            "type": "OS"
-        },
-        {
             "id": "digest-of-statistics-for-the-public-record-office-of-northern-ireland-202324",
             "title": "Digest of statistics for the Public Record Office of Northern Ireland 2023/24",
             "summary": "An annual publication providing a broad overview of the Public Record Office of Northern Ireland (PRONI).",
@@ -846,6 +973,17 @@
             "org": "NISRA",
             "updated": "2025-09-25T09:30:03Z",
             "type": "AOS"
+        },
+        {
+            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--2",
+            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2024/25",
+            "summary": "Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for th…",
+            "url": "https://www.justice-ni.gov.uk/publications/domestic-abuse-related-cases-dealt-202425",
+            "release_date": "2025-09-25T07:00:00Z",
+            "display_date": "25 September 2025",
+            "org": "DoJ",
+            "updated": "2025-09-25T00:00:00Z",
+            "type": "OS"
         },
         {
             "id": "northern-ireland-gambling-licensing-and-industry-data-2024",
@@ -983,215 +1121,6 @@
             "type": "AOS"
         },
         {
-            "id": "dva-monthly-tests-conducted-statistics-august-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: August 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-august-2025",
-            "release_date": "2025-09-12T07:00:00Z",
-            "display_date": "12 September 2025",
-            "org": "DfI",
-            "updated": "2025-09-12T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-executive-spending-20242025",
-            "title": "Northern Ireland Executive Spending 2024/2025",
-            "summary": "This dashboard provides Northern Ireland Executive spending up to 2024/2025 as well as a detailed breakdown of expenditure by each Northern Ireland department.",
-            "url": "https://www.nisra.gov.uk/statistics/business-economy-and-trade/ni-executive-spending",
-            "release_date": "2025-09-12T07:00:00Z",
-            "display_date": "12 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-12T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "2024-mid-year-population-estimates-for-northern-ireland-and-estimates-of-the-population-aged-85-and-over-for-northern-ireland-2024-and-2001-to-2023",
-            "title": "2024 Mid-Year Population Estimates for Northern Ireland and Estimates of the Population Aged 85 and Over for Northern Ireland, 2024 (and 2001 to 2023 revised)",
-            "summary": "The 2024 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and o…",
-            "url": "https://www.nisra.gov.uk/publications/2024-mid-year-population-estimates-northern-ireland-and-estimates-population-aged-85",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-august-2025",
-            "title": "Monthly Births (Northern Ireland): August 2025",
-            "summary": "Monthly Births (Northern Ireland): August 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-august-2025",
-            "title": "Monthly Marriages (Northern Ireland): August 2025",
-            "summary": "Monthly Marriages (Northern Ireland): August 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-august-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): August 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): August 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-august-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): August 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): August 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2025",
-            "title": "Northern Ireland HSC Workforce Statistics June 2025",
-            "summary": "A quarterly summary of HSC staff",
-            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-august-2025",
-            "title": "Monthly Deaths (Northern Ireland): August 2025",
-            "summary": "Monthly Deaths (Northern Ireland): August 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "NISRA",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-june-2025",
-            "title": "Northern Ireland HSC Vacancies June 2025",
-            "summary": "A quarterly publication of HSC vacancies",
-            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
-            "release_date": "2025-09-11T07:00:00Z",
-            "display_date": "11 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-11T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "public-transport-statistics-northern-ireland-2024-25",
-            "title": "Public Transport Statistics Northern Ireland 2024-25",
-            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
-            "release_date": "2025-09-10T07:00:00Z",
-            "display_date": "10 September 2025",
-            "org": "DfI",
-            "updated": "2025-09-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "health-inequalities-annual-report-2025",
-            "title": "Health Inequalities Annual Report 2025",
-            "summary": "This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
-            "url": "https://www.health-ni.gov.uk/articles/health-inequalities-statistics",
-            "release_date": "2025-09-10T07:00:00Z",
-            "display_date": "10 September 2025",
-            "org": "DoH",
-            "updated": "2025-09-10T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "experience-of-sport-by-adults-in-northern-ireland-202425",
-            "title": "Experience of sport by adults in Northern Ireland 2024/25",
-            "summary": "An annual publication containing survey results on experience of sport by adults in Northern Ireland.",
-            "release_date": "2025-11-18T09:30:00Z",
-            "display_date": "18 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-20T17:02:45Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425",
-            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
-            "summary": "An annual publication containing survey results on engagement with the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
-            "release_date": "2025-11-18T09:30:00Z",
-            "display_date": "18 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-20T16:52:35Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2025",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2025",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T14:36:27Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-september-2025",
-            "title": "Northern Ireland HSC Vacancies September 2025",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:51:20Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-september-2025",
-            "title": "Northern Ireland HSC Workforce Statistics September 2025 ",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (provisional)",
-            "updated": "2025-05-02T09:47:28Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2025",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2025",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2025",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (confirmed)",
-            "updated": "2025-01-06T09:03:33Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-3-2025",
-            "title": "Northern Ireland House Price Index Quarter 3 2025",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2025",
-            "release_date": "2025-11-19T09:30:00Z",
-            "display_date": "19 November 2025 9:30am (confirmed)",
-            "updated": "2025-01-06T08:49:11Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "impact-of-time-taken-to-register-a-death-on-death-statistics-in-northern-ireland-2024",
             "title": "Time Taken to Register Deaths In Northern Ireland, 2024",
             "summary": "Tables and report detailing impact of time taken to register a death on death statistics in Northern Ireland",
@@ -1203,79 +1132,13 @@
             "status": "confirmed"
         },
         {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2025",
-            "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2025",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-17T09:45:58Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "finalised-suicide-statistics-in-northern-ireland-2024",
-            "title": "Finalised Suicide Statistics in Northern Ireland, 2024",
-            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2024",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-16T09:48:35Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "registrar-general-northern-ireland-annual-report-2024",
-            "title": "Registrar General Northern Ireland Annual Report 2024",
-            "summary": "The Annual Report of the Registrar General 2024 will be published in November 2025 with details on births, stillbirths, deaths, marriages, divorces and adoptions.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-16T09:47:41Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-september-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:56:06Z",
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2025",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2025)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-19T10:59:50Z",
             "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-september-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:56:06Z",
-            "org": "BSO",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
-            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:55:05Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
-            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2025-11-20T09:30:00Z",
-            "display_date": "20 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:55:05Z",
-            "org": "BSO",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1302,6 +1165,17 @@
             "status": "confirmed"
         },
         {
+            "id": "health-survey-northern-ireland-first-results-202425",
+            "title": "Health Survey Northern Ireland: First Results 2024/25",
+            "summary": "First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-20T09:37:59Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
             "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
             "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
@@ -1311,17 +1185,6 @@
             "org": "DfI",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "health-survey-northern-ireland-first-results-202425",
-            "title": "Health Survey Northern Ireland: First Results 2024/25",
-            "summary": "First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (provisional)",
-            "updated": "2025-09-16T10:34:38Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-august-2025",
@@ -1522,17 +1385,6 @@
             "status": "confirmed"
         },
         {
-            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
-            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
-            "summary": "Annual update of Police Crime Outcomes.",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-29T14:15:39Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "annual-crime-statistics-trends-report-202425",
             "title": "Annual Crime Statistics Trends Report 2024/25",
             "summary": "Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
@@ -1608,17 +1460,6 @@
             "org": "NICTS",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2025",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2025)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2025-11-30T09:30:00Z",
-            "display_date": "November 2025 (provisional)",
-            "updated": "2025-08-28T16:32:19Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-abortion-statistics-202425",
@@ -1962,6 +1803,39 @@
             "status": "confirmed"
         },
         {
+            "id": "traineeships-level-2-academic-year-202425",
+            "title": "Traineeships (Level 2), academic year 2024/25",
+            "summary": "This publication covers key information on Traineeships (Level 2) in Northern Ireland, including occupational areas, starts and achievement.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-18T17:53:27Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-september-2025",
+            "title": "Northern Ireland Child Maintenance Service: Data to September 2025",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending September 2025.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-18T11:25:01Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-july-to-september-2025",
+            "title": "Northern Ireland planning statistics: July to September 2025",
+            "summary": "Provisional quarterly results for the second quarter of 2025/26. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-19T13:21:23Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "young-peoples-attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2025",
             "title": "Young People's Attitudes to Refugees and Asylum Seekers in Northern Ireland 2025",
             "summary": "A publication examining attitudes to refugees and asylum seekers among 16-year-olds in Northern Ireland.",
@@ -2257,17 +2131,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-july-to-september-2025",
-            "title": "Northern Ireland planning statistics: July to September 2025",
-            "summary": "Provisional quarterly results for the second quarter of 2025/26. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2026-01-31T09:30:00Z",
-            "display_date": "December to January 2026 (provisional)",
-            "updated": "2025-10-23T13:48:30Z",
-            "org": "DfI",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-july-2025-september-2025",
@@ -3342,6 +3205,10 @@
         {
             "id": "benefit-cap-report-northern-ireland-november-2025",
             "updated": "2025-09-18T11:09:06Z"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
+            "updated": "2025-11-18T10:25:43Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-august-2025",
