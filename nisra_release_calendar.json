@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-21T07:17:08Z",
+    "modified": "2025-11-21T09:39:17Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 14 November 2025",
+            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 14 November 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025",
+            "updated": "2025-11-21T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2025",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2025)",
+            "summary": "Document type: Official Statistics. Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025",
+            "updated": "2025-11-21T09:30:05Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
@@ -981,46 +1001,6 @@
             "display_date": "16 September 2025",
             "updated": "2025-09-16T07:00:03Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "ni-labour-market-statistics-september-2025",
-            "title": "NI Labour Market statistics: September 2025",
-            "summary": "Document type: Accredited official statistics. The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-09-16T09:30:00Z",
-            "display_date": "16 September 2025",
-            "updated": "2025-09-16T07:00:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-5-sept-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 5 Sept 2025",
-            "summary": "Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 5 September 2025.\r\n",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-09-12T09:30:00Z",
-            "display_date": "12 September 2025",
-            "updated": "2025-09-12T09:30:05Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2025",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2025)",
-            "summary": "Date: confirmed. Document type: Official statistics. Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2025-11-21T09:30:00Z",
-            "display_date": "21 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-19T10:59:50Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 14 November 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2025, up to and including 14 November 2025.",
-            "release_date": "2025-11-21T09:30:00Z",
-            "display_date": "21 November 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:57:29Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "good-jobs-in-northern-ireland-2025",
