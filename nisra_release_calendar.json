@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-21T09:39:17Z",
+    "modified": "2025-11-21T13:29:01Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
@@ -1873,6 +1873,16 @@
             "status": "confirmed"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2025/26.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:37:36Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2025",
             "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2025",
             "summary": "Date: provisional. Document type: Accredited official statistics. Northern Ireland local authority collected municipal waste management statistics report - July to September 2025",
@@ -1889,6 +1899,16 @@
             "release_date": "2026-01-30T09:30:00Z",
             "display_date": "30 January 2026 9:30am (confirmed)",
             "updated": "2025-09-01T15:36:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:39:46Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1963,6 +1983,16 @@
             "status": "confirmed"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q3 of 2025/26.",
+            "release_date": "2026-02-12T09:30:00Z",
+            "display_date": "12 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:42:22Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-january-2026",
             "title": "DVA Monthly Tests Conducted Statistics: January 2026",
             "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -2003,6 +2033,26 @@
             "status": "provisional"
         },
         {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "release_date": "2026-02-19T09:30:00Z",
+            "display_date": "19 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:48:41Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "release_date": "2026-02-19T09:30:00Z",
+            "display_date": "19 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:47:44Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 13 February 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 February 2026.",
@@ -2020,6 +2070,26 @@
             "display_date": "25 February 2026 9:30am (confirmed)",
             "updated": "2025-02-12T13:50:31Z",
             "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "prescription-cost-analysis-for-northern-ireland-2025",
+            "title": "Prescription Cost Analysis for Northern Ireland, 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:52:12Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T11:50:57Z",
+            "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
         {
