@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-21T13:29:01Z",
+    "modified": "2025-11-21T17:42:21Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
@@ -1543,6 +1543,16 @@
             "status": "provisional"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-november-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: November 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2025-12-12T09:30:00Z",
+            "display_date": "12 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-21T15:56:08Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2025",
             "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
@@ -1561,16 +1571,6 @@
             "updated": "2025-09-01T15:00:46Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-november-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: November 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-12-12T09:30:00Z",
-            "display_date": "12 December 2025 9:30am (provisional)",
-            "updated": "2025-06-03T10:37:54Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "quarterly-employment-survey-september-2025",
@@ -1843,6 +1843,16 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-december-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: December 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-01-16T09:30:00Z",
+            "display_date": "16 January 2026 9:30am (confirmed)",
+            "updated": "2025-11-21T15:57:29Z",
+            "release_type": "Official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-9-january-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 9 January 2026",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Tables showing deaths registered in Northern Ireland in 2026, up to and including 9 January 2026.",
@@ -1851,16 +1861,6 @@
             "updated": "2025-09-01T15:18:21Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-december-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: December 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-01-16T09:30:00Z",
-            "display_date": "16 January 2026 9:30am (provisional)",
-            "updated": "2025-06-03T10:43:13Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-january-2026",
