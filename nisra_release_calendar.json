@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-25T07:17:38Z",
+    "modified": "2025-11-25T09:42:08Z",
     "entries": [
+        {
+            "id": "good-jobs-in-northern-ireland-2025",
+            "title": "Good Jobs in Northern Ireland 2025",
+            "summary": "Document type: Accredited official statistics. This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "url": "https://www.nisra.gov.uk/statistics/work-pay-and-benefits/good-jobs-northern-ireland",
+            "release_date": "2025-11-25T09:30:00Z",
+            "display_date": "25 November 2025",
+            "updated": "2025-11-25T09:30:05Z",
+            "release_type": "Accredited official statistics"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
             "title": "Deaths Registered in Northern Ireland - Week ending 14 November 2025",
@@ -991,26 +1001,6 @@
             "display_date": "18 September 2025",
             "updated": "2025-09-18T09:30:00Z",
             "release_type": "Official Statistics"
-        },
-        {
-            "id": "quarterly-employment-survey-june-2025",
-            "title": "Quarterly Employment Survey: June 2025",
-            "summary": "Document type: Accredited official statistics. The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
-            "release_date": "2025-09-16T09:30:00Z",
-            "display_date": "16 September 2025",
-            "updated": "2025-09-16T07:00:03Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "good-jobs-in-northern-ireland-2025",
-            "title": "Good Jobs in Northern Ireland 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
-            "release_date": "2025-11-25T09:30:00Z",
-            "display_date": "25 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-12T13:28:02Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
         },
         {
             "id": "health-survey-northern-ireland-first-results-202425",
@@ -2581,6 +2571,16 @@
             "updated": "2025-09-25T10:37:17Z",
             "release_type": "Accredited official statistics",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-august-2026",
+            "title": "Northern Ireland Benefit Statistics Summary: August 2026",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2026-11-25T09:30:00Z",
+            "display_date": "25 November 2026 9:30am (confirmed)",
+            "updated": "2025-11-25T09:10:52Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-august-2026",
