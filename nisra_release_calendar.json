@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-25T09:42:08Z",
+    "modified": "2025-11-25T13:34:43Z",
     "entries": [
         {
             "id": "good-jobs-in-northern-ireland-2025",
@@ -1033,6 +1033,16 @@
             "status": "confirmed"
         },
         {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-25T11:42:45Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "historical-weekly-deaths-data-2011-to-2024",
             "title": "Historical Weekly Deaths Data, 2011 to 2024",
             "summary": "Date: confirmed. Document type: Accredited official statistics. A summary table of the number of deaths by week of registration and age, including data on deaths linked with a respiratory illness",
@@ -1129,16 +1139,6 @@
             "release_date": "2025-11-27T09:30:00Z",
             "display_date": "27 November 2025 9:30am (confirmed)",
             "updated": "2025-09-30T10:23:11Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
-            "release_date": "2025-11-27T09:30:00Z",
-            "display_date": "27 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-09T13:57:20Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -2003,26 +2003,6 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-hsc-vacancies-december-2025",
-            "title": "Northern Ireland HSC Vacancies December 2025",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (provisional)",
-            "updated": "2025-05-02T09:58:40Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-december-2025",
-            "title": "Northern Ireland HSC Workforce Statistics December 2025 ",
-            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (provisional)",
-            "updated": "2025-05-02T09:53:58Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
-        },
-        {
             "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
             "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
@@ -2051,6 +2031,26 @@
             "updated": "2025-09-01T15:48:14Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-december-2025",
+            "title": "Northern Ireland HSC Vacancies December 2025",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly publication of HSC vacancies",
+            "release_date": "2026-02-24T09:30:00Z",
+            "display_date": "24 February 2026 9:30am (provisional)",
+            "updated": "2025-11-25T10:25:27Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-december-2025",
+            "title": "Northern Ireland HSC Workforce Statistics December 2025 ",
+            "summary": "Date: provisional. Document type: Official statistics. A quarterly summary of HSC staff",
+            "release_date": "2026-02-24T09:30:00Z",
+            "display_date": "24 February 2026 9:30am (provisional)",
+            "updated": "2025-11-25T10:24:18Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-november-2025",
