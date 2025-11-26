@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-26T09:41:51Z",
+    "modified": "2025-11-26T13:35:02Z",
     "entries": [
         {
             "id": "northern-ireland-universal-credit-statistics-august-2025",
@@ -1710,6 +1710,16 @@
             "display_date": "19 December 2025 9:30am (confirmed)",
             "updated": "2025-09-01T15:07:18Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
+            "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2026",
+            "summary": "Date: confirmed. Document type: Official statistics. Calls relating to domestic abuse received by PSNI during Christmas and New Year.",
+            "release_date": "2026-01-09T09:30:00Z",
+            "display_date": "9 January 2026 9:30am (confirmed)",
+            "updated": "2025-11-26T11:30:05Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
