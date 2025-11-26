@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-26T13:35:02Z",
+    "modified": "2025-11-26T17:43:25Z",
     "entries": [
         {
             "id": "northern-ireland-universal-credit-statistics-august-2025",
@@ -20,6 +20,16 @@
             "release_date": "2025-11-26T09:30:00Z",
             "display_date": "26 November 2025",
             "updated": "2025-11-26T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
+            "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
+            "summary": "Document type: Official Statistics. This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-network-and-condition",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T00:00:00Z",
             "release_type": "Official Statistics"
         },
         {
@@ -993,16 +1003,6 @@
             "release_type": "Official Statistics"
         },
         {
-            "id": "highest-qualification-and-participation-in-education-and-training-2024",
-            "title": "Highest qualification and participation in education and training 2024",
-            "summary": "Document type: Accredited official statistics. The tables provide updated figures to 2024 for the highest qualification level.",
-            "url": "https://www.nisra.gov.uk/publications/highest-qualification-and-participation-education-and-training-2024",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025",
-            "updated": "2025-09-18T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
             "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
             "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
             "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
@@ -1550,6 +1550,16 @@
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-08-29T10:50:26Z",
             "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
+            "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
+            "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
+            "summary": "Date: confirmed. Document type: Official statistics. Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, includin…",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-11-26T14:44:55Z",
+            "release_type": "Official statistics",
             "status": "confirmed"
         },
         {
