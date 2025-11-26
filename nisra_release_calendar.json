@@ -1,7 +1,27 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-26T07:17:02Z",
+    "modified": "2025-11-26T09:41:51Z",
     "entries": [
+        {
+            "id": "northern-ireland-universal-credit-statistics-august-2025",
+            "title": "Northern Ireland Universal Credit Statistics: August 2025",
+            "summary": "Document type: Official Statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "health-survey-northern-ireland-first-results-202425--2",
+            "title": "Health Survey Northern Ireland: First Results 2024/25",
+            "summary": "Document type: Official Statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
+            "url": "https://www.health-ni.gov.uk/topics/doh-statistics-and-research/health-survey-northern-ireland",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "good-jobs-in-northern-ireland-2025",
             "title": "Good Jobs in Northern Ireland 2025",
@@ -981,56 +1001,6 @@
             "display_date": "18 September 2025",
             "updated": "2025-09-18T09:30:00Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-2-2025",
-            "title": "Northern Ireland Index of Services: Quarter 2 2025",
-            "summary": "Document type: Accredited official statistics. Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025",
-            "updated": "2025-09-18T09:30:00Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-hate-crime-202425",
-            "title": "Statistical Bulletin: Cases Involving Hate Crime 2024/25",
-            "summary": "Document type: Official Statistics. The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
-            "url": "https://www.ppsni.gov.uk/thematic-bulletins-hate-crime",
-            "release_date": "2025-09-18T09:30:00Z",
-            "display_date": "18 September 2025",
-            "updated": "2025-09-18T09:30:00Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "health-survey-northern-ireland-first-results-202425",
-            "title": "Health Survey Northern Ireland: First Results 2024/25",
-            "summary": "Date: confirmed. Document type: Official statistics. First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-11-20T09:37:59Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
-            "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
-            "summary": "Date: confirmed. Document type: Official statistics. This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-10-29T15:04:30Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-august-2025",
-            "title": "Northern Ireland Universal Credit Statistics: August 2025",
-            "summary": "Date: confirmed. Document type: Official statistics. Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2025-11-26T09:30:00Z",
-            "display_date": "26 November 2025 9:30am (confirmed)",
-            "updated": "2025-09-04T10:14:24Z",
-            "release_type": "Official statistics",
-            "status": "confirmed"
         },
         {
             "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
