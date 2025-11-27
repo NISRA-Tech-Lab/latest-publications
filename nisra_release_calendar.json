@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-27T09:40:29Z",
+    "modified": "2025-11-27T13:32:45Z",
     "entries": [
         {
             "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
@@ -1003,6 +1003,16 @@
             "release_type": "Accredited official statistics"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2025.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (confirmed)",
+            "updated": "2025-11-27T13:21:31Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
             "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
             "summary": "Date: provisional. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
@@ -1079,16 +1089,6 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025 9:30am (confirmed)",
             "updated": "2025-07-09T15:00:13Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (confirmed)",
-            "updated": "2025-03-11T14:39:41Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
@@ -1963,6 +1963,16 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2025",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2025",
+            "summary": "Date: confirmed. Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2025.",
+            "release_date": "2026-02-27T09:30:00Z",
+            "display_date": "27 February 2026 9:30am (confirmed)",
+            "updated": "2025-11-27T13:23:54Z",
+            "release_type": "Accredited official statistics",
+            "status": "confirmed"
+        },
+        {
             "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
             "title": "Mortgages: Actions for possession bulletin October to December 2025",
             "summary": "Date: confirmed. Document type: Official statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
@@ -1979,16 +1989,6 @@
             "release_date": "2026-02-27T09:30:00Z",
             "display_date": "27 February 2026 9:30am (confirmed)",
             "updated": "2025-09-01T15:50:49Z",
-            "release_type": "Accredited official statistics",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2025",
-            "summary": "Date: confirmed. Document type: Accredited official statistics. This bulletin is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the quarte…",
-            "release_date": "2026-02-27T09:30:00Z",
-            "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2025-03-11T14:43:44Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
         },
