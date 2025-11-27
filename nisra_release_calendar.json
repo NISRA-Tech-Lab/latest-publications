@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-26T17:43:25Z",
+    "modified": "2025-11-27T07:18:16Z",
     "entries": [
         {
             "id": "northern-ireland-universal-credit-statistics-august-2025",
@@ -1113,6 +1113,16 @@
             "status": "confirmed"
         },
         {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
+            "summary": "Date: provisional. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025 9:30am (provisional)",
+            "updated": "2025-11-27T01:05:01Z",
+            "release_type": "Official statistics",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-research-development-2024-results",
             "title": "Northern Ireland Research & Development 2024 Results",
             "summary": "Date: confirmed. Document type: Accredited official statistics. This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
@@ -1121,16 +1131,6 @@
             "updated": "2025-11-11T07:36:25Z",
             "release_type": "Accredited official statistics",
             "status": "confirmed"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
-            "summary": "Date: provisional. Document type: Official statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025 9:30am (provisional)",
-            "updated": "2025-11-06T01:29:40Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "annual-hate-motivation-trends-report-202425",
