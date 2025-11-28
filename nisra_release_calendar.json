@@ -1,32 +1,12 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-28T09:43:24Z",
+    "modified": "2025-11-28T13:30:43Z",
     "entries": [
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
             "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
             "summary": "Document type: Official Statistics. This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
             "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025",
-            "updated": "2025-11-28T09:30:04Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "nicts-quarterly-provisional-figures-july-to-september-2025",
-            "title": "NICTS Quarterly Provisional Figures July to September 2025",
-            "summary": "Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2025-11-28T09:30:00Z",
-            "display_date": "28 November 2025",
-            "updated": "2025-11-28T09:30:04Z",
-            "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
-            "title": "Mortgages: Actions for possession bulletin July to September 2025",
-            "summary": "Document type: Official Statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025",
             "updated": "2025-11-28T09:30:04Z",
@@ -90,6 +70,26 @@
             "release_date": "2025-11-28T09:30:00Z",
             "display_date": "28 November 2025",
             "updated": "2025-11-28T09:30:02Z",
+            "release_type": "Official Statistics"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-july-to-september-2025",
+            "title": "NICTS Quarterly Provisional Figures July to September 2025",
+            "summary": "Document type: Accredited official statistics. Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T00:00:00Z",
+            "release_type": "Accredited official statistics"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
+            "title": "Mortgages: Actions for possession bulletin July to September 2025",
+            "summary": "Document type: Official Statistics. Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T00:00:00Z",
             "release_type": "Official Statistics"
         },
         {
