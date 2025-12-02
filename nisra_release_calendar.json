@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-02T09:45:00Z",
+    "modified": "2025-12-02T13:37:16Z",
     "entries": [
         {
             "id": "northern-ireland-abortion-statistics-202425",
@@ -1125,12 +1125,12 @@
         {
             "id": "life-expectancy-in-northern-ireland-2022-24",
             "title": "Life Expectancy in Northern Ireland 2022-24",
-            "summary": "Date: provisional. Document type: Official statistics. This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
+            "summary": "Date: confirmed. Document type: Official statistics. This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
             "release_date": "2025-12-09T09:30:00Z",
-            "display_date": "9 December 2025 9:30am (provisional)",
-            "updated": "2025-10-30T09:40:23Z",
+            "display_date": "9 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-02T11:30:48Z",
             "release_type": "Official statistics",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "carbon-intensity-indicators-northern-ireland-2025",
