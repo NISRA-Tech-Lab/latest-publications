@@ -115,6 +115,7 @@ for (i in 1:5) {
     }
     
     if (length(org) > 1) org <- setdiff(org, "NISRA")
+    org <- org[1]
     
     # Loop through span tags to find specific metadata for release type
     span_tags <- html_nodes(gov_uk_page, "span")
