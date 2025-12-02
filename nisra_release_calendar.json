@@ -1,7 +1,17 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-02T07:19:18Z",
+    "modified": "2025-12-02T09:45:00Z",
     "entries": [
+        {
+            "id": "northern-ireland-abortion-statistics-202425",
+            "title": "Northern Ireland Abortion Statistics 2024/25",
+            "summary": "Document type: Official Statistics. The number of medical and surgical abortions at health and social care trusts in Northern Ireland during 2020/21 to 2024/25.",
+            "url": "https://datavis.nisra.gov.uk/health/ni-abortion-stats-2024-25.html",
+            "release_date": "2025-12-02T09:30:00Z",
+            "display_date": "2 December 2025",
+            "updated": "2025-12-02T09:30:01Z",
+            "release_type": "Official Statistics"
+        },
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
             "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
@@ -991,26 +1001,6 @@
             "display_date": "26 September 2025",
             "updated": "2025-09-26T09:30:07Z",
             "release_type": "Accredited official statistics"
-        },
-        {
-            "id": "trends-in-police-recorded-drug-seizures-and-arrests-in-northern-ireland-200607-to-202425",
-            "title": "Trends in Police Recorded Drug Seizures and Arrests in Northern Ireland 2006/07 to 2024/25",
-            "summary": "Document type: Official Statistics. Annual financial year trends report on Class A, B and C drug seizure incidents and arrests by the police in Northern Ireland covering the period 2006/07 to 2024/25.",
-            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
-            "release_date": "2025-09-26T09:30:00Z",
-            "display_date": "26 September 2025",
-            "updated": "2025-09-26T09:30:07Z",
-            "release_type": "Official Statistics"
-        },
-        {
-            "id": "northern-ireland-abortion-statistics-202425",
-            "title": "Northern Ireland Abortion Statistics 2024/25",
-            "summary": "Date: provisional. Document type: Official statistics. Presents information on the number of medical and surgical abortions at health and social care (HSC) trusts in Northern Ireland during 2020/21 to 2024/25. It details information by HSC trust, age, weeks gestation and grounds…",
-            "release_date": "2025-12-02T09:30:00Z",
-            "display_date": "2 December 2025 9:30am (provisional)",
-            "updated": "2025-11-05T14:26:33Z",
-            "release_type": "Official statistics",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
