@@ -28,6 +28,7 @@ jobs:
             any::lubridate
             any::jsonlite
             any::textutils
+            any::stringr
 
       - name: Check out repository
         uses: actions/checkout@v4

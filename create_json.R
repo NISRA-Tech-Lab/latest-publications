@@ -38,12 +38,45 @@ library(jsonlite) # For Converting data to JSON
 library(dplyr)     # For data manipulation and transformation
 library(lubridate) # For working with date-time data
 library(textutils)
+library(stringr)
 
 # List that will be converted to json at the end
 output_list <- list(name = "nisra release calendar",
                     modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
                     entries = c(),
                     cancelled = c())
+
+org_names <- list(
+  "Department for Communities (Northern Ireland)" = "DfC",
+  "Department for Infrastructure (Northern Ireland)" = "DfI",
+  "Department for the Economy (Northern Ireland)" = "DfE",
+  "Department of Agriculture, Environment and Rural Affairs (Northern Ireland)" = "DAERA",
+  "Department of Education (Northern Ireland)" = "DE",
+  "Department of Finance (Northern Ireland)" = "DoF",
+  "Department of Health (Northern Ireland)" = "DoH",
+  "Department of Justice (Northern Ireland)" = "DoJ",
+  "HSC Business Services Organisation (Northern Ireland)" = "BSO",
+  "Invest Northern Ireland" = "INI",
+  "Legal Services Agency (Northern Ireland)" = "LSA",
+  "Northern Ireland Policing Board" = "NIPB",
+  "Northern Ireland Courts and Tribunals Service" = "NICTS",
+  "Northern Ireland Executive" = "NIE",
+  "Northern Ireland Prison Service" = "NIPS",
+  "Northern Ireland Statistics and Research Agency" = "NISRA",
+  "Office of the Police Ombudsman for Northern Ireland" = "OPONI",
+  "Police Service of Northern Ireland" = "PSNI",
+  "Probation Board for Northern Ireland" = "PBNI",
+  "Public Prosecution Service for Northern Ireland" = "PPS",
+  "The Executive Office (Northern Ireland)" = "TEO",
+  "Youth Justice Agency of Northern Ireland" = "YJA"
+)
+
+release_types <- list(
+  "Research" = "R",
+  "Official Statistics" = "OS",
+  "Official statistics" = "OS",
+  "Accredited official statistics" = "AOS"
+)
 
 source("latest_NISRA_pubs_from_gov_uk.R")
 source("upcoming_NISRA_pubs_from_gov_uk.R")

@@ -79,6 +79,27 @@ while (has_pubs == TRUE) {
     # Read the content of the government publication page
     gov_uk_page <- read_html(gov_uk_link)
     
+    # Loop through dd tags to find specific metadata
+    dd_tags <- html_nodes(gov_uk_page, "dd")
+    
+    org <- c()
+    
+    # Look for where a month name appears in dd tag and re-format date
+    for (k in 1:length(dd_tags)) {
+      a_tags <- html_nodes(dd_tags[k], "a")
+      for (l in seq_along(a_tags)) {
+        class <- html_attr(a_tags[l], "class")
+        if (class == "govuk-link") {
+          org_long <- html_text(a_tags[l])
+          org <- c(org, org_names[[org_long]])
+        }
+      }
+    }
+    
+    if (length(org) > 1) org <- setdiff(org, "NISRA")
+    if (length(org) > 1) org <- setdiff(org, "DoJ")
+    org <- org[1]
+    
     # Extract relevant metadata from the publication page
     meta_data <- html_text(html_nodes(gov_uk_page, "dd"))[html_attr(html_nodes(gov_uk_page, "dd"), "class") == "gem-c-metadata__definition"]
     
@@ -116,6 +137,7 @@ while (has_pubs == TRUE) {
                              updated = updated,
                              summary = trimws(html_text(html_nodes(publications[j], "summary"))),
                              release_type = release_type,
+                             org = org,
                              stringsAsFactors = FALSE)) # Avoid factors in data frame
     }
   }
@@ -127,6 +149,7 @@ pub_info <- pub_info %>%
     status = sub("\\)", "", sub(".*\\(", "", meta_data)),
     release_day = as.numeric(substr(meta_data, 1, 2)), # Extract day as numeric
     release_month = case_when(
+      is.na(release_day) & grepl(" to ", meta_data) ~ sub(" .*", "", sub(".*to ", "", meta_data)), # Extract month name for two month window if release_day is NA
       is.na(release_day) ~ sub(" .*", "", meta_data), # Extract month name if release_day is NA
       TRUE ~ sub("^\\s*(\\S+\\s+\\S+).*", "\\1", meta_data) %>% sub(".* ", "", .) # Otherwise extract month from metadata
     ),
@@ -135,29 +158,35 @@ pub_info <- pub_info %>%
       grepl(year(today()) + 1, meta_data) ~ year(today()) + 1,  # Next year if it matches
       grepl(year(today()) + 2, meta_data) ~ year(today()) + 2   # Two years ahead if it matches
     ),
-    release_month_numeric = match(release_month, month.name)) %>% # Convert month name to numeric
-  filter(!is.na(release_day)) %>% # Remove strings that don't contain a date
-  mutate(
+    release_month_numeric = match(release_month, month.name),
+    release_time = str_extract(meta_data, "\\S+(?=\\s+\\S+$)"),
+    release_day = case_when(is.na(release_day) ~ days_in_month(ymd(sprintf("%04d-%02d-01", release_year, release_month_numeric))),
+                            TRUE ~ release_day),
     release_date = as.Date(paste(release_year, release_month_numeric, release_day, sep = "-")), # Construct date
     status = case_when(
       release_date < today() ~ paste(meta_data, "(delayed)"),  # Mark as delayed if release date is past
       TRUE ~ status  # Otherwise keep original metadata
     ),
-    release_date = format(release_date, format = "%Y-%m-%dT09:30:00Z")
+    release_date = format(release_date, format = "%Y-%m-%d"),
+    release_date = case_when(release_time == "7:00am" ~ paste0(release_date, "T07:00:00Z"),
+                             TRUE ~ paste0(release_date, "T09:30:00Z"))
   ) %>%
   arrange(release_date) # Sort data frame by release date
 
 # Loop through each row of the processed pub_info data frame
 for (i in 1:nrow(pub_info)) {
   
+  if (!pub_info$release_type[i] %in% names(release_types)) print (pub_info$release_type[i])
+  
   output_list$entries[[length(output_list$entries) + 1]] <-
     list(id = pub_info$id[i],
          title = pub_info$pub_title[i],
-         summary = paste0("Date: ", pub_info$status[i], ". Document type: ", pub_info$release_type[i], ". ", HTMLdecode(pub_info$summary[i])),
+         summary = HTMLdecode(pub_info$summary[i]),
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
          updated = pub_info$updated[i],
-         release_type = pub_info$release_type[i],
+         org = pub_info$org[i],
+         type = release_types[[pub_info$release_type[i]]],
          status = pub_info$status[i])
   
 }
