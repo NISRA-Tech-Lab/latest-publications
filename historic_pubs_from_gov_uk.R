@@ -51,6 +51,7 @@ library(rvest) # For web scraping and extracting data from HTML documents
 library(jsonlite) # For Converting data to JSON
 library(dplyr)     # For data manipulation and transformation
 library(textutils)
+library(lubridate)
 
 # List that will be converted to json at the end
 output_list <- list(name = "nisra release calendar",
@@ -112,8 +113,18 @@ while (has_pubs == TRUE) {
     # Loop through dd tags to find specific metadata
     dd_tags <- html_nodes(gov_uk_page, "dd")
     
+    org <- c()
+    
     # Look for where a month name appears in dd tag and re-format date
     for (k in 1:length(dd_tags)) {
+      a_tags <- html_nodes(dd_tags[k], "a")
+      for (l in seq_along(a_tags)) {
+        class <- html_attr(a_tags[l], "class")
+        if (class == "govuk-link") {
+          org_long <- html_text(a_tags[l])
+          org <- c(org, org_names[[org_long]])
+        }
+      }
       if (grepl(paste(month.name, collapse = "|"), html_text(dd_tags[k]))) {
         display_date <- html_text(dd_tags[k])
         release_date <- display_date %>% 
@@ -122,6 +133,10 @@ while (has_pubs == TRUE) {
         break
       }
     }
+    
+    if (length(org) > 1) org <- setdiff(org, "NISRA")
+    if (length(org) > 1) org <- setdiff(org, "DoJ")
+    org <- org[1]
     
     # Loop through span tags to find specific metadata for release type
     span_tags <- html_nodes(gov_uk_page, "span")
@@ -144,6 +159,8 @@ while (has_pubs == TRUE) {
     
     id <- sub(".*/", "", html_text(html_nodes(publications[j], "id")))
     
+    if (year(release_date) < 2019) break
+    
     # Create list for json output
     output_list$entries[[length(output_list$entries) + 1]] <-
       list(id = id,
@@ -153,7 +170,8 @@ while (has_pubs == TRUE) {
            release_date = release_date,
            display_date = display_date,
            updated = updated,
-           release_type = release_type)
+           org = org,
+           type = release_types[[release_type]])
     
   }
 }
