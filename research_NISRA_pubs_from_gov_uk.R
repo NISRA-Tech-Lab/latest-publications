@@ -125,6 +125,7 @@ while (has_pubs == TRUE) {
     }
     
     if (length(org) > 1) org <- setdiff(org, "NISRA")
+    if (length(org) > 1) org <- setdiff(org, "DoJ")
     org <- org[1]
     
     # Append to list of cancelled publications

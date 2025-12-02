@@ -1,7 +1,304 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-11-20T10:49:12Z",
+    "modified": "2025-12-02T11:33:31Z",
     "entries": [
+        {
+            "id": "northern-ireland-abortion-statistics-202425",
+            "title": "Northern Ireland Abortion Statistics 2024/25",
+            "summary": "The number of medical and surgical abortions at health and social care trusts in Northern Ireland during 2020/21 to 2024/25.",
+            "url": "https://datavis.nisra.gov.uk/health/ni-abortion-stats-2024-25.html",
+            "release_date": "2025-12-02T09:30:00Z",
+            "display_date": "2 December 2025",
+            "updated": "2025-12-02T09:30:01Z",
+            "org": "DoH",
+            "type": "OS"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-july-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to July 2025.",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:04Z",
+            "org": "DfE",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-21-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 21 November 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 21 November 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "annual-domestic-abuse-trends-report-202425",
+            "title": "Annual Domestic Abuse Trends Report 2024/25",
+            "summary": "Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-september-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 September 2025",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "PSNI",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-research-development-2024-results",
+            "title": "Northern Ireland Research & Development 2024 Results",
+            "summary": "This release provides a summary of R&D activity in Northern Ireland, and covers business, higher education and government expenditure.",
+            "url": "https://www.nisra.gov.uk/statistics/business-statistics/research-and-development",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "annual-crime-statistics-trends-report-202425",
+            "title": "Annual Crime Statistics Trends Report 2024/25",
+            "summary": "Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "PSNI",
+            "type": "AOS"
+        },
+        {
+            "id": "annual-hate-motivation-trends-report-202425",
+            "title": "Annual Hate Motivation Trends Report 2024/25",
+            "summary": "Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T09:30:02Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-july-to-september-2025",
+            "title": "NICTS Quarterly Provisional Figures July to September 2025",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T00:00:00Z",
+            "org": "NICTS",
+            "type": "AOS"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
+            "title": "Mortgages: Actions for possession bulletin July to September 2025",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2025-11-28T09:30:00Z",
+            "display_date": "28 November 2025",
+            "updated": "2025-11-28T00:00:00Z",
+            "org": "NICTS",
+            "type": "OS"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q2-25-26.html",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:10Z",
+            "org": "BSO",
+            "type": "AOS"
+        },
+        {
+            "id": "historical-weekly-deaths-data-2011-to-2024",
+            "title": "Historical Weekly Deaths Data, 2011 to 2024",
+            "summary": "A summary table of the number of deaths by week of registration and age, including data on deaths linked with a respiratory illness",
+            "url": "https://www.nisra.gov.uk/publications/historical-weekly-deaths-data",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:03Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "travel-survey-for-northern-ireland-report-2022-and-2023-data",
+            "title": "Travel Survey for Northern Ireland Report 2022 and 2023 data",
+            "summary": "Release of 2022 and 2023 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/travel-survey-northern-ireland",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:02Z",
+            "org": "DfI",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-annual-ports-traffic-2024",
+            "title": "Northern Ireland Annual Ports Traffic 2024",
+            "summary": "The Northern Ireland Ports Traffic publication provides statistics on passenger and freight traffic through Northern Ireland ports.",
+            "url": "https://www.nisra.gov.uk/statistics/other-surveys/ports-traffic",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 30 September 2025",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PSNI",
+            "type": "AOS"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-october-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 October 2025",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2025",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PSNI",
+            "type": "AOS"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2025",
+            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-sexual-offences-202425",
+            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2024/25",
+            "summary": "PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2024/25.",
+            "url": "https://www.ppsni.gov.uk/thematic-bulletins-sexual-offences",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PPS",
+            "type": "OS"
+        },
+        {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 September 2025",
+            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-july-september-2025",
+            "title": "Northern Ireland Housing Bulletin July - September 2025",
+            "summary": "A quarterly bulletin containing information on new social housing housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
+            "release_date": "2025-11-27T09:30:00Z",
+            "display_date": "27 November 2025",
+            "updated": "2025-11-27T09:30:01Z",
+            "org": "DfC",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-august-2025",
+            "title": "Northern Ireland Universal Credit Statistics: August 2025",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T09:30:02Z",
+            "org": "DfC",
+            "type": "OS"
+        },
+        {
+            "id": "health-survey-northern-ireland-first-results-202425--2",
+            "title": "Health Survey Northern Ireland: First Results 2024/25",
+            "summary": "First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
+            "url": "https://www.health-ni.gov.uk/topics/doh-statistics-and-research/health-survey-northern-ireland",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T09:30:02Z",
+            "org": "DoH",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-road-network-and-condition-statistics-2024-25",
+            "title": "Northern Ireland Road Network and Condition Statistics 2024-25",
+            "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-network-and-condition",
+            "release_date": "2025-11-26T09:30:00Z",
+            "display_date": "26 November 2025",
+            "updated": "2025-11-26T00:00:00Z",
+            "org": "DfI",
+            "type": "OS"
+        },
+        {
+            "id": "good-jobs-in-northern-ireland-2025",
+            "title": "Good Jobs in Northern Ireland 2025",
+            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "url": "https://www.nisra.gov.uk/statistics/work-pay-and-benefits/good-jobs-northern-ireland",
+            "release_date": "2025-11-25T09:30:00Z",
+            "display_date": "25 November 2025",
+            "updated": "2025-11-25T09:30:05Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-14-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 14 November 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 14 November 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025",
+            "updated": "2025-11-21T09:30:05Z",
+            "org": "NISRA",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2025",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2025)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
+            "release_date": "2025-11-21T09:30:00Z",
+            "display_date": "21 November 2025",
+            "updated": "2025-11-21T09:30:05Z",
+            "org": "DoH",
+            "type": "OS"
+        },
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
@@ -10,10 +307,7 @@
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025",
             "updated": "2025-11-20T09:30:10Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -24,10 +318,7 @@
             "release_date": "2025-11-20T09:30:00Z",
             "display_date": "20 November 2025",
             "updated": "2025-11-20T09:30:10Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -170,10 +461,7 @@
             "release_date": "2025-11-13T09:30:00Z",
             "display_date": "13 November 2025",
             "updated": "2025-11-13T09:30:12Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -569,10 +857,7 @@
             "release_date": "2025-10-23T09:30:00Z",
             "display_date": "23 October 2025",
             "updated": "2025-10-23T00:00:00Z",
-            "org": [
-                "DoJ",
-                "NIPS"
-            ],
+            "org": "NIPS",
             "type": "AOS"
         },
         {
@@ -781,10 +1066,7 @@
             "release_date": "2025-09-30T09:30:00Z",
             "display_date": "30 September 2025",
             "updated": "2025-09-30T09:30:04Z",
-            "org": [
-                "LSA",
-                "DoJ"
-            ],
+            "org": "LSA",
             "type": "OS"
         },
         {
@@ -1037,10 +1319,7 @@
             "release_date": "2025-09-18T09:30:00Z",
             "display_date": "18 September 2025",
             "updated": "2025-09-18T09:30:03Z",
-            "org": [
-                "DoJ",
-                "YJA"
-            ],
+            "org": "YJA",
             "type": "OS"
         },
         {
@@ -1381,10 +1660,7 @@
             "release_date": "2025-09-04T09:30:00Z",
             "display_date": "4 September 2025",
             "updated": "2025-09-04T00:00:00Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -1439,10 +1715,7 @@
             "release_date": "2025-08-28T09:30:00Z",
             "display_date": "28 August 2025",
             "updated": "2025-08-28T09:30:09Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -1596,10 +1869,7 @@
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025",
             "updated": "2025-08-22T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -1610,10 +1880,7 @@
             "release_date": "2025-08-22T09:30:00Z",
             "display_date": "22 August 2025",
             "updated": "2025-08-22T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -1624,10 +1891,7 @@
             "release_date": "2025-08-21T09:30:00Z",
             "display_date": "21 August 2025",
             "updated": "2025-08-21T09:30:12Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -1726,10 +1990,7 @@
             "release_date": "2025-08-14T09:30:00Z",
             "display_date": "14 August 2025",
             "updated": "2025-08-14T09:30:09Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -1927,10 +2188,7 @@
             "release_date": "2025-07-31T09:30:00Z",
             "display_date": "31 July 2025",
             "updated": "2025-07-31T09:30:15Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2326,10 +2584,7 @@
             "release_date": "2025-06-27T09:30:00Z",
             "display_date": "27 June 2025",
             "updated": "2025-06-27T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -2340,10 +2595,7 @@
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025",
             "updated": "2025-06-26T09:30:24Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2354,10 +2606,7 @@
             "release_date": "2025-06-26T09:30:00Z",
             "display_date": "26 June 2025",
             "updated": "2025-06-26T09:30:24Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2478,10 +2727,7 @@
             "release_date": "2025-06-24T09:30:00Z",
             "display_date": "24 June 2025",
             "updated": "2025-06-24T09:30:01Z",
-            "org": [
-                "NIPB",
-                "DoJ"
-            ],
+            "org": "NIPB",
             "type": "OS"
         },
         {
@@ -2525,10 +2771,7 @@
             "release_date": "2025-06-19T09:30:00Z",
             "display_date": "19 June 2025",
             "updated": "2025-06-19T09:30:13Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2627,10 +2870,7 @@
             "release_date": "2025-06-12T09:30:00Z",
             "display_date": "12 June 2025",
             "updated": "2025-06-12T09:30:06Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2641,10 +2881,7 @@
             "release_date": "2025-06-12T09:30:00Z",
             "display_date": "12 June 2025",
             "updated": "2025-06-12T09:30:06Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2842,10 +3079,7 @@
             "release_date": "2025-06-05T09:30:00Z",
             "display_date": "5 June 2025",
             "updated": "2025-06-05T09:30:06Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -2856,10 +3090,7 @@
             "release_date": "2025-06-05T09:30:00Z",
             "display_date": "5 June 2025",
             "updated": "2025-06-05T09:30:05Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -3112,10 +3343,7 @@
             "release_date": "2025-05-29T09:30:00Z",
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:11Z",
-            "org": [
-                "LSA",
-                "DoJ"
-            ],
+            "org": "LSA",
             "type": "OS"
         },
         {
@@ -3126,10 +3354,7 @@
             "release_date": "2025-05-29T09:30:00Z",
             "display_date": "29 May 2025",
             "updated": "2025-05-29T09:30:10Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -3327,10 +3552,7 @@
             "release_date": "2025-05-23T09:30:00Z",
             "display_date": "23 May 2025",
             "updated": "2025-05-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -3341,10 +3563,7 @@
             "release_date": "2025-05-23T09:30:00Z",
             "display_date": "23 May 2025",
             "updated": "2025-05-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -4411,10 +4630,7 @@
             "release_date": "2025-02-28T09:30:00Z",
             "display_date": "28 February 2025",
             "updated": "2025-02-28T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -4425,10 +4641,7 @@
             "release_date": "2025-02-28T09:30:00Z",
             "display_date": "28 February 2025",
             "updated": "2025-02-28T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -4450,10 +4663,7 @@
             "release_date": "2025-02-27T09:30:00Z",
             "display_date": "27 February 2025",
             "updated": "2025-02-27T09:30:20Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -4486,10 +4696,7 @@
             "release_date": "2025-02-27T09:30:00Z",
             "display_date": "27 February 2025",
             "updated": "2025-02-27T09:30:20Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -4731,10 +4938,7 @@
             "release_date": "2025-02-20T09:30:00Z",
             "display_date": "20 February 2025",
             "updated": "2025-02-20T09:30:08Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "OS"
         },
         {
@@ -4844,10 +5048,7 @@
             "release_date": "2025-02-13T09:30:00Z",
             "display_date": "13 February 2025",
             "updated": "2025-02-13T09:30:10Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -5001,10 +5202,7 @@
             "release_date": "2025-02-06T09:30:00Z",
             "display_date": "6 February 2025",
             "updated": "2025-02-06T09:30:09Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -5125,10 +5323,7 @@
             "release_date": "2025-01-30T09:30:00Z",
             "display_date": "30 January 2025",
             "updated": "2025-01-30T09:30:11Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -6085,10 +6280,7 @@
             "release_date": "2024-11-29T09:30:00Z",
             "display_date": "29 November 2024",
             "updated": "2024-11-29T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -6099,10 +6291,7 @@
             "release_date": "2024-11-29T09:30:00Z",
             "display_date": "29 November 2024",
             "updated": "2024-11-29T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -6564,10 +6753,7 @@
             "release_date": "2024-11-14T09:30:00Z",
             "display_date": "14 November 2024",
             "updated": "2024-11-14T09:30:10Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -6688,10 +6874,7 @@
             "release_date": "2024-11-07T09:30:00Z",
             "display_date": "7 November 2024",
             "updated": "2024-11-07T09:30:08Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -6768,10 +6951,7 @@
             "release_date": "2024-10-31T09:30:00Z",
             "display_date": "31 October 2024",
             "updated": "2024-10-31T09:30:11Z",
-            "org": [
-                "BSO",
-                "DoH"
-            ],
+            "org": "BSO",
             "type": "AOS"
         },
         {
@@ -6925,10 +7105,7 @@
             "release_date": "2024-10-24T09:30:00Z",
             "display_date": "24 October 2024",
             "updated": "2024-10-24T00:00:00Z",
-            "org": [
-                "DoJ",
-                "NIPS"
-            ],
+            "org": "NIPS",
             "type": "AOS"
         },
         {
@@ -7830,10 +8007,7 @@
             "release_date": "2024-08-23T09:30:00Z",
             "display_date": "23 August 2024",
             "updated": "2024-08-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -7844,10 +8018,7 @@
             "release_date": "2024-08-23T09:30:00Z",
             "display_date": "23 August 2024",
             "updated": "2024-08-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -8650,10 +8821,7 @@
             "release_date": "2024-06-28T09:30:00Z",
             "display_date": "28 June 2024",
             "updated": "2024-06-28T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -8697,10 +8865,7 @@
             "release_date": "2024-06-27T09:30:00Z",
             "display_date": "27 June 2024",
             "updated": "2024-06-27T09:30:10Z",
-            "org": [
-                "LSA",
-                "DoJ"
-            ],
+            "org": "LSA",
             "type": "OS"
         },
         {
@@ -9514,10 +9679,7 @@
             "release_date": "2024-05-24T09:30:00Z",
             "display_date": "24 May 2024",
             "updated": "2024-05-24T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -9528,10 +9690,7 @@
             "release_date": "2024-05-24T09:30:00Z",
             "display_date": "24 May 2024",
             "updated": "2024-05-24T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -10147,10 +10306,7 @@
             "release_date": "2024-03-28T09:30:00Z",
             "display_date": "28 March 2024",
             "updated": "2024-03-28T09:30:07Z",
-            "org": [
-                "LSA",
-                "DoJ"
-            ],
+            "org": "LSA",
             "type": "OS"
         },
         {
@@ -10810,10 +10966,7 @@
             "release_date": "2024-02-23T09:30:00Z",
             "display_date": "23 February 2024",
             "updated": "2024-02-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -10824,10 +10977,7 @@
             "release_date": "2024-02-23T09:30:00Z",
             "display_date": "23 February 2024",
             "updated": "2024-02-23T00:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -12334,10 +12484,7 @@
             "release_date": "2023-11-24T09:30:00Z",
             "display_date": "24 November 2023",
             "updated": "2023-11-24T00:00:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -12887,10 +13034,7 @@
             "release_date": "2023-10-26T09:30:00Z",
             "display_date": "26 October 2023",
             "updated": "2023-10-26T00:00:00Z",
-            "org": [
-                "DoJ",
-                "NIPS"
-            ],
+            "org": "NIPS",
             "type": "AOS"
         },
         {
@@ -13770,10 +13914,7 @@
             "release_date": "2023-08-25T09:30:00Z",
             "display_date": "25 August 2023",
             "updated": "2023-08-25T11:02:05Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -13784,10 +13925,7 @@
             "release_date": "2023-08-25T09:30:00Z",
             "display_date": "25 August 2023",
             "updated": "2023-08-25T11:01:35Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -14524,10 +14662,7 @@
             "release_date": "2023-06-30T09:30:00Z",
             "display_date": "30 June 2023",
             "updated": "2023-06-30T14:11:48Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -15275,10 +15410,7 @@
             "release_date": "2023-05-26T09:30:00Z",
             "display_date": "26 May 2023",
             "updated": "2023-06-05T09:47:58Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -15289,10 +15421,7 @@
             "release_date": "2023-05-26T09:30:00Z",
             "display_date": "26 May 2023",
             "updated": "2023-06-05T09:47:51Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -16733,10 +16862,7 @@
             "release_date": "2023-02-24T09:30:00Z",
             "display_date": "24 February 2023",
             "updated": "2023-02-27T08:35:53Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -16747,10 +16873,7 @@
             "release_date": "2023-02-24T09:30:00Z",
             "display_date": "24 February 2023",
             "updated": "2023-02-27T08:35:45Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -17102,10 +17225,7 @@
             "release_date": "2023-02-14T09:30:00Z",
             "display_date": "14 February 2023",
             "updated": "2023-02-14T13:10:53Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -18403,10 +18523,7 @@
             "release_date": "2022-11-25T09:30:00Z",
             "display_date": "25 November 2022",
             "updated": "2022-11-25T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -18417,10 +18534,7 @@
             "release_date": "2022-11-25T09:30:00Z",
             "display_date": "25 November 2022",
             "updated": "2022-11-25T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -19608,10 +19722,7 @@
             "release_date": "2022-09-16T09:30:00Z",
             "display_date": "16 September 2022",
             "updated": "2022-09-16T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NIPS"
-            ],
+            "org": "NIPS",
             "type": "AOS"
         },
         {
@@ -19787,10 +19898,7 @@
             "release_date": "2022-09-12T09:30:00Z",
             "display_date": "12 September 2022",
             "updated": "2022-09-12T09:30:00Z",
-            "org": [
-                "DoJ",
-                "YJA"
-            ],
+            "org": "YJA",
             "type": "AOS"
         },
         {
@@ -20142,10 +20250,7 @@
             "release_date": "2022-08-19T09:30:00Z",
             "display_date": "19 August 2022",
             "updated": "2022-08-19T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -20156,10 +20261,7 @@
             "release_date": "2022-08-19T09:30:00Z",
             "display_date": "19 August 2022",
             "updated": "2022-08-19T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -20951,10 +21053,7 @@
             "release_date": "2022-06-24T09:30:00Z",
             "display_date": "24 June 2022",
             "updated": "2022-06-24T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -21669,10 +21768,7 @@
             "release_date": "2022-05-20T09:30:00Z",
             "display_date": "20 May 2022",
             "updated": "2022-05-20T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -21683,10 +21779,7 @@
             "release_date": "2022-05-20T09:30:00Z",
             "display_date": "20 May 2022",
             "updated": "2022-05-20T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -22962,10 +23055,7 @@
             "release_date": "2022-02-25T09:30:00Z",
             "display_date": "25 February 2022",
             "updated": "2022-02-25T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -23240,10 +23330,7 @@
             "release_date": "2022-02-18T09:30:00Z",
             "display_date": "18 February 2022",
             "updated": "2022-02-18T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -23265,10 +23352,7 @@
             "release_date": "2022-02-18T09:30:00Z",
             "display_date": "18 February 2022",
             "updated": "2022-02-18T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -23279,10 +23363,7 @@
             "release_date": "2022-02-18T09:30:00Z",
             "display_date": "18 February 2022",
             "updated": "2022-02-18T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -23491,10 +23572,7 @@
             "release_date": "2022-02-11T09:30:00Z",
             "display_date": "11 February 2022",
             "updated": "2022-02-11T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -23505,10 +23583,7 @@
             "release_date": "2022-02-11T09:30:00Z",
             "display_date": "11 February 2022",
             "updated": "2022-02-11T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -24905,10 +24980,7 @@
             "release_date": "2021-11-19T09:30:00Z",
             "display_date": "19 November 2021",
             "updated": "2021-11-19T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -25029,10 +25101,7 @@
             "release_date": "2021-11-12T09:30:00Z",
             "display_date": "12 November 2021",
             "updated": "2021-11-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -25043,10 +25112,7 @@
             "release_date": "2021-11-12T09:30:00Z",
             "display_date": "12 November 2021",
             "updated": "2021-11-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -25057,10 +25123,7 @@
             "release_date": "2021-11-12T09:30:00Z",
             "display_date": "12 November 2021",
             "updated": "2021-11-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -25170,10 +25233,7 @@
             "release_date": "2021-11-05T09:30:00Z",
             "display_date": "5 November 2021",
             "updated": "2021-11-05T10:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -25184,10 +25244,7 @@
             "release_date": "2021-11-05T09:30:00Z",
             "display_date": "5 November 2021",
             "updated": "2021-11-05T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -25715,10 +25772,7 @@
             "release_date": "2021-10-07T09:30:00Z",
             "display_date": "7 October 2021",
             "updated": "2021-10-07T09:30:00Z",
-            "org": [
-                "YJA",
-                "DoJ"
-            ],
+            "org": "YJA",
             "type": "OS"
         },
         {
@@ -26554,10 +26608,7 @@
             "release_date": "2021-08-20T09:30:00Z",
             "display_date": "20 August 2021",
             "updated": "2021-08-20T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -26711,10 +26762,7 @@
             "release_date": "2021-08-13T09:30:00Z",
             "display_date": "13 August 2021",
             "updated": "2021-08-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -26725,10 +26773,7 @@
             "release_date": "2021-08-13T09:30:00Z",
             "display_date": "13 August 2021",
             "updated": "2021-08-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -26739,10 +26784,7 @@
             "release_date": "2021-08-13T09:30:00Z",
             "display_date": "13 August 2021",
             "updated": "2021-08-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -26874,10 +26916,7 @@
             "release_date": "2021-08-06T09:30:00Z",
             "display_date": "6 August 2021",
             "updated": "2021-08-06T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -26888,10 +26927,7 @@
             "release_date": "2021-08-06T09:30:00Z",
             "display_date": "6 August 2021",
             "updated": "2021-08-06T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -27529,10 +27565,7 @@
             "release_date": "2021-06-25T09:30:00Z",
             "display_date": "25 June 2021",
             "updated": "2021-06-25T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -28368,10 +28401,7 @@
             "release_date": "2021-05-21T09:30:00Z",
             "display_date": "21 May 2021",
             "updated": "2021-05-21T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -28547,10 +28577,7 @@
             "release_date": "2021-05-14T09:30:00Z",
             "display_date": "14 May 2021",
             "updated": "2021-05-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -28561,10 +28588,7 @@
             "release_date": "2021-05-14T09:30:00Z",
             "display_date": "14 May 2021",
             "updated": "2021-05-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -28575,10 +28599,7 @@
             "release_date": "2021-05-14T09:30:00Z",
             "display_date": "14 May 2021",
             "updated": "2021-05-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -28688,10 +28709,7 @@
             "release_date": "2021-05-07T09:30:00Z",
             "display_date": "7 May 2021",
             "updated": "2021-05-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -28713,10 +28731,7 @@
             "release_date": "2021-05-07T09:30:00Z",
             "display_date": "7 May 2021",
             "updated": "2021-05-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -29849,10 +29864,7 @@
             "release_date": "2021-02-19T09:30:00Z",
             "display_date": "19 February 2021",
             "updated": "2021-02-19T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -29973,10 +29985,7 @@
             "release_date": "2021-02-12T09:30:00Z",
             "display_date": "12 February 2021",
             "updated": "2021-02-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -29987,10 +29996,7 @@
             "release_date": "2021-02-12T09:30:00Z",
             "display_date": "12 February 2021",
             "updated": "2021-02-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -30001,10 +30007,7 @@
             "release_date": "2021-02-12T09:30:00Z",
             "display_date": "12 February 2021",
             "updated": "2021-02-12T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -30158,10 +30161,7 @@
             "release_date": "2021-02-05T09:30:00Z",
             "display_date": "5 February 2021",
             "updated": "2021-02-05T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -30172,10 +30172,7 @@
             "release_date": "2021-02-05T09:30:00Z",
             "display_date": "5 February 2021",
             "updated": "2021-02-05T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -31374,10 +31371,7 @@
             "release_date": "2020-11-20T09:30:00Z",
             "display_date": "20 November 2020",
             "updated": "2020-11-20T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -31531,10 +31525,7 @@
             "release_date": "2020-11-13T09:30:00Z",
             "display_date": "13 November 2020",
             "updated": "2020-11-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -31545,10 +31536,7 @@
             "release_date": "2020-11-13T09:30:00Z",
             "display_date": "13 November 2020",
             "updated": "2020-11-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -31559,10 +31547,7 @@
             "release_date": "2020-11-13T09:30:00Z",
             "display_date": "13 November 2020",
             "updated": "2020-11-13T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -31705,10 +31690,7 @@
             "release_date": "2020-11-06T09:30:00Z",
             "display_date": "6 November 2020",
             "updated": "2020-11-06T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -31719,10 +31701,7 @@
             "release_date": "2020-11-06T09:30:00Z",
             "display_date": "6 November 2020",
             "updated": "2020-11-06T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -32206,10 +32185,7 @@
             "release_date": "2020-10-15T09:30:00Z",
             "display_date": "15 October 2020",
             "updated": "2020-10-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "YJA"
-            ],
+            "org": "YJA",
             "type": "OS"
         },
         {
@@ -32319,10 +32295,7 @@
             "release_date": "2020-10-09T09:30:00Z",
             "display_date": "9 October 2020",
             "updated": "2020-10-09T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -32575,10 +32548,7 @@
             "release_date": "2020-09-25T09:30:00Z",
             "display_date": "25 September 2020",
             "updated": "2020-09-25T09:30:05Z",
-            "org": [
-                "NIPS",
-                "DoJ"
-            ],
+            "org": "NIPS",
             "type": "AOS"
         },
         {
@@ -33293,10 +33263,7 @@
             "release_date": "2020-08-21T09:30:00Z",
             "display_date": "21 August 2020",
             "updated": "2020-08-21T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33362,10 +33329,7 @@
             "release_date": "2020-08-14T09:30:00Z",
             "display_date": "14 August 2020",
             "updated": "2020-08-14T10:00:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -33387,10 +33351,7 @@
             "release_date": "2020-08-14T09:30:00Z",
             "display_date": "14 August 2020",
             "updated": "2020-08-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33401,10 +33362,7 @@
             "release_date": "2020-08-14T09:30:00Z",
             "display_date": "14 August 2020",
             "updated": "2020-08-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33536,10 +33494,7 @@
             "release_date": "2020-08-07T09:30:00Z",
             "display_date": "7 August 2020",
             "updated": "2020-08-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33550,10 +33505,7 @@
             "release_date": "2020-08-07T09:30:00Z",
             "display_date": "7 August 2020",
             "updated": "2020-08-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33839,10 +33791,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:45:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33853,10 +33802,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33867,10 +33813,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33881,10 +33824,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33895,10 +33835,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -33909,10 +33846,7 @@
             "release_date": "2020-07-17T09:30:00Z",
             "display_date": "17 July 2020",
             "updated": "2020-07-17T10:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -35694,10 +35628,7 @@
             "release_date": "2020-02-21T09:30:00Z",
             "display_date": "21 February 2020",
             "updated": "2020-02-21T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -35796,10 +35727,7 @@
             "release_date": "2020-02-14T09:30:00Z",
             "display_date": "14 February 2020",
             "updated": "2020-02-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -35810,10 +35738,7 @@
             "release_date": "2020-02-14T09:30:00Z",
             "display_date": "14 February 2020",
             "updated": "2020-02-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -35824,10 +35749,7 @@
             "release_date": "2020-02-14T09:30:00Z",
             "display_date": "14 February 2020",
             "updated": "2020-02-14T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -35904,10 +35826,7 @@
             "release_date": "2020-02-07T09:30:00Z",
             "display_date": "7 February 2020",
             "updated": "2020-02-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -35918,10 +35837,7 @@
             "release_date": "2020-02-07T09:30:00Z",
             "display_date": "7 February 2020",
             "updated": "2020-02-07T09:30:00Z",
-            "org": [
-                "NICTS",
-                "DoJ"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -36757,10 +36673,7 @@
             "release_date": "2019-11-22T09:30:00Z",
             "display_date": "22 November 2019",
             "updated": "2019-11-22T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -36826,10 +36739,7 @@
             "release_date": "2019-11-15T09:30:00Z",
             "display_date": "15 November 2019",
             "updated": "2019-11-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -36840,10 +36750,7 @@
             "release_date": "2019-11-15T09:30:00Z",
             "display_date": "15 November 2019",
             "updated": "2019-11-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -36854,10 +36761,7 @@
             "release_date": "2019-11-15T09:30:00Z",
             "display_date": "15 November 2019",
             "updated": "2019-11-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -36868,10 +36772,7 @@
             "release_date": "2019-11-14T09:30:00Z",
             "display_date": "14 November 2019",
             "updated": "2019-11-14T09:30:05Z",
-            "org": [
-                "YJA",
-                "DoJ"
-            ],
+            "org": "YJA",
             "type": "OS"
         },
         {
@@ -36970,10 +36871,7 @@
             "release_date": "2019-11-08T09:30:00Z",
             "display_date": "8 November 2019",
             "updated": "2019-11-08T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -36984,10 +36882,7 @@
             "release_date": "2019-11-08T09:30:00Z",
             "display_date": "8 November 2019",
             "updated": "2019-11-08T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -37801,10 +37696,7 @@
             "release_date": "2019-08-23T09:30:00Z",
             "display_date": "23 August 2019",
             "updated": "2019-08-23T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -37892,10 +37784,7 @@
             "release_date": "2019-08-16T09:30:00Z",
             "display_date": "16 August 2019",
             "updated": "2019-08-16T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -37906,10 +37795,7 @@
             "release_date": "2019-08-16T09:30:00Z",
             "display_date": "16 August 2019",
             "updated": "2019-08-16T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -37920,10 +37806,7 @@
             "release_date": "2019-08-16T09:30:00Z",
             "display_date": "16 August 2019",
             "updated": "2019-08-16T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -38022,10 +37905,7 @@
             "release_date": "2019-08-09T09:30:00Z",
             "display_date": "9 August 2019",
             "updated": "2019-08-09T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -38036,10 +37916,7 @@
             "release_date": "2019-08-09T09:30:00Z",
             "display_date": "9 August 2019",
             "updated": "2019-08-09T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -38294,6 +38171,83 @@
             "updated": "2019-07-16T09:30:02Z",
             "org": "NISRA",
             "type": "OS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-april-2019",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 April 2019",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police. ",
+            "url": "https://www.psni.police.uk/inside-psni/Statistics/",
+            "release_date": "2019-06-28T09:30:00Z",
+            "display_date": "28 June 2019",
+            "updated": "2019-06-28T09:30:04Z",
+            "org": "PSNI",
+            "type": "AOS"
+        },
+        {
+            "id": "burden-to-households-and-individuals-of-completing-statistical-surveys-issued-by-northern-ireland-departments-201718",
+            "title": "NI Statistical Surveys - Burden to Households and Individuals 2017/18",
+            "summary": "Summary details on the burden to households and individuals of complying with Government statistical surveys in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/government/ni-statistical-surveys-assessment-burden",
+            "release_date": "2019-06-28T09:30:00Z",
+            "display_date": "28 June 2019",
+            "updated": "2019-06-28T09:30:00Z",
+            "org": "NISRA",
+            "type": "OS"
+        },
+        {
+            "id": "judicial-statistics-2018",
+            "title": "Judicial Statistics 2018",
+            "summary": "This publication provides statistical information in relation to the criminal, civil and family business conducted by the Northern Ireland Courts and Tribunals Service (NICTS) and the work of some associated offices for the …",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
+            "release_date": "2019-06-28T09:30:00Z",
+            "display_date": "28 June 2019",
+            "updated": "2019-06-28T09:30:00Z",
+            "org": "NICTS",
+            "type": "AOS"
+        },
+        {
+            "id": "higher-education-statistical-fact-sheets-201718",
+            "title": "Higher Education Statistical Fact Sheets 2017/18",
+            "summary": "A range of Higher Education fact sheets, including topics such as Age Participation Index for NI and equality categories, 2017/18.",
+            "url": "https://www.gov.uk/government/statistics/higher-education-statistical-fact-sheets-201718",
+            "release_date": "2019-06-27T09:30:00Z",
+            "display_date": "27 June 2019",
+            "updated": "2019-06-27T11:38:00Z",
+            "org": "DfE",
+            "type": "OS"
+        },
+        {
+            "id": "ni-annual-business-inquiry-2017-lu-results",
+            "title": "NI Annual Business Inquiry 2017: LU Results",
+            "summary": "Local Unit (LU) results from the Northern Ireland Annual Business Inquiry 2017.",
+            "url": "https://www.nisra.gov.uk/statistics/business-statistics/annual-business-inquiry",
+            "release_date": "2019-06-27T09:30:00Z",
+            "display_date": "27 June 2019",
+            "updated": "2019-06-27T09:30:06Z",
+            "org": "DoF",
+            "type": "AOS"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-may-2019",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 May 2019",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics. ",
+            "url": "https://www.psni.police.uk/inside-psni/Statistics/",
+            "release_date": "2019-06-27T09:30:00Z",
+            "display_date": "27 June 2019",
+            "updated": "2019-06-27T09:30:06Z",
+            "org": "PSNI",
+            "type": "OS"
+        },
+        {
+            "id": "waiting-time-statistics-cancer-waiting-times-january-to-march-2019",
+            "title": "Waiting time statistics: cancer waiting times (January to March 2019)",
+            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during January, February & March 2019.  ",
+            "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
+            "release_date": "2019-06-27T09:30:00Z",
+            "display_date": "27 June 2019",
+            "updated": "2019-06-27T09:30:06Z",
+            "org": "DoH",
+            "type": "AOS"
         },
         {
             "id": "northern-ireland-business-register-and-employment-survey-2018",
@@ -38886,10 +38840,7 @@
             "release_date": "2019-05-29T09:30:00Z",
             "display_date": "29 May 2019",
             "updated": "2019-05-29T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39087,10 +39038,7 @@
             "release_date": "2019-05-17T09:30:00Z",
             "display_date": "17 May 2019",
             "updated": "2019-05-17T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39101,10 +39049,7 @@
             "release_date": "2019-05-17T09:30:00Z",
             "display_date": "17 May 2019",
             "updated": "2019-05-17T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39115,10 +39060,7 @@
             "release_date": "2019-05-17T09:30:00Z",
             "display_date": "17 May 2019",
             "updated": "2019-05-17T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -39184,10 +39126,7 @@
             "release_date": "2019-05-10T09:30:00Z",
             "display_date": "10 May 2019",
             "updated": "2019-05-10T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39198,10 +39137,7 @@
             "release_date": "2019-05-10T09:30:00Z",
             "display_date": "10 May 2019",
             "updated": "2019-05-10T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39355,149 +39291,6 @@
             "release_date": "2019-04-11T09:30:00Z",
             "display_date": "11 April 2019",
             "updated": "2019-04-11T09:30:02Z",
-            "org": "NISRA",
-            "type": "OS"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-28-february-2019",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 28 February 2019",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics. ",
-            "url": "https://www.psni.police.uk/inside-psni/Statistics/",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:11Z",
-            "org": "PSNI",
-            "type": "OS"
-        },
-        {
-            "id": "experience-of-volunteering-by-adults-in-northern-ireland-201718",
-            "title": "Experience of volunteering by adults in Northern Ireland, 2017/18",
-            "summary": "An annual publication containing survey results on volunteering by adults in Northern Ireland.\r\n",
-            "url": "https://www.communities-ni.gov.uk/topics/dfc-statistics-and-research",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:11Z",
-            "org": "DfC",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-28-february-2019",
-            "title": "Police recorded crime in Northern Ireland, period ending 28 February 2019",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures. ",
-            "url": "https://www.psni.police.uk/Statistics/",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:11Z",
-            "org": "PSNI",
-            "type": "AOS"
-        },
-        {
-            "id": "family-practitioner-services-statistics-for-northern-ireland-quarter-3-201819",
-            "title": "Family Practitioner Services Statistics for Northern Ireland Quarter 3 2018/19",
-            "summary": "This report presents summary activity and payment statstics related to Northern Ireland General Medical Services, Community Dentistry, Community Ophthalmic and Community Pharmaceutical Services for quarter 3 2018/19.",
-            "url": "http://www.hscbusiness.hscni.net/services/2999.htm",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:10Z",
-            "org": "DoF",
-            "type": "OS"
-        },
-        {
-            "id": "waiting-time-statistics-cancer-waiting-times-october-to-december-2018",
-            "title": "Waiting time statistics: cancer waiting times (October to December 2018)",
-            "summary": "This statistics release gives details of the waiting times for patients accessing cancer services at hospitals in Northern Ireland during October, November & December 2018.  ",
-            "url": "https://www.health-ni.gov.uk/articles/cancer-waiting-times",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:09Z",
-            "org": "DoH",
-            "type": "AOS"
-        },
-        {
-            "id": "statistical-review-of-northern-ireland-agriculture-2018",
-            "title": "Statistical Review of Northern Ireland Agriculture: 2018",
-            "summary": "The Statistical Review of Northern Ireland Agriculture is the primary source of statistics for the agricultural industry in Northern Ireland. It contains a wide range of statistics on the agricultural economy (including TIFF…",
-            "url": "https://www.daera-ni.gov.uk/publications/statistical-review-ni-agriculture-2007-onward",
-            "release_date": "2019-03-28T09:30:00Z",
-            "display_date": "28 March 2019",
-            "updated": "2019-03-28T09:30:00Z",
-            "org": "DAERA",
-            "type": "AOS"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-january-2019",
-            "title": "Employment in the Northern Ireland Civil Service, January 2019",
-            "summary": "A snapshot of the number of staff in the Service (headcount and full-time equivalent) with accompanying trend data.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/employment-statistics",
-            "release_date": "2019-03-27T09:30:00Z",
-            "display_date": "27 March 2019",
-            "updated": "2019-03-27T09:30:03Z",
-            "org": "DoF",
-            "type": "OS"
-        },
-        {
-            "id": "public-transport-journey-planning-in-northern-ireland-201718",
-            "title": "Public Transport Journey Planning in Northern Ireland 2017/18",
-            "summary": "This report presents findings from the 2017/18 Continuous Household Survey in relation to public attitudes to and awareness of resources for planning journeys on public transport.\r\n",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-journey-planning",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
-            "org": "DfI",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-4-2018",
-            "title": "Northern Ireland index of production: Quarter 4 2018",
-            "summary": "Quarterly index of the Northern Ireland production industry.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
-            "org": "NISRA",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-4-2018",
-            "title": "Northern Ireland index of services: Quarter 4 2018",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
-            "org": "NISRA",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-october-december-2018",
-            "title": "Northern Ireland planning statistics October - December 2018",
-            "summary": "Provisional quarterly results for the third quarter of 2018/19. Northern Ireland planning volumes and processing performance data.\r\n",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/planning-activity-statistics",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
-            "org": "DfI",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-broad-economy-sales-exports-statistics-2017-goods",
-            "title": "Northern Ireland Broad Economy Sales & Exports Statistics 2017 - Goods",
-            "summary": "This release provides annual estimates of the sales and exports of goods and services generated by Northern Ireland businesses.",
-            "url": "https://www.nisra.gov.uk/statistics/business-statistics/broad-economy-sales-and-exports-statistics ",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
-            "org": "NISRA",
-            "type": "OS"
-        },
-        {
-            "id": "analysis-of-northern-ireland-civil-service-recruitment-competitions-1-january-2018-to-31-december-2018",
-            "title": "Analysis of Northern Ireland Civil Service recruitment competitions, 1 January 2018 to 31 December 2018",
-            "summary": "Presents a profile based on equality categories of those who participated in recruitment competitions for the Northern Ireland Civil Service (NICS)",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/recruitment-competition-statistics",
-            "release_date": "2019-03-21T09:30:00Z",
-            "display_date": "21 March 2019",
-            "updated": "2019-03-21T09:30:11Z",
             "org": "NISRA",
             "type": "OS"
         },
@@ -39861,10 +39654,7 @@
             "release_date": "2019-02-22T09:30:00Z",
             "display_date": "22 February 2019",
             "updated": "2019-02-22T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39897,10 +39687,7 @@
             "release_date": "2019-02-15T09:30:00Z",
             "display_date": "15 February 2019",
             "updated": "2019-02-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -39911,10 +39698,7 @@
             "release_date": "2019-02-15T09:30:00Z",
             "display_date": "15 February 2019",
             "updated": "2019-02-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "AOS"
         },
         {
@@ -39925,10 +39709,7 @@
             "release_date": "2019-02-15T09:30:00Z",
             "display_date": "15 February 2019",
             "updated": "2019-02-15T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -40027,10 +39808,7 @@
             "release_date": "2019-02-08T09:30:00Z",
             "display_date": "8 February 2019",
             "updated": "2019-02-08T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
@@ -40041,10 +39819,7 @@
             "release_date": "2019-02-08T09:30:00Z",
             "display_date": "8 February 2019",
             "updated": "2019-02-08T09:30:00Z",
-            "org": [
-                "DoJ",
-                "NICTS"
-            ],
+            "org": "NICTS",
             "type": "OS"
         },
         {
