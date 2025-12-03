@@ -193,8 +193,7 @@ for (i in 1:nrow(pub_info)) {
          summary = HTMLdecode(pub_info$summary[i]),
          release_date = pub_info$release_date[i],
          display_date = pub_info$meta_data[i],
-         # updated = pub_info$updated[i],
-         updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+         updated = pub_info$updated[i],
          org = pub_info$org[i],
          type = release_types[[pub_info$release_type[i]]],
          status = pub_info$status[i])

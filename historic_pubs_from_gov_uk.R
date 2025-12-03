@@ -180,8 +180,7 @@ while (has_pubs == TRUE) {
            url = pub_link,
            release_date = release_date,
            display_date = display_date,
-           # updated = updated,
-           updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+           updated = updated,
            org = org,
            type = release_types[[release_type]])
     
