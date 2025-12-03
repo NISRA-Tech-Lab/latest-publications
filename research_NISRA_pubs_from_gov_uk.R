@@ -146,7 +146,8 @@ while (has_pubs == TRUE) {
            release_date = release_date,
            display_date = display_date,
            org = org,
-           updated = updated,
+           # updated = updated,
+           updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
            type = "R")
     
   }
