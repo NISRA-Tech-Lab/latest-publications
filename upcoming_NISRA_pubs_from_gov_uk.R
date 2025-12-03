@@ -106,6 +106,15 @@ while (has_pubs == TRUE) {
     # Remove cancelled publications and only extract meta data item with publication date in it
     meta_data <- meta_data[grepl("confirmed|provisional|delayed", meta_data)]
     
+    p_tags <- html_nodes(gov_uk_page, "p")
+    
+    for (k in 1:length(p_tags)) {
+      class <- html_attr(p_tags[k], "class")
+      if (class == "gem-c-lead-paragraph" & !is.na(class)) {
+        summary <- trimws(html_text(p_tags[k]))
+      }
+    }
+    
     updated <- html_text(html_nodes(publications[j], "updated")) %>% 
       sub("\\+00:00", "Z", .) %>% 
       sub("\\+01:00", "Z", .)
@@ -135,7 +144,7 @@ while (has_pubs == TRUE) {
                              id = id,
                              meta_data = trimws(meta_data),
                              updated = updated,
-                             summary = trimws(html_text(html_nodes(publications[j], "summary"))),
+                             summary = HTMLdecode(summary),
                              release_type = release_type,
                              org = org,
                              stringsAsFactors = FALSE)) # Avoid factors in data frame

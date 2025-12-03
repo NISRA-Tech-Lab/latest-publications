@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-03T07:18:55Z",
+    "modified": "2025-12-03T09:22:11Z",
     "entries": [
         {
             "id": "northern-ireland-abortion-statistics-202425",
@@ -588,7 +588,7 @@
         {
             "id": "ni-labour-market-statistics-november-2025",
             "title": "NI Labour Market statistics: November 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
             "release_date": "2025-11-11T07:00:00Z",
             "display_date": "11 November 2025",
@@ -610,7 +610,7 @@
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2025",
             "title": "Security Situation Statistics for Northern Ireland, period ending 31 October 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.\r\n\r\n",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
             "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
             "release_date": "2025-11-07T07:00:00Z",
             "display_date": "7 November 2025",
@@ -764,7 +764,7 @@
         {
             "id": "walking-and-cycling-in-northern-ireland-202425",
             "title": "Walking and Cycling in Northern Ireland 2024/25",
-            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.\r\n",
+            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.",
             "url": "https://www.infrastructure-ni.gov.uk/articles/walking-and-cycling-0",
             "release_date": "2025-10-30T07:00:00Z",
             "display_date": "30 October 2025",
@@ -918,7 +918,7 @@
         {
             "id": "ni-labour-market-statistics-october-2025",
             "title": "NI Labour Market statistics: October 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings. ",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
             "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
             "release_date": "2025-10-14T07:00:00Z",
             "display_date": "14 October 2025",
@@ -1072,7 +1072,7 @@
         {
             "id": "household-water-usage-in-northern-ireland-202425",
             "title": "Household Water Usage in Northern Ireland 2024/25",
-            "summary": "This report presents findings from the 2024/2025 Continuous Household Survey in relation to household water usage. \r\n\r\n",
+            "summary": "This report presents findings from the 2024/2025 Continuous Household Survey in relation to household water usage.",
             "url": "https://www.infrastructure-ni.gov.uk/topics/dfi-statistics-and-research",
             "release_date": "2025-09-30T07:00:00Z",
             "display_date": "30 September 2025",
@@ -1105,7 +1105,7 @@
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
             "title": "Northern Ireland waiting time statistics: outpatient waiting times September 2025",
-            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for a first appointment at a consultant-led outpatient service and integrated clinical assessment and treatment services (ICATS) at healt…",
+            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for a first appointment at a consultant-led outpatient service and integrated clinical assessment and treatment services (ICATS) at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-20T15:13:07Z",
@@ -1116,7 +1116,7 @@
         {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-september-2025",
             "title": "Northern Ireland waiting time statistics: diagnostic waiting times September 2025",
-            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for diagnostic services, as well as diagnostic reporting turnaround times at health and social care trusts in Northern Ireland. The infor…",
+            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for diagnostic services, as well as diagnostic reporting turnaround times at health and social care trusts in Northern Ireland. The information in the publication reports on performance against the ministerial diagnostic target in Northern Ireland.",
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-20T15:13:03Z",
@@ -1127,7 +1127,7 @@
         {
             "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-september-2025",
             "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times September 2025",
-            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performan…",
+            "summary": "Information is detailed on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-20T15:12:59Z",
@@ -1149,7 +1149,7 @@
         {
             "id": "further-education-sector-activity-in-northern-ireland-202021-to-202425",
             "title": "Further Education Sector Activity in Northern Ireland: 2020/21 to 2024/25",
-            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2020/21 to 2024/25. The sta…",
+            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2020/21 to 2024/25. The statistics presented cover the characteristics of those enrolling in FE colleges along with analysis of areas of deprivation, funding streams and performance (retention, achievement and success rates).",
             "release_date": "2025-12-04T09:30:00Z",
             "display_date": "4 December 2025 9:30am (confirmed)",
             "updated": "2025-11-06T15:06:25Z",
@@ -1314,7 +1314,7 @@
         {
             "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2025",
             "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
-            "summary": "This statistical brief was commissioned by DfI Active Travel. The paper considers any changes in the attitudes of children towards road safety issues associated with cycling following the completion of the Cycling Proficienc…",
+            "summary": "This statistical brief was commissioned by DfI Active Travel. The paper considers any changes in the attitudes of children towards road safety issues associated with cycling following the completion of the Cycling Proficiency Scheme at school.",
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (confirmed)",
             "updated": "2025-11-12T08:43:48Z",
@@ -1347,7 +1347,7 @@
         {
             "id": "june-agricultural-and-horticultural-census-statistics-ni-2025",
             "title": "June agricultural and horticultural census statistics, NI: 2025",
-            "summary": "Statistical bulletin providing estimates of crop areas and number of livestock on active farm businesses in Northern Ireland at the beginning of June.\r\n\r\nNational statistics are produced impartially and free from any politic…",
+            "summary": "Statistical bulletin providing estimates of crop areas and number of livestock on active farm businesses in Northern Ireland at the beginning of June.\r\n\r\nNational statistics are produced impartially and free from any political influence.\r\n\r\nYou can follow us on twitter: @Daerastats",
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
             "updated": "2025-08-28T10:05:35Z",
@@ -1413,7 +1413,7 @@
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
             "title": "June agricultural and horticultural census, Northern Ireland 2025 ",
-            "summary": "The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data a…",
+            "summary": "The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data and frequency distributions.\r\nResults are presented at Northern Ireland and sub-regional level.",
             "release_date": "2025-12-11T09:30:00Z",
             "display_date": "11 December 2025 9:30am (provisional)",
             "updated": "2025-01-30T15:04:21Z",
@@ -1457,7 +1457,7 @@
         {
             "id": "quarterly-employment-survey-september-2025",
             "title": "Quarterly Employment Survey: September 2025",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2025-12-16T07:00:00Z",
             "display_date": "16 December 2025 7:00am (confirmed)",
             "updated": "2024-10-03T10:09:47Z",
@@ -1479,7 +1479,7 @@
         {
             "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
             "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
-            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, includin…",
+            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, including an overview of the time taken for a case to be completed through the Youth Engagement process.",
             "release_date": "2025-12-17T09:30:00Z",
             "display_date": "17 December 2025 9:30am (confirmed)",
             "updated": "2025-11-26T14:44:55Z",
@@ -1754,7 +1754,7 @@
         {
             "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-july-september-2025",
             "title": "Northern Ireland waiting time statistics: cancer waiting times July-September 2025",
-            "summary": "Presents information on the waiting times for patients accessing cancer services at hospitals in Northern Ireland. This information reports on the performance of health and social care (HSC) trusts against the ministerial ta…",
+            "summary": "Presents information on the waiting times for patients accessing cancer services at hospitals in Northern Ireland. This information reports on the performance of health and social care (HSC) trusts against the ministerial target in Northern Ireland.",
             "release_date": "2026-01-15T09:30:00Z",
             "display_date": "15 January 2026 9:30am (confirmed)",
             "updated": "2025-11-20T15:13:10Z",
@@ -2172,7 +2172,7 @@
         {
             "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
             "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
-            "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Nor…",
+            "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
             "release_date": "2026-02-28T09:30:00Z",
             "display_date": "January to February 2026 (provisional)",
             "updated": "2025-10-30T14:17:29Z",
@@ -2194,7 +2194,7 @@
         {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
             "title": "Statistics on community care for adults in Northern Ireland 2024/25",
-            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursi…",
+            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations.",
             "release_date": "2026-02-28T09:30:00Z",
             "display_date": "February 2026 (provisional)",
             "updated": "2025-10-08T15:54:48Z",
@@ -2337,7 +2337,7 @@
         {
             "id": "quarterly-employment-survey-december-2025",
             "title": "Quarterly Employment Survey: December 2025",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2026-03-19T07:00:00Z",
             "display_date": "19 March 2026 7:00am (confirmed)",
             "updated": "2025-10-01T16:26:06Z",
@@ -2590,7 +2590,7 @@
         {
             "id": "quarterly-employment-survey-march-2026",
             "title": "Quarterly Employment Survey: March 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2026-06-16T07:00:00Z",
             "display_date": "16 June 2026 7:00am (confirmed)",
             "updated": "2025-10-02T11:48:22Z",
@@ -2667,7 +2667,7 @@
         {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
             "title": "Equality Statistics for the Northern Ireland Civil Service - 2026",
-            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age…",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age group, ethnicity and disability. Some comparisons with the workforce composition in previous years are also given. The report also includes an analysis of recruitment, promotion and leavers. Subject to review, these statistics will be released between May and June 2026",
             "release_date": "2026-06-30T09:30:00Z",
             "display_date": "May to June 2026 (provisional)",
             "updated": "2025-07-31T12:46:38Z",
@@ -2678,7 +2678,7 @@
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-april-2026",
             "title": "Employment in the Northern Ireland Civil Service - 1 April 2026",
-            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                         …",
+            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                                                                                                                                                                                          \r\nSubject to review, these statistics will be released between May and June 2026.",
             "release_date": "2026-06-30T09:30:00Z",
             "display_date": "May to June 2026 (provisional)",
             "updated": "2025-07-31T12:34:42Z",
@@ -2810,7 +2810,7 @@
         {
             "id": "quarterly-employment-survey-june-2026",
             "title": "Quarterly Employment Survey: June 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2026-09-15T07:00:00Z",
             "display_date": "15 September 2026 7:00am (confirmed)",
             "updated": "2025-10-03T08:28:12Z",
@@ -2876,7 +2876,7 @@
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-july-2026",
             "title": "Employment in the Northern Ireland Civil Service - 1 July 2026",
-            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                         …",
+            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                                                                                                                                                                                          \r\nSubject to review, these statistics will be released between August and September 2026.",
             "release_date": "2026-09-30T09:30:00Z",
             "display_date": "August to September 2026 (provisional)",
             "updated": "2025-07-31T12:34:14Z",
@@ -2931,7 +2931,7 @@
         {
             "id": "quarterly-employment-survey-september-2026",
             "title": "Quarterly Employment Survey: September 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for …",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2026-12-15T07:00:00Z",
             "display_date": "15 December 2026 7:00am (confirmed)",
             "updated": "2025-10-03T08:38:19Z",

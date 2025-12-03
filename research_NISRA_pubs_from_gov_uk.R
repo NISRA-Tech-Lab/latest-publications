@@ -128,11 +128,20 @@ while (has_pubs == TRUE) {
     if (length(org) > 1) org <- setdiff(org, "DoJ")
     org <- org[1]
     
+    p_tags <- html_nodes(gov_uk_page, "p")
+    
+    for (k in 1:length(p_tags)) {
+      class <- html_attr(p_tags[k], "class")
+      if (class == "gem-c-lead-paragraph" & !is.na(class)) {
+        summary <- trimws(html_text(p_tags[k]))
+      }
+    }
+    
     # Append to list of cancelled publications
     output_list$entries[[length(output_list$entries) + 1]] <- 
       list(id = id,
            title = html_text(html_nodes(publications[j], "title")),
-           summary = HTMLdecode(html_text(html_nodes(publications[j], "summary"))),
+           summary = HTMLdecode(summary),
            url = pub_link,
            release_date = release_date,
            display_date = display_date,
