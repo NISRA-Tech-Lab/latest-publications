@@ -58,6 +58,8 @@ output_list <- list(name = "nisra release calendar",
                     modified = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
                     entries = c())
 
+source("org_names.R")
+source("release_types.R")
 
 # Loop through all pages of the RSS feed
 i = 1
@@ -179,7 +181,7 @@ while (has_pubs == TRUE) {
            release_date = release_date,
            display_date = display_date,
            # updated = updated,
-           format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
+           updated = format(Sys.time(), format = "%Y-%m-%dT%H:%M:%SZ"),
            org = org,
            type = release_types[[release_type]])
     
