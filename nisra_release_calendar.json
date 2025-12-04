@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-04T13:36:57Z",
+    "modified": "2025-12-04T17:47:31Z",
     "entries": [
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
+            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
+            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
+            "release_date": "2025-12-05T09:30:00Z",
+            "display_date": "5 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-04T16:56:56Z",
+            "org": "DoJ",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
             "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
@@ -1111,17 +1122,6 @@
             "updated": "2025-11-11T10:39:00Z",
             "org": "PSNI",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
-            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
-            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
-            "release_date": "2025-12-05T09:30:00Z",
-            "display_date": "5 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-07T14:48:48Z",
-            "org": "DoJ",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1781,17 +1781,6 @@
             "display_date": "January 2026 (provisional)",
             "updated": "2025-12-01T12:54:00Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-july-2025-september-2025",
-            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: July 2025 - September 2025",
-            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 July 2025 and 30 September 2025.",
-            "release_date": "2026-01-31T09:30:00Z",
-            "display_date": "December to January 2026 (provisional)",
-            "updated": "2025-10-21T16:16:18Z",
-            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2956,6 +2945,14 @@
         {
             "id": "benefit-cap-report-northern-ireland-november-2025",
             "updated": "2025-09-18T11:09:06Z"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-july-2025-september-2025",
+            "updated": "2025-12-04T15:59:31Z"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-april-2025-june-2025",
+            "updated": "2025-12-04T15:58:02Z"
         },
         {
             "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
