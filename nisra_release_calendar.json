@@ -1,18 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-05T09:40:05Z",
+    "modified": "2025-12-05T09:44:51Z",
     "entries": [
-        {
-            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
-            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
-            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
-            "url": "https://www.gov.uk/government/statistics/cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
-            "release_date": "2025-12-05T07:00:00Z",
-            "display_date": "5 December 2025",
-            "org": "DoJ",
-            "updated": "2025-12-05T09:30:02Z",
-            "type": "OS"
-        },
         {
             "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2024",
             "title": "Ending Violence Against Women and Girls: Experiences and attitudes of adults in Northern Ireland in 2024",
@@ -34,6 +23,17 @@
             "org": "NISRA",
             "updated": "2025-12-05T09:30:01Z",
             "type": "AOS"
+        },
+        {
+            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
+            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
+            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
+            "url": "https://www.justice-ni.gov.uk/publications/r-s-bulletin-cyber-crime-modern-slavery-and-sentencing-findings-2023-24-ni-safe-community-telephone-survey",
+            "release_date": "2025-12-05T07:00:00Z",
+            "display_date": "5 December 2025",
+            "org": "DoJ",
+            "updated": "2025-12-05T00:00:00Z",
+            "type": "OS"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
