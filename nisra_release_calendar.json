@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-05T07:21:41Z",
+    "modified": "2025-12-05T09:40:05Z",
     "entries": [
+        {
+            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
+            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
+            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
+            "url": "https://www.gov.uk/government/statistics/cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
+            "release_date": "2025-12-05T07:00:00Z",
+            "display_date": "5 December 2025",
+            "org": "DoJ",
+            "updated": "2025-12-05T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2024",
+            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of adults in Northern Ireland in 2024",
+            "summary": "This report contains findings from the Gender Based Violence module of the 2024 Northern Ireland Life and Times survey.",
+            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research/ending-violence-against-women-and-girls-evawg",
+            "release_date": "2025-12-05T07:00:00Z",
+            "display_date": "5 December 2025",
+            "org": "TEO",
+            "updated": "2025-12-05T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-28-november-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 28 November 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 28 November 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-12-05T07:00:00Z",
+            "display_date": "5 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-05T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
             "title": "Northern Ireland waiting time statistics: outpatient waiting times September 2025",
@@ -1070,50 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-oct-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 Oct 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 3 October 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-10-10T07:00:00Z",
-            "display_date": "10 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-10-10T07:00:00Z",
-            "display_date": "10 October 2025",
-            "org": "PSNI",
-            "updated": "2025-10-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "investment-in-general-practice-northern-ireland-2020-21-to-2024-25",
-            "title": "Investment in General Practice, Northern Ireland 2020-21 to 2024-25",
-            "summary": "This report details investment in general practice and the reimbursement for drugs dispensed in general practices in Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/articles/investment-general-practice",
-            "release_date": "2025-10-03T07:00:00Z",
-            "display_date": "3 October 2025",
-            "org": "DoH",
-            "updated": "2025-10-03T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
-            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
-            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
-            "release_date": "2025-12-05T09:30:00Z",
-            "display_date": "5 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-04T16:56:56Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
             "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
@@ -1121,28 +1110,6 @@
             "display_date": "5 December 2025 9:30am (confirmed)",
             "updated": "2025-11-11T10:39:00Z",
             "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2024",
-            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of adults in Northern Ireland in 2024",
-            "summary": "This report contains findings from the Gender Based Violence module of the 2024 Northern Ireland Life and Times survey.",
-            "release_date": "2025-12-05T09:30:00Z",
-            "display_date": "5 December 2025 9:30am (provisional)",
-            "updated": "2025-11-07T14:00:58Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-28-november-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 28 November 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 28 November 2025.",
-            "release_date": "2025-12-05T09:30:00Z",
-            "display_date": "5 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T15:02:09Z",
-            "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1187,6 +1154,17 @@
             "display_date": "10 December 2025 9:30am (confirmed)",
             "updated": "2025-11-11T13:02:00Z",
             "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
+            "title": " Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development) ",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-05T09:05:50Z",
+            "org": "DoH",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1244,17 +1222,6 @@
             "org": "DfC",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
-            "title": " Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development) ",
-            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-09-16T11:39:15Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "june-agricultural-and-horticultural-census-statistics-ni-2025",
