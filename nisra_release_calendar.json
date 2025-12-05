@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-05T09:44:51Z",
+    "modified": "2025-12-05T13:32:51Z",
     "entries": [
         {
             "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2024",
@@ -34,6 +34,17 @@
             "org": "DoJ",
             "updated": "2025-12-05T00:00:00Z",
             "type": "OS"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2025-12-05T07:00:00Z",
+            "display_date": "5 December 2025",
+            "org": "PSNI",
+            "updated": "2025-12-05T00:00:00Z",
+            "type": "AOS"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-10-13T09:30:08Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-september-2025",
-            "title": "Monthly Births (Northern Ireland): September 2025",
-            "summary": "Monthly Births (Northern Ireland): September 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-10-13T07:00:00Z",
-            "display_date": "13 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-13T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2025-12-05T09:30:00Z",
-            "display_date": "5 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-11T10:39:00Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "life-expectancy-in-northern-ireland-2022-24",
