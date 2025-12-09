@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-09T09:42:24Z",
+    "modified": "2025-12-09T13:36:21Z",
     "entries": [
         {
             "id": "life-expectancy-in-northern-ireland-2022-24",
@@ -1125,6 +1125,28 @@
             "status": "confirmed"
         },
         {
+            "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
+            "title": "June agricultural and horticultural census, Northern Ireland 2025 ",
+            "summary": "The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data and frequency distributions.\r\nResults are presented at Northern Ireland and sub-regional level.",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-09T11:16:50Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-management-statistics-202425-annual-report",
+            "title": "Northern Ireland LAC municipal waste management statistics 2024/25 annual report",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics 2024/25 annual report",
+            "release_date": "2025-12-11T09:30:00Z",
+            "display_date": "11 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-09T10:51:49Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
             "title": " Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development) ",
             "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
@@ -1134,17 +1156,6 @@
             "org": "DoH",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-management-statistics-202425-annual-report",
-            "title": "Northern Ireland LAC municipal waste management statistics 2024/25 annual report",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics 2024/25 annual report",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-11-20T14:48:10Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
@@ -1255,17 +1266,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
-            "title": "June agricultural and horticultural census, Northern Ireland 2025 ",
-            "summary": "The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data and frequency distributions.\r\nResults are presented at Northern Ireland and sub-regional level.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-01-30T15:04:21Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
