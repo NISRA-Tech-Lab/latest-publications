@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-10T07:20:00Z",
+    "modified": "2025-12-10T09:43:42Z",
     "entries": [
+        {
+            "id": "knowledge-and-use-of-ulster-scots-in-northern-ireland-202425",
+            "title": "Knowledge and use of Ulster-Scots in Northern Ireland 2024/25",
+            "summary": "A biennial publication containing survey results on knowledge and use of Ulster-Scots by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/language-statistics",
+            "release_date": "2025-12-10T07:00:00Z",
+            "display_date": "10 December 2025",
+            "org": "DfC",
+            "updated": "2025-12-10T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "knowledge-and-use-of-irish-in-northern-ireland-202425",
+            "title": "Knowledge and use of Irish in Northern Ireland 2024/25",
+            "summary": "A biennial publication containing survey results on knowledge and use of Irish by adults in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/topics/language-statistics",
+            "release_date": "2025-12-10T07:00:00Z",
+            "display_date": "10 December 2025",
+            "org": "DfC",
+            "updated": "2025-12-10T09:30:08Z",
+            "type": "OS"
+        },
         {
             "id": "life-expectancy-in-northern-ireland-2022-24",
             "title": "Life Expectancy in Northern Ireland 2022-24",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-10-14T07:00:05Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-september-2025",
-            "title": "Monthly Marriages (Northern Ireland): September 2025",
-            "summary": "Monthly Marriages (Northern Ireland): September 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-10-13T07:00:00Z",
-            "display_date": "13 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-13T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-september-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): September 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): September 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-10-13T07:00:00Z",
-            "display_date": "13 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-13T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "knowledge-and-use-of-ulster-scots-in-northern-ireland-202425",
-            "title": "Knowledge and use of Ulster-Scots in Northern Ireland 2024/25",
-            "summary": "A biennial publication containing survey results on knowledge and use of Ulster-Scots by adults in Northern Ireland.",
-            "release_date": "2025-12-10T09:30:00Z",
-            "display_date": "10 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-11T13:10:12Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "knowledge-and-use-of-irish-in-northern-ireland-202425",
-            "title": "Knowledge and use of Irish in Northern Ireland 2024/25",
-            "summary": "A biennial publication containing survey results on knowledge and use of Irish by adults in Northern Ireland.",
-            "release_date": "2025-12-10T09:30:00Z",
-            "display_date": "10 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-11T13:02:00Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
