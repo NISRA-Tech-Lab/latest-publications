@@ -1,7 +1,117 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-11T07:25:00Z",
+    "modified": "2025-12-11T09:44:19Z",
     "entries": [
+        {
+            "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
+            "title": "June agricultural and horticultural census, Northern Ireland 2025",
+            "summary": "Results of the Northern Ireland June Agricultural and Horticultural Census.",
+            "url": "https://www.daera-ni.gov.uk/articles/agricultural-census-northern-ireland",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "DAERA",
+            "updated": "2025-12-11T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2025",
+            "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
+            "summary": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/investigating-impact-cycling-proficiency-scheme-schools-northern-ireland",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "DfI",
+            "updated": "2025-12-11T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-homelessness-bulletin-april-september-2025",
+            "title": "Northern Ireland Homelessness Bulletin April - September 2025",
+            "summary": "A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-homelessness-bulletin",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "DfC",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development--2",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development)",
+            "summary": "his report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
+            "url": "https://www.health-ni.gov.uk/articles/drugs-statistics",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "DoH",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-november-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): November 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): November 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-november-2025",
+            "title": "Monthly Marriages (Northern Ireland): November 2025",
+            "summary": "Monthly Marriages (Northern Ireland): November 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-births-northern-ireland-november-2025",
+            "title": "Monthly Births (Northern Ireland): November 2025",
+            "summary": "Monthly Births (Northern Ireland): November 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-management-statistics-202425-annual-report",
+            "title": "Northern Ireland LAC municipal waste management statistics 2024/25 annual report",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics 2024/25 annual report",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "DAERA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-november-2025",
+            "title": "Monthly Deaths (Northern Ireland): November 2025",
+            "summary": "Monthly Deaths (Northern Ireland): November 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-november-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): November 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): November 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "knowledge-and-use-of-ulster-scots-in-northern-ireland-202425",
             "title": "Knowledge and use of Ulster-Scots in Northern Ireland 2024/25",
@@ -993,149 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "employee-earnings-in-ni-2025",
-            "title": "Employee earnings in NI: 2025",
-            "summary": "The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
-            "url": "https://datavis.nisra.gov.uk/economy-and-labour-market/Employee-earnings-NI-2025.html",
-            "release_date": "2025-10-23T07:00:00Z",
-            "display_date": "23 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-23T09:30:07Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2025",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - April to June 2025",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
-            "release_date": "2025-10-23T07:00:00Z",
-            "display_date": "23 October 2025",
-            "org": "DAERA",
-            "updated": "2025-10-23T09:30:07Z",
-            "type": "AOS"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202526",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 2 2025/26",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
-            "release_date": "2025-10-23T07:00:00Z",
-            "display_date": "23 October 2025",
-            "org": "OPONI",
-            "updated": "2025-10-23T09:30:07Z",
-            "type": "OS"
-        },
-        {
-            "id": "the-northern-ireland-prison-population-202425",
-            "title": "The Northern Ireland Prison Population 2024/25",
-            "summary": "Key statistics relating to the average daily prison population levels, receptions and discharges for Northern Ireland during the 2024/25 financial year.",
-            "url": "https://www.justice-ni.gov.uk/publications/northern-ireland-prison-population-2024-25",
-            "release_date": "2025-10-23T07:00:00Z",
-            "display_date": "23 October 2025",
-            "org": "NIPS",
-            "updated": "2025-10-23T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-september-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: September 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-september-2025",
-            "release_date": "2025-10-17T07:00:00Z",
-            "display_date": "17 October 2025",
-            "org": "DfI",
-            "updated": "2025-10-17T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-oct-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 Oct 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 10 October 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-10-17T07:00:00Z",
-            "display_date": "17 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-17T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "childrens-social-care-statistics-for-northern-ireland-202425",
-            "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
-            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
-            "url": "https://www.health-ni.gov.uk/articles/children-need",
-            "release_date": "2025-10-16T07:00:00Z",
-            "display_date": "16 October 2025",
-            "org": "DoH",
-            "updated": "2025-10-16T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-good-relations-indicators-2024-report",
-            "title": "Northern Ireland Good Relations Indicators 2024 Report",
-            "summary": "An annual publication monitoring progress against the Together: Building a United Community Strategy.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/good-relations",
-            "release_date": "2025-10-16T07:00:00Z",
-            "display_date": "16 October 2025",
-            "org": "TEO",
-            "updated": "2025-10-16T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
-            "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
-            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23.",
-            "url": "https://www.justice-ni.gov.uk/publications/adult-and-youth-reoffending-northern-ireland-202223-cohort",
-            "release_date": "2025-10-16T07:00:00Z",
-            "display_date": "16 October 2025",
-            "org": "DoJ",
-            "updated": "2025-10-16T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-october-2025",
-            "title": "NI Labour Market statistics: October 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-10-14T07:00:00Z",
-            "display_date": "14 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-14T07:00:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
-            "title": "June agricultural and horticultural census, Northern Ireland 2025 ",
-            "summary": "The data in this statistical publication are sourced from the Agricultural Census which\r\nis conducted in June each year. Data is collected on crop areas, livestock numbers\r\nand farm labour. Outputs include time series data and frequency distributions.\r\nResults are presented at Northern Ireland and sub-regional level.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-09T11:16:50Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-management-statistics-202425-annual-report",
-            "title": "Northern Ireland LAC municipal waste management statistics 2024/25 annual report",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics 2024/25 annual report",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-09T10:51:49Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202425-official-statistics-in-development",
-            "title": " Statistics from the Northern Ireland Substance Misuse Database 2024/25 (Official statistics in development) ",
-            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2024/25.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-05T09:05:50Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
             "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
             "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
@@ -1158,28 +1125,6 @@
             "status": "confirmed"
         },
         {
-            "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2025",
-            "title": "Investigating the impact of the Cycling Proficiency Scheme in schools in Northern Ireland, 2025",
-            "summary": "This statistical brief was commissioned by DfI Active Travel. The paper considers any changes in the attitudes of children towards road safety issues associated with cycling following the completion of the Cycling Proficiency Scheme at school.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-12T08:43:48Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-homelessness-bulletin-april-september-2025",
-            "title": "Northern Ireland Homelessness Bulletin April - September 2025",
-            "summary": "A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-10-31T09:34:56Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "june-agricultural-and-horticultural-census-statistics-ni-2025",
             "title": "June agricultural and horticultural census statistics, NI: 2025",
             "summary": "Statistical bulletin providing estimates of crop areas and number of livestock on active farm businesses in Northern Ireland at the beginning of June.\r\n\r\nNational statistics are produced impartially and free from any political influence.\r\n\r\nYou can follow us on twitter: @Daerastats",
@@ -1189,61 +1134,6 @@
             "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-november-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): November 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): November 2025",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:17:14Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-november-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): November 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): November 2025",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:15:23Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-november-2025",
-            "title": "Monthly Marriages (Northern Ireland): November 2025",
-            "summary": "Monthly Marriages (Northern Ireland): November 2025",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:13:24Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-november-2025",
-            "title": "Monthly Deaths (Northern Ireland): November 2025",
-            "summary": "Monthly Deaths (Northern Ireland): November 2025",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:12:29Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-november-2025",
-            "title": "Monthly Births (Northern Ireland): November 2025",
-            "summary": "Monthly Births (Northern Ireland): November 2025",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-07-09T14:11:06Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
