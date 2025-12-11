@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-11T13:39:43Z",
+    "modified": "2025-12-11T17:55:18Z",
     "entries": [
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
@@ -1585,6 +1585,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-care-leavers-202425",
+            "title": "Northern Ireland Care Leavers 2024/25",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "release_date": "2026-01-31T09:30:00Z",
+            "display_date": "January 2026 (provisional)",
+            "updated": "2025-12-11T16:58:59Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "children-in-care-in-northern-ireland-202324",
