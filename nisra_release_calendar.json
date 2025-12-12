@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-12T09:47:53Z",
+    "modified": "2025-12-12T13:35:17Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
@@ -23,6 +23,17 @@
             "org": "NISRA",
             "updated": "2025-12-12T09:30:02Z",
             "type": "AOS"
+        },
+        {
+            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2025",
+            "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2025",
+            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/statistics-police-use-force",
+            "release_date": "2025-12-12T07:00:00Z",
+            "display_date": "12 December 2025",
+            "org": "PSNI",
+            "updated": "2025-12-12T00:00:00Z",
+            "type": "OS"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
@@ -132,6 +143,28 @@
             "display_date": "11 December 2025",
             "org": "NISRA",
             "updated": "2025-12-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "homeless-deaths-in-northern-ireland-2024",
+            "title": "Deaths of Homeless People in Northern Ireland, 2024",
+            "summary": "Tables detailing the number of deaths of homeless people in Northern Ireland in 2024",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T00:00:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
+            "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
+            "url": "https://www.nisra.gov.uk/publications/2024-mid-year-population-estimates-small-geographical-areas-within-northern-ireland",
+            "release_date": "2025-12-11T07:00:00Z",
+            "display_date": "11 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-11T00:00:00Z",
             "type": "AOS"
         },
         {
@@ -1068,50 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-10-30T09:30:06Z",
             "type": "AOS"
-        },
-        {
-            "id": "walking-and-cycling-in-northern-ireland-202425",
-            "title": "Walking and Cycling in Northern Ireland 2024/25",
-            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/walking-and-cycling-0",
-            "release_date": "2025-10-30T07:00:00Z",
-            "display_date": "30 October 2025",
-            "org": "DfI",
-            "updated": "2025-10-30T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
-            "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
-            "summary": "This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/topics/dhssps-statistics-and-research/family-health-services-statistics",
-            "release_date": "2025-10-30T07:00:00Z",
-            "display_date": "30 October 2025",
-            "org": "DoH",
-            "updated": "2025-10-30T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-business-register-and-employment-survey-2023",
-            "title": "Northern Ireland Business Register and Employment Survey 2023",
-            "summary": "The total number of employee jobs in Northern Ireland. Industry and geography breakdowns provided.",
-            "url": "https://www.nisra.gov.uk/publications/bres-publication-and-tables-2023",
-            "release_date": "2025-10-28T07:00:00Z",
-            "display_date": "28 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-28T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2025",
-            "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2025",
-            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
-            "release_date": "2025-12-12T09:30:00Z",
-            "display_date": "12 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-11T10:42:20Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-september-2025",
