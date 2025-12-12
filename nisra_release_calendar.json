@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-11T17:55:18Z",
+    "modified": "2025-12-12T07:20:32Z",
     "entries": [
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
@@ -1101,39 +1101,6 @@
             "org": "DoH",
             "updated": "2025-10-23T09:30:07Z",
             "type": "AOS"
-        },
-        {
-            "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
-            "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-13T15:28:31Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "homeless-deaths-in-northern-ireland-2024",
-            "title": "Homeless Deaths in Northern Ireland, 2024",
-            "summary": "Tables detailing the number of homeless deaths in Northern Ireland in 2024",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-13T13:30:57Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "june-agricultural-and-horticultural-census-statistics-ni-2025",
-            "title": "June agricultural and horticultural census statistics, NI: 2025",
-            "summary": "Statistical bulletin providing estimates of crop areas and number of livestock on active farm businesses in Northern Ireland at the beginning of June.\r\n\r\nNational statistics are produced impartially and free from any political influence.\r\n\r\nYou can follow us on twitter: @Daerastats",
-            "release_date": "2025-12-11T09:30:00Z",
-            "display_date": "11 December 2025 9:30am (provisional)",
-            "updated": "2025-08-28T10:05:35Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
