@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-12T07:24:18Z",
+    "modified": "2025-12-12T09:43:38Z",
     "entries": [
+        {
+            "id": "dva-monthly-tests-conducted-statistics-november-2025",
+            "title": "DVA Monthly Tests Conducted Statistics: November 2025",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-november-2025",
+            "release_date": "2025-12-12T07:00:00Z",
+            "display_date": "12 December 2025",
+            "org": "DfI",
+            "updated": "2025-12-12T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-5-december-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 5 December 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 5 December 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-12-12T07:00:00Z",
+            "display_date": "12 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-12T09:30:02Z",
+            "type": "AOS"
+        },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2025",
             "title": "June agricultural and horticultural census, Northern Ireland 2025",
@@ -1081,39 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-october-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 October 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 17 October 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-10-24T07:00:00Z",
-            "display_date": "24 October 2025",
-            "org": "NISRA",
-            "updated": "2025-10-24T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-july-september-2025",
-            "title": "Emergency Care Waiting Time Statistics (July - September 2025)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
-            "release_date": "2025-10-23T07:00:00Z",
-            "display_date": "23 October 2025",
-            "org": "DoH",
-            "updated": "2025-10-23T09:30:07Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-november-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: November 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2025-12-12T09:30:00Z",
-            "display_date": "12 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-21T15:56:08Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2025",
             "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2025",
             "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
@@ -1122,17 +1111,6 @@
             "updated": "2025-11-11T10:42:20Z",
             "org": "PSNI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-5-december-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 5 December 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 5 December 2025.",
-            "release_date": "2025-12-12T09:30:00Z",
-            "display_date": "12 December 2025 9:30am (confirmed)",
-            "updated": "2025-09-01T15:00:46Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
