@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-15T17:49:05Z",
+    "modified": "2025-12-16T07:20:56Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-december-2025",
+            "title": "NI Labour Market statistics: December 2025",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2025-12-16T07:00:00Z",
+            "display_date": "16 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-16T07:00:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-employment-survey-september-2025",
+            "title": "Quarterly Employment Survey: September 2025",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
+            "release_date": "2025-12-16T07:00:00Z",
+            "display_date": "16 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-16T07:00:05Z",
+            "type": "AOS"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2025",
             "title": "DVA Monthly Tests Conducted Statistics: November 2025",
@@ -1079,50 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-10-30T09:30:06Z",
             "type": "OS"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-september-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 September 2025",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-10-30T07:00:00Z",
-            "display_date": "30 October 2025",
-            "org": "PSNI",
-            "updated": "2025-10-30T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-september-2025",
-            "title": "Police recorded crime in Northern Ireland, period ending 30 September 2025",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-10-30T07:00:00Z",
-            "display_date": "30 October 2025",
-            "org": "PSNI",
-            "updated": "2025-10-30T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-employment-survey-september-2025",
-            "title": "Quarterly Employment Survey: September 2025",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "2025-12-16T07:00:00Z",
-            "display_date": "16 December 2025 7:00am (confirmed)",
-            "updated": "2024-10-03T10:09:47Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-labour-market-statistics-december-2025",
-            "title": "NI Labour Market statistics: December 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2025-12-16T07:00:00Z",
-            "display_date": "16 December 2025 7:00am (confirmed)",
-            "updated": "2024-08-29T10:50:26Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
