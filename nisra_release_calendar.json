@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-16T07:20:56Z",
+    "modified": "2025-12-16T09:45:14Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-december-2025",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "traineeships-level-2-academic-year-202425",
+            "title": "Traineeships (Level 2), academic year 2024/25",
+            "summary": "This publication covers key information on Traineeships (Level 2) in Northern Ireland, including occupational areas, starts and achievement.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-16T09:00:13Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
             "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
             "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, including an overview of the time taken for a case to be completed through the Youth Engagement process.",
@@ -1110,17 +1121,6 @@
             "display_date": "17 December 2025 9:30am (confirmed)",
             "updated": "2025-11-26T14:44:55Z",
             "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "traineeships-level-2-academic-year-202425",
-            "title": "Traineeships (Level 2), academic year 2024/25",
-            "summary": "This publication covers key information on Traineeships (Level 2) in Northern Ireland, including occupational areas, starts and achievement.",
-            "release_date": "2025-12-17T09:30:00Z",
-            "display_date": "17 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-18T17:53:27Z",
-            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1485,6 +1485,17 @@
             "updated": "2025-12-05T14:54:49Z",
             "org": "PSNI",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 January 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 January 2026.",
+            "release_date": "2026-01-30T09:30:00Z",
+            "display_date": "30 January 2026 9:30am (confirmed)",
+            "updated": "2025-09-01T15:36:31Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
