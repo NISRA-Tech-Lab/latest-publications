@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-16T09:49:47Z",
+    "modified": "2025-12-16T13:39:07Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-december-2025",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
+            "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
+            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, including an overview of the time taken for a case to be completed through the Youth Engagement process.",
+            "release_date": "2025-12-17T09:30:00Z",
+            "display_date": "17 December 2025 9:30am (confirmed)",
+            "updated": "2025-12-16T10:26:56Z",
+            "org": "DoJ",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "traineeships-level-2-academic-year-202425",
             "title": "Traineeships (Level 2), academic year 2024/25",
             "summary": "This publication covers key information on Traineeships (Level 2) in Northern Ireland, including occupational areas, starts and achievement.",
@@ -1110,17 +1121,6 @@
             "display_date": "17 December 2025 9:30am (confirmed)",
             "updated": "2025-12-16T09:00:13Z",
             "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
-            "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
-            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, including an overview of the time taken for a case to be completed through the Youth Engagement process.",
-            "release_date": "2025-12-17T09:30:00Z",
-            "display_date": "17 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-26T14:44:55Z",
-            "org": "DoJ",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1431,6 +1431,50 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-31-december-2025",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of Agricultural and Rural Crime.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-16T13:39:36Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-december-2025",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 December 2025",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-16T13:35:59Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-december-2025",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 December 2025",
+            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-16T13:28:56Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "essential-skills-enrolments-and-outcomes-in-northern-ireland-further-education-colleges-202021-to-202425",
+            "title": "Essential Skills Enrolments and Outcomes in Northern Ireland Further Education Colleges: 2020/21 to 2024/25",
+            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme in NI FE Colleges, from 2020/21 to 2024/25",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (provisional)",
+            "updated": "2025-12-16T10:24:04Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202425--2",
@@ -2497,17 +2541,6 @@
             "updated": "2025-10-01T16:41:52Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
-            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
-            "summary": "This release provides a measure of construction output in Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2025-10-01T16:11:48Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
