@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-16T09:45:14Z",
+    "modified": "2025-12-16T09:49:47Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-december-2025",
@@ -1433,6 +1433,17 @@
             "status": "confirmed"
         },
         {
+            "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202425--2",
+            "title": "Attendance at grant aided primary, post primary and special schools 2024/25",
+            "summary": "The purpose of this statistical bulletin is to present final attendance figures for schools for the 2024/25 academic year. It includes information on the rates of absence, type of absence and reason for absence.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-16T09:49:08Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "motoring-offences-statistics-in-northern-ireland-to-31-october-2025",
             "title": "Motoring offences statistics in Northern Ireland to 31 October 2025",
             "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1485,17 +1496,6 @@
             "updated": "2025-12-05T14:54:49Z",
             "org": "PSNI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-23-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 23 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 January 2026.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:36:31Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -2497,6 +2497,17 @@
             "updated": "2025-10-01T16:41:52Z",
             "org": "NISRA",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
+            "summary": "This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (confirmed)",
+            "updated": "2025-10-01T16:11:48Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
