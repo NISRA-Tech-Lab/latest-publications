@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-18T09:50:24Z",
+    "modified": "2025-12-18T13:37:37Z",
     "entries": [
         {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
@@ -1312,6 +1312,39 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-january-2026",
+            "title": "NI Labour Market statistics: January 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-01-20T07:00:00Z",
+            "display_date": "20 January 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:39Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "individual-wellbeing-in-northern-ireland-202425",
+            "title": "Individual Wellbeing in Northern Ireland, 2024/25",
+            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2024/25.",
+            "release_date": "2026-01-21T09:30:00Z",
+            "display_date": "21 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-18T11:38:47Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202526",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2025/26",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2026-01-22T09:30:00Z",
+            "display_date": "22 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-18T11:42:09Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
             "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2026",
             "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2025/26, which ran from 1st December 2025 to 1st January 2026 inclusive, specifically the outcomes in terms of Preliminary Breath Tests (PBTs) and drink/drug driving arrests.",
@@ -1626,6 +1659,17 @@
             "release_date": "2026-02-13T09:30:00Z",
             "display_date": "13 February 2026 9:30am (confirmed)",
             "updated": "2025-09-01T15:44:09Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-labour-market-statistics-february-2026",
+            "title": "NI Labour Market statistics: February 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-02-17T07:00:00Z",
+            "display_date": "17 February 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:40Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -1950,6 +1994,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-march-2026",
+            "title": "NI Labour Market statistics: March 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-03-19T07:00:00Z",
+            "display_date": "19 March 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:43Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-employment-survey-december-2025",
             "title": "Quarterly Employment Survey: December 2025",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
@@ -2104,6 +2159,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-april-2026",
+            "title": "NI Labour Market statistics: April 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-04-21T07:00:00Z",
+            "display_date": "21 April 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:44Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-january-march-2025--2",
             "title": "Emergency Care Waiting Time Statistics (January - March 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2159,6 +2225,17 @@
             "status": "provisional"
         },
         {
+            "id": "ni-labour-market-statistics-may-2026",
+            "title": "NI Labour Market statistics: May 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-05-19T07:00:00Z",
+            "display_date": "19 May 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:46Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-universal-credit-statistics-february-2026",
             "title": "Northern Ireland Universal Credit Statistics: February 2026",
             "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
@@ -2201,6 +2278,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2026",
+            "title": "NI Labour Market statistics: June 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-06-16T07:00:00Z",
+            "display_date": "16 June 2026 7:00am (confirmed)",
+            "updated": "2025-12-18T11:46:48Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-march-2026",
@@ -2608,6 +2696,17 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "The publication of the October 2025 motoring offences figures has been delayed until 29th January 2026. This is due to the significantly earlier than usual publication date, as a result of the holidays, thus creating potential for the latest figures to be less complete, as well as resource constraints caused by long-term absence within the team."
+        },
+        {
+            "id": "material-footprint-in-northern-ireland-2001-to-2022",
+            "title": "Material Footprint in Northern Ireland 2001 to 2022",
+            "summary": "This report explores the material footprint for Northern Ireland, based on estimates produced by the University of Leeds.",
+            "url": "https://www.economy-ni.gov.uk/publications/material-footprint-northern-ireland-2001-2022",
+            "release_date": "2025-12-18T09:30:00Z",
+            "display_date": "18 December 2025",
+            "org": "DfE",
+            "updated": "2025-12-18T00:00:00Z",
+            "type": "R"
         },
         {
             "id": "northern-ireland-degree-study-choices-202425",
