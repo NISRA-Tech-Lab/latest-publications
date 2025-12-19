@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-19T13:33:38Z",
+    "modified": "2025-12-19T17:40:17Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1455,6 +1455,17 @@
             "status": "confirmed"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2025",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2025",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "release_date": "2026-01-31T09:30:00Z",
+            "display_date": "January 2026 (provisional)",
+            "updated": "2025-12-19T15:14:40Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-care-leavers-202425",
             "title": "Northern Ireland Care Leavers 2024/25",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
@@ -1750,6 +1761,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2025-12-19T15:00:32Z",
+            "org": "PBNI",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "mental-health-and-learning-disability-inpatient-tables-202425",
@@ -2222,6 +2244,28 @@
             "updated": "2025-09-25T16:11:31Z",
             "org": "DAERA",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "probation-board-ni-annual-caseload-202526",
+            "title": "Probation Board NI annual caseload 2025/26",
+            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2025-12-19T15:08:09Z",
+            "org": "PBNI",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2025-12-19T15:04:40Z",
+            "org": "PBNI",
+            "type": "OS",
             "status": "provisional"
         },
         {
