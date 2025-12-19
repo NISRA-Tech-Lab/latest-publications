@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-19T07:19:27Z",
+    "modified": "2025-12-19T09:42:42Z",
     "entries": [
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2025",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2025-12-19T07:00:00Z",
+            "display_date": "19 December 2025",
+            "org": "PSNI",
+            "updated": "2025-12-19T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q2",
+            "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics-2025-26-Q2",
+            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-two",
+            "release_date": "2025-12-19T07:00:00Z",
+            "display_date": "19 December 2025",
+            "org": "DfI",
+            "updated": "2025-12-19T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-december-2025",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 December 2025",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 December 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2025-12-19T07:00:00Z",
+            "display_date": "19 December 2025",
+            "org": "NISRA",
+            "updated": "2025-12-19T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
             "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2023/24",
@@ -1068,72 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-11T09:30:04Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-october-2025",
-            "title": "Monthly Births (Northern Ireland): October 2025",
-            "summary": "Monthly Births (Northern Ireland): October 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "continuous-household-survey-heat-and-insulation-results-202425",
-            "title": "Continuous Household Survey Heat and Insulation Results 2024/25",
-            "summary": "This report presents the results of the household heating and insulation questions from the 2024/25 Northern Ireland Continuous Household Survey.",
-            "url": "https://www.economy-ni.gov.uk/articles/continuous-household-survey-heat-and-insulation-results",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "DfE",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-november-2025",
-            "title": "NI Labour Market statistics: November 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T07:00:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2025",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2025-12-19T09:30:00Z",
-            "display_date": "19 December 2025 9:30am (confirmed)",
-            "updated": "2025-11-11T14:21:41Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-2",
-            "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 2",
-            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2025-12-19T09:30:00Z",
-            "display_date": "19 December 2025 9:30am (confirmed)",
-            "updated": "2025-10-28T17:29:15Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-12-december-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 12 December 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 12 December 2025.",
-            "release_date": "2025-12-19T09:30:00Z",
-            "display_date": "19 December 2025 9:30am (confirmed)",
-            "updated": "2025-09-01T15:07:18Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2025",
