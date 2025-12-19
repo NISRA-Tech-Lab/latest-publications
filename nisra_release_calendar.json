@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-18T17:48:14Z",
+    "modified": "2025-12-19T07:19:27Z",
     "entries": [
         {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
@@ -1101,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-11T07:00:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
-            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2023/24",
-            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2023/24 academic year.",
-            "release_date": "2025-12-18T09:30:00Z",
-            "display_date": "18 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-05T16:19:24Z",
-            "org": "DfE",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "qualifications-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
-            "title": "Qualifications at UK Higher Education Institutions: Northern Ireland analysis 2023/24",
-            "summary": "Characteristics of qualifiers at UK and NI Higher Education Institutions, in the 2023/24 academic year.",
-            "release_date": "2025-12-18T09:30:00Z",
-            "display_date": "18 December 2025 9:30am (confirmed)",
-            "updated": "2025-12-05T16:18:57Z",
-            "org": "DfE",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
