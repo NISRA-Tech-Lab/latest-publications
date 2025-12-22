@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2025-12-22T09:47:28Z",
+    "modified": "2025-12-22T13:35:00Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1323,6 +1323,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-tourism-statistics-quarter-3-2025",
+            "title": "Northern Ireland Tourism Statistics, Quarter 3 2025",
+            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 3 2025.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2025-12-22T10:59:12Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-31-december-2025",
             "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 December 2025",
             "summary": "Quarterly update of Agricultural and Rural Crime.",
@@ -1387,17 +1398,6 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-3-2025",
-            "title": "Northern Ireland Tourism Statistics, Quarter 3 2025",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 3 2025.",
-            "release_date": "2026-01-29T09:30:00Z",
-            "display_date": "29 January 2026 9:30am (provisional)",
-            "updated": "2025-12-02T14:40:30Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
