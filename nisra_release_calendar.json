@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-05T09:55:22Z",
+    "modified": "2026-01-05T13:41:12Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1847,17 +1847,6 @@
             "display_date": "February 2026 (provisional)",
             "updated": "2025-10-08T15:54:48Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "attendance-at-grant-aided-primary-post-primary-and-special-schools-202425",
-            "title": "Attendance at grant aided primary, post primary and special schools 2024/25",
-            "summary": "The purpose of this statistical bulletin is to present final attendance figures for schools for the 2024/25 academic year. It includes information on the rates of absence, type of absence and reason for absence.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "January to February 2026 (provisional)",
-            "updated": "2025-05-15T13:43:12Z",
-            "org": "DE",
             "type": "AOS",
             "status": "provisional"
         },
