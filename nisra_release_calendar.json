@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-06T13:38:16Z",
+    "modified": "2026-01-06T17:48:36Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1510,14 +1510,14 @@
             "status": "confirmed"
         },
         {
-            "id": "alcohol-specific-deaths-2014-2024-northern-ireland",
-            "title": "Alcohol-Specific Deaths 2014-2024 (Northern Ireland)",
-            "summary": "Number of Alcohol-Specific Deaths in Northern Ireland, 2014-2024",
-            "release_date": "2026-02-04T09:30:00Z",
-            "display_date": "4 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-06T11:38:32Z",
+            "id": "monthly-occupancy-statistics--5",
+            "title": "Monthly Occupancy Statistics, December 2025",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-06T15:57:48Z",
             "org": "NISRA",
-            "type": "AOS",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1560,6 +1560,17 @@
             "release_date": "2026-02-06T09:30:00Z",
             "display_date": "6 February 2026 9:30am (confirmed)",
             "updated": "2025-09-01T15:41:01Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "alcohol-specific-deaths-2014-2024-northern-ireland",
+            "title": "Alcohol-Specific Deaths 2014-2024 (Northern Ireland)",
+            "summary": "Number of Alcohol-Specific Deaths in Northern Ireland, 2014-2024",
+            "release_date": "2026-02-11T09:30:00Z",
+            "display_date": "11 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-06T16:43:02Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
