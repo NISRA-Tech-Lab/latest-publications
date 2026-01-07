@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-07T07:22:34Z",
+    "modified": "2026-01-07T09:46:56Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1507,6 +1507,17 @@
             "updated": "2025-12-23T13:26:19Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
+            "title": "Employment vacancies notified to DfC Quarter Three 2025/26 financial year",
+            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
+            "release_date": "2026-02-04T09:30:00Z",
+            "display_date": "4 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-07T08:08:27Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
