@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-08T09:47:41Z",
+    "modified": "2026-01-08T13:41:32Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
@@ -1431,6 +1431,28 @@
             "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-oct-25",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Oct 25\t \t",
+            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
+            "release_date": "2026-01-30T09:30:00Z",
+            "display_date": "30 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-08T10:56:08Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "higher-level-apprenticeships-in-further-education-academic-year-202425",
+            "title": "Higher Level Apprenticeships in Further Education, academic year 2024/25\t \t",
+            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Further Education colleges and Cafre, including the number of starts, participants and qualifications achieved.",
+            "release_date": "2026-01-30T09:30:00Z",
+            "display_date": "30 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-08T10:52:26Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2025",
