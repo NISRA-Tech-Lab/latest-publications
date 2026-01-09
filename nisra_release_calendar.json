@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-09T07:26:26Z",
+    "modified": "2026-01-09T09:47:06Z",
     "entries": [
+        {
+            "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
+            "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2026",
+            "summary": "Calls relating to domestic abuse received by PSNI during Christmas and New Year.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
+            "release_date": "2026-01-09T07:00:00Z",
+            "display_date": "9 January 2026",
+            "org": "PSNI",
+            "updated": "2026-01-09T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-2-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 2 January 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 2 January 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-01-09T07:00:00Z",
+            "display_date": "9 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-09T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2025",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2025",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2026-01-09T07:00:00Z",
+            "display_date": "9 January 2026",
+            "org": "PSNI",
+            "updated": "2026-01-09T09:30:04Z",
+            "type": "AOS"
+        },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2025",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2025",
@@ -1068,72 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-11T09:30:04Z",
             "type": "AOS"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202425",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/sickness-absence-statistics",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-october-2025",
-            "title": "Monthly Marriages (Northern Ireland): October 2025",
-            "summary": "Monthly Marriages (Northern Ireland): October 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-october-2025",
-            "title": "Monthly Deaths (Northern Ireland): October 2025",
-            "summary": "Monthly Deaths (Northern Ireland): October 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2026-01-09T09:30:00Z",
-            "display_date": "9 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-16T13:42:01Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
-            "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2026",
-            "summary": "Calls relating to domestic abuse received by PSNI during Christmas and New Year.",
-            "release_date": "2026-01-09T09:30:00Z",
-            "display_date": "9 January 2026 9:30am (confirmed)",
-            "updated": "2025-11-26T11:30:05Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-2-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 2 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 2 January 2026.",
-            "release_date": "2026-01-09T09:30:00Z",
-            "display_date": "9 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:14:55Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-december-2025",
