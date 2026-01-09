@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-09T09:51:54Z",
+    "modified": "2026-01-09T13:38:57Z",
     "entries": [
         {
             "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
@@ -1510,6 +1510,17 @@
             "status": "confirmed"
         },
         {
+            "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
+            "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
+            "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-09T10:07:20Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics--5",
             "title": "Monthly Occupancy Statistics, December 2025",
             "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1837,17 +1848,6 @@
             "updated": "2025-11-05T09:37:59Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
-            "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
-            "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "January to February 2026 (provisional)",
-            "updated": "2025-10-30T14:17:29Z",
-            "org": "NISRA",
-            "type": "OS",
             "status": "provisional"
         },
         {
