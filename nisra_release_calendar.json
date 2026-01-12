@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-12T13:42:42Z",
+    "modified": "2026-01-12T17:46:44Z",
     "entries": [
+        {
+            "id": "monthly-births-northern-ireland-december-2025",
+            "title": "Monthly Births (Northern Ireland): December 2025",
+            "summary": "Monthly Births (Northern Ireland): December 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2026-01-12T07:00:00Z",
+            "display_date": "12 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-12T00:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-december-2025",
+            "title": "Monthly Stillbirths (Northern Ireland): December 2025",
+            "summary": "Monthly Stillbirths (Northern Ireland): December 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2026-01-12T07:00:00Z",
+            "display_date": "12 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-12T00:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-december-2025",
+            "title": "Monthly Marriages (Northern Ireland): December 2025",
+            "summary": "Monthly Marriages (Northern Ireland): December 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2026-01-12T07:00:00Z",
+            "display_date": "12 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-12T00:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-december-2025",
+            "title": "Monthly Deaths (Northern Ireland): December 2025",
+            "summary": "Monthly Deaths (Northern Ireland): December 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2026-01-12T07:00:00Z",
+            "display_date": "12 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-12T00:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-december-2025",
+            "title": "Monthly Civil Partnerships (Northern Ireland): December 2025",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): December 2025",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2026-01-12T07:00:00Z",
+            "display_date": "12 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-12T00:00:00Z",
+            "type": "AOS"
+        },
         {
             "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
             "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2026",
@@ -1046,116 +1101,6 @@
             "org": "DfI",
             "updated": "2025-11-13T09:30:08Z",
             "type": "OS"
-        },
-        {
-            "id": "monthly-occupancy-statistics-september-2025",
-            "title": "Monthly Occupancy Statistics, September 2025",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2025-11-13T07:00:00Z",
-            "display_date": "13 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-13T09:30:08Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q2-2025-26.html",
-            "release_date": "2025-11-12T07:00:00Z",
-            "display_date": "12 November 2025",
-            "org": "PBNI",
-            "updated": "2025-11-12T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202425--2",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
-            "summary": "Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks.",
-            "url": "https://www.health-ni.gov.uk/publications/statistics-smoking-cessation-services-northern-ireland-202425",
-            "release_date": "2025-11-12T07:00:00Z",
-            "display_date": "12 November 2025",
-            "org": "DoH",
-            "updated": "2025-11-12T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-october-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): October 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): October 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-october-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): October 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): October 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2025-11-11T07:00:00Z",
-            "display_date": "11 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-11T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-december-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): December 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): December 2025",
-            "release_date": "2026-01-12T09:30:00Z",
-            "display_date": "12 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:52:11Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-december-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): December 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): December 2025",
-            "release_date": "2026-01-12T09:30:00Z",
-            "display_date": "12 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:50:23Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-december-2025",
-            "title": "Monthly Marriages (Northern Ireland): December 2025",
-            "summary": "Monthly Marriages (Northern Ireland): December 2025",
-            "release_date": "2026-01-12T09:30:00Z",
-            "display_date": "12 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:49:04Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-december-2025",
-            "title": "Monthly Deaths (Northern Ireland): December 2025",
-            "summary": "Monthly Deaths (Northern Ireland): December 2025",
-            "release_date": "2026-01-12T09:30:00Z",
-            "display_date": "12 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:47:26Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-december-2025",
-            "title": "Monthly Births (Northern Ireland): December 2025",
-            "summary": "Monthly Births (Northern Ireland): December 2025",
-            "release_date": "2026-01-12T09:30:00Z",
-            "display_date": "12 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:45:25Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "monthly-occupancy-statistics-november-2025",
