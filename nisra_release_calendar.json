@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-13T09:51:36Z",
+    "modified": "2026-01-13T13:41:51Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-december-2025",
@@ -2514,9 +2514,9 @@
             "id": "northern-ireland-index-of-services-quarter-2-2026",
             "title": "Northern Ireland Index of Services: Quarter 2 2026",
             "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "release_date": "2026-09-18T09:30:00Z",
-            "display_date": "18 September 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T16:24:53Z",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-01-13T13:02:14Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2525,9 +2525,9 @@
             "id": "northern-ireland-index-of-production-quarter-2-2026",
             "title": "Northern Ireland Index of Production: Quarter 2 2026",
             "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "release_date": "2026-09-18T09:30:00Z",
-            "display_date": "18 September 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T16:00:23Z",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-01-13T13:00:27Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
