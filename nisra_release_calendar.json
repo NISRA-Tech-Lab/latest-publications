@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-13T07:25:40Z",
+    "modified": "2026-01-13T09:47:07Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-december-2025",
@@ -1584,6 +1584,17 @@
             "updated": "2025-09-01T16:54:22Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "road-safety-issues-in-northern-ireland-202425",
+            "title": "Road Safety issues in Northern Ireland 2024/25",
+            "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselves to be responsible for and which road safety issue is most important to them.",
+            "release_date": "2026-02-12T09:30:00Z",
+            "display_date": "12 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-13T09:20:35Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
