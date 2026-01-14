@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-14T13:40:46Z",
+    "modified": "2026-01-14T17:52:00Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-december-2025",
@@ -1246,6 +1246,17 @@
             "status": "confirmed"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2025",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2025",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-14T14:31:54Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-tourism-statistics-quarter-3-2025",
             "title": "Northern Ireland Tourism Statistics, Quarter 3 2025",
             "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 3 2025.",
@@ -1398,17 +1409,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-july-to-september-2025",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2025",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
-            "release_date": "2026-01-31T09:30:00Z",
-            "display_date": "January 2026 (provisional)",
-            "updated": "2025-12-19T15:14:40Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-care-leavers-202425",
