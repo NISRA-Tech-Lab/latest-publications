@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-15T09:50:39Z",
+    "modified": "2026-01-15T11:27:28Z",
     "entries": [
         {
             "id": "northern-ireland-construction-bulletin-1-july-to-30-september-2025",
@@ -22,6 +22,17 @@
             "display_date": "15 January 2026",
             "org": "NISRA",
             "updated": "2026-01-15T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2025",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2025",
+            "summary": "Quarterly Index of the Northern Ireland economy.",
+            "url": "https://datavis.nisra.gov.uk/economy-and-labour-market/NI-Composite-Economic-Index-Q3-2025-statistical-bulletin.pdf",
+            "release_date": "2026-01-15T07:00:00Z",
+            "display_date": "15 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-15T00:00:00Z",
             "type": "OS"
         },
         {
@@ -1092,17 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "dva-monthly-tests-conducted-statistics-october-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: October 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-october-2025",
-            "release_date": "2025-11-14T07:00:00Z",
-            "display_date": "14 November 2025",
-            "org": "DfI",
-            "updated": "2025-11-14T09:30:04Z",
-            "type": "OS"
-        },
-        {
             "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-july-september-2025",
             "title": "Northern Ireland waiting time statistics: cancer waiting times July-September 2025",
             "summary": "Presents information on the waiting times for patients accessing cancer services at hospitals in Northern Ireland. This information reports on the performance of health and social care (HSC) trusts against the ministerial target in Northern Ireland.",
@@ -1111,17 +1111,6 @@
             "updated": "2025-11-20T15:13:10Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2025",
-            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2025",
-            "summary": "Quarterly Index of the Northern Ireland economy.",
-            "release_date": "2026-01-15T09:30:00Z",
-            "display_date": "15 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-30T13:31:02Z",
-            "org": "NISRA",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2247,6 +2236,61 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-april-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): April 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:38:26Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-april-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:36:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-april-2026",
+            "title": "Monthly Marriages (Northern Ireland): April 2026",
+            "summary": "Monthly Marriages (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:34:30Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-april-2026",
+            "title": "Monthly Deaths (Northern Ireland): April 2026",
+            "summary": "Monthly Deaths (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:06:03Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-april-2026",
+            "title": "Monthly Births (Northern Ireland): April 2026",
+            "summary": "Monthly Births (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:02:34Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-8-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 8 May 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 8 May 2026.",
@@ -2363,6 +2407,61 @@
             "release_date": "2026-06-05T09:30:00Z",
             "display_date": "5 June 2026 9:30am (confirmed)",
             "updated": "2026-01-15T08:58:23Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-may-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): May 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): May 2026",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T11:14:50Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-may-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): May 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): May 2026",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T11:11:13Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-may-2026",
+            "title": "Monthly Marriages (Northern Ireland): May 2026",
+            "summary": "Monthly Marriages (Northern Ireland): May 2026",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:51:39Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-may-2026",
+            "title": "Monthly Deaths (Northern Ireland): May 2026",
+            "summary": "Monthly Deaths (Northern Ireland): May 2026",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:48:39Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-may-2026",
+            "title": "Monthly Births (Northern Ireland): May 2026",
+            "summary": "Monthly Births (Northern Ireland): May 2026",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:44:46Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
