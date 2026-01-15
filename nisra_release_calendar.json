@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-14T17:52:00Z",
+    "modified": "2026-01-15T07:22:49Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-december-2025",
@@ -1716,6 +1716,17 @@
             "updated": "2025-02-12T13:50:31Z",
             "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2025",
+            "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2025",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-14T18:15:29Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
