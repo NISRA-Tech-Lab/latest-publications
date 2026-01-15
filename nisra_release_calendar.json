@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-15T13:40:10Z",
+    "modified": "2026-01-15T17:58:55Z",
     "entries": [
         {
             "id": "northern-ireland-construction-bulletin-1-july-to-30-september-2025",
@@ -1543,6 +1543,17 @@
             "status": "confirmed"
         },
         {
+            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
+            "title": "Population projections for areas within Northern Ireland: 2022-based",
+            "summary": "Population projections for areas within Northern Ireland: 2022-based",
+            "release_date": "2026-02-12T09:30:00Z",
+            "display_date": "12 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T16:00:02Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "road-safety-issues-in-northern-ireland-202425",
             "title": "Road Safety issues in Northern Ireland 2024/25",
             "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselves to be responsible for and which road safety issue is most important to them.",
@@ -1792,17 +1803,6 @@
             "display_date": "February 2026 (provisional)",
             "updated": "2025-11-05T09:37:59Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
-            "title": "Population projections for areas within Northern Ireland: 2022-based",
-            "summary": "Population projections for areas within Northern Ireland: 2022-based",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "January to February 2026 (provisional)",
-            "updated": "2025-10-30T14:02:57Z",
-            "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
         },
