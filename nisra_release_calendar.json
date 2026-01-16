@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-15T17:58:55Z",
+    "modified": "2026-01-16T07:22:11Z",
     "entries": [
         {
             "id": "northern-ireland-construction-bulletin-1-july-to-30-september-2025",
@@ -1101,17 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-14T09:30:05Z",
             "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-july-september-2025",
-            "title": "Northern Ireland waiting time statistics: cancer waiting times July-September 2025",
-            "summary": "Presents information on the waiting times for patients accessing cancer services at hospitals in Northern Ireland. This information reports on the performance of health and social care (HSC) trusts against the ministerial target in Northern Ireland.",
-            "release_date": "2026-01-15T09:30:00Z",
-            "display_date": "15 January 2026 9:30am (confirmed)",
-            "updated": "2025-11-20T15:13:10Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2025",
