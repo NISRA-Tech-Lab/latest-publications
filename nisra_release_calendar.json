@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-16T09:49:23Z",
+    "modified": "2026-01-16T13:38:36Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2025",
@@ -2583,6 +2583,61 @@
             "release_date": "2026-07-03T09:30:00Z",
             "display_date": "3 July 2026 9:30am (confirmed)",
             "updated": "2026-01-15T09:47:08Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-june-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): June 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:36:37Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-june-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): June 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:34:38Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-june-2026",
+            "title": "Monthly Marriages (Northern Ireland): June 2026",
+            "summary": "Monthly Marriages (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:27:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-june-2026",
+            "title": "Monthly Deaths (Northern Ireland): June 2026",
+            "summary": "Monthly Deaths (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:25:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-june-2026",
+            "title": "Monthly Births (Northern Ireland): June 2026",
+            "summary": "Monthly Births (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:22:50Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
