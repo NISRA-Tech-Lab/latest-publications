@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-20T09:56:06Z",
+    "modified": "2026-01-20T13:48:06Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-january-2026",
@@ -1367,6 +1367,17 @@
             "status": "confirmed"
         },
         {
+            "id": "emergency-care-waiting-time-statistics-october-december-2025",
+            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-20T12:24:51Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
             "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
             "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
@@ -1398,17 +1409,6 @@
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-october-december-2025",
-            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (provisional)",
-            "updated": "2025-09-25T10:16:07Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1561,6 +1561,28 @@
             "display_date": "17 February 2026 7:00am (confirmed)",
             "updated": "2025-12-18T13:40:56Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-4-2025",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 4 2025",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Oct - Dec 2025",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-20T11:41:53Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-4-2025--2",
+            "title": "Northern Ireland House Price Index Quarter 4 2025",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2025",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-20T11:29:14Z",
+            "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -3070,6 +3092,10 @@
         {
             "id": "northern-ireland-universal-credit-statistics-november-2024",
             "updated": "2025-05-02T09:37:11Z"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-4-2025",
+            "updated": "2026-01-20T11:20:31Z"
         },
         {
             "id": "life-expectancy-in-northern-ireland-2021-23-full-report",
