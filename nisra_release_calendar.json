@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-19T17:48:45Z",
+    "modified": "2026-01-20T07:24:47Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-january-2026",
+            "title": "NI Labour Market statistics: January 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-01-20T07:00:00Z",
+            "display_date": "20 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-20T07:00:02Z",
+            "type": "AOS"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-december-2025",
             "title": "DVA Monthly Tests Conducted Statistics: December 2025",
@@ -1090,28 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-11-19T09:30:01Z",
             "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-september-2025",
-            "title": "Northern Ireland HSC Workforce Statistics September 2025",
-            "summary": "A quarterly summary of HSC staff",
-            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
-            "release_date": "2025-11-19T07:00:00Z",
-            "display_date": "19 November 2025",
-            "org": "DoH",
-            "updated": "2025-11-19T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-january-2026",
-            "title": "NI Labour Market statistics: January 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-01-20T07:00:00Z",
-            "display_date": "20 January 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:40:48Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "individual-wellbeing-in-northern-ireland-202425",
