@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-21T09:55:36Z",
+    "modified": "2026-01-21T13:46:28Z",
     "entries": [
         {
             "id": "individual-wellbeing-in-northern-ireland-202425",
@@ -1719,6 +1719,17 @@
             "status": "confirmed"
         },
         {
+            "id": "winter-mortality-202425-northern-ireland",
+            "title": "Winter Mortality 2024/25 (Northern Ireland)",
+            "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2026-01-21T12:34:53Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-care-leavers-202425",
             "title": "Northern Ireland Care Leavers 2024/25",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
@@ -2280,6 +2291,28 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-1-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 1 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jan - Mar 2026",
+            "release_date": "2026-05-20T09:30:00Z",
+            "display_date": "20 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:43:09Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-1-2026",
+            "title": "Northern Ireland House Price Index Quarter 1 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jan - Mar (Quarter 1) 2026",
+            "release_date": "2026-05-20T09:30:00Z",
+            "display_date": "20 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:10:27Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 15 May 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 15 May 2026.",
@@ -2709,6 +2742,28 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-2-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 2 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Apr - Jun 2026",
+            "release_date": "2026-08-19T09:30:00Z",
+            "display_date": "19 August 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:50:49Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-2-2026",
+            "title": "Northern Ireland House Price Index Quarter 2 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2026",
+            "release_date": "2026-08-19T09:30:00Z",
+            "display_date": "19 August 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:13:52Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-carrier-bag-levy-statistics-202526",
             "title": "Northern Ireland Carrier Bag Levy Statistics 2025/26",
             "summary": "This publication reports on the number of carrier bags dispensed in the 2025/26 financial year under the Carrier Bag Levy in Northern Ireland.",
@@ -2861,6 +2916,28 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2026",
+            "release_date": "2026-11-18T09:30:00Z",
+            "display_date": "18 November 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:53:17Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-3-2026",
+            "title": "Northern Ireland House Price Index Quarter 3 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2026",
+            "release_date": "2026-11-18T09:30:00Z",
+            "display_date": "18 November 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:35:39Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-benefit-statistics-summary-august-2026",
