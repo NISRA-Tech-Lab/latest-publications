@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-21T07:29:22Z",
+    "modified": "2026-01-21T09:49:29Z",
     "entries": [
+        {
+            "id": "individual-wellbeing-in-northern-ireland-202425",
+            "title": "Individual Wellbeing in Northern Ireland, 2024/25",
+            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2024/25.",
+            "url": "https://www.executiveoffice-ni.gov.uk/publications/individual-wellbeing-northern-ireland-report-202425",
+            "release_date": "2026-01-21T07:00:00Z",
+            "display_date": "21 January 2026",
+            "org": "TEO",
+            "updated": "2026-01-21T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "ni-labour-market-statistics-january-2026",
             "title": "NI Labour Market statistics: January 2026",
@@ -1090,28 +1101,6 @@
             "org": "DoF",
             "updated": "2025-11-19T09:30:01Z",
             "type": "AOS"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2025",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2025",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
-            "release_date": "2025-11-19T07:00:00Z",
-            "display_date": "19 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-19T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "individual-wellbeing-in-northern-ireland-202425",
-            "title": "Individual Wellbeing in Northern Ireland, 2024/25",
-            "summary": "This publication provides figures in relation to individual wellbeing in Northern Ireland in 2024/25.",
-            "release_date": "2026-01-21T09:30:00Z",
-            "display_date": "21 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-18T11:38:47Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "year-12-and-year-14-examination-performance-at-post-primary-schools-in-northern-ireland-2024-to-2025-academic-year",
