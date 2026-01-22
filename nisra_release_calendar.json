@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-22T07:28:13Z",
+    "modified": "2026-01-22T09:49:34Z",
     "entries": [
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202526",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2025/26",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
+            "release_date": "2026-01-22T07:00:00Z",
+            "display_date": "22 January 2026",
+            "org": "OPONI",
+            "updated": "2026-01-22T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "year-12-and-year-14-examination-performance-at-post-primary-schools-in-northern-ireland-2024-to-2025-academic-year",
+            "title": "Year 12 and Year 14 examination performance at post-primary schools in Northern Ireland: 2024 to 2025 (academic year)",
+            "summary": "GCSE and A level Examination performance in Northern Ireland post-primary schools from 2024 to 2025 (academic year).",
+            "url": "https://www.education-ni.gov.uk/articles/school-performance",
+            "release_date": "2026-01-22T07:00:00Z",
+            "display_date": "22 January 2026",
+            "org": "DE",
+            "updated": "2026-01-22T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "individual-wellbeing-in-northern-ireland-202425",
             "title": "Individual Wellbeing in Northern Ireland, 2024/25",
@@ -1081,50 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2025",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2025",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2025",
-            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
-            "release_date": "2025-11-19T07:00:00Z",
-            "display_date": "19 November 2025",
-            "org": "DoF",
-            "updated": "2025-11-19T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-3-2025",
-            "title": "Northern Ireland House Price Index Quarter 3 2025",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2025",
-            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
-            "release_date": "2025-11-19T07:00:00Z",
-            "display_date": "19 November 2025",
-            "org": "DoF",
-            "updated": "2025-11-19T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "year-12-and-year-14-examination-performance-at-post-primary-schools-in-northern-ireland-2024-to-2025-academic-year",
-            "title": "Year 12 and Year 14 examination performance at post-primary schools in Northern Ireland: 2024 to 2025 (academic year)",
-            "summary": "GCSE and A level Examination performance in Northern Ireland post-primary schools from 2024 to 2025 (academic year).",
-            "release_date": "2026-01-22T09:30:00Z",
-            "display_date": "22 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-23T11:19:48Z",
-            "org": "DE",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202526",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2025/26",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "release_date": "2026-01-22T09:30:00Z",
-            "display_date": "22 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-18T11:42:09Z",
-            "org": "OPONI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
             "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2026",
             "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2025/26, which ran from 1st December 2025 to 1st January 2026 inclusive, specifically the outcomes in terms of Preliminary Breath Tests (PBTs) and drink/drug driving arrests.",
@@ -1155,6 +1133,17 @@
             "updated": "2025-12-18T16:20:37Z",
             "org": "NISRA",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2025",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2025",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-22T09:42:57Z",
+            "org": "DAERA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1255,17 +1244,6 @@
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2025",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2025",
-            "release_date": "2026-01-29T09:30:00Z",
-            "display_date": "29 January 2026 9:30am (provisional)",
-            "updated": "2025-02-04T10:59:34Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-oct-25",
