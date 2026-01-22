@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-22T09:55:32Z",
+    "modified": "2026-01-22T13:47:53Z",
     "entries": [
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202526",
@@ -1695,6 +1695,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "nation-brands-index-2025-report-for-northern-ireland",
+            "title": "Nation Brands Index: 2025 report for Northern Ireland",
+            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2026-01-22T12:05:17Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "winter-mortality-202425-northern-ireland",
