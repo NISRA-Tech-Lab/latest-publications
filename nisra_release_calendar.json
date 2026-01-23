@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-23T07:22:59Z",
+    "modified": "2026-01-23T09:47:42Z",
     "entries": [
+        {
+            "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
+            "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2026",
+            "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2025/26, which ran from 1st December 2025 to 1st January 2026 inclusive, specifically the outcomes in terms of Preliminary Breath Tests (PBTs) and drink/drug driving arrests.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2026-01-23T07:00:00Z",
+            "display_date": "23 January 2026",
+            "org": "PSNI",
+            "updated": "2026-01-23T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-16-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 16 January 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 16 January 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-01-23T07:00:00Z",
+            "display_date": "23 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-23T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202526",
             "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2025/26",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-20T09:30:04Z",
             "type": "AOS"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-jul-sep-2025",
-            "title": "Young people not in education, employment or training (NEET), NI: Jul-Sep 2025",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-november-2025",
-            "release_date": "2025-11-20T07:00:00Z",
-            "display_date": "20 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-20T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-september-2025",
-            "title": "Northern Ireland HSC Vacancies September 2025",
-            "summary": "A quarterly publication of HSC vacancies",
-            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
-            "release_date": "2025-11-19T07:00:00Z",
-            "display_date": "19 November 2025",
-            "org": "DoH",
-            "updated": "2025-11-19T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
-            "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2026",
-            "summary": "This annual bulletin summarises available information in relation to the PSNI Christmas drink/drug driving campaign 2025/26, which ran from 1st December 2025 to 1st January 2026 inclusive, specifically the outcomes in terms of Preliminary Breath Tests (PBTs) and drink/drug driving arrests.",
-            "release_date": "2026-01-23T09:30:00Z",
-            "display_date": "23 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-16T14:22:45Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-16-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 16 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 16 January 2026.",
-            "release_date": "2026-01-23T09:30:00Z",
-            "display_date": "23 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:32:35Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "digital-skills-in-northern-ireland-2025",
