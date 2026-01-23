@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-23T13:43:09Z",
+    "modified": "2026-01-23T17:48:24Z",
     "entries": [
         {
             "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
@@ -2113,6 +2113,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "public-awareness-of-and-trust-in-official-statistics-2025",
+            "title": "Public Awareness of and Trust in Official Statistics 2025",
+            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
+            "release_date": "2026-04-30T09:30:00Z",
+            "display_date": "April 2026 (provisional)",
+            "updated": "2026-01-23T15:30:08Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
