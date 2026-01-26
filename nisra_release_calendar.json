@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-23T17:48:24Z",
+    "modified": "2026-01-26T07:25:13Z",
     "entries": [
         {
             "id": "christmas-drinkdrug-drive-campaign-period-ending-1-january-2026",
@@ -1310,6 +1310,17 @@
             "org": "DfC",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "programme-for-government-pfg-indicators-trust-in-the-ni-assembly-and-trust-in-the-media-autumn-2024",
+            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
+            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (provisional)",
+            "updated": "2026-01-25T15:46:58Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "emergency-care-waiting-time-statistics-october-december-2025",
