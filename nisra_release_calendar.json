@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-27T09:56:35Z",
+    "modified": "2026-01-27T13:48:41Z",
     "entries": [
         {
             "id": "digital-skills-in-northern-ireland-2025",
@@ -1268,17 +1268,6 @@
             "status": "confirmed"
         },
         {
-            "id": "children-in-care-in-northern-ireland-202324",
-            "title": "Children in Care in Northern Ireland 2023/24",
-            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
-            "release_date": "2026-01-31T09:30:00Z",
-            "display_date": "January 2026 (provisional)",
-            "updated": "2025-12-01T12:54:00Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "business-demography-northern-ireland-2024",
             "title": "Business Demography Northern Ireland, 2024",
             "summary": "This release looks at the births, deaths, and survivals of Northern Ireland businesses, as a region within the UK, and at a local level. The Northern Ireland specific data are disaggregated by industry and geography.",
@@ -1510,6 +1499,17 @@
             "status": "confirmed"
         },
         {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-december-2025",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-27T10:51:25Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-new-dwelling-statistics-quarter-4-2025",
             "title": "Northern Ireland New Dwelling Statistics Quarter 4 2025",
             "summary": "New Dwellings in each local government district in Northern Ireland during Oct - Dec 2025",
@@ -1620,6 +1620,50 @@
             "status": "confirmed"
         },
         {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2025",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-27T11:03:25Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2025--2",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-27T11:00:28Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-january-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 January 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-27T10:57:06Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-january-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 January 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-27T10:54:01Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2025-26",
             "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2025-26",
             "summary": "The purpose of this release is to present final enrolment figures for schools and for children in funded preschool education in the 2025-26 academic year.",
@@ -1697,6 +1741,28 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-care-leavers-202425",
+            "title": "Northern Ireland Care Leavers 2024/25",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2026-01-27T12:28:56Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "children-in-care-in-northern-ireland-202324",
+            "title": "Children in Care in Northern Ireland 2023/24",
+            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2026-01-27T12:28:08Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "nation-brands-index-2025-report-for-northern-ireland",
             "title": "Nation Brands Index: 2025 report for Northern Ireland",
             "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
@@ -1705,17 +1771,6 @@
             "updated": "2026-01-22T12:05:17Z",
             "org": "TEO",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-care-leavers-202425",
-            "title": "Northern Ireland Care Leavers 2024/25",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2026-01-15T13:12:37Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "provisional"
         },
         {
