@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-28T13:50:11Z",
+    "modified": "2026-01-28T17:57:34Z",
     "entries": [
         {
             "id": "digital-skills-in-northern-ireland-2025",
@@ -1838,6 +1838,17 @@
             "org": "DoF",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-occupancy-statistics-january",
+            "title": "Monthly Occupancy Statistics, January 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-03-05T09:30:00Z",
+            "display_date": "5 March 2026 9:30am (confirmed)",
+            "updated": "2026-01-28T16:45:42Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
