@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-28T09:57:10Z",
+    "modified": "2026-01-28T13:50:11Z",
     "entries": [
         {
             "id": "digital-skills-in-northern-ireland-2025",
@@ -1103,6 +1103,28 @@
             "type": "AOS"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2025",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-28T11:56:12Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2025/26.",
+            "release_date": "2026-01-29T09:30:00Z",
+            "display_date": "29 January 2026 9:30am (confirmed)",
+            "updated": "2026-01-28T10:21:50Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2025",
             "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2025",
             "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2025",
@@ -1202,17 +1224,6 @@
             "status": "confirmed"
         },
         {
-            "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 3 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2025/26.",
-            "release_date": "2026-01-29T09:30:00Z",
-            "display_date": "29 January 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:37:36Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-oct-25",
             "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Oct 25\t \t",
             "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
@@ -1232,17 +1243,6 @@
             "updated": "2026-01-27T18:37:02Z",
             "org": "DfE",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2025",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-16T13:53:30Z",
-            "org": "PSNI",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -3092,6 +3092,39 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-november-2026--2",
+            "title": "Northern Ireland Universal Credit Statistics: November 2026",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2027-02-24T09:30:00Z",
+            "display_date": "24 February 2027 9:30am (confirmed)",
+            "updated": "2026-01-28T10:45:39Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "personal-independence-payment-statistics-november-2026",
+            "title": "Personal Independence Payment Statistics - November 2026",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2027-02-24T09:30:00Z",
+            "display_date": "24 February 2027 9:30am (confirmed)",
+            "updated": "2026-01-28T10:44:36Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-november-2026",
+            "title": "Northern Ireland Universal Credit Statistics: November 2026",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2027-02-24T09:30:00Z",
+            "display_date": "24 February 2027 9:30am (confirmed)",
+            "updated": "2026-01-28T10:28:17Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-31-october-2025",
