@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-29T14:00:49Z",
+    "modified": "2026-01-29T14:37:57Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
@@ -1349,11 +1349,11 @@
             "title": "DVA Monthly Tests Conducted Statistics: January 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-02-13T09:30:00Z",
-            "display_date": "13 February 2026 9:30am (provisional)",
-            "updated": "2025-10-01T15:19:34Z",
+            "display_date": "13 February 2026 9:30am (confirmed)",
+            "updated": "2026-01-29T14:28:01Z",
             "org": "DfI",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-february-2026",
@@ -1833,11 +1833,11 @@
             "title": "DVA Monthly Tests Conducted Statistics: February 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-03-13T09:30:00Z",
-            "display_date": "13 March 2026 9:30am (provisional)",
-            "updated": "2025-10-14T15:45:36Z",
+            "display_date": "13 March 2026 9:30am (confirmed)",
+            "updated": "2026-01-29T14:28:40Z",
             "org": "DfI",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
