@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-29T14:37:57Z",
+    "modified": "2026-01-29T17:08:23Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
@@ -1935,6 +1935,17 @@
             "display_date": "26 March 2026 9:30am (confirmed)",
             "updated": "2025-10-01T12:38:35Z",
             "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q3",
+            "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics 2025-26 Q3",
+            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "release_date": "2026-03-27T09:30:00Z",
+            "display_date": "27 March 2026 9:30am (confirmed)",
+            "updated": "2026-01-29T14:48:28Z",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
