@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-01-30T08:59:50Z",
+    "modified": "2026-01-30T09:57:12Z",
     "entries": [
+        {
+            "id": "higher-level-apprenticeships-in-further-education-academic-year-202425",
+            "title": "Higher Level Apprenticeships in Further Education, academic year 2024/25",
+            "summary": "Statistics in this bulletin present analysis of Higher Level Apprenticeship programmes in Further Education in Northern Ireland, including the number of new starts, participants and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-fe-colleges-and-cafre-bulletins",
+            "release_date": "2026-01-30T07:00:00Z",
+            "display_date": "30 January 2026",
+            "org": "DfE",
+            "updated": "2026-01-30T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-oct-25",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Oct 25",
+            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
+            "release_date": "2026-01-30T07:00:00Z",
+            "display_date": "30 January 2026",
+            "org": "DfE",
+            "updated": "2026-01-30T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 January 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 January 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-01-30T07:00:00Z",
+            "display_date": "30 January 2026",
+            "org": "NISRA",
+            "updated": "2026-01-30T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-december-2025",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
+            "release_date": "2026-01-30T07:00:00Z",
+            "display_date": "30 January 2026",
+            "org": "PSNI",
+            "updated": "2026-01-30T09:30:05Z",
+            "type": "OS"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-3-202526",
             "title": "General Dental Services Statistics for NI, Quarter 3 2025/26",
@@ -1057,94 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-11-27T09:30:01Z",
             "type": "AOS"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-october-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 October 2025",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-27T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2025",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2025",
-            "summary": "Monthly update of PSNI recorded crime statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2025",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2025",
-            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-27T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-sexual-offences-202425",
-            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2024/25",
-            "summary": "PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2024/25.",
-            "url": "https://www.ppsni.gov.uk/thematic-bulletins-sexual-offences",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "PPS",
-            "updated": "2025-11-27T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-oct-25",
-            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Oct 25\t \t",
-            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2026-01-27T18:50:50Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "higher-level-apprenticeships-in-further-education-academic-year-202425",
-            "title": "Higher Level Apprenticeships in Further Education, academic year 2024/25\t \t",
-            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Further Education colleges and Cafre, including the number of starts, participants and qualifications achieved.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2026-01-27T18:37:02Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 December 2025",
-            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2025-12-05T14:54:49Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-23-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 23 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 January 2026.",
-            "release_date": "2026-01-30T09:30:00Z",
-            "display_date": "30 January 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:36:31Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "business-demography-northern-ireland-2024",
