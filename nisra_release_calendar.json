@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-02T17:09:31Z",
+    "modified": "2026-02-02T18:02:40Z",
     "entries": [
         {
             "id": "higher-level-apprenticeships-in-further-education-academic-year-202425",
@@ -1129,11 +1129,11 @@
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
             "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
             "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (provisional)",
-            "updated": "2026-01-25T15:46:58Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-02T17:38:56Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "emergency-care-waiting-time-statistics-october-december-2025",
