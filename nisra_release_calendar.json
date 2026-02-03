@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-03T14:40:23Z",
+    "modified": "2026-02-03T17:27:18Z",
     "entries": [
         {
             "id": "business-demography-northern-ireland-2024",
@@ -1257,6 +1257,17 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2026-02-12T09:30:00Z",
+            "display_date": "12 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-03T16:26:10Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "population-projections-for-areas-within-northern-ireland-2022-based",
             "title": "Population projections for areas within Northern Ireland: 2022-based",
             "summary": "Population projections for areas within Northern Ireland: 2022-based",
@@ -1587,6 +1598,17 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2025",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2025)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2026-02-28T09:30:00Z",
+            "display_date": "February 2026 (provisional)",
+            "updated": "2026-02-03T16:51:10Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-care-leavers-202425",
             "title": "Northern Ireland Care Leavers 2024/25",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
@@ -1628,39 +1650,6 @@
             "updated": "2025-12-19T15:00:32Z",
             "org": "PBNI",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
-            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
-            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-11-26T16:39:54Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-11-05T09:37:59Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
-            "title": "Statistics on community care for adults in Northern Ireland 2024/25",
-            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-10-08T15:54:48Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -1904,6 +1893,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
+            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
+            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
+            "release_date": "2026-03-31T09:30:00Z",
+            "display_date": "March 2026 (provisional)",
+            "updated": "2026-02-03T16:54:37Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
@@ -2476,6 +2476,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
+            "title": "Statistics on community care for adults in Northern Ireland 2024/25",
+            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations.",
+            "release_date": "2026-06-30T09:30:00Z",
+            "display_date": "June 2026 (provisional)",
+            "updated": "2026-02-03T16:53:20Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
