@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-04T17:12:44Z",
+    "modified": "2026-02-04T18:07:27Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
@@ -2883,6 +2883,17 @@
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-management-statistics-202526-annual-report",
+            "title": "Northern Ireland LAC municipal waste management statistics 2025/26 annual report",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics 2025/26 annual report",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (provisional)",
+            "updated": "2026-02-04T17:23:31Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "quarterly-employment-survey-september-2026",
