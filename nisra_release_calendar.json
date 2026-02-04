@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-04T13:57:19Z",
+    "modified": "2026-02-04T17:12:44Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
@@ -2819,6 +2819,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - Apr-Jun 2026",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (provisional)",
+            "updated": "2026-02-04T16:08:09Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-new-dwelling-statistics-quarter-3-2026",
             "title": "Northern Ireland New Dwelling Statistics Quarter 3 2026",
             "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2026",
@@ -2938,6 +2949,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2026",
+            "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2026",
+            "release_date": "2027-01-28T09:30:00Z",
+            "display_date": "28 January 2027 9:30am (provisional)",
+            "updated": "2026-02-04T16:41:01Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "life-expectancy-in-northern-ireland-2023-25",
