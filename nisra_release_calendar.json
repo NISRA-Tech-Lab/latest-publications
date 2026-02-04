@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-04T09:05:42Z",
+    "modified": "2026-02-04T10:02:09Z",
     "entries": [
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
+            "title": "Employment vacancies notified to DfC Quarter Three 2025/26 financial year",
+            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/employment-vacancy-statistics",
+            "release_date": "2026-02-04T07:00:00Z",
+            "display_date": "4 February 2026",
+            "org": "DfC",
+            "updated": "2026-02-04T09:30:03Z",
+            "type": "OS"
+        },
         {
             "id": "business-demography-northern-ireland-2024",
             "title": "Business Demography Northern Ireland, 2024",
@@ -1092,28 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "northern-ireland-annual-ports-traffic-2024",
-            "title": "Northern Ireland Annual Ports Traffic 2024",
-            "summary": "The Northern Ireland Ports Traffic publication provides statistics on passenger and freight traffic through Northern Ireland ports.",
-            "url": "https://www.nisra.gov.uk/statistics/other-surveys/ports-traffic",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
-            "title": "Employment vacancies notified to DfC Quarter Three 2025/26 financial year",
-            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
-            "release_date": "2026-02-04T09:30:00Z",
-            "display_date": "4 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-07T08:08:27Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "programme-for-government-pfg-indicators-trust-in-the-ni-assembly-and-trust-in-the-media-autumn-2024",
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
             "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
@@ -1331,6 +1320,17 @@
             "updated": "2025-12-18T13:40:56Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "nation-brands-index-2025-report-for-northern-ireland",
+            "title": "Nation Brands Index: 2025 report for Northern Ireland",
+            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-04T09:53:08Z",
+            "org": "TEO",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1628,17 +1628,6 @@
             "updated": "2026-01-27T12:28:08Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "nation-brands-index-2025-report-for-northern-ireland",
-            "title": "Nation Brands Index: 2025 report for Northern Ireland",
-            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2026-01-22T12:05:17Z",
-            "org": "TEO",
-            "type": "OS",
             "status": "provisional"
         },
         {
