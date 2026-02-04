@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-04T10:06:34Z",
+    "modified": "2026-02-04T12:38:01Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
+            "release_date": "2026-02-05T09:30:00Z",
+            "display_date": "5 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-04T12:09:51Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "programme-for-government-pfg-indicators-trust-in-the-ni-assembly-and-trust-in-the-media-autumn-2024",
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
             "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
@@ -1144,17 +1155,6 @@
             "updated": "2026-01-06T15:57:48Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:39:46Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
