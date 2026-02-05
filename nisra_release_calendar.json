@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-05T09:07:01Z",
+    "modified": "2026-02-05T10:00:49Z",
     "entries": [
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q3-25-26.html",
+            "release_date": "2026-02-05T07:00:00Z",
+            "display_date": "5 February 2026",
+            "org": "BSO",
+            "updated": "2026-02-05T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
+            "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
+            "summary": "Long-Term International Migration Statistics (2024)",
+            "url": "https://www.nisra.gov.uk/publications/long-term-international-migration-statistics-northern-ireland-2024",
+            "release_date": "2026-02-05T07:00:00Z",
+            "display_date": "5 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-05T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "monthly-occupancy-statistics",
+            "title": "Monthly Occupancy Statistics",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2026-02-05T07:00:00Z",
+            "display_date": "5 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-05T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2024",
+            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
+            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
+            "url": "https://www.nisra.gov.uk/statistics/people-and-communities/public-awareness-and-trust-confidence-official-statistics-pcos",
+            "release_date": "2026-02-05T07:00:00Z",
+            "display_date": "5 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-05T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-october-december-2025",
+            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times#toc-0",
+            "release_date": "2026-02-05T07:00:00Z",
+            "display_date": "5 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-05T09:30:02Z",
+            "type": "AOS"
+        },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
             "title": "Employment vacancies notified to DfC Quarter Three 2025/26 financial year",
@@ -1046,116 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-11-28T09:30:02Z",
             "type": "OS"
-        },
-        {
-            "id": "nicts-quarterly-provisional-figures-july-to-september-2025",
-            "title": "NICTS Quarterly Provisional Figures July to September 2025",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2025-11-28T07:00:00Z",
-            "display_date": "28 November 2025",
-            "org": "NICTS",
-            "updated": "2025-11-28T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2025",
-            "title": "Mortgages: Actions for possession bulletin July to September 2025",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
-            "release_date": "2025-11-28T07:00:00Z",
-            "display_date": "28 November 2025",
-            "org": "NICTS",
-            "updated": "2025-11-28T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q2-25-26.html",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "BSO",
-            "updated": "2025-11-27T09:30:10Z",
-            "type": "AOS"
-        },
-        {
-            "id": "historical-weekly-deaths-data-2011-to-2024",
-            "title": "Historical Weekly Deaths Data, 2011 to 2024",
-            "summary": "A summary table of the number of deaths by week of registration and age, including data on deaths linked with a respiratory illness",
-            "url": "https://www.nisra.gov.uk/publications/historical-weekly-deaths-data",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "NISRA",
-            "updated": "2025-11-27T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "travel-survey-for-northern-ireland-report-2022-and-2023-data",
-            "title": "Travel Survey for Northern Ireland Report 2022 and 2023 data",
-            "summary": "Release of 2022 and 2023 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/travel-survey-northern-ireland",
-            "release_date": "2025-11-27T07:00:00Z",
-            "display_date": "27 November 2025",
-            "org": "DfI",
-            "updated": "2025-11-27T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-04T12:09:51Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "programme-for-government-pfg-indicators-trust-in-the-ni-assembly-and-trust-in-the-media-autumn-2024",
-            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
-            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-02T17:38:56Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-october-december-2025",
-            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-20T12:24:51Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
-            "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
-            "summary": "Long-Term International Migration Statistics (2024)\r\n\r\nDetailed tables from a number of administrative data sources,  providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-09T10:07:20Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics--5",
-            "title": "Monthly Occupancy Statistics, December 2025",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2026-02-05T09:30:00Z",
-            "display_date": "5 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-06T15:57:48Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
