@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-06T13:56:42Z",
+    "modified": "2026-02-06T17:09:42Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1576,6 +1576,39 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-december-2025",
+            "title": "Northern Ireland waiting time statistics: outpatient waiting times December 2025",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2026-03-04T09:30:00Z",
+            "display_date": "4 March 2026 9:30am (provisional)",
+            "updated": "2026-02-06T15:40:45Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-december-2025",
+            "title": "Northern Ireland waiting time statistics: diagnostic waiting times December 2025",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "release_date": "2026-03-04T09:30:00Z",
+            "display_date": "4 March 2026 9:30am (provisional)",
+            "updated": "2026-02-06T15:40:42Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-december-2025",
+            "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times December 2025",
+            "summary": "This statistical release presents information on waiting times for admission for inpatient or day case treatment in Northern Ireland.",
+            "release_date": "2026-03-04T09:30:00Z",
+            "display_date": "4 March 2026 9:30am (provisional)",
+            "updated": "2026-02-06T15:30:16Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
             "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2025",
             "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
@@ -1837,6 +1870,17 @@
             "updated": "2026-01-20T14:54:32Z",
             "org": "DoH",
             "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-october-december-2025",
+            "title": "Northern Ireland waiting time statistics: cancer waiting times October-December 2025",
+            "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
+            "release_date": "2026-04-02T09:30:00Z",
+            "display_date": "2 April 2026 9:30am (provisional)",
+            "updated": "2026-02-06T15:40:48Z",
+            "org": "DoH",
+            "type": "AOS",
             "status": "provisional"
         },
         {
