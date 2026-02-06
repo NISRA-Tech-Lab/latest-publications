@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-06T09:06:36Z",
+    "modified": "2026-02-06T09:32:20Z",
     "entries": [
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 January 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2026-02-06T07:00:00Z",
+            "display_date": "6 February 2026",
+            "org": "PSNI",
+            "updated": "2026-02-06T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-30-january-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 30 January 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 January 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-02-06T07:00:00Z",
+            "display_date": "6 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-06T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
             "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-11-28T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "annual-crime-statistics-trends-report-202425",
-            "title": "Annual Crime Statistics Trends Report 2024/25",
-            "summary": "Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2024/25.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2025-11-28T07:00:00Z",
-            "display_date": "28 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-28T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "annual-hate-motivation-trends-report-202425",
-            "title": "Annual Hate Motivation Trends Report 2024/25",
-            "summary": "Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2024/25.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2025-11-28T07:00:00Z",
-            "display_date": "28 November 2025",
-            "org": "PSNI",
-            "updated": "2025-11-28T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 January 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2026-02-06T09:30:00Z",
-            "display_date": "6 February 2026 9:30am (confirmed)",
-            "updated": "2025-12-16T13:44:18Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-30-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 30 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 January 2026.",
-            "release_date": "2026-02-06T09:30:00Z",
-            "display_date": "6 February 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:41:01Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "alcohol-specific-deaths-2014-2024-northern-ireland",
