@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-06T12:38:28Z",
+    "modified": "2026-02-06T13:56:42Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -2179,6 +2179,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland",
+            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
+            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "April to May 2026 (provisional)",
+            "updated": "2026-02-06T13:56:30Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "probation-board-ni-annual-caseload-202526",
