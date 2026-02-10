@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-10T10:31:03Z",
+    "modified": "2026-02-10T12:52:08Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1367,6 +1367,17 @@
             "status": "provisional"
         },
         {
+            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
+            "release_date": "2026-02-25T09:30:00Z",
+            "display_date": "25 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T11:48:19Z",
+            "org": "PBNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
             "title": "Skills for Life and Work Fact Sheet and Tables - to October 2025",
             "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
@@ -1551,17 +1562,6 @@
             "updated": "2026-01-27T12:28:08Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-12-19T15:00:32Z",
-            "org": "PBNI",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2289,6 +2289,39 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2025",
+            "title": "Annual Report on Public Awareness of the Police Complaints system in Northern Ireland, 2025",
+            "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2025",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:44:26Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-report-on-police-officer-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202526",
+            "title": "Annual Report on Police Officer Satisfaction with services provided by the Police Ombudsman's Office, 2025/26",
+            "summary": "This report presents the findings from the Police Officer Satisfaction Survey.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:40:01Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "equality-monitoring-report-survey-of-complainants-to-the-police-ombudsman-for-northern-ireland-202526",
+            "title": "Equality Monitoring Report: Survey of Complainants to the Police Ombudsman for Northern Ireland, 2025/26",
+            "summary": "The Police Ombudsman's office collects data on each of the categories specified in Section 75 of the Northern Ireland Act 1998.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:34:50Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202526",
