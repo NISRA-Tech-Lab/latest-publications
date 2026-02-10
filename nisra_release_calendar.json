@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-10T14:18:13Z",
+    "modified": "2026-02-10T17:33:32Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1727,6 +1727,17 @@
             "updated": "2025-09-01T17:02:10Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "graduated-driver-licensing-gdl-monitoring-report-2024",
+            "title": "Graduated Driver Licensing (GDL) monitoring report 2024",
+            "summary": "This report tracks the impact of the GDL scheme on road safety by examining trends in collisions involving and caused by young and newly qualified drivers.",
+            "release_date": "2026-03-12T09:30:00Z",
+            "display_date": "12 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T15:50:35Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
