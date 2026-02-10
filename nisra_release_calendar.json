@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-10T09:29:56Z",
+    "modified": "2026-02-10T10:11:45Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1983,6 +1983,17 @@
             "status": "confirmed"
         },
         {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202526",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 4 2025/26",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2026-04-23T09:30:00Z",
+            "display_date": "23 April 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:10:03Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-january-march-2025--2",
             "title": "Emergency Care Waiting Time Statistics (January - March 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2267,6 +2278,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "annual-statistical-bulletin-the-office-of-the-police-ombudsman-for-northern-ireland-202526",
+            "title": "Annual Statistical Bulletin: The Office of the Police Ombudsman for Northern Ireland, 2025/26",
+            "summary": "This Statistical Bulletin presents information on Complaints and allegations received by the Office of the Police Ombudsman for Northern Ireland in 2025/26, including trend information for the past 5 years.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:11:57Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
