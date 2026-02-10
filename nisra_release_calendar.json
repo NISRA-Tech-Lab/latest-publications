@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-10T10:11:45Z",
+    "modified": "2026-02-10T10:31:03Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
@@ -1631,6 +1631,17 @@
             "status": "confirmed"
         },
         {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-03-06T09:30:00Z",
+            "display_date": "6 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:30:15Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 27 February 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 February 2026.",
@@ -2278,6 +2289,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "annual-report-on-complainant-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202526",
+            "title": "Annual Report on Complainant Satisfaction with services provided by the Police Ombudsman's Office, 2025/26",
+            "summary": "This statistical report presents the results from the Office of the Police Ombudsman for Northern Ireland complainant's survey",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-10T10:28:39Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "annual-statistical-bulletin-the-office-of-the-police-ombudsman-for-northern-ireland-202526",
