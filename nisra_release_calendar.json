@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-11T12:45:50Z",
+    "modified": "2026-02-11T14:10:42Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-january-2026",
@@ -1180,6 +1180,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-care-leavers-202425",
+            "title": "Northern Ireland Care Leavers 2024/25",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-11T13:16:31Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "nation-brands-index-2025-report-for-northern-ireland",
             "title": "Nation Brands Index: 2025 report for Northern Ireland",
             "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
@@ -1474,17 +1485,6 @@
             "updated": "2026-02-03T16:51:10Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-care-leavers-202425",
-            "title": "Northern Ireland Care Leavers 2024/25",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2026-01-27T12:28:56Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "provisional"
         },
         {
