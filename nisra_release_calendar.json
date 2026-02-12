@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-12T09:10:59Z",
+    "modified": "2026-02-12T09:33:28Z",
     "entries": [
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-3-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 3 2025/26",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q3 of 2025/26",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q3-25-26.html",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "BSO",
+            "updated": "2026-02-12T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
+            "title": "Population projections for areas within Northern Ireland: 2022-based",
+            "summary": "Population projections for areas within Northern Ireland: 2022-based",
+            "url": "https://www.nisra.gov.uk/publications/2022-based-population-projections-areas-within-northern-ireland",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "road-safety-issues-in-northern-ireland-202425",
+            "title": "Road Safety issues in Northern Ireland 2024/25",
+            "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to road safety issues.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/road-safety-issues-northern-ireland",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "DfI",
+            "updated": "2026-02-12T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2025",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-12T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-births-northern-ireland-january-2026",
             "title": "Monthly Births (Northern Ireland): January 2026",
@@ -1057,94 +1101,6 @@
             "org": "DoH",
             "updated": "2025-12-04T09:30:03Z",
             "type": "OS"
-        },
-        {
-            "id": "further-education-sector-activity-northern-ireland-2021-2425",
-            "title": "Further Education Sector Activity Northern Ireland: 20/21 - 24/25",
-            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students in the NI FE Sector covering academic years 2020/21 to 2024/25.",
-            "url": "https://www.economy-ni.gov.uk/articles/further-education-college-statistics",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "DfE",
-            "updated": "2025-12-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2025",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending September 2025",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "DfE",
-            "updated": "2025-12-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "attitudes-towards-electric-vehicles-in-northern-ireland-20242025",
-            "title": "Attitudes towards electric vehicles in Northern Ireland 2024/2025",
-            "summary": "This report presents findings from the 2024/2025 Continuous Household Survey in relation to attitudes towards electric vehicles.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/electric-cars-research",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "DfI",
-            "updated": "2025-12-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-occupancy-statistics-october-2025",
-            "title": "Monthly Occupancy Statistics, October 2025",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-3-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 3 2025/26",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q3 of 2025/26.",
-            "release_date": "2026-02-12T09:30:00Z",
-            "display_date": "12 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-11T10:27:55Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2025",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2026-02-12T09:30:00Z",
-            "display_date": "12 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-03T16:26:10Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
-            "title": "Population projections for areas within Northern Ireland: 2022-based",
-            "summary": "Population projections for areas within Northern Ireland: 2022-based",
-            "release_date": "2026-02-12T09:30:00Z",
-            "display_date": "12 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T16:00:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "road-safety-issues-in-northern-ireland-202425",
-            "title": "Road Safety issues in Northern Ireland 2024/25",
-            "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselves to be responsible for and which road safety issue is most important to them.",
-            "release_date": "2026-02-12T09:30:00Z",
-            "display_date": "12 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-13T09:20:35Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-january-2026",
