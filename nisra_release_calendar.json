@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-13T13:56:17Z",
+    "modified": "2026-02-13T17:11:57Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-february-2026",
@@ -1114,6 +1114,17 @@
             "status": "confirmed"
         },
         {
+            "id": "nation-brands-index-2025-report-for-northern-ireland",
+            "title": "The Anholt Nation Brands Index: 2025 report for Northern Ireland",
+            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
+            "release_date": "2026-02-18T09:30:00Z",
+            "display_date": "18 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-13T16:39:40Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-care-leavers-202425",
             "title": "Northern Ireland Care Leavers 2024/25",
             "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
@@ -1122,17 +1133,6 @@
             "updated": "2026-02-11T13:16:31Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "nation-brands-index-2025-report-for-northern-ireland",
-            "title": "Nation Brands Index: 2025 report for Northern Ireland",
-            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-04T09:53:08Z",
-            "org": "TEO",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1419,17 +1419,6 @@
             "updated": "2026-02-03T16:51:10Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
-            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: October 2025 - December 2025",
-            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 October 2025 and 31 December 2025.",
-            "release_date": "2026-02-28T09:30:00Z",
-            "display_date": "February 2026 (provisional)",
-            "updated": "2025-03-03T10:17:25Z",
-            "org": "DoF",
-            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -3014,6 +3003,10 @@
         {
             "id": "benefit-cap-report-northern-ireland-february-2026",
             "updated": "2025-09-18T11:10:01Z"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
+            "updated": "2026-02-13T15:48:26Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1st-january-2026",
