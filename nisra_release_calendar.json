@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-17T06:52:51Z",
+    "modified": "2026-02-17T07:44:42Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-february-2026",
+            "title": "NI Labour Market statistics: February 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-02-17T07:00:00Z",
+            "display_date": "17 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-17T07:00:04Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 6 February 2026",
@@ -1090,28 +1101,6 @@
             "org": "DoH",
             "updated": "2025-12-04T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "annual-enrolments-at-grant-aided-schools-in-northern-ireland-2025-26-basic-provisional-statistics",
-            "title": "Annual enrolments at grant-aided schools in Northern Ireland, 2025-26: Basic provisional statistics",
-            "summary": "The data in the following bulletin are taken from the school enrolments census, which was conducted in October 2025.",
-            "url": "https://www.education-ni.gov.uk/articles/school-enrolments-overview",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "DE",
-            "updated": "2025-12-04T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-february-2026",
-            "title": "NI Labour Market statistics: February 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-02-17T07:00:00Z",
-            "display_date": "17 February 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:40:56Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "nation-brands-index-2025-report-for-northern-ireland",
