@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-18T10:10:03Z",
+    "modified": "2026-02-18T12:41:05Z",
     "entries": [
         {
             "id": "the-anholt-nation-brands-index-2025-report-for-northern-ireland",
@@ -1103,6 +1103,28 @@
             "type": "OS"
         },
         {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
+            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "release_date": "2026-02-19T09:30:00Z",
+            "display_date": "19 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-18T11:29:48Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "release_date": "2026-02-19T09:30:00Z",
+            "display_date": "19 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-18T11:20:50Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "winter-mortality-202425-northern-ireland",
             "title": "Winter Mortality 2024/25 (Northern Ireland)",
             "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
@@ -1121,28 +1143,6 @@
             "display_date": "19 February 2026 9:30am (confirmed)",
             "updated": "2026-01-13T15:46:42Z",
             "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:48:41Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
-            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:47:44Z",
-            "org": "DoH",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1562,6 +1562,17 @@
             "updated": "2025-10-01T16:26:06Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-december-2025",
+            "title": "Northern Ireland Child Maintenance Service: Data to December 2025",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2025.",
+            "release_date": "2026-03-19T09:30:00Z",
+            "display_date": "19 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-18T10:56:33Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2322,6 +2333,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
+            "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
+            "summary": "This annual statistical bulletin provides headline figures on greenhouse gas emissions for Northern Ireland both by source sector and end-user for the years 1990 to 2024.",
+            "release_date": "2026-06-30T09:30:00Z",
+            "display_date": "June 2026 (provisional)",
+            "updated": "2026-02-18T12:10:06Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
