@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-18T09:08:50Z",
+    "modified": "2026-02-18T09:33:41Z",
     "entries": [
+        {
+            "id": "the-anholt-nation-brands-index-2025-report-for-northern-ireland",
+            "title": "The Anholt Nation Brands Index: 2025 report for Northern Ireland",
+            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
+            "url": "https://www.executiveoffice-ni.gov.uk/publications/anholt-nation-brands-index-2025-report-northern-ireland",
+            "release_date": "2026-02-18T07:00:00Z",
+            "display_date": "18 February 2026",
+            "org": "TEO",
+            "updated": "2026-02-18T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-4-2025",
+            "title": "Northern Ireland House Price Index Quarter 4 2025",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2025",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2026-02-18T07:00:00Z",
+            "display_date": "18 February 2026",
+            "org": "DoF",
+            "updated": "2026-02-18T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-care-leavers-202425",
+            "title": "Northern Ireland Care Leavers 2024/25",
+            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
+            "url": "https://www.health-ni.gov.uk/articles/care-leavers",
+            "release_date": "2026-02-18T07:00:00Z",
+            "display_date": "18 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-18T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-december-2025",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 31 December 2025",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
+            "release_date": "2026-02-18T07:00:00Z",
+            "display_date": "18 February 2026",
+            "org": "PSNI",
+            "updated": "2026-02-18T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-4-2025",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 4 2025",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Oct - Dec 2025",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2026-02-18T07:00:00Z",
+            "display_date": "18 February 2026",
+            "org": "DoF",
+            "updated": "2026-02-18T09:30:03Z",
+            "type": "OS"
+        },
         {
             "id": "ni-labour-market-statistics-february-2026",
             "title": "NI Labour Market statistics: February 2026",
@@ -1046,116 +1101,6 @@
             "org": "DAERA",
             "updated": "2025-12-09T09:30:05Z",
             "type": "OS"
-        },
-        {
-            "id": "ending-violence-against-women-and-girls-experiences-and-attitudes-of-adults-in-northern-ireland-in-2024",
-            "title": "Ending Violence Against Women and Girls: Experiences and attitudes of adults in Northern Ireland in 2024",
-            "summary": "This report contains findings from the Gender Based Violence module of the 2024 Northern Ireland Life and Times survey.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/statistics-and-research/ending-violence-against-women-and-girls-evawg",
-            "release_date": "2025-12-05T07:00:00Z",
-            "display_date": "5 December 2025",
-            "org": "TEO",
-            "updated": "2025-12-05T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-28-november-2025",
-            "title": "Deaths Registered in Northern Ireland - Week ending 28 November 2025",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 28 November 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2025-12-05T07:00:00Z",
-            "display_date": "5 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-05T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "cyber-crime-modern-slavery-and-sentencing-findings-from-the-202324-ni-safe-community-telephone-survey",
-            "title": "Cyber Crime, Modern Slavery and Sentencing: Findings from the 2023/24 NI Safe Community Telephone Survey",
-            "summary": "This report gives findings from the 2023/24 NI Safe Community Telephone Survey (NISCTS) modules relating to: cyber crime; perceptions of modern slavery; and perceptions of sentencing.",
-            "url": "https://www.justice-ni.gov.uk/publications/r-s-bulletin-cyber-crime-modern-slavery-and-sentencing-findings-2023-24-ni-safe-community-telephone-survey",
-            "release_date": "2025-12-05T07:00:00Z",
-            "display_date": "5 December 2025",
-            "org": "DoJ",
-            "updated": "2025-12-05T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2025-12-05T07:00:00Z",
-            "display_date": "5 December 2025",
-            "org": "PSNI",
-            "updated": "2025-12-05T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-september-2025",
-            "title": "Northern Ireland waiting time statistics: outpatient waiting times September 2025",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times#toc-0",
-            "release_date": "2025-12-04T07:00:00Z",
-            "display_date": "4 December 2025",
-            "org": "DoH",
-            "updated": "2025-12-04T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "nation-brands-index-2025-report-for-northern-ireland",
-            "title": "The Anholt Nation Brands Index: 2025 report for Northern Ireland",
-            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-13T16:39:40Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-care-leavers-202425",
-            "title": "Northern Ireland Care Leavers 2024/25",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-11T13:16:31Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-december-2025",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 31 December 2025",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-27T10:51:25Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-4-2025",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 4 2025",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Oct - Dec 2025",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-20T11:41:53Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-4-2025--2",
-            "title": "Northern Ireland House Price Index Quarter 4 2025",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2025",
-            "release_date": "2026-02-18T09:30:00Z",
-            "display_date": "18 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-20T11:29:14Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "winter-mortality-202425-northern-ireland",
