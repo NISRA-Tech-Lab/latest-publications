@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-19T09:08:45Z",
+    "modified": "2026-02-19T10:04:40Z",
     "entries": [
+        {
+            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
+            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
+            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
+            "url": "https://datavis.nisra.gov.uk/bso/sodium-valproate-monitoring-dashboard.html",
+            "release_date": "2026-02-19T07:00:00Z",
+            "display_date": "19 February 2026",
+            "org": "BSO",
+            "updated": "2026-02-19T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
+            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
+            "url": "https://datavis.nisra.gov.uk/bso/topiramate-monitoring-dashboard.html",
+            "release_date": "2026-02-19T07:00:00Z",
+            "display_date": "19 February 2026",
+            "org": "BSO",
+            "updated": "2026-02-19T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "winter-mortality-202425-northern-ireland",
+            "title": "Winter Mortality 2024/25 (Northern Ireland)",
+            "summary": "Winter Mortality 2024/25 (Northern Ireland)",
+            "url": "https://www.nisra.gov.uk/statistics/cause-death/winter-mortality",
+            "release_date": "2026-02-19T07:00:00Z",
+            "display_date": "19 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-19T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "public-transport-and-journey-planning-in-northern-ireland-202425",
+            "title": "Public Transport and Journey Planning in Northern Ireland 2024/25",
+            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-and-journey-planning",
+            "release_date": "2026-02-19T07:00:00Z",
+            "display_date": "19 February 2026",
+            "org": "DfI",
+            "updated": "2026-02-19T09:30:02Z",
+            "type": "OS"
+        },
         {
             "id": "the-anholt-nation-brands-index-2025-report-for-northern-ireland",
             "title": "The Anholt Nation Brands Index: 2025 report for Northern Ireland",
@@ -1057,94 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-12-11T00:00:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "knowledge-and-use-of-ulster-scots-in-northern-ireland-202425",
-            "title": "Knowledge and use of Ulster-Scots in Northern Ireland 2024/25",
-            "summary": "A biennial publication containing survey results on knowledge and use of Ulster-Scots by adults in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/language-statistics",
-            "release_date": "2025-12-10T07:00:00Z",
-            "display_date": "10 December 2025",
-            "org": "DfC",
-            "updated": "2025-12-10T09:30:08Z",
-            "type": "OS"
-        },
-        {
-            "id": "knowledge-and-use-of-irish-in-northern-ireland-202425",
-            "title": "Knowledge and use of Irish in Northern Ireland 2024/25",
-            "summary": "A biennial publication containing survey results on knowledge and use of Irish by adults in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/topics/language-statistics",
-            "release_date": "2025-12-10T07:00:00Z",
-            "display_date": "10 December 2025",
-            "org": "DfC",
-            "updated": "2025-12-10T09:30:08Z",
-            "type": "OS"
-        },
-        {
-            "id": "life-expectancy-in-northern-ireland-2022-24",
-            "title": "Life Expectancy in Northern Ireland 2022-24",
-            "summary": "This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/articles/life-expectancy-northern-ireland",
-            "release_date": "2025-12-09T07:00:00Z",
-            "display_date": "9 December 2025",
-            "org": "DoH",
-            "updated": "2025-12-09T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "carbon-intensity-indicators-northern-ireland-2025",
-            "title": "Carbon intensity indicators: Northern Ireland 2025",
-            "summary": "Carbon intensity indicators: Northern Ireland 2025",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-carbon-intensity-indicators",
-            "release_date": "2025-12-09T07:00:00Z",
-            "display_date": "9 December 2025",
-            "org": "DAERA",
-            "updated": "2025-12-09T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
-            "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
-            "summary": "Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate.",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-18T11:29:48Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-18T11:20:50Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "winter-mortality-202425-northern-ireland",
-            "title": "Winter Mortality 2024/25 (Northern Ireland)",
-            "summary": "The expected number of deaths is a 4 month average of the number of non-winter deaths: deaths in the two four month periods which precede winter (August to November) and follow winter (April to July).",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-23T11:29:19Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "public-transport-and-journey-planning-in-northern-ireland-202425",
-            "title": "Public Transport and Journey Planning in Northern Ireland 2024/25",
-            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
-            "release_date": "2026-02-19T09:30:00Z",
-            "display_date": "19 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-13T15:46:42Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2025",
