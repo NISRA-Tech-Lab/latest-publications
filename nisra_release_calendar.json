@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-19T14:03:28Z",
+    "modified": "2026-02-19T17:27:12Z",
     "entries": [
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
@@ -1959,6 +1959,17 @@
             "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-annual-tourism-statistics-2025",
+            "title": "Northern Ireland Annual Tourism Statistics 2025",
+            "summary": "Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2025.",
+            "release_date": "2026-05-21T09:30:00Z",
+            "display_date": "21 May 2026 9:30am (provisional)",
+            "updated": "2026-02-19T14:39:19Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-may-2026",
