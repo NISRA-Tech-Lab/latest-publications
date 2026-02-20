@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-20T09:03:51Z",
+    "modified": "2026-02-20T09:34:33Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 13 February 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 February 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-02-20T07:00:00Z",
+            "display_date": "20 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-20T09:30:08Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2025",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2025)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
+            "release_date": "2026-02-20T07:00:00Z",
+            "display_date": "20 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-20T09:30:08Z",
+            "type": "OS"
+        },
         {
             "id": "ni-sodium-valproate-monitoring-report-april-2019-to-december-2025",
             "title": "NI Sodium Valproate Monitoring Report, April 2019 to December 2025",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-12-11T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "homeless-deaths-in-northern-ireland-2024",
-            "title": "Deaths of Homeless People in Northern Ireland, 2024",
-            "summary": "Tables detailing the number of deaths of homeless people in Northern Ireland in 2024",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics",
-            "release_date": "2025-12-11T07:00:00Z",
-            "display_date": "11 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-11T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "2024-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
-            "title": "2024 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "summary": "2024 Mid-Year Population Estimates for Small Geographical Areas within NI",
-            "url": "https://www.nisra.gov.uk/publications/2024-mid-year-population-estimates-small-geographical-areas-within-northern-ireland",
-            "release_date": "2025-12-11T07:00:00Z",
-            "display_date": "11 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-11T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-december-2025",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2025)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2026-02-20T09:30:00Z",
-            "display_date": "20 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-17T15:30:07Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 13 February 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 February 2026.",
-            "release_date": "2026-02-20T09:30:00Z",
-            "display_date": "20 February 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:48:14Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-vacancies-december-2025",
