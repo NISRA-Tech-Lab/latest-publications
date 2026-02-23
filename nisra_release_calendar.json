@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-23T09:40:33Z",
+    "modified": "2026-02-23T10:11:21Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
@@ -1103,26 +1103,26 @@
             "type": "AOS"
         },
         {
-            "id": "northern-ireland-hsc-vacancies-december-2025",
-            "title": "Northern Ireland HSC Vacancies December 2025",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2026-02-24T09:30:00Z",
-            "display_date": "24 February 2026 9:30am (provisional)",
-            "updated": "2025-11-25T10:25:27Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-hsc-workforce-statistics-december-2025",
             "title": "Northern Ireland HSC Workforce Statistics December 2025 ",
             "summary": "A quarterly summary of HSC staff",
             "release_date": "2026-02-24T09:30:00Z",
-            "display_date": "24 February 2026 9:30am (provisional)",
-            "updated": "2025-11-25T10:24:18Z",
+            "display_date": "24 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-23T10:09:15Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-vacancies-december-2025",
+            "title": "Northern Ireland HSC Active Recruitment Statistics December 2025",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-02-24T09:30:00Z",
+            "display_date": "24 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-23T10:08:49Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
