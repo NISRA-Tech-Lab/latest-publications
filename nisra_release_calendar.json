@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-23T12:41:24Z",
+    "modified": "2026-02-23T14:02:48Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
@@ -2514,9 +2514,9 @@
             "id": "ni-labour-market-statistics-august-2026",
             "title": "NI Labour Market statistics: August 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-08-18T09:30:00Z",
-            "display_date": "18 August 2026 9:30am (confirmed)",
-            "updated": "2026-02-23T12:33:48Z",
+            "release_date": "2026-08-18T07:00:00Z",
+            "display_date": "18 August 2026 7:00am (confirmed)",
+            "updated": "2026-02-23T12:42:05Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2707,6 +2707,17 @@
             "org": "DoF",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-october-2026",
+            "title": "NI Labour Market statistics: October 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-10-20T07:00:00Z",
+            "display_date": "20 October 2026 7:00am (confirmed)",
+            "updated": "2026-02-23T13:33:18Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2026",
