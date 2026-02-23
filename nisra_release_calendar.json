@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-23T10:11:21Z",
+    "modified": "2026-02-23T12:41:24Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
@@ -1554,6 +1554,17 @@
             "status": "provisional"
         },
         {
+            "id": "working-and-workless-households-in-northern-ireland-october-to-december-2025",
+            "title": "Working and workless households in Northern Ireland: October to December 2025",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-23T12:00:43Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-construction-bulletin-1-october-to-31-december-2025",
             "title": "Northern Ireland Construction Bulletin: 1 October to 31 December 2025",
             "summary": "This release provides a measure of construction output in Northern Ireland.",
@@ -1772,6 +1783,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "key-rural-issues-2025",
+            "title": "Key Rural Issues 2025",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
+            "release_date": "2026-04-30T09:30:00Z",
+            "display_date": "April 2026 (provisional)",
+            "updated": "2026-02-23T11:37:55Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "public-awareness-of-and-trust-in-official-statistics-2025",
@@ -2236,6 +2258,17 @@
             "status": "confirmed"
         },
         {
+            "id": "working-and-workless-households-in-northern-ireland-january-to-march-2026",
+            "title": "Working and workless households in Northern Ireland: January to March 2026",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-02-23T12:07:49Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-1-2026",
             "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 1 2026",
             "summary": "Quarterly Index of the Northern Ireland economy.",
@@ -2401,6 +2434,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-july-2026",
+            "title": "NI Labour Market statistics: July 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-07-21T07:00:00Z",
+            "display_date": "21 July 2026 7:00am (confirmed)",
+            "updated": "2026-02-23T12:41:17Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-april-june-2026",
             "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2465,6 +2509,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-august-2026",
+            "title": "NI Labour Market statistics: August 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-08-18T09:30:00Z",
+            "display_date": "18 August 2026 9:30am (confirmed)",
+            "updated": "2026-02-23T12:33:48Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-2-2026",
@@ -2544,6 +2599,17 @@
             "status": "provisional"
         },
         {
+            "id": "ni-labour-market-statistics-september-2026",
+            "title": "NI Labour Market statistics: September 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-09-15T07:00:00Z",
+            "display_date": "15 September 2026 7:00am (confirmed)",
+            "updated": "2026-02-23T12:40:05Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-employment-survey-june-2026",
             "title": "Quarterly Employment Survey: June 2026",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
@@ -2575,6 +2641,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-april-to-june-2026",
+            "title": "Working and workless households in Northern Ireland: April to June 2026",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (provisional)",
+            "updated": "2026-02-23T12:12:33Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2026",
@@ -2751,6 +2828,28 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-july-to-september-2026",
+            "title": "Working and workless households in Northern Ireland: July to September 2026",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "release_date": "2026-12-22T09:30:00Z",
+            "display_date": "22 December 2026 9:30am (provisional)",
+            "updated": "2026-02-23T12:17:21Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
+            "title": "June agricultural and horticultural census, Northern Ireland 2026",
+            "summary": "The data in this statistical publication are sourced from the Agricultural Census conducted in June each year. Data is collected on crop areas, livestock numbers and farm labour. Outputs include time series data and frequency distributions. Results are presented at Northern Ireland and sub-regional level.",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "December 2026 (provisional)",
+            "updated": "2026-02-23T12:24:35Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "annual-enrolments-at-grant-aided-schools-in-northern-ireland-2026-27-basic-provisional-statistics",
