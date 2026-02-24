@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-24T09:11:56Z",
+    "modified": "2026-02-24T09:32:08Z",
     "entries": [
+        {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-december-2025",
+            "title": "Northern Ireland HSC Active Recruitment Statistics December 2025",
+            "summary": "A quarterly publication of HSC vacancies",
+            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
+            "release_date": "2026-02-24T07:00:00Z",
+            "display_date": "24 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-24T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-december-2025",
+            "title": "Northern Ireland HSC Workforce Statistics December 2025",
+            "summary": "A quarterly summary of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2026-02-24T07:00:00Z",
+            "display_date": "24 February 2026",
+            "org": "DoH",
+            "updated": "2026-02-24T09:30:03Z",
+            "type": "OS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 13 February 2026",
@@ -1079,50 +1101,6 @@
             "org": "DAERA",
             "updated": "2025-12-11T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-november-2025",
-            "title": "Monthly Deaths (Northern Ireland): November 2025",
-            "summary": "Monthly Deaths (Northern Ireland): November 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2025-12-11T07:00:00Z",
-            "display_date": "11 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-november-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): November 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): November 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2025-12-11T07:00:00Z",
-            "display_date": "11 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-december-2025",
-            "title": "Northern Ireland HSC Workforce Statistics December 2025 ",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2026-02-24T09:30:00Z",
-            "display_date": "24 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-23T10:09:15Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-vacancies-december-2025",
-            "title": "Northern Ireland HSC Active Recruitment Statistics December 2025",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2026-02-24T09:30:00Z",
-            "display_date": "24 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-23T10:08:49Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
