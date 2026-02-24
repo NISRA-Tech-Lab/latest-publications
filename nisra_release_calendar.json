@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-24T14:05:47Z",
+    "modified": "2026-02-24T17:34:09Z",
     "entries": [
         {
             "id": "northern-ireland-hsc-active-recruitment-statistics-december-2025",
@@ -1136,6 +1136,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T14:52:55Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-housing-bulletin-october-december-2025",
             "title": "Northern Ireland Housing Bulletin October - December 2025",
             "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
@@ -1219,17 +1230,6 @@
             "release_date": "2026-02-26T09:30:00Z",
             "display_date": "26 February 2026 9:30am (confirmed)",
             "updated": "2025-11-21T11:52:12Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
-            "release_date": "2026-02-26T09:30:00Z",
-            "display_date": "26 February 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:50:57Z",
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
@@ -1543,6 +1543,50 @@
             "status": "provisional"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-november-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 30 November 2025",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T15:40:32Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-28-february-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 28 February 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T15:34:33Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-28-february-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 28 February 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T15:31:42Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "analysis-of-nics-recruitment-competitions-2025",
+            "title": "Analysis of NICS Recruitment Competitions 2025",
+            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T14:28:00Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "working-and-workless-households-in-northern-ireland-october-to-december-2025",
             "title": "Working and workless households in Northern Ireland: October to December 2025",
             "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
@@ -1573,6 +1617,17 @@
             "updated": "2025-10-01T12:38:35Z",
             "org": "NISRA",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-calendar-year-report-to-31-december-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland Calendar Year report to 31 December 2025",
+            "summary": "Calendar Year update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-03-27T09:30:00Z",
+            "display_date": "27 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T15:37:20Z",
+            "org": "PSNI",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1815,17 +1870,6 @@
             "updated": "2025-09-25T15:32:23Z",
             "org": "DAERA",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "analysis-of-nics-recruitment-competitions-2025",
-            "title": "Analysis of NICS Recruitment Competitions 2025",
-            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "March to April 2026 (provisional)",
-            "updated": "2025-03-25T10:09:48Z",
-            "org": "DoF",
-            "type": "OS",
             "status": "provisional"
         },
         {
