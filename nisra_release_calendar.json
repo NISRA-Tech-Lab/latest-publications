@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-23T17:35:31Z",
+    "modified": "2026-02-24T06:50:31Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-february-2026",
@@ -1125,6 +1125,17 @@
             "status": "confirmed"
         },
         {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to October 2025",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2026-02-25T09:30:00Z",
+            "display_date": "25 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-24T01:58:27Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
             "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
             "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
@@ -1132,17 +1143,6 @@
             "display_date": "25 February 2026 9:30am (confirmed)",
             "updated": "2026-02-10T11:48:19Z",
             "org": "PBNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to October 2025",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2026-02-25T09:30:00Z",
-            "display_date": "25 February 2026 9:30am (confirmed)",
-            "updated": "2026-01-27T18:21:08Z",
-            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
