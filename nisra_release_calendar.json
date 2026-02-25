@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-25T10:17:10Z",
+    "modified": "2026-02-25T12:41:37Z",
     "entries": [
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "prescription-cost-analysis-for-northern-ireland-2025",
+            "title": "Prescription Cost Analysis for Northern Ireland, 2025",
+            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
+            "release_date": "2026-02-26T09:30:00Z",
+            "display_date": "26 February 2026 9:30am (confirmed)",
+            "updated": "2026-02-25T11:26:04Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
             "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
             "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
@@ -1187,17 +1198,6 @@
             "display_date": "26 February 2026 9:30am (confirmed)",
             "updated": "2026-01-14T18:15:29Z",
             "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "prescription-cost-analysis-for-northern-ireland-2025",
-            "title": "Prescription Cost Analysis for Northern Ireland, 2025",
-            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
-            "release_date": "2026-02-26T09:30:00Z",
-            "display_date": "26 February 2026 9:30am (confirmed)",
-            "updated": "2025-11-21T11:52:12Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
