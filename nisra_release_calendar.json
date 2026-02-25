@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-25T14:04:35Z",
+    "modified": "2026-02-25T17:33:43Z",
     "entries": [
         {
             "id": "skills-for-life-and-work-fact-sheet-and-tables-to-october-2025",
@@ -1620,6 +1620,28 @@
             "status": "confirmed"
         },
         {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2026",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2026.",
+            "release_date": "2026-03-31T09:30:00Z",
+            "display_date": "31 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-25T15:40:52Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-202425",
+            "title": "Work Quality in Northern Ireland 2024/25",
+            "summary": "This paper will examine a number of work quality indicators for NI as sourced from the Labour Force Survey (LFS) and Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2026-03-31T09:30:00Z",
+            "display_date": "31 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-25T14:42:41Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "children-in-care-in-northern-ireland-202324",
             "title": "Children in Care in Northern Ireland 2023/24",
             "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
@@ -2343,17 +2365,6 @@
             "updated": "2025-09-10T15:58:52Z",
             "org": "DE",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
-            "title": "Equality Statistics for the Northern Ireland Civil Service - 2026",
-            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2025. Equality statistics are presented by grade level and cover gender, community background (Protestant/Catholic), age group, ethnicity and disability. Some comparisons with the workforce composition in previous years are also given. The report also includes an analysis of recruitment, promotion and leavers. Subject to review, these statistics will be released between May and June 2026",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "May to June 2026 (provisional)",
-            "updated": "2025-07-31T12:46:38Z",
-            "org": "DoF",
-            "type": "OS",
             "status": "provisional"
         },
         {
