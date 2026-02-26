@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-26T12:41:42Z",
+    "modified": "2026-02-26T14:05:05Z",
     "entries": [
         {
             "id": "prescription-cost-analysis-for-northern-ireland-2025",
@@ -1412,11 +1412,11 @@
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-november-2025",
-            "title": "Motoring offences statistics in Northern Ireland to 30 November 2025",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "title": "Motoring offences Calendar Year statistics in Northern Ireland to 31 December 2025",
+            "summary": "Calendar Year update of statistics relating to Motoring Offences in Northern Ireland.",
             "release_date": "2026-03-26T09:30:00Z",
             "display_date": "26 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-24T15:40:32Z",
+            "updated": "2026-02-26T13:41:03Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
