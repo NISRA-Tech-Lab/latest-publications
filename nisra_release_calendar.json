@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-26T10:11:16Z",
+    "modified": "2026-02-26T12:41:42Z",
     "entries": [
         {
             "id": "prescription-cost-analysis-for-northern-ireland-2025",
@@ -1484,6 +1484,17 @@
             "display_date": "26 March 2026 9:30am (confirmed)",
             "updated": "2025-10-01T12:38:35Z",
             "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "higher-level-apprenticeships-in-higher-education-ni-academic-year-202324",
+            "title": "Higher Level Apprenticeships in Higher Education NI, academic year 2023/24",
+            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Higher Education Institutions, including the number of starts, participants and qualifications achieved.",
+            "release_date": "2026-03-27T09:30:00Z",
+            "display_date": "27 March 2026 9:30am (confirmed)",
+            "updated": "2026-02-26T10:40:33Z",
+            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
