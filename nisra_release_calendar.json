@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-26T09:37:02Z",
+    "modified": "2026-02-26T10:05:50Z",
     "entries": [
         {
             "id": "prescription-cost-analysis-for-northern-ireland-2025",
@@ -11,17 +11,6 @@
             "display_date": "26 February 2026",
             "org": "BSO",
             "updated": "2026-02-26T09:30:17Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q3-25-26.html",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "BSO",
-            "updated": "2026-02-26T09:30:15Z",
             "type": "AOS"
         },
         {
@@ -99,6 +88,17 @@
             "display_date": "26 February 2026",
             "org": "DE",
             "updated": "2026-02-26T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q3-25-26.html",
+            "release_date": "2026-02-26T07:00:00Z",
+            "display_date": "26 February 2026",
+            "org": "BSO",
+            "updated": "2026-02-26T09:30:00Z",
             "type": "AOS"
         },
         {
