@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-27T10:03:47Z",
+    "modified": "2026-02-27T12:36:42Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-02-27T07:00:00Z",
+            "display_date": "27 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-27T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "mortgages-actions-for-possession-bulletin-oct-to-dec-2025",
             "title": "Mortgages: Actions for possession bulletin Oct to Dec 2025",
@@ -10,7 +21,7 @@
             "release_date": "2026-02-27T07:00:00Z",
             "display_date": "27 February 2026",
             "org": "NICTS",
-            "updated": "2026-02-27T09:30:04Z",
+            "updated": "2026-02-27T09:30:00Z",
             "type": "OS"
         },
         {
@@ -21,18 +32,7 @@
             "release_date": "2026-02-27T07:00:00Z",
             "display_date": "27 February 2026",
             "org": "NICTS",
-            "updated": "2026-02-27T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-02-27T07:00:00Z",
-            "display_date": "27 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-27T09:30:03Z",
+            "updated": "2026-02-27T09:30:00Z",
             "type": "AOS"
         },
         {
