@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-02-27T09:04:34Z",
+    "modified": "2026-02-27T09:35:40Z",
     "entries": [
+        {
+            "id": "mortgages-actions-for-possession-bulletin-oct-to-dec-2025",
+            "title": "Mortgages: Actions for possession bulletin Oct to Dec 2025",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2026-02-27T07:00:00Z",
+            "display_date": "27 February 2026",
+            "org": "NICTS",
+            "updated": "2026-02-27T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "nicts-quarterly-provisional-figures-october-to-december-2025",
+            "title": "NICTS Quarterly Provisional Figures October to December 2025",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2026-02-27T07:00:00Z",
+            "display_date": "27 February 2026",
+            "org": "NICTS",
+            "updated": "2026-02-27T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-02-27T07:00:00Z",
+            "display_date": "27 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-27T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "prescription-cost-analysis-for-northern-ireland-2025",
             "title": "Prescription Cost Analysis for Northern Ireland, 2025",
@@ -1068,72 +1101,6 @@
             "org": "DfE",
             "updated": "2025-12-17T09:30:09Z",
             "type": "OS"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-september-2025",
-            "title": "Northern Ireland Child Maintenance Service: Data to September 2025",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending September 2025.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-september-2025",
-            "release_date": "2025-12-17T07:00:00Z",
-            "display_date": "17 December 2025",
-            "org": "DfC",
-            "updated": "2025-12-17T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "youth-engagement-statistics-for-northern-ireland-april-2024-to-march-2025",
-            "title": "Youth Engagement Statistics for Northern Ireland April 2024 to March 2025",
-            "summary": "Report presenting data on outcomes in relation to the Youth Engagement process, for young people coming into contact with the criminal justice system in Northern Ireland for the period 1 April 2024 to 31 March 2025, including an overview of the time taken for a case to be completed through the Youth Engagement process.",
-            "url": "https://www.justice-ni.gov.uk/publications/youth-engagement-statistics-northern-ireland-2024-25",
-            "release_date": "2025-12-17T07:00:00Z",
-            "display_date": "17 December 2025",
-            "org": "DoJ",
-            "updated": "2025-12-17T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-december-2025",
-            "title": "NI Labour Market statistics: December 2025",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2025-12-16T07:00:00Z",
-            "display_date": "16 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-16T07:00:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2025",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2025",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2025.",
-            "release_date": "2026-02-27T09:30:00Z",
-            "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-27T07:56:25Z",
-            "org": "NICTS",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2025",
-            "title": "Mortgages: Actions for possession bulletin October to December 2025",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2025.",
-            "release_date": "2026-02-27T09:30:00Z",
-            "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2026-02-27T07:36:47Z",
-            "org": "NICTS",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 20 February 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 February 2026.",
-            "release_date": "2026-02-27T09:30:00Z",
-            "display_date": "27 February 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:50:49Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-december-2025",
