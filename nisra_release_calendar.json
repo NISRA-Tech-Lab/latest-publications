@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-02T13:54:31Z",
+    "modified": "2026-03-02T17:10:01Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
@@ -1552,6 +1552,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-occupancy-statistics-february-2026",
+            "title": "Monthly Occupancy Statistics, February 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-04-02T09:30:00Z",
+            "display_date": "2 April 2026 9:30am (confirmed)",
+            "updated": "2026-03-02T16:44:09Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-october-december-2025",
