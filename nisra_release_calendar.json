@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-03T12:35:37Z",
+    "modified": "2026-03-03T13:53:44Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-february-2026",
@@ -1653,6 +1653,17 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-march-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: March 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-04-17T09:30:00Z",
+            "display_date": "17 April 2026 9:30am (confirmed)",
+            "updated": "2026-03-03T13:45:22Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-april-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 April 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 April 2026.",
@@ -1826,6 +1837,17 @@
             "updated": "2026-01-15T10:02:34Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-april-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: April 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-05-15T09:30:00Z",
+            "display_date": "15 May 2026 9:30am (confirmed)",
+            "updated": "2026-03-03T13:52:01Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
