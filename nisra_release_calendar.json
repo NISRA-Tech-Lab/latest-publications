@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-04T13:51:23Z",
+    "modified": "2026-03-04T17:06:55Z",
     "entries": [
         {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-december-2025",
@@ -1499,6 +1499,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-planning-statistics-october-to-december-2025",
+            "title": "Northern Ireland planning statistics: October to December 2025",
+            "summary": "Provisional quarterly results for the third quarter of 2025/26. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2026-04-01T09:30:00Z",
+            "display_date": "1 April 2026 9:30am (confirmed)",
+            "updated": "2026-03-04T15:36:44Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics-february-2026",
             "title": "Monthly Occupancy Statistics, February 2026",
             "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1683,17 +1694,6 @@
             "updated": "2026-01-23T15:30:08Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-october-to-december-2025",
-            "title": "Northern Ireland planning statistics: October to December 2025",
-            "summary": "Provisional quarterly results for the third quarter of 2025/26. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "March to April 2026 (provisional)",
-            "updated": "2025-10-23T13:56:53Z",
-            "org": "DfI",
-            "type": "AOS",
             "status": "provisional"
         },
         {
