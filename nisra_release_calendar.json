@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-05T09:29:56Z",
+    "modified": "2026-03-05T09:37:14Z",
     "entries": [
+        {
+            "id": "monthly-occupancy-statistics-january-2026",
+            "title": "Monthly Occupancy Statistics, January 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2026-03-05T07:00:00Z",
+            "display_date": "5 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-05T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2025",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
+            "release_date": "2026-03-05T07:00:00Z",
+            "display_date": "5 March 2026",
+            "org": "DfE",
+            "updated": "2026-03-05T09:30:04Z",
+            "type": "OS"
+        },
         {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-december-2025",
             "title": "Northern Ireland waiting time statistics: diagnostic waiting times December 2025",
@@ -1079,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2025-12-18T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-july-to-september-2025",
-            "title": "Working and workless households in Northern Ireland: July to September 2025",
-            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
-            "release_date": "2025-12-18T07:00:00Z",
-            "display_date": "18 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-18T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-november-2025",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 November 2025",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2025-12-18T07:00:00Z",
-            "display_date": "18 December 2025",
-            "org": "PSNI",
-            "updated": "2025-12-18T09:30:02Z",
-            "type": "OS"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
