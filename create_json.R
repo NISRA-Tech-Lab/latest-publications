@@ -51,6 +51,7 @@ source("release_types.R")
 source("latest_NISRA_pubs_from_gov_uk.R")
 source("upcoming_NISRA_pubs_from_gov_uk.R")
 source("research_NISRA_pubs_from_gov_uk.R")
+source("upcoming_research_from_csv.R")
 source("cancelled_NISRA_pubs_from_gov_uk.R")
 
 toJSON(output_list, auto_unbox = TRUE) %>%
