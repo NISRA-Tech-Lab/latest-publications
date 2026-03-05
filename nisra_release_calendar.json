@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-05T10:06:21Z",
+    "modified": "2026-03-05T10:30:48Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-january-2026",
@@ -2258,6 +2258,17 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-june-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): June 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:36:37Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-civil-partnerships-northern-ireland-june-2026",
             "title": "Monthly Civil Partnerships (Northern Ireland): June 2026",
             "summary": "Monthly Civil Partnerships (Northern Ireland): June 2026",
@@ -2889,8 +2900,8 @@
             "title": "Disability and employment transitions in Northern Ireland, 2011-2021",
             "summary": "Research Outlining Disability and employment transitions in Northern Ireland, 2011-2021",
             "release_date": "2026-05-16T09:30:00Z",
-            "display_date": "May-26",
-            "updated": "2025-05-16T00:00:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-03-05T10:15:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -2900,8 +2911,8 @@
             "title": "Post-prison mortality in Northern Ireland",
             "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
             "release_date": "2026-05-16T09:30:00Z",
-            "display_date": "May-26",
-            "updated": "2025-05-16T00:00:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-03-05T10:15:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -2911,8 +2922,8 @@
             "title": "Minority Ethnic Groups in Northern Ireland",
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
             "release_date": "2026-05-16T09:30:00Z",
-            "display_date": "May-26",
-            "updated": "2025-05-16T00:00:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-03-05T10:15:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
