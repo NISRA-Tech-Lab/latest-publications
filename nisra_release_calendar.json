@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-05T09:05:56Z",
+    "modified": "2026-03-05T09:29:56Z",
     "entries": [
         {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-december-2025",
@@ -1101,28 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-12-18T09:30:02Z",
             "type": "OS"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2025",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "release_date": "2026-03-05T09:30:00Z",
-            "display_date": "5 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-05T14:53:45Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics-january",
-            "title": "Monthly Occupancy Statistics, January 2026",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2026-03-05T09:30:00Z",
-            "display_date": "5 March 2026 9:30am (confirmed)",
-            "updated": "2026-01-28T16:45:42Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
@@ -2905,6 +2883,39 @@
             "org": "NISRA",
             "updated": "2025-05-16T00:00:00Z",
             "type": "R"
+        },
+        {
+            "id": "disability-and-employment-transitions-in-northern-ireland-20112021",
+            "title": "Disability and employment transitions in Northern Ireland, 2011-2021",
+            "summary": "Research Outlining Disability and employment transitions in Northern Ireland, 2011-2021",
+            "release_date": "2026-05-16T09:30:00Z",
+            "display_date": "May-26",
+            "updated": "2025-05-16T00:00:00Z",
+            "org": "NISRA",
+            "type": "R",
+            "status": "provisional"
+        },
+        {
+            "id": "postprison-mortality-in-northern-ireland",
+            "title": "Post-prison mortality in Northern Ireland",
+            "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
+            "release_date": "2026-05-16T09:30:00Z",
+            "display_date": "May-26",
+            "updated": "2025-05-16T00:00:00Z",
+            "org": "NISRA",
+            "type": "R",
+            "status": "provisional"
+        },
+        {
+            "id": "minority-ethnic-groups-in-northern-ireland",
+            "title": "Minority Ethnic Groups in Northern Ireland",
+            "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
+            "release_date": "2026-05-16T09:30:00Z",
+            "display_date": "May-26",
+            "updated": "2025-05-16T00:00:00Z",
+            "org": "NISRA",
+            "type": "R",
+            "status": "provisional"
         }
     ],
     "cancelled": [
