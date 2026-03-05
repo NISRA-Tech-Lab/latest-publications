@@ -15,7 +15,7 @@ for (i in 1:nrow(upcoming_research)) {
          title = entry$title,
          summary = entry$summary,
          release_date = entry$release_date,
-         display_date = entry$display_date,
+         display_date = paste0(entry$display_date, " (", entry$status, ")"),
          updated = entry$updated,
          org = entry$org,
          type = "R",
