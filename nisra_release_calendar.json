@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-06T09:01:35Z",
+    "modified": "2026-03-06T09:55:17Z",
     "entries": [
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2026-03-06T07:00:00Z",
+            "display_date": "6 March 2026",
+            "org": "PSNI",
+            "updated": "2026-03-06T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 27 February 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 February 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-03-06T07:00:00Z",
+            "display_date": "6 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-06T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-occupancy-statistics-january-2026",
             "title": "Monthly Occupancy Statistics, January 2026",
@@ -1079,50 +1101,6 @@
             "org": "PSNI",
             "updated": "2025-12-18T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "acute-episode-based-activity-statistics-2024-to-2025",
-            "title": "Acute Episode-Based Activity Statistics 2024 to 2025",
-            "summary": "Presents data on consultant episodes in Trusts in Northern Ireland for 2024 to 2025, including breakdown by specialty, diagnosis, procedure, and resource group.",
-            "url": "https://www.health-ni.gov.uk/articles/episode-based-activity",
-            "release_date": "2025-12-18T07:00:00Z",
-            "display_date": "18 December 2025",
-            "org": "DoH",
-            "updated": "2025-12-18T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-3-2025",
-            "title": "Northern Ireland Index of Services: Quarter 3 2025",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2025-12-18T07:00:00Z",
-            "display_date": "18 December 2025",
-            "org": "NISRA",
-            "updated": "2025-12-18T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2026-03-06T09:30:00Z",
-            "display_date": "6 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-10T10:30:15Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 February 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 February 2026.",
-            "release_date": "2026-03-06T09:30:00Z",
-            "display_date": "6 March 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:54:22Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-economic-trade-statistics-2024",
