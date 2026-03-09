@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-09T13:59:59Z",
+    "modified": "2026-03-09T17:15:32Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
@@ -1299,6 +1299,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-poverty-and-income-inequality-report-202425",
+            "title": "Northern Ireland Poverty and Income Inequality Report 2024/25",
+            "summary": "This is a publication of Official Statistics in Development, providing information on Household Income and poverty rates in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (confirmed)",
+            "updated": "2026-03-09T16:20:45Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-november-2025",
