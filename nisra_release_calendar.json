@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-10T13:56:40Z",
+    "modified": "2026-03-10T17:13:35Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
@@ -1297,6 +1297,28 @@
             "display_date": "25 March 2026 9:30am (provisional)",
             "updated": "2025-06-25T15:13:10Z",
             "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "experience-of-sport-by-adults-in-northern-ireland-202425--2",
+            "title": "Experience of sport by adults in Northern Ireland 2024/25",
+            "summary": "The Experience of sport by adults in Northern Ireland 2024/25 publication is currently being updated to include additional wellbeing analysis and the updated publication will be made available on 26 March 2026. This annual publication contains survey results on experience of sport by adults in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (provisional)",
+            "updated": "2026-03-10T16:38:11Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425--2",
+            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
+            "summary": "The Experience of culture, arts and heritage by adults in Northern Ireland 2024/25 publication is currently being updated to include additional wellbeing analysis and the updated publication will be made available on 26 March 2026. This annual publication contains survey results on engagement with  the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
+            "release_date": "2026-03-26T09:30:00Z",
+            "display_date": "26 March 2026 9:30am (provisional)",
+            "updated": "2026-03-10T14:37:59Z",
+            "org": "DfC",
             "type": "OS",
             "status": "provisional"
         },
