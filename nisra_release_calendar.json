@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-10T12:38:41Z",
+    "modified": "2026-03-10T13:56:40Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
@@ -1477,6 +1477,17 @@
             "status": "confirmed"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-october-to-december-2025",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - October to December 2025",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "release_date": "2026-04-02T09:30:00Z",
+            "display_date": "2 April 2026 9:30am (confirmed)",
+            "updated": "2026-03-10T13:37:37Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "creative-industries-economic-estimates-2025",
             "title": "Creative Industries Economic Estimates 2025",
             "summary": "An annual publication containing statistics on key economic estimates for the Creative Industries in Northern Ireland.",
@@ -1587,6 +1598,17 @@
             "status": "confirmed"
         },
         {
+            "id": "baby-names-northern-ireland-2025",
+            "title": "Baby Names (Northern Ireland) 2025",
+            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
+            "release_date": "2026-04-16T09:30:00Z",
+            "display_date": "16 April 2026 9:30am (confirmed)",
+            "updated": "2026-03-10T13:38:08Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-march-2026",
             "title": "DVA Monthly Tests Conducted Statistics: March 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1651,28 +1673,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "baby-names-northern-ireland-2025",
-            "title": "Baby Names (Northern Ireland) 2025",
-            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "April 2026 (provisional)",
-            "updated": "2026-03-10T09:25:59Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-october-to-december-2025",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - October to December 2025",
-            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "April 2026 (provisional)",
-            "updated": "2026-03-10T09:21:28Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "key-rural-issues-2025",
