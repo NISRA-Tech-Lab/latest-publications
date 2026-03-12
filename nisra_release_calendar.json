@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-12T09:06:18Z",
+    "modified": "2026-03-12T10:00:05Z",
     "entries": [
+        {
+            "id": "graduated-driver-licensing-gdl-monitoring-report-2024",
+            "title": "Graduated Driver Licensing (GDL) monitoring report 2024",
+            "summary": "This report tracks the impact of the GDL scheme on road safety by examining trends in collisions involving and caused by young and newly qualified drivers.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/graduated-driver-licensing-gdl-monitoring-report",
+            "release_date": "2026-03-12T07:00:00Z",
+            "display_date": "12 March 2026",
+            "org": "DfI",
+            "updated": "2026-03-12T09:30:09Z",
+            "type": "OS"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-february-2026",
             "title": "Monthly Stillbirths (Northern Ireland): February 2026",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-01-09T09:30:04Z",
             "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-december-2025",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 December 2025",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-01-09T07:00:00Z",
-            "display_date": "9 January 2026",
-            "org": "PSNI",
-            "updated": "2026-01-09T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "graduated-driver-licensing-gdl-monitoring-report-2024",
-            "title": "Graduated Driver Licensing (GDL) monitoring report 2024",
-            "summary": "This report tracks the impact of the GDL scheme on road safety by examining trends in collisions involving and caused by young and newly qualified drivers.",
-            "release_date": "2026-03-12T09:30:00Z",
-            "display_date": "12 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-10T15:50:35Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-february-2026",
