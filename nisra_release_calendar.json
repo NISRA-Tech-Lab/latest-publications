@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-13T09:04:12Z",
+    "modified": "2026-03-13T09:41:33Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 6 March 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 March 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-03-13T07:00:00Z",
+            "display_date": "13 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-13T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-february-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: February 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-february-2026",
+            "release_date": "2026-03-13T07:00:00Z",
+            "display_date": "13 March 2026",
+            "org": "DfI",
+            "updated": "2026-03-13T09:30:04Z",
+            "type": "OS"
+        },
         {
             "id": "graduated-driver-licensing-gdl-monitoring-report-2024",
             "title": "Graduated Driver Licensing (GDL) monitoring report 2024",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-01-12T00:00:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "domestic-abuse-calls-for-service-received-by-police-in-northern-ireland-christmas-and-new-year-period-ending-2-january-2026",
-            "title": "Domestic Abuse Calls For Service Received by Police in Northern Ireland, Christmas and New Year period ending 2 January 2026",
-            "summary": "Calls relating to domestic abuse received by PSNI during Christmas and New Year.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2026-01-09T07:00:00Z",
-            "display_date": "9 January 2026",
-            "org": "PSNI",
-            "updated": "2026-01-09T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-2-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 2 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2025, up to and including 2 January 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-01-09T07:00:00Z",
-            "display_date": "9 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-09T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-february-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: February 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-03-13T09:30:00Z",
-            "display_date": "13 March 2026 9:30am (confirmed)",
-            "updated": "2026-01-29T14:28:40Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 6 March 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 March 2026.",
-            "release_date": "2026-03-13T09:30:00Z",
-            "display_date": "13 March 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:56:48Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-march-2026",
