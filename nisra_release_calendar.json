@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-16T14:16:17Z",
+    "modified": "2026-03-16T17:34:54Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
@@ -1184,11 +1184,11 @@
             "title": "Health Inequalities Annual Report 2026",
             "summary": "This annual publication presents a comprehensive analysis of health inequality gaps between the most and least deprived areas of NI, and within health and social care (HSC) trust and local government district (LGD) areas.",
             "release_date": "2026-03-25T09:30:00Z",
-            "display_date": "25 March 2026 9:30am (provisional)",
-            "updated": "2025-06-25T15:13:10Z",
+            "display_date": "25 March 2026 9:30am (confirmed)",
+            "updated": "2026-03-16T14:30:10Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "experience-of-sport-by-adults-in-northern-ireland-202425--2",
