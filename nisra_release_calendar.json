@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-18T10:10:38Z",
+    "modified": "2026-03-18T10:15:24Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
@@ -1659,28 +1659,6 @@
             "release_date": "2026-05-11T09:30:00Z",
             "display_date": "11 May 2026 9:30am (confirmed)",
             "updated": "2026-01-15T10:38:26Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-april-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): April 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:36:15Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-april-2026",
-            "title": "Monthly Marriages (Northern Ireland): April 2026",
-            "summary": "Monthly Marriages (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:34:30Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
