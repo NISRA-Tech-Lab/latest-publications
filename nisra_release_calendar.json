@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-18T10:15:24Z",
+    "modified": "2026-03-18T12:47:15Z",
     "entries": [
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q1-2025-26.html",
+            "release_date": "2025-08-27T07:00:00Z",
+            "display_date": "27 August 2025",
+            "org": "PBNI",
+            "updated": "2026-03-18T11:32:50Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q2-2025-26.html",
+            "release_date": "2025-11-12T07:00:00Z",
+            "display_date": "12 November 2025",
+            "org": "PBNI",
+            "updated": "2026-03-18T11:32:33Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q3-2025-26.html",
+            "release_date": "2026-02-25T07:00:00Z",
+            "display_date": "25 February 2026",
+            "org": "PBNI",
+            "updated": "2026-03-18T11:32:15Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-annual-caseload-202425",
+            "title": "Probation Board NI annual caseload 2024/25",
+            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
+            "url": "https://www.pbni.org.uk/publication/annual-caseload-statistics-report-2024-25",
+            "release_date": "2025-05-28T07:00:00Z",
+            "display_date": "28 May 2025",
+            "org": "PBNI",
+            "updated": "2026-03-18T11:31:52Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-4-202425",
+            "title": "Probation Board NI quarterly caseload, quarter 4, 2024/25",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
+            "url": "https://www.pbni.org.uk/publication/probation-quarterly-caseload-statistics-q4-2024-25",
+            "release_date": "2025-05-28T07:00:00Z",
+            "display_date": "28 May 2025",
+            "org": "PBNI",
+            "updated": "2026-03-18T11:31:14Z",
+            "type": "OS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-march-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 6 March 2026",
@@ -340,17 +395,6 @@
             "release_date": "2026-02-25T07:00:00Z",
             "display_date": "25 February 2026",
             "org": "DfC",
-            "updated": "2026-02-25T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q3-2025-26.html",
-            "release_date": "2026-02-25T07:00:00Z",
-            "display_date": "25 February 2026",
-            "org": "PBNI",
             "updated": "2026-02-25T09:30:03Z",
             "type": "OS"
         },
@@ -1059,50 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "monthly-stillbirths-northern-ireland-december-2025",
-            "title": "Monthly Stillbirths (Northern Ireland): December 2025",
-            "summary": "Monthly Stillbirths (Northern Ireland): December 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2026-01-12T07:00:00Z",
-            "display_date": "12 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-12T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-december-2025",
-            "title": "Monthly Marriages (Northern Ireland): December 2025",
-            "summary": "Monthly Marriages (Northern Ireland): December 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-01-12T07:00:00Z",
-            "display_date": "12 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-12T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-december-2025",
-            "title": "Monthly Deaths (Northern Ireland): December 2025",
-            "summary": "Monthly Deaths (Northern Ireland): December 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-01-12T07:00:00Z",
-            "display_date": "12 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-12T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-december-2025",
-            "title": "Monthly Civil Partnerships (Northern Ireland): December 2025",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): December 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-01-12T07:00:00Z",
-            "display_date": "12 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-12T00:00:00Z",
-            "type": "AOS"
-        },
-        {
             "id": "ni-labour-market-statistics-march-2026",
             "title": "NI Labour Market statistics: March 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -1189,28 +1189,6 @@
             "org": "DoH",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "experience-of-sport-by-adults-in-northern-ireland-202425--2",
-            "title": "Experience of sport by adults in Northern Ireland 2024/25",
-            "summary": "The Experience of sport by adults in Northern Ireland 2024/25 publication is currently being updated to include additional wellbeing analysis and the updated publication will be made available on 26 March 2026. This annual publication contains survey results on experience of sport by adults in Northern Ireland.",
-            "release_date": "2026-03-26T09:30:00Z",
-            "display_date": "26 March 2026 9:30am (provisional)",
-            "updated": "2026-03-10T16:38:11Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "experience-of-culture-arts-and-heritage-by-adults-in-northern-ireland-202425--2",
-            "title": "Experience of culture, arts and heritage by adults in Northern Ireland 2024/25",
-            "summary": "The Experience of culture, arts and heritage by adults in Northern Ireland 2024/25 publication is currently being updated to include additional wellbeing analysis and the updated publication will be made available on 26 March 2026. This annual publication contains survey results on engagement with  the arts, heritage, museums, libraries and PRONI by adults in Northern Ireland.",
-            "release_date": "2026-03-26T09:30:00Z",
-            "display_date": "26 March 2026 9:30am (provisional)",
-            "updated": "2026-03-10T14:37:59Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-poverty-and-income-inequality-report-202425",
@@ -1576,17 +1554,6 @@
             "status": "confirmed"
         },
         {
-            "id": "children-in-care-in-northern-ireland-202324",
-            "title": "Children in Care in Northern Ireland 2023/24",
-            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "April 2026 (provisional)",
-            "updated": "2026-03-18T09:22:53Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202425",
             "title": "Patient education / self management programmes for people with long term conditions 2024/25",
             "summary": "This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details information on the type, provision, frequency and trust area of the programmes delivered.",
@@ -1605,17 +1572,6 @@
             "display_date": "April 2026 (provisional)",
             "updated": "2026-02-23T11:37:55Z",
             "org": "DAERA",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "public-awareness-of-and-trust-in-official-statistics-2025",
-            "title": "Public Awareness of and Trust in Official Statistics 2025",
-            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "April 2026 (provisional)",
-            "updated": "2026-01-23T15:30:08Z",
-            "org": "NISRA",
             "type": "OS",
             "status": "provisional"
         },
@@ -1659,6 +1615,28 @@
             "release_date": "2026-05-11T09:30:00Z",
             "display_date": "11 May 2026 9:30am (confirmed)",
             "updated": "2026-01-15T10:38:26Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-april-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:36:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-april-2026",
+            "title": "Monthly Marriages (Northern Ireland): April 2026",
+            "summary": "Monthly Marriages (Northern Ireland): April 2026",
+            "release_date": "2026-05-11T09:30:00Z",
+            "display_date": "11 May 2026 9:30am (confirmed)",
+            "updated": "2026-01-15T10:34:30Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -1816,6 +1794,28 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "public-awareness-of-and-trust-in-official-statistics-2025",
+            "title": "Public Awareness of and Trust in Official Statistics 2025",
+            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-03-18T12:19:17Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "children-in-care-in-northern-ireland-202324",
+            "title": "Children in Care in Northern Ireland 2023/24",
+            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-03-18T11:39:49Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-march-2026",
