@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-19T06:52:35Z",
+    "modified": "2026-03-19T07:41:02Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-march-2026",
+            "title": "NI Labour Market statistics: March 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-03-19T07:00:00Z",
+            "display_date": "19 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-19T07:00:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-employment-survey-december-2025",
+            "title": "Quarterly Employment Survey: December 2025",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
+            "release_date": "2026-03-19T07:00:00Z",
+            "display_date": "19 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-19T07:00:03Z",
+            "type": "AOS"
+        },
         {
             "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
             "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
@@ -1079,50 +1101,6 @@
             "org": "DoH",
             "updated": "2026-01-15T00:00:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2025",
-            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2025",
-            "summary": "Quarterly Index of the Northern Ireland economy.",
-            "url": "https://datavis.nisra.gov.uk/economy-and-labour-market/NI-Composite-Economic-Index-Q3-2025-statistical-bulletin.pdf",
-            "release_date": "2026-01-15T07:00:00Z",
-            "display_date": "15 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-15T00:00:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-december-2025",
-            "title": "Monthly Births (Northern Ireland): December 2025",
-            "summary": "Monthly Births (Northern Ireland): December 2025",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2026-01-12T07:00:00Z",
-            "display_date": "12 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-12T00:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-march-2026",
-            "title": "NI Labour Market statistics: March 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:41:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-employment-survey-december-2025",
-            "title": "Quarterly Employment Survey: December 2025",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026 7:00am (confirmed)",
-            "updated": "2025-10-01T16:26:06Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-december-2025",
