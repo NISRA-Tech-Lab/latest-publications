@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-19T10:05:32Z",
+    "modified": "2026-03-19T12:40:53Z",
     "entries": [
         {
             "id": "northern-ireland-child-maintenance-service-data-to-december-2025",
@@ -1829,6 +1829,28 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-06-02T09:30:00Z",
+            "display_date": "2 June 2026 9:30am (provisional)",
+            "updated": "2026-03-19T11:37:37Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-march-2026",
+            "title": "Northern Ireland HSC Workforce Statistics March 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2026-06-02T09:30:00Z",
+            "display_date": "2 June 2026 9:30am (provisional)",
+            "updated": "2026-03-19T10:38:30Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2025",
             "title": "Annual Report on Public Awareness of the Police Complaints system in Northern Ireland, 2025",
             "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2025",
@@ -2137,6 +2159,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-hsc-workforce-census-march-2026",
+            "title": "Northern Ireland HSC Workforce Census March 2026",
+            "summary": "A comprehensive profile of HSC staff",
+            "release_date": "2026-07-01T09:30:00Z",
+            "display_date": "1 July 2026 9:30am (provisional)",
+            "updated": "2026-03-19T12:00:58Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 26 June 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 26 June 2026.",
@@ -2320,6 +2353,28 @@
             "display_date": "20 August 2026 9:30am (provisional)",
             "updated": "2025-09-26T13:39:01Z",
             "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics June 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-08-26T09:30:00Z",
+            "display_date": "26 August 2026 9:30am (provisional)",
+            "updated": "2026-03-19T11:47:42Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-june-2026",
+            "title": "Northern Ireland HSC Workforce Statistics June 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2026-08-26T09:30:00Z",
+            "display_date": "26 August 2026 9:30am (provisional)",
+            "updated": "2026-03-19T10:53:00Z",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
@@ -2544,6 +2599,28 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-september-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics September 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-11-24T09:30:00Z",
+            "display_date": "24 November 2026 9:30am (provisional)",
+            "updated": "2026-03-19T11:53:12Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-september-2026",
+            "title": "Northern Ireland HSC Workforce Statistics September 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2026-11-24T09:30:00Z",
+            "display_date": "24 November 2026 9:30am (provisional)",
+            "updated": "2026-03-19T11:03:26Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-benefit-statistics-summary-august-2026",
             "title": "Northern Ireland Benefit Statistics Summary: August 2026",
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
@@ -2693,6 +2770,28 @@
             "release_date": "2027-01-31T09:30:00Z",
             "display_date": "December to January 2027 (provisional)",
             "updated": "2026-01-16T14:30:56Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-december-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics December 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2027-02-23T09:30:00Z",
+            "display_date": "23 February 2027 9:30am (provisional)",
+            "updated": "2026-03-19T11:56:29Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-december-2026",
+            "title": "Northern Ireland HSC Workforce Statistics December 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2027-02-23T09:30:00Z",
+            "display_date": "23 February 2027 9:30am (provisional)",
+            "updated": "2026-03-19T11:24:21Z",
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
