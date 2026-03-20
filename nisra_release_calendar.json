@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-20T09:04:15Z",
+    "modified": "2026-03-20T09:36:23Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 13 March 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 March 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-03-20T07:00:00Z",
+            "display_date": "20 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-20T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-december-2025",
             "title": "Northern Ireland Child Maintenance Service: Data to December 2025",
@@ -1090,28 +1101,6 @@
             "org": "DfI",
             "updated": "2026-01-16T09:30:01Z",
             "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-9-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 9 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 9 January 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-01-16T07:00:00Z",
-            "display_date": "16 January 2026",
-            "org": "NISRA",
-            "updated": "2026-01-16T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 13 March 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 March 2026.",
-            "release_date": "2026-03-20T09:30:00Z",
-            "display_date": "20 March 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T15:59:47Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "travel-tofrom-school-by-pupils-in-northern-ireland-202425",
