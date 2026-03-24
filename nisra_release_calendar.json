@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-24T09:13:26Z",
+    "modified": "2026-03-24T09:31:41Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
@@ -663,6 +663,17 @@
             "type": "AOS"
         },
         {
+            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
+            "title": "Population projections for areas within Northern Ireland: 2022-based",
+            "summary": "Population projections for areas within Northern Ireland: 2022-based",
+            "url": "https://www.nisra.gov.uk/publications/2022-based-population-projections-areas-within-northern-ireland",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
             "id": "road-safety-issues-in-northern-ireland-202425",
             "title": "Road Safety issues in Northern Ireland 2024/25",
             "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to road safety issues.",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-01-20T07:00:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-december-2025",
-            "title": "DVA Monthly Tests Conducted Statistics: December 2025",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-december-2025",
-            "release_date": "2026-01-16T07:00:00Z",
-            "display_date": "16 January 2026",
-            "org": "DfI",
-            "updated": "2026-01-16T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "travel-tofrom-school-by-pupils-in-northern-ireland-202425",
-            "title": "Travel to/from school by pupils in Northern Ireland 2024/25",
-            "summary": "Annual report from the Continuous Household Survey on how children travel to school in Northern Ireland.",
-            "release_date": "2026-03-24T09:30:00Z",
-            "display_date": "24 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-24T10:48:52Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "health-inequalities-annual-report-2026",
@@ -2324,17 +2313,6 @@
             "status": "provisional"
         },
         {
-            "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
-            "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
-            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (provisional)",
-            "updated": "2025-11-20T11:12:53Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "ni-labour-market-statistics-august-2026",
             "title": "NI Labour Market statistics: August 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -2893,6 +2871,17 @@
             "updated": "2026-01-28T10:28:17Z",
             "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2026",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2026",
+            "release_date": "2027-02-26T09:30:00Z",
+            "display_date": "26 February 2027 9:30am (confirmed)",
+            "updated": "2026-03-24T09:09:24Z",
+            "org": "NICTS",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
