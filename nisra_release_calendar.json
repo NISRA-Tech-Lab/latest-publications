@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-24T07:49:25Z",
+    "modified": "2026-03-24T09:08:02Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
@@ -1675,6 +1675,28 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2026",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures January to March 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter January to March 2026",
+            "release_date": "2026-05-22T09:30:00Z",
+            "display_date": "22 May 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T08:54:56Z",
+            "org": "NICTS",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-january-to-march-2026",
+            "title": "Mortgages: Actions for possession bulletin January to March 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period January to March 2026",
+            "release_date": "2026-05-22T09:30:00Z",
+            "display_date": "22 May 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T08:49:21Z",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 15 May 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 15 May 2026.",
@@ -2302,6 +2324,17 @@
             "status": "provisional"
         },
         {
+            "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
+            "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
+            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
+            "release_date": "2026-08-06T09:30:00Z",
+            "display_date": "6 August 2026 9:30am (provisional)",
+            "updated": "2025-11-20T11:12:53Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "ni-labour-market-statistics-august-2026",
             "title": "NI Labour Market statistics: August 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -2344,6 +2377,28 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2026",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2026",
+            "release_date": "2026-08-21T09:30:00Z",
+            "display_date": "21 August 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T09:00:29Z",
+            "org": "NICTS",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2026",
+            "title": "Mortgages: Actions for possession bulletin April to June 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2026",
+            "release_date": "2026-08-21T09:30:00Z",
+            "display_date": "21 August 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T08:58:09Z",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
@@ -2654,6 +2709,28 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2026",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2026",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T09:04:42Z",
+            "org": "NICTS",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-july-to-september-2026",
+            "title": "Mortgages: Actions for possession bulletin July to September 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period July to September 2026",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-03-24T09:02:54Z",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-employment-survey-september-2026",
             "title": "Quarterly Employment Survey: September 2026",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
@@ -2815,6 +2892,17 @@
             "display_date": "24 February 2027 9:30am (confirmed)",
             "updated": "2026-01-28T10:28:17Z",
             "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-october-to-december-2026",
+            "title": "Mortgages: Actions for possession bulletin October to December 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period October to December 2026",
+            "release_date": "2027-02-26T09:30:00Z",
+            "display_date": "26 February 2027 9:30am (confirmed)",
+            "updated": "2026-03-24T09:07:10Z",
+            "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
         },
