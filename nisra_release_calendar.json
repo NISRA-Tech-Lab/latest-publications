@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-27T14:05:40Z",
+    "modified": "2026-03-27T17:15:11Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-march-2026",
@@ -2773,6 +2773,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "analysis-of-nics-recruitment-competitions-2026",
+            "title": "Analysis of NICS Recruitment Competitions 2026",
+            "summary": "Information on recruitment competitions for Northern Ireland Civil Service jobs profiled by various equality categories.",
+            "release_date": "2027-04-30T09:30:00Z",
+            "display_date": "March to April 2027 (provisional)",
+            "updated": "2026-03-27T14:28:53Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "individual-wellbeing-among-young-people-in-northern-ireland-2025",
