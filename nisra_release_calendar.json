@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-31T10:15:39Z",
+    "modified": "2026-03-31T12:55:04Z",
     "entries": [
         {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
@@ -143,6 +143,28 @@
             "display_date": "26 March 2026",
             "org": "DfC",
             "updated": "2026-03-26T09:30:11Z",
+            "type": "OS"
+        },
+        {
+            "id": "fe-sector-activity-in-ni-by-lgd-in-2021-2425",
+            "title": "FE Sector activity in NI by LGD in 20/21-24/25",
+            "summary": "The tables present a range of analysis regarding those enrolling in the Northern Ireland Further Education Sector over a five year period.",
+            "url": "https://www.economy-ni.gov.uk/publications/further-education-sector-activity-northern-ireland-local-government-district-202021-202425",
+            "release_date": "2026-03-26T07:00:00Z",
+            "display_date": "26 March 2026",
+            "org": "DfE",
+            "updated": "2026-03-26T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "fe-sector-activity-in-ni-by-assembly-area-in-2021-2425",
+            "title": "FE Sector activity in NI by Assembly Area in 20/21-24/25",
+            "summary": "The tables present a range of analysis regarding those enrolling in the Northern Ireland Further Education Sector over a five year period.",
+            "url": "https://www.economy-ni.gov.uk/publications/further-education-sector-activity-northern-ireland-assembly-area-202021-202425",
+            "release_date": "2026-03-26T07:00:00Z",
+            "display_date": "26 March 2026",
+            "org": "DfE",
+            "updated": "2026-03-26T00:00:00Z",
             "type": "OS"
         },
         {
@@ -1078,28 +1100,6 @@
             "display_date": "29 January 2026",
             "org": "NISRA",
             "updated": "2026-01-29T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 December 2025",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2026-01-29T07:00:00Z",
-            "display_date": "29 January 2026",
-            "org": "PSNI",
-            "updated": "2026-01-29T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 December 2025",
-            "summary": "Quarterly update of Agricultural and Rural Crime.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2026-01-29T07:00:00Z",
-            "display_date": "29 January 2026",
-            "org": "PSNI",
-            "updated": "2026-01-29T09:30:05Z",
             "type": "OS"
         },
         {
