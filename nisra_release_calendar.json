@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-31T07:03:13Z",
+    "modified": "2026-03-31T08:35:27Z",
     "entries": [
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2026",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resources/equality-statistics",
+            "release_date": "2026-03-31T07:00:00Z",
+            "display_date": "31 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-31T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-202425",
+            "title": "Work Quality in Northern Ireland 2024/25",
+            "summary": "This paper will examine a number of work quality indicators for NI as sourced from the Labour Force Survey (LFS) and Annual Survey of Hours and Earnings (ASHE).",
+            "url": "https://www.nisra.gov.uk/statistics/work-pay-and-benefits/work-quality",
+            "release_date": "2026-03-31T07:00:00Z",
+            "display_date": "31 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-31T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-march-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 20 March 2026",
@@ -1079,50 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-01-29T09:30:05Z",
             "type": "OS"
-        },
-        {
-            "id": "essential-skills-in-ni-further-education-colleges-2021-2425",
-            "title": "Essential Skills in NI Further Education Colleges: 20/21 - 24/25",
-            "summary": "Characteristics of those enrolling and performance statistics for the Essential Skills programme in NI FE Colleges, from 2020/21 to 2024/25",
-            "url": "https://www.economy-ni.gov.uk/articles/essential-skills-enrolments-and-outcomes",
-            "release_date": "2026-01-29T07:00:00Z",
-            "display_date": "29 January 2026",
-            "org": "DfE",
-            "updated": "2026-01-29T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2025",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2025",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2026-01-29T07:00:00Z",
-            "display_date": "29 January 2026",
-            "org": "PSNI",
-            "updated": "2026-01-29T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
-            "title": "Equality Statistics for the Northern Ireland Civil Service - 2026",
-            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2026.",
-            "release_date": "2026-03-31T09:30:00Z",
-            "display_date": "31 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-25T15:40:52Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "work-quality-in-northern-ireland-202425",
-            "title": "Work Quality in Northern Ireland 2024/25",
-            "summary": "This paper will examine a number of work quality indicators for NI as sourced from the Labour Force Survey (LFS) and Annual Survey of Hours and Earnings (ASHE).",
-            "release_date": "2026-03-31T09:30:00Z",
-            "display_date": "31 March 2026 9:30am (confirmed)",
-            "updated": "2026-02-25T14:42:41Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-planning-statistics-october-to-december-2025",
@@ -2430,6 +2408,17 @@
             "display_date": "August to September 2026 (provisional)",
             "updated": "2025-07-31T12:34:14Z",
             "org": "DoF",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "acute-episode-based-activity-statistics-2025-to-2026",
+            "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
+            "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
+            "release_date": "2026-10-01T09:30:00Z",
+            "display_date": "1 October 2026 9:30am (provisional)",
+            "updated": "2026-03-31T09:04:00Z",
+            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
