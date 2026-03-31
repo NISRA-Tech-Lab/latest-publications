@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-03-31T14:23:57Z",
+    "modified": "2026-03-31T17:30:38Z",
     "entries": [
         {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2026",
@@ -1851,23 +1851,23 @@
             "status": "confirmed"
         },
         {
-            "id": "ni-labour-market-statistics-june-2026",
-            "title": "NI Labour Market statistics: June 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-06-16T07:00:00Z",
-            "display_date": "16 June 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:41:17Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "quarterly-employment-survey-march-2026",
             "title": "Quarterly Employment Survey: March 2026",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
             "release_date": "2026-06-16T07:00:00Z",
             "display_date": "16 June 2026 7:00am (confirmed)",
             "updated": "2025-10-02T11:48:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2026",
+            "title": "NI Labour Market statistics: June 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026 7:00am (confirmed)",
+            "updated": "2026-03-31T16:28:04Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2289,6 +2289,17 @@
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
+            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "July to August 2026 (provisional)",
+            "updated": "2026-03-31T15:39:58Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
@@ -2795,6 +2806,17 @@
             "org": "TEO",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2026",
+            "title": "NI Labour Market statistics: June 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "NAT09:30:00Z",
+            "display_date": "Reason for change:\r\nThe June 2026 labour market publication is delayed from Tuesday 16 June to Thursday 18 June because of a national bank holiday in Scotland on Monday 15 June.",
+            "updated": "2026-03-31T16:28:04Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "Reason for change:\r\nThe June 2026 labour market publication is delayed from Tuesday 16 June to Thursday 18 June because of a national bank holiday in Scotland on Monday 15 June."
         },
         {
             "id": "material-footprint-in-northern-ireland-2001-to-2022",
