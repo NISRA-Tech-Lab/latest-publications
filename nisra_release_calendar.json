@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-02T14:18:03Z",
+    "modified": "2026-04-02T17:14:03Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-february-2026",
@@ -1329,6 +1329,17 @@
             "release_date": "2026-05-01T09:30:00Z",
             "display_date": "1 May 2026 9:30am (confirmed)",
             "updated": "2026-01-15T08:31:45Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-march-2026",
+            "title": "Monthly Occupancy Statistics, March 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-05-07T09:30:00Z",
+            "display_date": "7 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-02T16:43:12Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
