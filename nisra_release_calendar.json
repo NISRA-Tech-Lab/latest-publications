@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-03T10:07:04Z",
+    "modified": "2026-04-03T12:41:21Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
@@ -1320,6 +1320,17 @@
             "updated": "2026-01-15T08:31:45Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-202526-financial-year",
+            "title": "Employment vacancies notified to DfC 2025/26 financial year",
+            "summary": "Annual data showing listings of employment vacancies notified to Department for Communities.",
+            "release_date": "2026-05-06T09:30:00Z",
+            "display_date": "6 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-03T11:33:11Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2750,6 +2761,17 @@
             "updated": "2026-04-02T09:58:17Z",
             "org": "DE",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "equality-statistics-for-the-northern-ireland-civil-service-2027",
+            "title": "Equality Statistics for the Northern Ireland Civil Service - 2027",
+            "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2027.",
+            "release_date": "2027-04-30T09:30:00Z",
+            "display_date": "March to April 2027 (provisional)",
+            "updated": "2026-04-03T11:33:35Z",
+            "org": "NISRA",
+            "type": "OS",
             "status": "provisional"
         },
         {
