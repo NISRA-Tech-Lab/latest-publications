@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-03T12:41:21Z",
+    "modified": "2026-04-03T13:57:48Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
@@ -1279,17 +1279,6 @@
             "status": "confirmed"
         },
         {
-            "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202425",
-            "title": "Patient education / self management programmes for people with long term conditions 2024/25",
-            "summary": "This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details information on the type, provision, frequency and trust area of the programmes delivered.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "April 2026 (provisional)",
-            "updated": "2026-03-12T11:57:17Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "key-rural-issues-2025",
             "title": "Key Rural Issues 2025",
             "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
@@ -1576,6 +1565,17 @@
             "status": "confirmed"
         },
         {
+            "id": "patient-education-self-management-programmes-for-people-with-long-term-conditions-202425",
+            "title": "Patient education / self management programmes for people with long term conditions 2024/25",
+            "summary": "This annual publication presents statistical information on patient education / self management programmes for long term conditions collected from health and social care trusts and independent programme providers. It details information on the type, provision, frequency and trust area of the programmes delivered.",
+            "release_date": "2026-05-31T09:30:00Z",
+            "display_date": "May 2026 (provisional)",
+            "updated": "2026-04-03T14:24:03Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "public-awareness-of-and-trust-in-official-statistics-2025",
             "title": "Public Awareness of and Trust in Official Statistics 2025",
             "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
@@ -1604,17 +1604,6 @@
             "release_date": "2026-05-31T09:30:00Z",
             "display_date": "May 2026 (provisional)",
             "updated": "2026-03-12T12:20:18Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
-            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
-            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2026-03-03T14:50:56Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
@@ -2089,6 +2078,17 @@
             "display_date": "30 July 2026 9:30am (provisional)",
             "updated": "2025-09-25T15:43:07Z",
             "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
+            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
+            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
+            "release_date": "2026-07-31T09:30:00Z",
+            "display_date": "July 2026 (provisional)",
+            "updated": "2026-04-03T14:25:44Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
