@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-03T08:01:11Z",
+    "modified": "2026-04-03T08:32:07Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 27 March 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 March 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-04-03T07:00:00Z",
+            "display_date": "3 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-03T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-occupancy-statistics-february-2026",
             "title": "Monthly Occupancy Statistics, February 2026",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-03T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "higher-level-apprenticeships-in-further-education-academic-year-202425",
-            "title": "Higher Level Apprenticeships in Further Education, academic year 2024/25",
-            "summary": "Statistics in this bulletin present analysis of Higher Level Apprenticeship programmes in Further Education in Northern Ireland, including the number of new starts, participants and qualifications achieved.",
-            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-fe-colleges-and-cafre-bulletins",
-            "release_date": "2026-01-30T07:00:00Z",
-            "display_date": "30 January 2026",
-            "org": "DfE",
-            "updated": "2026-01-30T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 March 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 March 2026.",
-            "release_date": "2026-04-03T09:30:00Z",
-            "display_date": "3 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T16:07:11Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-april-2026",
