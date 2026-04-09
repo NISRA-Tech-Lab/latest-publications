@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-09T08:36:10Z",
+    "modified": "2026-04-09T09:40:08Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-march-2026",
@@ -1528,6 +1528,17 @@
             "display_date": "27 May 2026 9:30am (confirmed)",
             "updated": "2025-05-09T09:15:05Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-jan-march-2026",
+            "title": "Young people not in education, employment or training (NEET), NI: Jan-March 2026",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-09T10:39:04Z",
+            "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
         },
