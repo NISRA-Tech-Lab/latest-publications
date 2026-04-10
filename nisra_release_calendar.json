@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-10T09:38:10Z",
+    "modified": "2026-04-10T09:43:24Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-april-2026",
@@ -1246,6 +1246,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2025",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - October - December 2025",
+            "release_date": "2026-04-30T09:30:00Z",
+            "display_date": "30 April 2026 9:30am (provisional)",
+            "updated": "2026-04-10T10:41:28Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
             "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
             "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year. It includes information on the rates of suspension and expulsion and the reason for suspension and expulsion.",
@@ -1266,17 +1277,6 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2025",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - October - December 2025",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "30 April 2026 9:30am (provisional)",
-            "updated": "2025-09-25T15:32:23Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-april-2026",
@@ -2434,6 +2434,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - Apr-Jun 2026",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (provisional)",
+            "updated": "2026-02-04T16:08:09Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-july-september-2026",
             "title": "Emergency Care Waiting Time Statistics (July - September 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2441,17 +2452,6 @@
             "display_date": "22 October 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:37:17Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2026",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - Apr-Jun 2026",
-            "release_date": "2026-10-29T09:30:00Z",
-            "display_date": "29 October 2026 9:30am (provisional)",
-            "updated": "2026-02-04T16:08:09Z",
-            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
