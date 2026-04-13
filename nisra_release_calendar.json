@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-13T07:54:42Z",
+    "modified": "2026-04-13T10:05:33Z",
     "entries": [
+        {
+            "id": "monthly-marriages-northern-ireland-march-2026",
+            "title": "Monthly Marriages (Northern Ireland): March 2026",
+            "summary": "Monthly Marriages (Northern Ireland): March 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2026-04-13T07:00:00Z",
+            "display_date": "13 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-13T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-march-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): March 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): March 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2026-04-13T07:00:00Z",
+            "display_date": "13 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-13T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-march-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): March 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): March 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2026-04-13T07:00:00Z",
+            "display_date": "13 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-13T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-march-2026",
+            "title": "Monthly Deaths (Northern Ireland): March 2026",
+            "summary": "Monthly Deaths (Northern Ireland): March 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2026-04-13T07:00:00Z",
+            "display_date": "13 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-13T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-births-northern-ireland-march-2026",
+            "title": "Monthly Births (Northern Ireland): March 2026",
+            "summary": "Monthly Births (Northern Ireland): March 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2026-04-13T07:00:00Z",
+            "display_date": "13 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-13T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-april-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 3 April 2026",
@@ -1046,116 +1101,6 @@
             "org": "BSO",
             "updated": "2026-02-05T09:30:05Z",
             "type": "AOS"
-        },
-        {
-            "id": "long-term-international-migration-statistics-for-northern-ireland-2024",
-            "title": "Long-Term International Migration Statistics for Northern Ireland (2024)",
-            "summary": "Long-Term International Migration Statistics (2024)",
-            "url": "https://www.nisra.gov.uk/publications/long-term-international-migration-statistics-northern-ireland-2024",
-            "release_date": "2026-02-05T07:00:00Z",
-            "display_date": "5 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-05T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-occupancy-statistics",
-            "title": "Monthly Occupancy Statistics",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2026-02-05T07:00:00Z",
-            "display_date": "5 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-05T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2024",
-            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2024",
-            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
-            "url": "https://www.nisra.gov.uk/statistics/people-and-communities/public-awareness-and-trust-confidence-official-statistics-pcos",
-            "release_date": "2026-02-05T07:00:00Z",
-            "display_date": "5 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-05T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-october-december-2025",
-            "title": "Emergency Care Waiting Time Statistics (October - December 2025)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times#toc-0",
-            "release_date": "2026-02-05T07:00:00Z",
-            "display_date": "5 February 2026",
-            "org": "DoH",
-            "updated": "2026-02-05T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-three-202526-financial-year",
-            "title": "Employment vacancies notified to DfC Quarter Three 2025/26 financial year",
-            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
-            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/employment-vacancy-statistics",
-            "release_date": "2026-02-04T07:00:00Z",
-            "display_date": "4 February 2026",
-            "org": "DfC",
-            "updated": "2026-02-04T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-march-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): March 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): March 2026",
-            "release_date": "2026-04-13T09:30:00Z",
-            "display_date": "13 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T17:14:13Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-march-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): March 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): March 2026",
-            "release_date": "2026-04-13T09:30:00Z",
-            "display_date": "13 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T17:13:09Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-march-2026",
-            "title": "Monthly Marriages (Northern Ireland): March 2026",
-            "summary": "Monthly Marriages (Northern Ireland): March 2026",
-            "release_date": "2026-04-13T09:30:00Z",
-            "display_date": "13 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T17:12:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-march-2026",
-            "title": "Monthly Deaths (Northern Ireland): March 2026",
-            "summary": "Monthly Deaths (Northern Ireland): March 2026",
-            "release_date": "2026-04-13T09:30:00Z",
-            "display_date": "13 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T17:10:47Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-march-2026",
-            "title": "Monthly Births (Northern Ireland): March 2026",
-            "summary": "Monthly Births (Northern Ireland): March 2026",
-            "release_date": "2026-04-13T09:30:00Z",
-            "display_date": "13 April 2026 9:30am (confirmed)",
-            "updated": "2025-09-01T17:09:19Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "baby-names-northern-ireland-2025",
