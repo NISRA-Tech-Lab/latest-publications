@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-13T13:02:53Z",
+    "modified": "2026-04-13T17:36:16Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
@@ -1500,11 +1500,11 @@
         },
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q4",
-            "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics - 2025-26 - Quarter 4",
+            "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 4",
             "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
             "release_date": "2026-05-29T09:30:00Z",
             "display_date": "29 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-13T14:01:32Z",
+            "updated": "2026-04-13T14:05:11Z",
             "org": "DfI",
             "type": "OS",
             "status": "confirmed"
@@ -2035,6 +2035,17 @@
             "updated": "2025-09-25T15:43:07Z",
             "org": "DAERA",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "energy-in-northern-ireland-2026",
+            "title": "Energy in Northern Ireland 2026",
+            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
+            "release_date": "2026-07-31T09:30:00Z",
+            "display_date": "June to July 2026 (provisional)",
+            "updated": "2026-04-13T15:53:03Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "provisional"
         },
         {
