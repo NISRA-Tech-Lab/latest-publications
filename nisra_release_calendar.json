@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-14T09:53:54Z",
+    "modified": "2026-04-14T13:03:23Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
@@ -1345,6 +1345,94 @@
             "status": "confirmed"
         },
         {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 March 2026",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:10:59Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 March 2026",
+            "summary": "Quarterly update of Agricultural and Rural Crime.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:05:57Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 March 2026",
+            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:03:29Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 March 2026",
+            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T11:50:35Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 March 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T11:36:22Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425--2",
+            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
+            "summary": "Annual update of Police Crime Outcomes.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T11:22:37Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 March 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T11:16:36Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-and-criminal-evidence-detection-pace-statistics-for-northern-ireland-202526",
+            "title": "Police and Criminal Evidence Detection (PACE) statistics for Northern Ireland 2025/26",
+            "summary": "Finalised Police and Criminal Evidence (PACE) Detection statistics for period 1 April 2025 - 31 March 2026.",
+            "release_date": "2026-05-15T09:30:00Z",
+            "display_date": "15 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:20:03Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-april-2026",
             "title": "DVA Monthly Tests Conducted Statistics: April 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1375,6 +1463,17 @@
             "updated": "2025-12-18T13:41:12Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2026",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2026",
+            "summary": "Finalised PSNI Stop and Search Statistics for the period 1 April 2025 - 31 March 2026.",
+            "release_date": "2026-05-20T09:30:00Z",
+            "display_date": "20 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:21:53Z",
+            "org": "PSNI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1409,6 +1508,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
+            "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2025",
+            "summary": "Calendar year report providing statistics in relation to Preliminary Breath Tests carried out by the Police Service of Northern Ireland.",
+            "release_date": "2026-05-22T09:30:00Z",
+            "display_date": "22 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:33:25Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-january-to-march-2026",
@@ -1462,6 +1572,17 @@
             "display_date": "27 May 2026 9:30am (confirmed)",
             "updated": "2025-05-09T09:15:05Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:29:33Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
