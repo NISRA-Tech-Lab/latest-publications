@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-15T09:55:06Z",
+    "modified": "2026-04-15T13:05:01Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
@@ -1341,6 +1341,17 @@
             "display_date": "13 May 2026 9:30am (confirmed)",
             "updated": "2026-03-30T16:16:04Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-march-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 March 2026",
+            "summary": "Finalised PSNI statistics relating to the security situation in Northern Ireland for the period 1 April 2025 - 31 March 2026.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-15T14:01:53Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
