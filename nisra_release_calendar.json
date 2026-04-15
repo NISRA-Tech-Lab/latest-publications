@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-15T07:19:27Z",
+    "modified": "2026-04-15T09:25:54Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
@@ -1807,6 +1807,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
+            "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
+            "summary": "This annual statistical bulletin provides headline figures on greenhouse gas emissions for Northern Ireland both by source sector and end-user for the years 1990 to 2024.",
+            "release_date": "2026-06-09T09:30:00Z",
+            "display_date": "9 June 2026 9:30am (provisional)",
+            "updated": "2026-04-15T09:04:56Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "monthly-stillbirths-northern-ireland-may-2026",
             "title": "Monthly Stillbirths (Northern Ireland): May 2026",
             "summary": "Monthly Stillbirths (Northern Ireland): May 2026",
@@ -2001,17 +2012,6 @@
             "display_date": "June 2026 (provisional)",
             "updated": "2026-03-03T14:51:45Z",
             "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
-            "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
-            "summary": "This annual statistical bulletin provides headline figures on greenhouse gas emissions for Northern Ireland both by source sector and end-user for the years 1990 to 2024.",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "June 2026 (provisional)",
-            "updated": "2026-02-18T12:10:06Z",
-            "org": "DAERA",
             "type": "OS",
             "status": "provisional"
         },
