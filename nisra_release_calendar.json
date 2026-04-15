@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-15T13:05:01Z",
+    "modified": "2026-04-15T17:40:01Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
@@ -1202,6 +1202,17 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-january-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-04-30T09:30:00Z",
+            "display_date": "30 April 2026 9:30am (confirmed)",
+            "updated": "2026-04-15T14:16:52Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
             "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
             "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year. It includes information on the rates of suspension and expulsion and the reason for suspension and expulsion.",
@@ -1210,17 +1221,6 @@
             "updated": "2026-04-02T14:17:37Z",
             "org": "DE",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-january-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 31 January 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "30 April 2026 9:30am (confirmed)",
-            "updated": "2026-03-24T12:22:15Z",
-            "org": "PSNI",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1588,11 +1588,11 @@
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
+            "title": "Motoring offences statistics in Northern Ireland to 31 March 2026",
             "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
             "release_date": "2026-05-28T09:30:00Z",
             "display_date": "28 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-14T12:29:33Z",
+            "updated": "2026-04-15T14:20:28Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
