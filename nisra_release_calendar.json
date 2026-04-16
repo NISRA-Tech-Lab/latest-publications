@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-16T07:24:30Z",
+    "modified": "2026-04-16T09:47:20Z",
     "entries": [
+        {
+            "id": "baby-names-northern-ireland-2025",
+            "title": "Baby Names (Northern Ireland) 2025",
+            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/births/baby-names",
+            "release_date": "2026-04-16T07:00:00Z",
+            "display_date": "16 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-16T09:30:04Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-marriages-northern-ireland-march-2026",
             "title": "Monthly Marriages (Northern Ireland): March 2026",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-06T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202526",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q3-25-26.html",
-            "release_date": "2026-02-05T07:00:00Z",
-            "display_date": "5 February 2026",
-            "org": "BSO",
-            "updated": "2026-02-05T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "baby-names-northern-ireland-2025",
-            "title": "Baby Names (Northern Ireland) 2025",
-            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
-            "release_date": "2026-04-16T09:30:00Z",
-            "display_date": "16 April 2026 9:30am (confirmed)",
-            "updated": "2026-03-10T13:38:08Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2026",
