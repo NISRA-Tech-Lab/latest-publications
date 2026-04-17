@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-17T07:25:10Z",
+    "modified": "2026-04-17T09:45:58Z",
     "entries": [
+        {
+            "id": "dva-monthly-tests-conducted-statistics-march-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: March 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-march-2026",
+            "release_date": "2026-04-17T07:00:00Z",
+            "display_date": "17 April 2026",
+            "org": "DfI",
+            "updated": "2026-04-17T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-april-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 April 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 April 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-04-17T07:00:00Z",
+            "display_date": "17 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-17T09:30:05Z",
+            "type": "AOS"
+        },
         {
             "id": "baby-names-northern-ireland-2025",
             "title": "Baby Names (Northern Ireland) 2025",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-11T09:30:06Z",
             "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-january-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 January 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-02-06T07:00:00Z",
-            "display_date": "6 February 2026",
-            "org": "PSNI",
-            "updated": "2026-02-06T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-30-january-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 30 January 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 January 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-02-06T07:00:00Z",
-            "display_date": "6 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-06T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-march-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: March 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-04-17T09:30:00Z",
-            "display_date": "17 April 2026 9:30am (confirmed)",
-            "updated": "2026-03-03T13:45:22Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-april-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 April 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 April 2026.",
-            "release_date": "2026-04-17T09:30:00Z",
-            "display_date": "17 April 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T08:23:14Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-april-2026",
