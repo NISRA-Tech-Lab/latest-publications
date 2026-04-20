@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-20T07:58:19Z",
+    "modified": "2026-04-20T10:08:27Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2026",
@@ -1481,11 +1481,11 @@
             "title": "Northern Ireland Annual Tourism Statistics 2025",
             "summary": "Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2025.",
             "release_date": "2026-05-21T09:30:00Z",
-            "display_date": "21 May 2026 9:30am (provisional)",
-            "updated": "2026-02-19T14:39:19Z",
+            "display_date": "21 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-20T10:12:51Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
@@ -1794,6 +1794,17 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-occupancy-statistics-april-2026",
+            "title": "Monthly Occupancy Statistics, April 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-20T10:50:57Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-may-2026",
