@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-20T17:34:03Z",
+    "modified": "2026-04-21T07:22:51Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-april-2026",
+            "title": "NI Labour Market statistics: April 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-04-21T07:00:00Z",
+            "display_date": "21 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-21T07:00:01Z",
+            "type": "AOS"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-march-2026",
             "title": "DVA Monthly Tests Conducted Statistics: March 2026",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-11T09:30:06Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-january-2026",
-            "title": "Monthly Marriages (Northern Ireland): January 2026",
-            "summary": "Monthly Marriages (Northern Ireland): January 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-02-11T07:00:00Z",
-            "display_date": "11 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-11T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-april-2026",
-            "title": "NI Labour Market statistics: April 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-04-21T07:00:00Z",
-            "display_date": "21 April 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:41:07Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
