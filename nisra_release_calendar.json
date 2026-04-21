@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-21T13:02:12Z",
+    "modified": "2026-04-21T17:32:58Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-april-2026",
@@ -1202,6 +1202,17 @@
             "status": "confirmed"
         },
         {
+            "id": "public-awareness-of-and-trust-in-official-statistics-2025",
+            "title": "Public Awareness of and Trust in Official Statistics 2025",
+            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
+            "release_date": "2026-05-07T09:30:00Z",
+            "display_date": "7 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-21T14:28:01Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "key-rural-issues-2025",
             "title": "Key Rural Issues 2025",
             "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
@@ -1620,17 +1631,6 @@
             "status": "provisional"
         },
         {
-            "id": "public-awareness-of-and-trust-in-official-statistics-2025",
-            "title": "Public Awareness of and Trust in Official Statistics 2025",
-            "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2026-03-18T12:19:17Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "children-in-care-in-northern-ireland-202324",
             "title": "Children in Care in Northern Ireland 2023/24",
             "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
@@ -1705,6 +1705,39 @@
             "updated": "2026-03-19T10:38:30Z",
             "org": "DoH",
             "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-outpatient-waiting-time-statistics-31-march-2026",
+            "title": "Northern Ireland Outpatient Waiting Time Statistics 31 March 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2026-06-03T09:30:00Z",
+            "display_date": "3 June 2026 9:30am (provisional)",
+            "updated": "2026-04-21T15:44:27Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-31-march-2026",
+            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending 31 March 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "release_date": "2026-06-03T09:30:00Z",
+            "display_date": "3 June 2026 9:30am (provisional)",
+            "updated": "2026-04-21T15:44:18Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-inpatient-and-day-case-waiting-time-statistics-31-march-2026",
+            "title": "Northern Ireland Inpatient and Day Case Waiting Time Statistics 31 March 2026",
+            "summary": "This statistical release presents information on waiting times for admission for inpatient or day case treatment in Northern Ireland.",
+            "release_date": "2026-06-03T09:30:00Z",
+            "display_date": "3 June 2026 9:30am (provisional)",
+            "updated": "2026-04-21T15:44:12Z",
+            "org": "DoH",
+            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -2035,6 +2068,17 @@
             "updated": "2026-03-19T12:00:58Z",
             "org": "DoH",
             "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-cancer-waiting-times-quarter-ending-march-2026",
+            "title": "Northern Ireland Cancer Waiting Times Quarter Ending March 2026",
+            "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
+            "release_date": "2026-07-02T09:30:00Z",
+            "display_date": "2 July 2026 9:30am (provisional)",
+            "updated": "2026-04-21T15:44:33Z",
+            "org": "DoH",
+            "type": "AOS",
             "status": "provisional"
         },
         {
