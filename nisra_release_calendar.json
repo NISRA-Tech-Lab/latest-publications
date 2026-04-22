@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-22T07:25:12Z",
+    "modified": "2026-04-22T08:59:19Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-april-2026",
@@ -1549,6 +1549,17 @@
             "release_date": "2026-05-27T09:30:00Z",
             "display_date": "27 May 2026 9:30am (confirmed)",
             "updated": "2025-05-09T09:15:05Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-january-march-2026",
+            "title": "Northern Ireland Housing Bulletin January - March 2026",
+            "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-22T09:37:16Z",
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
