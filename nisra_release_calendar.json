@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-22T13:03:20Z",
+    "modified": "2026-04-22T13:17:06Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-april-2026",
@@ -2995,12 +2995,12 @@
             "type": "R"
         },
         {
-            "id": "disability-and-employment-transitions-in-northern-ireland-20112021",
-            "title": "Disability and employment transitions in Northern Ireland, 2011-2021",
-            "summary": "Research Outlining Disability and employment transitions in Northern Ireland, 2011-2021",
+            "id": "employment-transitions-in-northern-ireland-20112021-the-role-of-disability-health-household-and-socioeconomic-factors-",
+            "title": "Employment transitions in Northern Ireland, 2011-2021: The role of disability, health, household and socio-economic factors ",
+            "summary": "Research outlining employment transitions in Northern Ireland, 2011-2021",
             "release_date": "2026-05-31T09:30:00Z",
             "display_date": "May 2026 (provisional)",
-            "updated": "2026-03-05T11:58:00Z",
+            "updated": "2026-04-22T14:14:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -3009,9 +3009,9 @@
             "id": "postprison-mortality-in-northern-ireland",
             "title": "Post-prison mortality in Northern Ireland",
             "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2026-03-05T11:58:00Z",
+            "release_date": "2026-06-30T09:30:00Z",
+            "display_date": "June 2026 (provisional)",
+            "updated": "2026-04-22T14:14:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -3022,7 +3022,7 @@
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
             "release_date": "2026-05-31T09:30:00Z",
             "display_date": "May 2026 (provisional)",
-            "updated": "2026-03-05T11:58:00Z",
+            "updated": "2026-04-22T14:14:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
