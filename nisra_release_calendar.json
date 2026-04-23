@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-23T13:02:11Z",
+    "modified": "2026-04-23T17:52:04Z",
     "entries": [
         {
             "id": "emergency-care-waiting-time-statistics-january-march-2026",
@@ -1521,6 +1521,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-march-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to March 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-23T17:30:42Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-housing-bulletin-january-march-2026",
             "title": "Northern Ireland Housing Bulletin January - March 2026",
             "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
@@ -1935,6 +1946,28 @@
             "display_date": "19 June 2026 9:30am (confirmed)",
             "updated": "2026-01-15T09:40:14Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "fps-pharmaceutical-statistics-for-northern-ireland-202526",
+            "title": "FPS Pharmaceutical Statistics for Northern Ireland 2025/26",
+            "summary": "Statistics related to community pharmacies and dispensing in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-23T17:28:16Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q4-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q4 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2025/26.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-23T17:26:52Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
