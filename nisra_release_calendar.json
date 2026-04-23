@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-23T07:28:54Z",
+    "modified": "2026-04-23T08:31:23Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-april-2026",
@@ -188,6 +188,39 @@
             "org": "NISRA",
             "updated": "2026-03-31T09:30:00Z",
             "type": "OS"
+        },
+        {
+            "id": "work-quality-in-northern-ireland-202425",
+            "title": "Work Quality in Northern Ireland 2024/25",
+            "summary": "This paper will examine a number of work quality indicators for NI as sourced from the Labour Force Survey (LFS) and Annual Survey of Hours and Earnings (ASHE).",
+            "url": "https://www.nisra.gov.uk/statistics/work-pay-and-benefits/work-quality",
+            "release_date": "2026-03-31T07:00:00Z",
+            "display_date": "31 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-31T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-20-march-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 20 March 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 20 March 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-03-27T07:00:00Z",
+            "display_date": "27 March 2026",
+            "org": "NISRA",
+            "updated": "2026-03-27T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-calendar-year-report-to-31-december-2025",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland Calendar Year report to 31 December 2025",
+            "summary": "Calendar Year update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-03-27T07:00:00Z",
+            "display_date": "27 March 2026",
+            "org": "PSNI",
+            "updated": "2026-03-27T09:30:04Z",
+            "type": "AOS"
         },
         {
             "id": "work-quality-in-northern-ireland-202425",
@@ -1068,72 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-11T09:30:06Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-january-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): January 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): January 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-02-11T07:00:00Z",
-            "display_date": "11 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-11T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "alcohol-specific-deaths-2014-2024-northern-ireland",
-            "title": "Alcohol-Specific Deaths 2014-2024 (Northern Ireland)",
-            "summary": "Number of Alcohol-Specific Deaths in Northern Ireland, 2014-2024",
-            "url": "https://www.nisra.gov.uk/statistics/cause-death/alcohol-deaths",
-            "release_date": "2026-02-11T07:00:00Z",
-            "display_date": "11 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-11T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-january-2026",
-            "title": "Monthly Deaths (Northern Ireland): January 2026",
-            "summary": "Monthly Deaths (Northern Ireland): January 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-02-11T07:00:00Z",
-            "display_date": "11 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-11T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2025",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - October - December 2025",
-            "release_date": "2026-04-23T09:30:00Z",
-            "display_date": "23 April 2026 9:30am (confirmed)",
-            "updated": "2026-04-10T10:41:28Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-january-march-2025--2",
-            "title": "Emergency Care Waiting Time Statistics (January - March 2026)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "release_date": "2026-04-23T09:30:00Z",
-            "display_date": "23 April 2026 9:30am (confirmed)",
-            "updated": "2026-04-10T09:52:07Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202526",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 4 2025/26",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "release_date": "2026-04-23T09:30:00Z",
-            "display_date": "23 April 2026 9:30am (confirmed)",
-            "updated": "2026-02-10T10:10:03Z",
-            "org": "OPONI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
