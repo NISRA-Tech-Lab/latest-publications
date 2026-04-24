@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-24T09:54:36Z",
+    "modified": "2026-04-24T10:00:04Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1169,17 +1169,6 @@
             "status": "confirmed"
         },
         {
-            "id": "key-rural-issues-2025",
-            "title": "Key Rural Issues 2025",
-            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
-            "release_date": "2026-05-07T09:30:00Z",
-            "display_date": "7 May 2026 9:30am (provisional)",
-            "updated": "2026-04-10T10:25:56Z",
-            "org": "DAERA",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "monthly-occupancy-statistics-march-2026",
             "title": "Monthly Occupancy Statistics, March 2026",
             "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1276,6 +1265,17 @@
             "updated": "2026-04-15T14:01:53Z",
             "org": "PSNI",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-march-2026",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 March 2026",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "release_date": "2026-05-14T09:30:00Z",
+            "display_date": "14 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-14T12:10:59Z",
+            "org": "PSNI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
