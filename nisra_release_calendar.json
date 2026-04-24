@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-23T17:52:04Z",
+    "modified": "2026-04-24T07:49:23Z",
     "entries": [
         {
             "id": "emergency-care-waiting-time-statistics-january-march-2026",
@@ -2236,17 +2236,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
-            "title": "Northern Ireland planning statistics: April 2025 to March 2026",
-            "summary": "Finalised annual results for 2025/26. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2025-10-23T14:01:03Z",
-            "org": "DfI",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
             "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
             "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
@@ -2388,6 +2377,17 @@
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
+            "title": "Northern Ireland planning statistics: April 2025 to March 2026",
+            "summary": "Finalised annual results for 2025/26. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "July to August 2026 (provisional)",
+            "updated": "2026-04-24T08:29:44Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
