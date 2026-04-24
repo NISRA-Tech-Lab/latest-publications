@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-24T10:00:04Z",
+    "modified": "2026-04-24T13:01:02Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1158,6 +1158,17 @@
             "status": "confirmed"
         },
         {
+            "id": "key-rural-issues-2025",
+            "title": "Key Rural Issues 2025",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
+            "release_date": "2026-05-07T09:30:00Z",
+            "display_date": "7 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:00:00Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "public-awareness-of-and-trust-in-official-statistics-2025",
             "title": "Public Awareness of and Trust in Official Statistics 2025",
             "summary": "Public awareness of the Northern Ireland Statistics and Research Agency (NISRA) and trust in official statistics produced by NISRA in 2025.",
@@ -1265,17 +1276,6 @@
             "updated": "2026-04-15T14:01:53Z",
             "org": "PSNI",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 March 2026",
-            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "release_date": "2026-05-14T09:30:00Z",
-            "display_date": "14 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-14T12:10:59Z",
-            "org": "PSNI",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1719,6 +1719,28 @@
             "status": "provisional"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 2025/26",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:08:49Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "fps-general-medical-services-statistics-for-ni-202526",
+            "title": "FPS General Medical Services Statistics for NI 2025/26",
+            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:08:35Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2025",
             "title": "Annual Report on Public Awareness of the Police Complaints system in Northern Ireland, 2025",
             "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2025",
@@ -1794,6 +1816,28 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 4 of 2025/26.",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:12:22Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "family-practitioner-services-ophthalmic-statistics-for-ni-202526",
+            "title": "Family Practitioner Services Ophthalmic Statistics for NI 2025/26",
+            "summary": "Activity and payment statistics relating to General Ophthalmic Services in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:11:33Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "monthly-occupancy-statistics-april-2026",
@@ -1902,6 +1946,28 @@
             "display_date": "18 June 2026 7:00am (confirmed)",
             "updated": "2026-03-31T16:28:04Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:13:54Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
+            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
+            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:13:13Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2069,6 +2135,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
+            "title": "Family Practitioner Services Statistics for NI - Key Facts 25/26",
+            "summary": "This report contains key summary information on activity and payments in relation to general medical, dental, ophthalmic and pharmaceutical services in Northern Ireland.\r\n\r\nIt details information on the number of practitioners in Northern Ireland along with the number of registered patients and the treatments carried out and submitted to BSO for payment. The report also contains summary information on prescription dispensing and payments in relation to community dispensing (i.e. dispensing by community pharmacies, dispensing doctors and appliance suppliers).\r\n\r\nInformation is provided at Northern Ireland level with further breakdowns at Local Government District (LGD) and Local Commissioning Group (LCG) level.\r\n\r\nThe full, annual reports can be located within the relevant service area on the FPS website (https://bso.hscni.net/directorates/operations/family-practitioner-services/directorates-operations-family-practitioner-services-information-unit/)",
+            "release_date": "2026-07-02T09:30:00Z",
+            "display_date": "2 July 2026 9:30am (confirmed)",
+            "updated": "2026-04-24T11:15:13Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-cancer-waiting-times-quarter-ending-march-2026",
