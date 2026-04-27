@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-27T13:18:27Z",
+    "modified": "2026-04-27T17:48:05Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1518,6 +1518,17 @@
             "updated": "2025-05-09T09:15:05Z",
             "org": "DfC",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "family-resources-survey-report-northern-ireland-2024-to-2025",
+            "title": "Family Resources Survey Report, Northern Ireland 2024 to 2025",
+            "summary": "This is a publication of Official Statistics in Development. This report provides an annual summary of the key findings from the Northern Ireland Family Resources Survey.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-27T14:30:15Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
