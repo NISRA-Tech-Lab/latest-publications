@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-27T08:09:55Z",
+    "modified": "2026-04-27T08:33:59Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1717,6 +1717,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "perceptions-of-the-pps-findings-from-the-nilts-2025",
+            "title": "Perceptions of the PPS - Findings from the NILTS 2025",
+            "summary": "Findings from the 2025 Northern Ireland Life and Times Survey module on perceptions of the Public Prosecution Service for Northern Ireland",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-04-27T09:30:35Z",
+            "org": "PPS",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-4-202526",
