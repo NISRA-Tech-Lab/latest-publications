@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-27T10:26:52Z",
+    "modified": "2026-04-27T13:18:27Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1518,6 +1518,17 @@
             "updated": "2025-05-09T09:15:05Z",
             "org": "DfC",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2026",
+            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2026",
+            "summary": "This is the first of two annual statistical publications on legal aid in Northern Ireland. Incorporating 2025/26 information for the first time, it presents data on applications granted and authorised expenditure for criminal and civil cases from 2019/20 onwards. A second release, focusing on the utilisation of legal aid by both applicants and suppliers, will be published later in the year.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-27T11:43:54Z",
+            "org": "LSA",
+            "type": "OS",
             "status": "confirmed"
         },
         {
