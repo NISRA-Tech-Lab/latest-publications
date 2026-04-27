@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-27T08:33:59Z",
+    "modified": "2026-04-27T10:26:52Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
@@ -1400,6 +1400,17 @@
             "status": "confirmed"
         },
         {
+            "id": "raw-disease-prevalence-data-202526",
+            "title": "Raw Disease Prevalence Data 2025/26",
+            "summary": "This bulletin presents raw disease prevalence data at GP Federation, LCG and Northern Ireland levels, for 14 registers which count patients with specific conditions or diseases.",
+            "release_date": "2026-05-19T09:30:00Z",
+            "display_date": "19 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-27T10:54:27Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2026",
             "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2026",
             "summary": "Finalised PSNI Stop and Search Statistics for the period 1 April 2025 - 31 March 2026.",
@@ -1724,7 +1735,7 @@
             "summary": "Findings from the 2025 Northern Ireland Life and Times Survey module on perceptions of the Public Prosecution Service for Northern Ireland",
             "release_date": "2026-06-04T09:30:00Z",
             "display_date": "4 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-27T09:30:35Z",
+            "updated": "2026-04-27T09:37:50Z",
             "org": "PPS",
             "type": "OS",
             "status": "confirmed"
