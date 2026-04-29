@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-29T08:39:22Z",
+    "modified": "2026-04-29T10:19:34Z",
     "entries": [
         {
             "id": "2024-based-population-projections-for-northern-ireland",
@@ -1510,6 +1510,17 @@
             "status": "confirmed"
         },
         {
+            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
+            "title": "Qualifications and destinations of Northern Ireland school leavers: 2024 to 2025 (academic year)",
+            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2024 to 2025 (academic year).",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-29T10:51:07Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "motorcyclist-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
             "title": "Motorcyclist killed or seriously injured (KSI) casualties in Northern Ireland, 2020-2024",
             "summary": "This statistical brief uses PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding the number of motorcyclists killed or seriously injured on roads in Northern Ireland.",
@@ -2133,17 +2144,6 @@
             "display_date": "June 2026 (provisional)",
             "updated": "2026-02-03T16:53:20Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
-            "title": "Qualifications and destinations of Northern Ireland school leavers: 2024 to 2025 (academic year)",
-            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2024 to 2025 (academic year).",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "May to June 2026 (provisional)",
-            "updated": "2025-09-10T15:58:52Z",
-            "org": "DE",
             "type": "AOS",
             "status": "provisional"
         },
