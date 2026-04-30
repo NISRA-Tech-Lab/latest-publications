@@ -1,18 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-30T08:31:26Z",
+    "modified": "2026-04-30T10:19:54Z",
     "entries": [
-        {
-            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland",
-            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
-            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/publications/census-2021-uk-armed-forces-veterans-northern-ireland",
-            "release_date": "2026-04-30T07:00:00Z",
-            "display_date": "30 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-30T09:30:01Z",
-            "type": "AOS"
-        },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
             "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
@@ -1100,6 +1089,17 @@
             "display_date": "12 February 2026",
             "org": "BSO",
             "updated": "2026-02-12T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
+            "title": "Population projections for areas within Northern Ireland: 2022-based",
+            "summary": "Population projections for areas within Northern Ireland: 2022-based",
+            "url": "https://www.nisra.gov.uk/publications/2022-based-population-projections-areas-within-northern-ireland",
+            "release_date": "2026-02-12T07:00:00Z",
+            "display_date": "12 February 2026",
+            "org": "NISRA",
+            "updated": "2026-02-12T09:30:01Z",
             "type": "AOS"
         },
         {
