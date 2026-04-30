@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-04-30T08:11:25Z",
+    "modified": "2026-04-30T08:31:26Z",
     "entries": [
+        {
+            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland",
+            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
+            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/publications/census-2021-uk-armed-forces-veterans-northern-ireland",
+            "release_date": "2026-04-30T07:00:00Z",
+            "display_date": "30 April 2026",
+            "org": "NISRA",
+            "updated": "2026-04-30T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2026-04-30T07:00:00Z",
+            "display_date": "30 April 2026",
+            "org": "PSNI",
+            "updated": "2026-04-30T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
+            "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
+            "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year.",
+            "url": "https://www.education-ni.gov.uk/articles/pupil-suspensions-and-expulsions",
+            "release_date": "2026-04-30T07:00:00Z",
+            "display_date": "30 April 2026",
+            "org": "DE",
+            "updated": "2026-04-30T09:30:01Z",
+            "type": "OS"
+        },
         {
             "id": "2024-based-population-projections-for-northern-ireland",
             "title": "2024-based Population Projections for Northern Ireland",
@@ -1070,61 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "population-projections-for-areas-within-northern-ireland-2022-based",
-            "title": "Population projections for areas within Northern Ireland: 2022-based",
-            "summary": "Population projections for areas within Northern Ireland: 2022-based",
-            "url": "https://www.nisra.gov.uk/publications/2022-based-population-projections-areas-within-northern-ireland",
-            "release_date": "2026-02-12T07:00:00Z",
-            "display_date": "12 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-12T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "road-safety-issues-in-northern-ireland-202425",
-            "title": "Road Safety issues in Northern Ireland 2024/25",
-            "summary": "This report presents information from the 2024/25 Continuous Household Survey (CHS) in relation to road safety issues.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/road-safety-issues-northern-ireland",
-            "release_date": "2026-02-12T07:00:00Z",
-            "display_date": "12 February 2026",
-            "org": "DfI",
-            "updated": "2026-02-12T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-december-2025",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (December 2025)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
-            "release_date": "2026-02-12T07:00:00Z",
-            "display_date": "12 February 2026",
-            "org": "DoH",
-            "updated": "2026-02-12T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-january-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "30 April 2026 9:30am (confirmed)",
-            "updated": "2026-04-15T14:16:52Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
-            "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
-            "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year. It includes information on the rates of suspension and expulsion and the reason for suspension and expulsion.",
-            "release_date": "2026-04-30T09:30:00Z",
-            "display_date": "30 April 2026 9:30am (confirmed)",
-            "updated": "2026-04-02T14:17:37Z",
-            "org": "DE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-april-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 24 April 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 24 April 2026.",
@@ -1660,17 +1638,6 @@
             "display_date": "May 2026 (provisional)",
             "updated": "2026-03-12T12:20:18Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland",
-            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
-            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "April to May 2026 (provisional)",
-            "updated": "2026-02-06T13:56:30Z",
-            "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
         },
