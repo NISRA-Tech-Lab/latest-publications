@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-01T09:57:48Z",
+    "modified": "2026-05-01T12:56:57Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-april-2026",
@@ -1827,6 +1827,28 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-homelessness-bulletin-october-2025-march-2026--2",
+            "title": "Northern Ireland Homelessness Bulletin October 2025 - March 2026",
+            "summary": "A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-01T11:54:45Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-homelessness-bulletin-october-2025-march-2026",
+            "title": "Northern Ireland Homelessness Bulletin October 2025 - March 2026",
+            "summary": "A biannual statistics report which provides information on a range of topics surrounding homelessness in Northern Ireland.",
+            "release_date": "2026-06-11T09:30:00Z",
+            "display_date": "11 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-01T11:53:47Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-4-202526",
