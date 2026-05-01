@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-01T08:32:10Z",
+    "modified": "2026-05-01T09:57:48Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-april-2026",
@@ -1708,6 +1708,17 @@
             "status": "provisional"
         },
         {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-march-2026",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending March 2026",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-01T10:56:22Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "perceptions-of-the-pps-findings-from-the-nilts-2025",
             "title": "Perceptions of the PPS - Findings from the NILTS 2025",
             "summary": "Findings from the 2025 Northern Ireland Life and Times Survey module on perceptions of the Public Prosecution Service for Northern Ireland",
@@ -2082,6 +2093,28 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-analytical-input-output-tables-2022",
+            "title": "NI Analytical Input-Output tables 2022",
+            "summary": "NI Analytical Input-Output tables 2022 – industry by industry",
+            "release_date": "2026-06-30T09:30:00Z",
+            "display_date": "May to June 2026 (provisional)",
+            "updated": "2026-05-01T09:49:51Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "structure-performance-of-the-ni-economy-2022",
+            "title": "Structure & Performance of the NI Economy 2022",
+            "summary": "Structure & Performance of the NI Economy 2022 including Detailed Supply-Use tables for 2022.",
+            "release_date": "2026-06-30T09:30:00Z",
+            "display_date": "May to June 2026 (provisional)",
+            "updated": "2026-05-01T09:45:31Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
             "title": "Domiciliary Care Services for Adults in Northern Ireland (2025)",
             "summary": "This report summarises information collected from health and social care trusts on adults receiving domiciliary care services from the statutory and independent sectors during a survey week in September. It details information on the numbers of clients receiving domiciliary care, visits, contact hours and intensive domiciliary care provision.",
@@ -2266,17 +2299,6 @@
             "updated": "2026-04-03T14:25:44Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-march-2026",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending March 2026",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2026-04-02T10:34:13Z",
-            "org": "DfE",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2874,17 +2896,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-universal-credit-statistics-november-2026--2",
-            "title": "Northern Ireland Universal Credit Statistics: November 2026",
-            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2027-02-24T09:30:00Z",
-            "display_date": "24 February 2027 9:30am (confirmed)",
-            "updated": "2026-01-28T10:45:39Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "personal-independence-payment-statistics-november-2026",
             "title": "Personal Independence Payment Statistics - November 2026",
             "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -2982,6 +2993,28 @@
             "org": "TEO",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "personal-independence-payment-statistics-february-2027",
+            "title": "Personal Independence Payment Statistics - February 2027",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2027-05-26T09:30:00Z",
+            "display_date": "26 May 2027 9:30am (confirmed)",
+            "updated": "2026-05-01T10:18:21Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-november-2026--2",
+            "title": "Northern Ireland Universal Credit Statistics: February 2027",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2027-05-26T09:30:00Z",
+            "display_date": "26 May 2027 9:30am (confirmed)",
+            "updated": "2026-05-01T10:07:57Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-june-2026",
