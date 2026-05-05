@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-05T08:01:29Z",
+    "modified": "2026-05-05T10:16:05Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-april-2026",
@@ -1671,6 +1671,17 @@
             "display_date": "2 June 2026 9:30am (provisional)",
             "updated": "2026-03-19T10:38:30Z",
             "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-housing-stock--2",
+            "title": "Northern Ireland Housing Stock",
+            "summary": "Northern Ireland Housing Stock counts at April each year 2008 to 2026",
+            "release_date": "2026-06-03T09:30:00Z",
+            "display_date": "3 June 2026 9:30am (provisional)",
+            "updated": "2026-05-05T10:40:08Z",
+            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
