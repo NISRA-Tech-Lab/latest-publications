@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-06T13:31:06Z",
+    "modified": "2026-05-06T17:58:01Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-202526-financial-year",
@@ -1954,11 +1954,11 @@
             "title": "DVA Monthly Tests Conducted Statistics: May 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (provisional)",
-            "updated": "2026-03-11T12:02:24Z",
+            "display_date": "12 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-06T15:06:15Z",
             "org": "DfI",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-june-2026",
