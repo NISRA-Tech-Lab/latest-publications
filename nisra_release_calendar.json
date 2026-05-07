@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-06T17:58:01Z",
+    "modified": "2026-05-07T08:23:28Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-202526-financial-year",
@@ -2044,6 +2044,17 @@
             "release_date": "2026-06-19T09:30:00Z",
             "display_date": "19 June 2026 9:30am (confirmed)",
             "updated": "2026-01-15T09:40:14Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland--2",
+            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
+            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-07T09:20:39Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
