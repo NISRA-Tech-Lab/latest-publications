@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-08T07:22:23Z",
+    "modified": "2026-05-08T08:41:22Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-1-may-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 1 May 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 1 May 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-05-08T07:00:00Z",
+            "display_date": "8 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-08T09:30:04Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-occupancy-statistics-march-2026",
             "title": "Monthly Occupancy Statistics, March 2026",
@@ -1090,28 +1101,6 @@
             "org": "DoF",
             "updated": "2026-02-18T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-care-leavers-202425",
-            "title": "Northern Ireland Care Leavers 2024/25",
-            "summary": "This annual publication presents information on those who left care during the previous financial year, as well as the circumstances of those who have left care at the time of their nineteenth birthday.",
-            "url": "https://www.health-ni.gov.uk/articles/care-leavers",
-            "release_date": "2026-02-18T07:00:00Z",
-            "display_date": "18 February 2026",
-            "org": "DoH",
-            "updated": "2026-02-18T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-1-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 1 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 1 May 2026.",
-            "release_date": "2026-05-08T09:30:00Z",
-            "display_date": "8 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T08:34:10Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "monthly-stillbirths-northern-ireland-april-2026",
