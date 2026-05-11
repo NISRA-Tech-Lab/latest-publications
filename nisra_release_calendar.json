@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-08T17:50:11Z",
+    "modified": "2026-05-11T08:31:50Z",
     "entries": [
+        {
+            "id": "monthly-stillbirths-northern-ireland-april-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): April 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): April 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2026-05-11T07:00:00Z",
+            "display_date": "11 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-11T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-april-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2026-05-11T07:00:00Z",
+            "display_date": "11 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-11T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-april-2026",
+            "title": "Monthly Deaths (Northern Ireland): April 2026",
+            "summary": "Monthly Deaths (Northern Ireland): April 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2026-05-11T07:00:00Z",
+            "display_date": "11 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-11T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-births-northern-ireland-april-2026",
+            "title": "Monthly Births (Northern Ireland): April 2026",
+            "summary": "Monthly Births (Northern Ireland): April 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2026-05-11T07:00:00Z",
+            "display_date": "11 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-11T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-april-2026",
+            "title": "Monthly Marriages (Northern Ireland): April 2026",
+            "summary": "Monthly Marriages (Northern Ireland): April 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2026-05-11T07:00:00Z",
+            "display_date": "11 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-11T09:30:06Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-1-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 1 May 2026",
@@ -1046,116 +1101,6 @@
             "org": "BSO",
             "updated": "2026-02-19T09:30:04Z",
             "type": "OS"
-        },
-        {
-            "id": "ni-topiramate-monitoring-report-april-2023-to-december-2025",
-            "title": "NI Topiramate Monitoring Report, April 2023 to December 2025",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed Topiramate.",
-            "url": "https://datavis.nisra.gov.uk/bso/topiramate-monitoring-dashboard.html",
-            "release_date": "2026-02-19T07:00:00Z",
-            "display_date": "19 February 2026",
-            "org": "BSO",
-            "updated": "2026-02-19T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "winter-mortality-202425-northern-ireland",
-            "title": "Winter Mortality 2024/25 (Northern Ireland)",
-            "summary": "Winter Mortality 2024/25 (Northern Ireland)",
-            "url": "https://www.nisra.gov.uk/statistics/cause-death/winter-mortality",
-            "release_date": "2026-02-19T07:00:00Z",
-            "display_date": "19 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-19T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "public-transport-and-journey-planning-in-northern-ireland-202425",
-            "title": "Public Transport and Journey Planning in Northern Ireland 2024/25",
-            "summary": "This report presents findings from the 2024/25 Continuous Household Survey in relation to public attitudes to public transport and journey planning in NI.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-and-journey-planning",
-            "release_date": "2026-02-19T07:00:00Z",
-            "display_date": "19 February 2026",
-            "org": "DfI",
-            "updated": "2026-02-19T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "the-anholt-nation-brands-index-2025-report-for-northern-ireland",
-            "title": "The Anholt Nation Brands Index: 2025 report for Northern Ireland",
-            "summary": "This report presents findings for Northern Ireland from the 2025 Anholt Nation Brands Index.",
-            "url": "https://www.executiveoffice-ni.gov.uk/publications/anholt-nation-brands-index-2025-report-northern-ireland",
-            "release_date": "2026-02-18T07:00:00Z",
-            "display_date": "18 February 2026",
-            "org": "TEO",
-            "updated": "2026-02-18T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-4-2025",
-            "title": "Northern Ireland House Price Index Quarter 4 2025",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2025",
-            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
-            "release_date": "2026-02-18T07:00:00Z",
-            "display_date": "18 February 2026",
-            "org": "DoF",
-            "updated": "2026-02-18T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-april-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): April 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:38:26Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-april-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): April 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:36:15Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-april-2026",
-            "title": "Monthly Marriages (Northern Ireland): April 2026",
-            "summary": "Monthly Marriages (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:34:30Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-april-2026",
-            "title": "Monthly Deaths (Northern Ireland): April 2026",
-            "summary": "Monthly Deaths (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:06:03Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-april-2026",
-            "title": "Monthly Births (Northern Ireland): April 2026",
-            "summary": "Monthly Births (Northern Ireland): April 2026",
-            "release_date": "2026-05-11T09:30:00Z",
-            "display_date": "11 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T10:02:34Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "drug-related-and-drug-misuse-deaths-2014-2024",
@@ -2244,6 +2189,17 @@
             "updated": "2026-02-23T12:41:17Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2026-07-23T09:30:00Z",
+            "display_date": "23 July 2026 9:30am (confirmed)",
+            "updated": "2026-05-11T08:08:00Z",
+            "org": "OPONI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
