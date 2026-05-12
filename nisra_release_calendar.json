@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-11T18:14:33Z",
+    "modified": "2026-05-12T08:27:00Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-april-2026",
@@ -1728,6 +1728,17 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-business-activity-size-and-location-2026",
+            "title": "Northern Ireland business: activity, size, and location, 2026",
+            "summary": "Northern Ireland businesses broken down by industry, geography, legal status, employee, and turnover size bands; and foreign ownership.",
+            "release_date": "2026-06-10T09:30:00Z",
+            "display_date": "10 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-12T09:25:05Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-homelessness-bulletin-october-2025-march-2026--2",
