@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-13T11:03:25Z",
+    "modified": "2026-05-13T14:31:26Z",
     "entries": [
         {
             "id": "drug-related-and-drug-misuse-deaths-2014-2024",
@@ -1345,6 +1345,28 @@
             "status": "confirmed"
         },
         {
+            "id": "probation-board-ni-annual-caseload-202526",
+            "title": "Probation Board NI annual caseload 2025/26",
+            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "release_date": "2026-05-27T09:30:00Z",
+            "display_date": "27 May 2026 9:30am (confirmed)",
+            "updated": "2026-05-13T14:56:04Z",
+            "org": "PBNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "release_date": "2026-05-27T09:30:00Z",
+            "display_date": "27 May 2026 9:30am (confirmed)",
+            "updated": "2026-05-13T14:46:57Z",
+            "org": "PBNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "structure-performance-of-the-ni-economy-2022",
             "title": "Structure & Performance of the NI Economy 2022",
             "summary": "Structure & Performance of the NI Economy 2022 including Detailed Supply-Use tables for 2022.",
@@ -1518,28 +1540,6 @@
             "updated": "2026-03-18T11:39:49Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202526",
-            "title": "Probation Board NI annual caseload 2025/26",
-            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2025-12-19T15:08:09Z",
-            "org": "PBNI",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2025-12-19T15:04:40Z",
-            "org": "PBNI",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2192,6 +2192,17 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-deaths-northern-ireland-june-2026",
+            "title": "Monthly Deaths (Northern Ireland): June 2026",
+            "summary": "Monthly Deaths (Northern Ireland): June 2026",
+            "release_date": "2026-07-15T09:30:00Z",
+            "display_date": "15 July 2026 9:30am (confirmed)",
+            "updated": "2026-01-16T11:25:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-births-northern-ireland-june-2026",
             "title": "Monthly Births (Northern Ireland): June 2026",
             "summary": "Monthly Births (Northern Ireland): June 2026",
@@ -2265,17 +2276,6 @@
             "display_date": "July 2026 (provisional)",
             "updated": "2026-04-03T14:25:44Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2025-11-13T16:37:16Z",
-            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2595,6 +2595,17 @@
             "display_date": "22 October 2026 9:30am (provisional)",
             "updated": "2026-04-10T10:45:14Z",
             "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-july-september-2026",
+            "title": "Emergency Care Waiting Time Statistics (July - September 2026)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (provisional)",
+            "updated": "2025-09-25T10:37:17Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
