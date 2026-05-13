@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-13T08:38:26Z",
+    "modified": "2026-05-13T10:41:41Z",
     "entries": [
         {
             "id": "drug-related-and-drug-misuse-deaths-2014-2024",
@@ -2091,6 +2091,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-occupancy-statistics-may-2026",
+            "title": "Monthly Occupancy Statistics, May 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-07-02T09:30:00Z",
+            "display_date": "2 July 2026 9:30am (confirmed)",
+            "updated": "2026-05-13T09:45:20Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
