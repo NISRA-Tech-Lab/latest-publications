@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-13T10:41:41Z",
+    "modified": "2026-05-13T11:03:25Z",
     "entries": [
         {
             "id": "drug-related-and-drug-misuse-deaths-2014-2024",
@@ -1958,6 +1958,17 @@
             "updated": "2026-01-15T09:40:14Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2024",
+            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2024",
+            "summary": "This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-13T11:45:57Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
