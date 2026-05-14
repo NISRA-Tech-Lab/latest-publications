@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-14T10:40:25Z",
+    "modified": "2026-05-14T13:46:05Z",
     "entries": [
         {
             "id": "the-prevalence-of-autism-including-aspergers-syndrome-in-school-age-children-in-northern-ireland-2026",
@@ -1818,6 +1818,17 @@
             "status": "confirmed"
         },
         {
+            "id": "energy-in-northern-ireland-2026",
+            "title": "Energy in Northern Ireland 2026",
+            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (provisional)",
+            "updated": "2026-05-14T14:10:26Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
             "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
             "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
@@ -2156,17 +2167,6 @@
             "updated": "2025-09-25T15:43:07Z",
             "org": "DAERA",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "energy-in-northern-ireland-2026",
-            "title": "Energy in Northern Ireland 2026",
-            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2026-04-13T15:53:03Z",
-            "org": "DfE",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2522,6 +2522,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-planning-statistics-april-to-june-2026",
+            "title": "Northern Ireland planning statistics: April to June 2026",
+            "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-05-14T13:22:29Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "ni-labour-market-statistics-november-2026",
             "title": "NI Labour Market statistics: November 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -2742,6 +2753,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-planning-statistics-july-to-september-2026",
+            "title": "Northern Ireland planning statistics: July to September 2026",
+            "summary": "Provisional quarterly results for the second quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-05-14T13:24:46Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "life-expectancy-in-northern-ireland-2023-25",
             "title": "Life Expectancy in Northern Ireland 2023-25",
             "summary": "This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
@@ -2830,6 +2852,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-planning-statistics-october-to-december-2026",
+            "title": "Northern Ireland planning statistics: October to December 2026",
+            "summary": "Provisional quarterly results for the third quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2027-04-30T09:30:00Z",
+            "display_date": "March to April 2027 (provisional)",
+            "updated": "2026-05-14T13:25:49Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "equality-statistics-for-the-northern-ireland-civil-service-2027",
             "title": "Equality Statistics for the Northern Ireland Civil Service - 2027",
             "summary": "This report presents equality statistics for staff in the Northern Ireland Civil Service at 1st January 2027.",
@@ -2894,6 +2927,17 @@
             "org": "DfC",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-april-2026-to-march-2027",
+            "title": "Northern Ireland planning statistics: April 2026 to March 2027",
+            "summary": "Finalised annual results for 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2027-08-31T09:30:00Z",
+            "display_date": "July to August 2027 (provisional)",
+            "updated": "2026-05-14T13:27:14Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "ni-labour-market-statistics-june-2026",
