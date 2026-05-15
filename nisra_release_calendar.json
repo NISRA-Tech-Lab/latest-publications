@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-14T18:13:50Z",
+    "modified": "2026-05-15T08:42:33Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-8-may-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 8 May 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 8 May 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-05-15T07:00:00Z",
+            "display_date": "15 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-15T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-april-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: April 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-april-2026",
+            "release_date": "2026-05-15T07:00:00Z",
+            "display_date": "15 May 2026",
+            "org": "DfI",
+            "updated": "2026-05-15T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "police-and-criminal-evidence-detection-pace-statistics-for-northern-ireland-202526",
+            "title": "Police and Criminal Evidence Detection (PACE) statistics for Northern Ireland 2025/26",
+            "summary": "Finalised Police and Criminal Evidence (PACE) Detection statistics for period 1 April 2025 - 31 March 2026.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-and-criminal-evidence-pace-order",
+            "release_date": "2026-05-15T07:00:00Z",
+            "display_date": "15 May 2026",
+            "org": "PSNI",
+            "updated": "2026-05-15T09:30:01Z",
+            "type": "OS"
+        },
         {
             "id": "the-prevalence-of-autism-including-aspergers-syndrome-in-school-age-children-in-northern-ireland-2026",
             "title": "The Prevalence of Autism (including Aspergers Syndrome) in School Age Children in Northern Ireland 2026",
@@ -1068,72 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-02-26T09:30:06Z",
             "type": "AOS"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 December 2025",
-            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "PSNI",
-            "updated": "2026-02-26T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-october-december-2025",
-            "title": "Northern Ireland Housing Bulletin October - December 2025",
-            "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "DfC",
-            "updated": "2026-02-26T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-december-2025",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 December 2025",
-            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "PSNI",
-            "updated": "2026-02-26T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-and-criminal-evidence-detection-pace-statistics-for-northern-ireland-202526",
-            "title": "Police and Criminal Evidence Detection (PACE) statistics for Northern Ireland 2025/26",
-            "summary": "Finalised Police and Criminal Evidence (PACE) Detection statistics for period 1 April 2025 - 31 March 2026.",
-            "release_date": "2026-05-15T09:30:00Z",
-            "display_date": "15 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-14T12:20:03Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-april-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: April 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-05-15T09:30:00Z",
-            "display_date": "15 May 2026 9:30am (confirmed)",
-            "updated": "2026-03-03T13:54:42Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-8-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 8 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 8 May 2026.",
-            "release_date": "2026-05-15T09:30:00Z",
-            "display_date": "15 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T08:36:37Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-may-2026",
