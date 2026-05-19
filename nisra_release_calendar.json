@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-18T18:16:55Z",
+    "modified": "2026-05-19T08:43:26Z",
     "entries": [
+        {
+            "id": "raw-disease-prevalence-data-202526",
+            "title": "Raw Disease Prevalence Data 2025/26",
+            "summary": "This bulletin presents raw disease prevalence data",
+            "url": "https://www.health-ni.gov.uk/articles/prevalence-statistics",
+            "release_date": "2026-05-19T07:00:00Z",
+            "display_date": "19 May 2026",
+            "org": "DoH",
+            "updated": "2026-05-19T09:30:06Z",
+            "type": "OS"
+        },
+        {
+            "id": "ni-labour-market-statistics-may-2026",
+            "title": "NI Labour Market statistics: May 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-05-19T07:00:00Z",
+            "display_date": "19 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-19T07:00:06Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-8-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 8 May 2026",
@@ -1081,50 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-january-2026",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 January 2026",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "PSNI",
-            "updated": "2026-02-26T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2025",
-            "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2025",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training, by age and sex.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-february-2026",
-            "release_date": "2026-02-26T07:00:00Z",
-            "display_date": "26 February 2026",
-            "org": "NISRA",
-            "updated": "2026-02-26T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-may-2026",
-            "title": "NI Labour Market statistics: May 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-05-19T07:00:00Z",
-            "display_date": "19 May 2026 7:00am (confirmed)",
-            "updated": "2025-12-18T13:41:12Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "raw-disease-prevalence-data-202526",
-            "title": "Raw Disease Prevalence Data 2025/26",
-            "summary": "This bulletin presents raw disease prevalence data at GP Federation, LCG and Northern Ireland levels, for 14 registers which count patients with specific conditions or diseases.",
-            "release_date": "2026-05-19T09:30:00Z",
-            "display_date": "19 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-27T10:54:27Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2026",
             "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2026",
             "summary": "Finalised PSNI Stop and Search Statistics for the period 1 April 2025 - 31 March 2026.",
@@ -1602,11 +1580,11 @@
             "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
             "summary": "This annual statistical bulletin provides headline figures on greenhouse gas emissions for Northern Ireland both by source sector and end-user for the years 1990 to 2024.",
             "release_date": "2026-06-09T09:30:00Z",
-            "display_date": "9 June 2026 9:30am (provisional)",
-            "updated": "2026-04-15T09:04:56Z",
+            "display_date": "9 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T07:58:42Z",
             "org": "DAERA",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-business-activity-size-and-location-2026",
@@ -1785,6 +1763,17 @@
             "status": "confirmed"
         },
         {
+            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2024",
+            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2024",
+            "summary": "This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T08:46:57Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "energy-in-northern-ireland-2026",
             "title": "Energy in Northern Ireland 2026",
             "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
@@ -1848,17 +1837,6 @@
             "updated": "2026-01-15T09:40:14Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2024",
-            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2024",
-            "summary": "This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
-            "release_date": "2026-06-25T09:30:00Z",
-            "display_date": "25 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-13T11:45:57Z",
-            "org": "DfI",
-            "type": "OS",
             "status": "confirmed"
         },
         {
