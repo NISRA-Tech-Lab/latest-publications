@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-19T09:33:16Z",
+    "modified": "2026-05-19T11:32:08Z",
     "entries": [
         {
             "id": "raw-disease-prevalence-data-202526",
@@ -1565,6 +1565,17 @@
             "status": "confirmed"
         },
         {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-april-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 April 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-06-05T09:30:00Z",
+            "display_date": "5 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T11:40:50Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 29 May 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 29 May 2026.",
@@ -1840,6 +1851,39 @@
             "status": "confirmed"
         },
         {
+            "id": "travel-to-and-from-school-ypbas-2025",
+            "title": "Travel to and from school - YPBAS 2025",
+            "summary": "This factsheet presents findings from the 2025 Young Persons' Behaviour and Attitudes Survey in relation to travelling to and from school.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T12:12:25Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-april-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 April 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T11:53:23Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-april-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 April 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T11:47:45Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland--2",
             "title": "Census 2021 UK armed forces veterans for Northern Ireland",
             "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
@@ -1915,6 +1959,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-january-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 January 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-06-26T09:30:00Z",
+            "display_date": "26 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-19T11:57:53Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-19-june-2026",
