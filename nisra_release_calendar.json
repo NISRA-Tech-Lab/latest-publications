@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-19T08:58:51Z",
+    "modified": "2026-05-19T09:33:16Z",
     "entries": [
         {
             "id": "raw-disease-prevalence-data-202526",
@@ -2630,6 +2630,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "registrar-general-northern-ireland-annual-report-2025",
+            "title": "Registrar General Northern Ireland Annual Report 2025",
+            "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "November 2026 (provisional)",
+            "updated": "2026-05-19T10:08:18Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "finalised-suicide-statistics-in-northern-ireland-2025",
