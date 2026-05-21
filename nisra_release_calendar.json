@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-21T08:31:22Z",
+    "modified": "2026-05-21T08:51:14Z",
     "entries": [
+        {
+            "id": "northern-ireland-annual-tourism-statistics-2025",
+            "title": "Northern Ireland Annual Tourism Statistics 2025",
+            "summary": "Compendium of tourism statistics relating to Northern Ireland covering the period January to December 2025.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/annual-and-quarterly-tourism-statistics-publications",
+            "release_date": "2026-05-21T07:00:00Z",
+            "display_date": "21 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-21T09:30:02Z",
+            "type": "AOS"
+        },
         {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-31-march-2026",
             "title": "Stop and Search statistics for Northern Ireland, period ending 31 March 2026",
@@ -443,17 +454,6 @@
             "type": "AOS"
         },
         {
-            "id": "baby-names-northern-ireland-2025",
-            "title": "Baby Names (Northern Ireland) 2025",
-            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/births/baby-names",
-            "release_date": "2026-04-16T07:00:00Z",
-            "display_date": "16 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-16T09:30:04Z",
-            "type": "AOS"
-        },
-        {
             "id": "monthly-marriages-northern-ireland-march-2026",
             "title": "Monthly Marriages (Northern Ireland): March 2026",
             "summary": "Monthly Marriages (Northern Ireland): March 2026",
@@ -659,6 +659,17 @@
             "release_date": "2026-03-26T07:00:00Z",
             "display_date": "26 March 2026",
             "org": "NISRA",
+            "updated": "2026-03-26T09:30:25Z",
+            "type": "AOS"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-december-2025",
+            "title": "Motoring offences statistics in Northern Ireland to 31 December 2025",
+            "summary": "Calendar Year update of statistics relating to Motoring Offences in Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2026-03-26T07:00:00Z",
+            "display_date": "26 March 2026",
+            "org": "PSNI",
             "updated": "2026-03-26T09:30:25Z",
             "type": "AOS"
         },
@@ -869,17 +880,6 @@
             "display_date": "28 May 2025",
             "org": "PBNI",
             "updated": "2026-03-18T11:31:52Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-4-202425",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2024/25",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "url": "https://www.pbni.org.uk/publication/probation-quarterly-caseload-statistics-q4-2024-25",
-            "release_date": "2025-05-28T07:00:00Z",
-            "display_date": "28 May 2025",
-            "org": "PBNI",
-            "updated": "2026-03-18T11:31:14Z",
             "type": "OS"
         },
         {
@@ -3099,7 +3099,7 @@
             "summary": "Research outlining employment transitions in Northern Ireland, 2011-2021",
             "release_date": "2026-05-31T09:30:00Z",
             "display_date": "May 2026 (provisional)",
-            "updated": "2026-04-22T14:14:00Z",
+            "updated": "2026-05-21T09:50:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -3110,7 +3110,7 @@
             "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
             "release_date": "2026-06-30T09:30:00Z",
             "display_date": "June 2026 (provisional)",
-            "updated": "2026-04-22T14:14:00Z",
+            "updated": "2026-05-21T09:50:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -3119,9 +3119,9 @@
             "id": "minority-ethnic-groups-in-northern-ireland",
             "title": "Minority Ethnic Groups in Northern Ireland",
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
-            "release_date": "2026-05-31T09:30:00Z",
-            "display_date": "May 2026 (provisional)",
-            "updated": "2026-04-22T14:14:00Z",
+            "release_date": "2026-07-31T09:30:00Z",
+            "display_date": "July 2026 (provisional)",
+            "updated": "2026-05-21T09:50:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
