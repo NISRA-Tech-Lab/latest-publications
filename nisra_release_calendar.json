@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-21T11:42:22Z",
+    "modified": "2026-05-21T14:41:55Z",
     "entries": [
         {
             "id": "northern-ireland-annual-tourism-statistics-2025",
@@ -1202,6 +1202,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-environmental-statistics-report-2026",
+            "title": "Northern Ireland Environmental Statistics Report 2026",
+            "summary": "This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-05-21T14:41:00Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
             "title": "Qualifications and destinations of Northern Ireland school leavers: 2024 to 2025 (academic year)",
             "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2024 to 2025 (academic year).",
@@ -1288,17 +1299,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-environmental-statistics-report-2026",
-            "title": "Northern Ireland Environmental Statistics Report 2026",
-            "summary": "This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
-            "release_date": "2026-05-28T09:30:00Z",
-            "display_date": "28 May 2026 9:30am (provisional)",
-            "updated": "2025-09-25T16:11:31Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q4",
