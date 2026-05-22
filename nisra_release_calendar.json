@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-22T08:33:20Z",
+    "modified": "2026-05-22T08:49:32Z",
     "entries": [
         {
             "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
@@ -32,7 +32,7 @@
             "release_date": "2026-05-22T07:00:00Z",
             "display_date": "22 May 2026",
             "org": "NICTS",
-            "updated": "2026-05-22T09:30:03Z",
+            "updated": "2026-05-22T09:30:00Z",
             "type": "AOS"
         },
         {
@@ -43,7 +43,7 @@
             "release_date": "2026-05-22T07:00:00Z",
             "display_date": "22 May 2026",
             "org": "NICTS",
-            "updated": "2026-05-22T09:30:03Z",
+            "updated": "2026-05-22T09:30:00Z",
             "type": "OS"
         },
         {
