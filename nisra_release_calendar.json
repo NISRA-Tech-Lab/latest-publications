@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-22T08:54:02Z",
+    "modified": "2026-05-22T11:15:49Z",
     "entries": [
         {
             "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
@@ -1928,17 +1928,6 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
-            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
-            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
-            "release_date": "2026-06-25T09:30:00Z",
-            "display_date": "25 June 2026 9:30am (provisional)",
-            "updated": "2025-09-25T10:51:40Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "judicial-statistics-2025",
             "title": "Judicial Statistics 2025",
             "summary": "An Accredited Official Statistics publication presenting a summary of business in all court tiers of the Northern Ireland Courts and Tribunals Service for the calendar year 2025.",
@@ -2071,6 +2060,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
+            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
+            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
+            "release_date": "2026-07-08T09:30:00Z",
+            "display_date": "8 July 2026 9:30am (provisional)",
+            "updated": "2026-05-22T11:41:18Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "monthly-stillbirths-northern-ireland-june-2026",
             "title": "Monthly Stillbirths (Northern Ireland): June 2026",
             "summary": "Monthly Stillbirths (Northern Ireland): June 2026",
@@ -2148,17 +2148,6 @@
             "status": "confirmed"
         },
         {
-            "id": "emergency-care-waiting-time-statistics-april-june-2026",
-            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "release_date": "2026-07-23T09:30:00Z",
-            "display_date": "23 July 2026 9:30am (provisional)",
-            "updated": "2025-09-25T10:31:31Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
             "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
             "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
@@ -2231,6 +2220,17 @@
             "release_date": "2026-08-06T09:30:00Z",
             "display_date": "6 August 2026 9:30am (provisional)",
             "updated": "2025-11-20T11:12:53Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-april-june-2026",
+            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2026-08-12T09:30:00Z",
+            "display_date": "12 August 2026 9:30am (provisional)",
+            "updated": "2026-05-22T11:45:26Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
