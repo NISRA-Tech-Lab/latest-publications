@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-26T08:31:54Z",
+    "modified": "2026-05-26T09:36:02Z",
     "entries": [
         {
             "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
@@ -2852,6 +2852,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-benefit-statistics-summary-november-2026",
+            "title": "Northern Ireland Benefit Statistics Summary: November 2026",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2027-02-24T09:30:00Z",
+            "display_date": "24 February 2027 9:30am (confirmed)",
+            "updated": "2026-05-26T09:56:51Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "personal-independence-payment-statistics-november-2026",
             "title": "Personal Independence Payment Statistics - November 2026",
             "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
@@ -2960,6 +2971,17 @@
             "org": "TEO",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-february-2027",
+            "title": "Northern Ireland Benefit Statistics Summary: February 2027",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2027-05-26T09:30:00Z",
+            "display_date": "26 May 2027 9:30am (confirmed)",
+            "updated": "2026-05-26T10:21:30Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "personal-independence-payment-statistics-february-2027",
