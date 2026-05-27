@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-26T18:40:34Z",
+    "modified": "2026-05-27T08:37:40Z",
     "entries": [
+        {
+            "id": "probation-board-ni-annual-caseload-202526",
+            "title": "Probation Board NI annual caseload 2025/26",
+            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-annual-caseload-statistics-2025-26.html",
+            "release_date": "2026-05-27T07:00:00Z",
+            "display_date": "27 May 2026",
+            "org": "PBNI",
+            "updated": "2026-05-27T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "structure-performance-of-the-ni-economy-2022",
+            "title": "Structure & Performance of the NI Economy 2022",
+            "summary": "Structure & Performance of the NI Economy 2022 including Detailed Supply-Use tables for 2022.",
+            "url": "https://www.nisra.gov.uk/statistics/business-economy-and-trade/economic-accounts",
+            "release_date": "2026-05-27T07:00:00Z",
+            "display_date": "27 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-27T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
+            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
+            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q4-2025-26.html",
+            "release_date": "2026-05-27T07:00:00Z",
+            "display_date": "27 May 2026",
+            "org": "PBNI",
+            "updated": "2026-05-27T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-february-2026",
+            "title": "Northern Ireland Universal Credit Statistics: February 2026",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
+            "release_date": "2026-05-27T07:00:00Z",
+            "display_date": "27 May 2026",
+            "org": "DfC",
+            "updated": "2026-05-27T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-february-2026",
+            "title": "Northern Ireland Benefit Statistics Summary: February 2026",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/publications/benefits-statistics-summary-publication-national-statistics-february-2026",
+            "release_date": "2026-05-27T07:00:00Z",
+            "display_date": "27 May 2026",
+            "org": "DfC",
+            "updated": "2026-05-27T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
             "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2025",
@@ -1048,123 +1103,35 @@
             "type": "AOS"
         },
         {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-28-february-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 28 February 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-03-06T07:00:00Z",
-            "display_date": "6 March 2026",
-            "org": "PSNI",
-            "updated": "2026-03-06T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-27-february-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 27 February 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 February 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-03-06T07:00:00Z",
-            "display_date": "6 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-06T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-occupancy-statistics-january-2026",
-            "title": "Monthly Occupancy Statistics, January 2026",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
-            "release_date": "2026-03-05T07:00:00Z",
-            "display_date": "5 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-05T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2025",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "url": "https://www.economy-ni.gov.uk/articles/electricity-consumption-and-renewable-generation-statistics",
-            "release_date": "2026-03-05T07:00:00Z",
-            "display_date": "5 March 2026",
-            "org": "DfE",
-            "updated": "2026-03-05T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-december-2025",
-            "title": "Northern Ireland waiting time statistics: diagnostic waiting times December 2025",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2026-03-04T07:00:00Z",
-            "display_date": "4 March 2026",
-            "org": "DoH",
-            "updated": "2026-03-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202526",
-            "title": "Probation Board NI annual caseload 2025/26",
-            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2026-05-13T14:56:04Z",
-            "org": "PBNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2026-05-13T14:46:57Z",
-            "org": "PBNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "structure-performance-of-the-ni-economy-2022",
-            "title": "Structure & Performance of the NI Economy 2022",
-            "summary": "Structure & Performance of the NI Economy 2022 including Detailed Supply-Use tables for 2022.",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2026-05-12T14:10:41Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-february-2026",
-            "title": "Northern Ireland Universal Credit Statistics: February 2026",
-            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2025-07-30T15:17:40Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-february-2026",
-            "title": "Northern Ireland Benefit Statistics Summary: February 2026",
-            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "release_date": "2026-05-27T09:30:00Z",
-            "display_date": "27 May 2026 9:30am (confirmed)",
-            "updated": "2025-05-09T09:15:05Z",
-            "org": "DfC",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-environmental-statistics-report-2026",
-            "title": "Northern Ireland Environmental Statistics Report 2026",
-            "summary": "This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-march-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to March 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
             "release_date": "2026-05-28T09:30:00Z",
             "display_date": "28 May 2026 9:30am (confirmed)",
-            "updated": "2026-05-21T14:41:00Z",
-            "org": "DAERA",
+            "updated": "2026-05-27T09:38:04Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2026",
+            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2026",
+            "summary": "This is the first of two annual statistical publications on legal aid in Northern Ireland. Incorporating 2025/26 information for the first time, it presents data on applications granted and authorised expenditure for criminal and civil cases from 2019/20 onwards. A second release, focusing on the utilisation of legal aid by both applicants and suppliers, will be published later in the year.",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T08:43:04Z",
+            "org": "LSA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
+            "title": "Qualifications and destinations of Northern Ireland school leavers: 2024 to 2025 (academic year)",
+            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2024 to 2025 (academic year).",
+            "release_date": "2026-05-28T09:30:00Z",
+            "display_date": "28 May 2026 9:30am (confirmed)",
+            "updated": "2026-04-29T10:51:07Z",
+            "org": "DE",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1202,28 +1169,6 @@
             "status": "confirmed"
         },
         {
-            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2026",
-            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2026",
-            "summary": "This is the first of two annual statistical publications on legal aid in Northern Ireland. Incorporating 2025/26 information for the first time, it presents data on applications granted and authorised expenditure for criminal and civil cases from 2019/20 onwards. A second release, focusing on the utilisation of legal aid by both applicants and suppliers, will be published later in the year.",
-            "release_date": "2026-05-28T09:30:00Z",
-            "display_date": "28 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-27T11:43:54Z",
-            "org": "LSA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-march-2026",
-            "title": "NI Sodium Valproate and Topiramate Monitoring Report to March 2026",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
-            "release_date": "2026-05-28T09:30:00Z",
-            "display_date": "28 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-23T17:30:42Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-housing-bulletin-january-march-2026",
             "title": "Northern Ireland Housing Bulletin January - March 2026",
             "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
@@ -1254,6 +1199,17 @@
             "updated": "2026-04-09T10:40:16Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-jan-26",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Jan 26",
+            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
+            "release_date": "2026-05-29T09:30:00Z",
+            "display_date": "29 May 2026 9:30am (confirmed)",
+            "updated": "2026-05-26T21:11:31Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "confirmed"
         },
         {
