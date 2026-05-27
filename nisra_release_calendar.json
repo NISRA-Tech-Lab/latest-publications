@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-27T09:36:24Z",
+    "modified": "2026-05-27T14:55:29Z",
     "entries": [
         {
             "id": "probation-board-ni-annual-caseload-202526",
@@ -1763,6 +1763,28 @@
             "status": "confirmed"
         },
         {
+            "id": "teacher-vacancies-sickness-absence-and-substitution-2025-to-2026",
+            "title": "Teacher vacancies, sickness absence and substitution, 2025 to 2026",
+            "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2025 to 2026",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T11:29:40Z",
+            "org": "DE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "teacher-workforce-statistics-in-grant-aided-schools-2025-to-2026",
+            "title": "Teacher workforce statistics in grant-aided schools, 2025 to 2026",
+            "summary": "An analysis of the latest annual data collections relating to teacher numbers and pupil: teacher ratios in grant-aided schools in Northern Ireland, 2025 to 2026",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T11:25:29Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "pps-statistical-bulletin-2025-26",
             "title": "PPS Statistical Bulletin 2025-26",
             "summary": "Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions.",
@@ -2159,28 +2181,6 @@
             "status": "confirmed"
         },
         {
-            "id": "teacher-vacancies-sickness-absence-and-substitution-2025-to-2026",
-            "title": "Teacher vacancies, sickness absence and substitution, 2025 to 2026",
-            "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2025 to 2026",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2026-05-18T12:40:22Z",
-            "org": "DE",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "teacher-workforce-statistics-in-grant-aided-schools-2025-to-2026",
-            "title": "Teacher workforce statistics in grant-aided schools, 2025 to 2026",
-            "summary": "An analysis of the latest annual data collections relating to teacher numbers and pupil: teacher ratios in grant-aided schools in Northern Ireland, 2025 to 2026",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2026-05-18T12:14:58Z",
-            "org": "DE",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "mental-health-and-learning-disability-inpatient-tables-202425",
             "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
             "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
@@ -2220,6 +2220,61 @@
             "release_date": "2026-08-07T09:30:00Z",
             "display_date": "7 August 2026 9:30am (confirmed)",
             "updated": "2026-05-26T13:57:17Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-july-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): July 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:43:45Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-july-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): July 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:36:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-july-2026",
+            "title": "Monthly Marriages (Northern Ireland): July 2026",
+            "summary": "Monthly Marriages (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:28:09Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-july-2026",
+            "title": "Monthly Deaths (Northern Ireland): July 2026",
+            "summary": "Monthly Deaths (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:06:31Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-july-2026",
+            "title": "Monthly Births (Northern Ireland): July 2026",
+            "summary": "Monthly Births (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T14:30:37Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2434,6 +2489,61 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-august-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): August 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): August 2026",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:45:12Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-august-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): August 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): August 2026",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:38:54Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-august-2026",
+            "title": "Monthly Marriages (Northern Ireland): August 2026",
+            "summary": "Monthly Marriages (Northern Ireland): August 2026",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:29:40Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-august-2026",
+            "title": "Monthly Deaths (Northern Ireland): August 2026",
+            "summary": "Monthly Deaths (Northern Ireland): August 2026",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:22:55Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-august-2026",
+            "title": "Monthly Births (Northern Ireland): August 2026",
+            "summary": "Monthly Births (Northern Ireland): August 2026",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T14:34:19Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-4-september-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 4 September 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 4 September 2026.",
@@ -2533,6 +2643,17 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-18-september-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 18 September 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 18 September 2026.",
+            "release_date": "2026-09-25T09:30:00Z",
+            "display_date": "25 September 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T13:54:31Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
             "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
             "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
@@ -2586,6 +2707,72 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-25-september-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 25 September 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 25 September 2026.",
+            "release_date": "2026-10-02T09:30:00Z",
+            "display_date": "2 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T13:57:06Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-september-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): September 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): September 2026",
+            "release_date": "2026-10-12T09:30:00Z",
+            "display_date": "12 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:46:40Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-september-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): September 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): September 2026",
+            "release_date": "2026-10-12T09:30:00Z",
+            "display_date": "12 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:40:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-september-2026",
+            "title": "Monthly Marriages (Northern Ireland): September 2026",
+            "summary": "Monthly Marriages (Northern Ireland): September 2026",
+            "release_date": "2026-10-12T09:30:00Z",
+            "display_date": "12 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:32:05Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-september-2026",
+            "title": "Monthly Deaths (Northern Ireland): September 2026",
+            "summary": "Monthly Deaths (Northern Ireland): September 2026",
+            "release_date": "2026-10-12T09:30:00Z",
+            "display_date": "12 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T15:24:42Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-september-2026",
+            "title": "Monthly Births (Northern Ireland): September 2026",
+            "summary": "Monthly Births (Northern Ireland): September 2026",
+            "release_date": "2026-10-12T09:30:00Z",
+            "display_date": "12 October 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T14:42:23Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "ni-labour-market-statistics-october-2026",
