@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-27T14:55:29Z",
+    "modified": "2026-05-27T18:38:10Z",
     "entries": [
         {
             "id": "probation-board-ni-annual-caseload-202526",
@@ -121,6 +121,28 @@
             "display_date": "20 May 2026",
             "org": "PSNI",
             "updated": "2026-05-20T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-1-2026",
+            "title": "Northern Ireland House Price Index Quarter 1 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jan - Mar (Quarter 1) 2026",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2026-05-20T07:00:00Z",
+            "display_date": "20 May 2026",
+            "org": "DoF",
+            "updated": "2026-05-20T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-1-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 1 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jan - Mar 2026",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2026-05-20T07:00:00Z",
+            "display_date": "20 May 2026",
+            "org": "DoF",
+            "updated": "2026-05-20T09:30:00Z",
             "type": "OS"
         },
         {
@@ -1074,28 +1096,6 @@
             "title": "Monthly Births (Northern Ireland): February 2026",
             "summary": "Monthly Births (Northern Ireland): February 2026",
             "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2026-03-11T07:00:00Z",
-            "display_date": "11 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-february-2026",
-            "title": "Monthly Marriages (Northern Ireland): February 2026",
-            "summary": "Monthly Marriages (Northern Ireland): February 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-03-11T07:00:00Z",
-            "display_date": "11 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-february-2026",
-            "title": "Monthly Deaths (Northern Ireland): February 2026",
-            "summary": "Monthly Deaths (Northern Ireland): February 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
             "release_date": "2026-03-11T07:00:00Z",
             "display_date": "11 March 2026",
             "org": "NISRA",
