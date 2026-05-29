@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-29T09:43:34Z",
+    "modified": "2026-05-29T11:39:36Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
@@ -1103,26 +1103,26 @@
             "type": "OS"
         },
         {
-            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
-            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2026-06-02T09:30:00Z",
-            "display_date": "2 June 2026 9:30am (provisional)",
-            "updated": "2026-03-19T11:37:37Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-hsc-workforce-statistics-march-2026",
             "title": "Northern Ireland HSC Workforce Statistics March 2026",
             "summary": "A quarterly summary of HSC staff",
             "release_date": "2026-06-02T09:30:00Z",
-            "display_date": "2 June 2026 9:30am (provisional)",
-            "updated": "2026-03-19T10:38:30Z",
+            "display_date": "2 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-29T10:53:26Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-06-02T09:30:00Z",
+            "display_date": "2 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-29T10:52:54Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "ni-analytical-input-output-tables-2022",
@@ -1631,6 +1631,17 @@
             "status": "confirmed"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2026",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2026",
+            "summary": "Statistics: Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (provisional)",
+            "updated": "2026-05-29T12:13:39Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "teacher-vacancies-sickness-absence-and-substitution-2025-to-2026",
             "title": "Teacher vacancies, sickness absence and substitution, 2025 to 2026",
             "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2025 to 2026",
@@ -1837,17 +1848,6 @@
             "updated": "2026-02-03T16:53:20Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1-april-2026",
-            "title": "Employment in the Northern Ireland Civil Service - 1 April 2026",
-            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                                                                                                                                                                                          \r\nSubject to review, these statistics will be released between May and June 2026.",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "May to June 2026 (provisional)",
-            "updated": "2025-07-31T12:34:42Z",
-            "org": "DoF",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -3252,6 +3252,10 @@
         {
             "id": "benefit-cap-report-northern-ireland-may-2026",
             "updated": "2025-09-18T11:10:24Z"
+        },
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1-april-2026",
+            "updated": "2026-05-29T10:56:25Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-february-2026",
