@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-29T11:44:08Z",
+    "modified": "2026-05-29T14:40:14Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
@@ -1125,6 +1125,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-housing-stock--2",
+            "title": "Northern Ireland Housing Stock",
+            "summary": "Northern Ireland Housing Stock counts at April each year 2008 to 2026",
+            "release_date": "2026-06-03T09:30:00Z",
+            "display_date": "3 June 2026 9:30am (confirmed)",
+            "updated": "2026-05-29T13:12:47Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "ni-analytical-input-output-tables-2022",
             "title": "NI Analytical Input-Output tables 2022",
             "summary": "NI Analytical Input-Output tables 2022 – industry by industry",
@@ -1134,17 +1145,6 @@
             "org": "NISRA",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-housing-stock--2",
-            "title": "Northern Ireland Housing Stock",
-            "summary": "Northern Ireland Housing Stock counts at April each year 2008 to 2026",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (provisional)",
-            "updated": "2026-05-05T10:40:08Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-outpatient-waiting-time-statistics-31-march-2026",
@@ -2060,17 +2060,6 @@
             "status": "provisional"
         },
         {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "June to July 2026 (provisional)",
-            "updated": "2025-11-13T16:37:16Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
             "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
             "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
@@ -2520,6 +2509,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "August to September 2026 (provisional)",
+            "updated": "2026-05-29T14:27:12Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
