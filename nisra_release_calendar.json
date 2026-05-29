@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-05-28T19:08:07Z",
+    "modified": "2026-05-29T08:55:59Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 22 May 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 22 May 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-05-29T07:00:00Z",
+            "display_date": "29 May 2026",
+            "org": "NISRA",
+            "updated": "2026-05-29T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-jan-26",
+            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Jan 26",
+            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
+            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
+            "release_date": "2026-05-29T07:00:00Z",
+            "display_date": "29 May 2026",
+            "org": "DfE",
+            "updated": "2026-05-29T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q4",
+            "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics-2025-26-Q4",
+            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/dfi-driver-vehicle-operator-and-enforcement-statistics-2025-26-quarter-four",
+            "release_date": "2026-05-29T07:00:00Z",
+            "display_date": "29 May 2026",
+            "org": "DfI",
+            "updated": "2026-05-29T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2026",
             "title": "Legal aid activity in Northern Ireland, period ending 31st March 2026",
@@ -1068,72 +1101,6 @@
             "org": "PBNI",
             "updated": "2026-03-18T11:32:50Z",
             "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-2-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 2, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th September 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q2-2025-26.html",
-            "release_date": "2025-11-12T07:00:00Z",
-            "display_date": "12 November 2025",
-            "org": "PBNI",
-            "updated": "2026-03-18T11:32:33Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-3-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 3, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st December 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q3-2025-26.html",
-            "release_date": "2026-02-25T07:00:00Z",
-            "display_date": "25 February 2026",
-            "org": "PBNI",
-            "updated": "2026-03-18T11:32:15Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202425",
-            "title": "Probation Board NI annual caseload 2024/25",
-            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2025.",
-            "url": "https://www.pbni.org.uk/publication/annual-caseload-statistics-report-2024-25",
-            "release_date": "2025-05-28T07:00:00Z",
-            "display_date": "28 May 2025",
-            "org": "PBNI",
-            "updated": "2026-03-18T11:31:52Z",
-            "type": "OS"
-        },
-        {
-            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-jan-26",
-            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Jan 26",
-            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
-            "release_date": "2026-05-29T09:30:00Z",
-            "display_date": "29 May 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T21:11:31Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q4",
-            "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2025-26 - Quarter 4",
-            "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
-            "release_date": "2026-05-29T09:30:00Z",
-            "display_date": "29 May 2026 9:30am (confirmed)",
-            "updated": "2026-04-13T14:05:11Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 22 May 2026.",
-            "release_date": "2026-05-29T09:30:00Z",
-            "display_date": "29 May 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T08:54:44Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
