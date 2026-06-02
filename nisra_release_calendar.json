@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-02T08:12:52Z",
+    "modified": "2026-06-02T08:37:41Z",
     "entries": [
+        {
+            "id": "northern-ireland-hsc-workforce-statistics-march-2026",
+            "title": "Northern Ireland HSC Workforce Statistics March 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2026-06-02T07:00:00Z",
+            "display_date": "2 June 2026",
+            "org": "DoH",
+            "updated": "2026-06-02T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
+            "release_date": "2026-06-02T07:00:00Z",
+            "display_date": "2 June 2026",
+            "org": "DoH",
+            "updated": "2026-06-02T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 22 May 2026",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-03-19T07:00:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "quarterly-employment-survey-december-2025",
-            "title": "Quarterly Employment Survey: December 2025",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-19T07:00:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-1-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 1, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2025.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q1-2025-26.html",
-            "release_date": "2025-08-27T07:00:00Z",
-            "display_date": "27 August 2025",
-            "org": "PBNI",
-            "updated": "2026-03-18T11:32:50Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-march-2026",
-            "title": "Northern Ireland HSC Workforce Statistics March 2026",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2026-06-02T09:30:00Z",
-            "display_date": "2 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-29T10:53:26Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
-            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2026-06-02T09:30:00Z",
-            "display_date": "2 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-29T10:52:54Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-outpatient-waiting-time-statistics-31-march-2026",
