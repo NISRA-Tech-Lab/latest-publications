@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-02T19:55:44Z",
+    "modified": "2026-06-03T08:39:02Z",
     "entries": [
+        {
+            "id": "ni-analytical-input-output-tables-2022",
+            "title": "NI Analytical Input-Output tables 2022",
+            "summary": "NI Analytical Input-Output tables 2022 – industry by industry",
+            "url": "https://www.nisra.gov.uk/statistics/business-economy-and-trade/economic-accounts",
+            "release_date": "2026-06-03T07:00:00Z",
+            "display_date": "3 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-03T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-inpatient-and-day-case-waiting-time-statistics-31-march-2026",
+            "title": "Northern Ireland Inpatient and Day Case Waiting Time Statistics 31 March 2026",
+            "summary": "This statistical release presents information on waiting times for admission for inpatient or day case treatment in Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
+            "release_date": "2026-06-03T07:00:00Z",
+            "display_date": "3 June 2026",
+            "org": "DoH",
+            "updated": "2026-06-03T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-housing-stock",
+            "title": "Northern Ireland Housing Stock",
+            "summary": "Northern Ireland Housing Stock counts at April each year 2008 to 2026",
+            "url": "https://www.finance-ni.gov.uk/topics/housing-stock-statistics",
+            "release_date": "2026-06-03T07:00:00Z",
+            "display_date": "3 June 2026",
+            "org": "DoF",
+            "updated": "2026-06-03T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-outpatient-waiting-time-statistics-31-march-2026",
+            "title": "Northern Ireland Outpatient Waiting Time Statistics 31 March 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "url": "https://www.health-ni.gov.uk/articles/outpatient-waiting-times",
+            "release_date": "2026-06-03T07:00:00Z",
+            "display_date": "3 June 2026",
+            "org": "DoH",
+            "updated": "2026-06-03T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-31-march-2026",
+            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending 31 March 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
+            "release_date": "2026-06-03T07:00:00Z",
+            "display_date": "3 June 2026",
+            "org": "DoH",
+            "updated": "2026-06-03T09:30:03Z",
+            "type": "OS"
+        },
         {
             "id": "northern-ireland-hsc-workforce-statistics-march-2026",
             "title": "Northern Ireland HSC Workforce Statistics March 2026",
@@ -1046,116 +1101,6 @@
             "org": "DfI",
             "updated": "2026-03-24T09:30:06Z",
             "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-13-march-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 13 March 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 March 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-03-20T07:00:00Z",
-            "display_date": "20 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-20T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-december-2025",
-            "title": "Northern Ireland Child Maintenance Service: Data to December 2025",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending December 2025.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-december-2025",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026",
-            "org": "DfC",
-            "updated": "2026-03-19T09:30:13Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-4-2025",
-            "title": "Northern Ireland Index of Production: Quarter 4 2025",
-            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-19T09:30:12Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-4-2025",
-            "title": "Northern Ireland Index of Services: Quarter 4 2025",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-19T09:30:12Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-march-2026",
-            "title": "NI Labour Market statistics: March 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2026-03-19T07:00:00Z",
-            "display_date": "19 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-19T07:00:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-outpatient-waiting-time-statistics-31-march-2026",
-            "title": "Northern Ireland Outpatient Waiting Time Statistics 31 March 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-01T14:59:47Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-31-march-2026",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending 31 March 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-01T14:59:42Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-inpatient-and-day-case-waiting-time-statistics-31-march-2026",
-            "title": "Northern Ireland Inpatient and Day Case Waiting Time Statistics 31 March 2026",
-            "summary": "This statistical release presents information on waiting times for admission for inpatient or day case treatment in Northern Ireland.",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-01T14:59:35Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-housing-stock--2",
-            "title": "Northern Ireland Housing Stock",
-            "summary": "Northern Ireland Housing Stock counts at April each year 2008 to 2026",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-29T13:12:47Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-analytical-input-output-tables-2022",
-            "title": "NI Analytical Input-Output tables 2022",
-            "summary": "NI Analytical Input-Output tables 2022 – industry by industry",
-            "release_date": "2026-06-03T09:30:00Z",
-            "display_date": "3 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-12T14:12:33Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "labour-force-survey-annual-summary-report-2025",
