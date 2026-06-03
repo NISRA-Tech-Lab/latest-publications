@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-03T08:39:02Z",
+    "modified": "2026-06-03T10:43:41Z",
     "entries": [
         {
             "id": "ni-analytical-input-output-tables-2022",
@@ -1103,6 +1103,28 @@
             "type": "OS"
         },
         {
+            "id": "fps-general-medical-services-statistics-for-ni-202526",
+            "title": "FPS General Medical Services Statistics for NI 2025/26",
+            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-03T10:18:34Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Medical Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 2025/26",
+            "release_date": "2026-06-04T09:30:00Z",
+            "display_date": "4 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-03T10:12:43Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "labour-force-survey-annual-summary-report-2025",
             "title": "Labour Force Survey Annual Summary Report 2025",
             "summary": "This report provides the key labour market results from the Labour Force Survey for the year ending 31 December 2025.",
@@ -1133,28 +1155,6 @@
             "updated": "2026-04-27T09:37:50Z",
             "org": "PPS",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-4-202526",
-            "title": "General Medical Services Statistics for NI, Quarter 4 2025/26",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 2025/26",
-            "release_date": "2026-06-04T09:30:00Z",
-            "display_date": "4 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:08:49Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "fps-general-medical-services-statistics-for-ni-202526",
-            "title": "FPS General Medical Services Statistics for NI 2025/26",
-            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2025 and March 2026.",
-            "release_date": "2026-06-04T09:30:00Z",
-            "display_date": "4 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:08:35Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
