@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-04T18:33:46Z",
+    "modified": "2026-06-05T08:59:53Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 29 May 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 29 May 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-05T07:00:00Z",
+            "display_date": "5 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-05T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-may-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 May 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2026-06-05T07:00:00Z",
+            "display_date": "5 June 2026",
+            "org": "PSNI",
+            "updated": "2026-06-05T09:30:06Z",
+            "type": "AOS"
+        },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-4-202526",
             "title": "General Medical Services Statistics for NI, Quarter 4 2025/26",
@@ -1079,50 +1101,6 @@
             "org": "DfE",
             "updated": "2026-03-27T09:30:03Z",
             "type": "OS"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-28-february-2026",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 28 February 2026",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
-            "release_date": "2026-03-26T07:00:00Z",
-            "display_date": "26 March 2026",
-            "org": "PSNI",
-            "updated": "2026-03-26T09:30:25Z",
-            "type": "OS"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-october-to-december-2025",
-            "title": "Working and workless households in Northern Ireland: October to December 2025",
-            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
-            "release_date": "2026-03-26T07:00:00Z",
-            "display_date": "26 March 2026",
-            "org": "NISRA",
-            "updated": "2026-03-26T09:30:25Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-april-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 May 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2026-06-05T09:30:00Z",
-            "display_date": "5 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-19T15:33:22Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 29 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 29 May 2026.",
-            "release_date": "2026-06-05T09:30:00Z",
-            "display_date": "5 June 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T08:58:23Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
