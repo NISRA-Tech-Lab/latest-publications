@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-08T12:42:05Z",
+    "modified": "2026-06-08T15:29:55Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
@@ -2478,6 +2478,17 @@
             "status": "provisional"
         },
         {
+            "id": "2025-mid-year-population-estimates-for-northern-ireland-including-estimates-of-the-population-aged-85",
+            "title": "2025 Mid-Year Population Estimates for Northern Ireland, including Estimates of the Population Aged 85",
+            "summary": "The 2025 mid-year population and migration estimates for Northern Ireland including estimates of the population aged 85 and over by age and sex.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-06-08T14:13:59Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-planning-statistics-april-to-june-2026",
             "title": "Northern Ireland planning statistics: April to June 2026",
             "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
@@ -2610,6 +2621,17 @@
             "status": "confirmed"
         },
         {
+            "id": "long-term-international-migration-statistics-for-northern-ireland-2025",
+            "title": "Long-Term International Migration Statistics for Northern Ireland (2025)",
+            "summary": "Long-Term International Migration Statistics (2025) Detailed tables from a number of administrative data sources, providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "October to November 2026 (provisional)",
+            "updated": "2026-06-08T14:36:35Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "registrar-general-northern-ireland-annual-report-2025",
             "title": "Registrar General Northern Ireland Annual Report 2025",
             "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
@@ -2727,6 +2749,17 @@
             "display_date": "28 January 2027 9:30am (provisional)",
             "updated": "2026-02-04T16:41:01Z",
             "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "2025-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
+            "title": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "summary": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-06-08T14:36:27Z",
+            "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
         },
