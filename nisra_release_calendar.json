@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-09T09:00:26Z",
+    "modified": "2026-06-09T09:31:34Z",
     "entries": [
         {
             "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
@@ -1603,7 +1603,7 @@
             "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
             "release_date": "2026-06-30T09:30:00Z",
             "display_date": "June 2026 (provisional)",
-            "updated": "2026-05-18T15:20:14Z",
+            "updated": "2026-06-09T10:00:38Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
