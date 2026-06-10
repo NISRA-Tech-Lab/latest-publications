@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-10T10:04:37Z",
+    "modified": "2026-06-10T11:47:26Z",
     "entries": [
         {
             "id": "northern-ireland-business-activity-size-and-location-2026",
@@ -1257,17 +1257,6 @@
             "status": "confirmed"
         },
         {
-            "id": "quarterly-employment-survey-march-2026",
-            "title": "Quarterly Employment Survey: March 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "2026-06-16T07:00:00Z",
-            "display_date": "16 June 2026 7:00am (confirmed)",
-            "updated": "2025-10-02T11:48:22Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025--3",
             "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
             "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
@@ -1287,6 +1276,17 @@
             "updated": "2026-05-20T09:42:29Z",
             "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "quarterly-employment-survey-march-2026",
+            "title": "Quarterly Employment Survey: March 2026",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026 7:00am (confirmed)",
+            "updated": "2026-06-10T12:28:34Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1664,6 +1664,17 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-june-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: June 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-07-10T09:30:00Z",
+            "display_date": "10 July 2026 9:30am (confirmed)",
+            "updated": "2026-06-10T11:58:16Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-june-2026",
             "title": "Security Situation Statistics for Northern Ireland, period ending 30 June 2026",
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
@@ -1926,6 +1937,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-july-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: July 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-08-14T09:30:00Z",
+            "display_date": "14 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-10T12:07:03Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-7-august-2026",
@@ -2236,6 +2258,17 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-august-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: August 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-09-18T09:30:00Z",
+            "display_date": "18 September 2026 9:30am (confirmed)",
+            "updated": "2026-06-10T12:12:06Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 11 September 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 11 September 2026.",
@@ -2445,6 +2478,17 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-september-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: September 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-10-16T09:30:00Z",
+            "display_date": "16 October 2026 9:30am (provisional)",
+            "updated": "2026-06-10T12:21:15Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "ni-labour-market-statistics-october-2026",
             "title": "NI Labour Market statistics: October 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -2497,6 +2541,17 @@
             "updated": "2026-05-14T13:22:29Z",
             "org": "DfI",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-october-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: October 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-11-13T09:30:00Z",
+            "display_date": "13 November 2026 9:30am (provisional)",
+            "updated": "2026-06-10T12:32:54Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2651,6 +2706,17 @@
             "updated": "2026-05-19T09:50:18Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-november-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: November 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (provisional)",
+            "updated": "2026-06-10T12:38:00Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "provisional"
         },
         {
@@ -2982,6 +3048,17 @@
             "org": "DfI",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "quarterly-employment-survey-march-2026",
+            "title": "Quarterly Employment Survey: March 2026",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
+            "release_date": "NAT09:30:00Z",
+            "display_date": "The Northern Ireland Quarterly Employment Survey June 2026 release has been delayed from Tuesday 16 June to Thursday 18 June as a result of the delay to the June 2026 Northern Ireland Labour Market Report. This is due to the national bank holiday in Scotland on Monday 15 June. These releases are always published on the same day.",
+            "updated": "2026-06-10T12:28:34Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "The Northern Ireland Quarterly Employment Survey June 2026 release has been delayed from Tuesday 16 June to Thursday 18 June as a result of the delay to the June 2026 Northern Ireland Labour Market Report. This is due to the national bank holiday in Scotland on Monday 15 June. These releases are always published on the same day."
         },
         {
             "id": "ni-labour-market-statistics-june-2026",
