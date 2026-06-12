@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-11T19:18:06Z",
+    "modified": "2026-06-12T08:44:00Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-5-june-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 5 June 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 5 June 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-12T07:00:00Z",
+            "display_date": "12 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-12T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-31-march-2026",
+            "title": "Police Use of Force statistics for Northern Ireland, period ending 31 March 2026",
+            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/statistics-police-use-force",
+            "release_date": "2026-06-12T07:00:00Z",
+            "display_date": "12 June 2026",
+            "org": "PSNI",
+            "updated": "2026-06-12T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-202526",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland 2025/26",
+            "summary": "Annual Report for Financial Year statistics relating to injury road traffic collisions reported to Police 2025/26.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-06-12T07:00:00Z",
+            "display_date": "12 June 2026",
+            "org": "PSNI",
+            "updated": "2026-06-12T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-may-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: May 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-may-2026",
+            "release_date": "2026-06-12T07:00:00Z",
+            "display_date": "12 June 2026",
+            "org": "DfI",
+            "updated": "2026-06-12T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-road-safety-partnership-statistical-report-2025",
+            "title": "Northern Ireland Road Safety Partnership Statistical Report 2025",
+            "summary": "NIRSP statistics for the year 2025, with comparison to 2024.",
+            "url": "https://www.psni.police.uk/northern-ireland-road-safety-partnership/statistics",
+            "release_date": "2026-06-12T07:00:00Z",
+            "display_date": "12 June 2026",
+            "org": "PSNI",
+            "updated": "2026-06-12T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-4-202526",
             "title": "General Ophthalmic Services Statistics for NI, Quarter 4 2025/26",
@@ -1046,116 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-04-13T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-march-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): March 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): March 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2026-04-13T07:00:00Z",
-            "display_date": "13 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-13T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-march-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): March 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): March 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-04-13T07:00:00Z",
-            "display_date": "13 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-13T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-march-2026",
-            "title": "Monthly Deaths (Northern Ireland): March 2026",
-            "summary": "Monthly Deaths (Northern Ireland): March 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-04-13T07:00:00Z",
-            "display_date": "13 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-13T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-march-2026",
-            "title": "Monthly Births (Northern Ireland): March 2026",
-            "summary": "Monthly Births (Northern Ireland): March 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2026-04-13T07:00:00Z",
-            "display_date": "13 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-13T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-april-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 April 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 3 April 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-04-10T07:00:00Z",
-            "display_date": "10 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-31-march-2026",
-            "title": "Police Use of Force statistics for Northern Ireland, period ending 31 March 2026",
-            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, police dogs, CED (conductive energy device) and water cannon.",
-            "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-19T15:46:45Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-202526",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland 2025/26",
-            "summary": "Annual Report for Financial Year statistics relating to injury road traffic collisions reported to Police 2025/26.",
-            "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-19T14:45:17Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-road-safety-partnership-statistical-report-2025",
-            "title": "Northern Ireland Road Safety Partnership Statistical Report 2025",
-            "summary": "NIRSP statistics for the year 2025, with comparison to 2024.",
-            "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-18T09:57:36Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-may-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: May 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-06T15:06:15Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-5-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 5 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 5 June 2026.",
-            "release_date": "2026-06-12T09:30:00Z",
-            "display_date": "12 June 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T09:03:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025--3",
