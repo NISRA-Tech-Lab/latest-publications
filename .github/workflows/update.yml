@@ -28,7 +28,7 @@ jobs:
             any::stringr
 
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Scrape publications from gov.uk
         run: Rscript -e 'source("create_json.R")'
