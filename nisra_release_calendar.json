@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-16T09:13:38Z",
+    "modified": "2026-06-16T10:54:23Z",
     "entries": [
+        {
+            "id": "fps-general-medical-services-statistics-for-ni-202526",
+            "title": "FPS General Medical Services Statistics for NI 2025/26",
+            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2025 and March 2026.",
+            "url": "https://datavis.nisra.gov.uk/bso/general-medical-statistics-2025-2026.html",
+            "release_date": "2026-06-04T07:00:00Z",
+            "display_date": "4 June 2026",
+            "org": "BSO",
+            "updated": "2026-06-16T11:32:31Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-june-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 5 June 2026",
@@ -205,17 +216,6 @@
             "title": "General Medical Services Statistics for NI, Quarter 4 2025/26",
             "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q4 of 2025/26",
             "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q4-25-26.html",
-            "release_date": "2026-06-04T07:00:00Z",
-            "display_date": "4 June 2026",
-            "org": "BSO",
-            "updated": "2026-06-04T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "fps-general-medical-services-statistics-for-ni-202526",
-            "title": "FPS General Medical Services Statistics for NI 2025/26",
-            "summary": "This annual report presents information on Patients, General Practitioners and GP Practices in Northern Ireland between April 2025 and March 2026.",
-            "url": "https://datavis.nisra.gov.uk/bso/general-medical-statistics-2025-2026.html",
             "release_date": "2026-06-04T07:00:00Z",
             "display_date": "4 June 2026",
             "org": "BSO",
@@ -2236,17 +2236,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-food-and-drinks-processing-report-2023",
-            "title": "Northern Ireland Food and Drinks Processing Report 2023",
-            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2026-01-19T11:37:39Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2026",
             "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2026 ",
             "summary": "The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
@@ -2542,6 +2531,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-food-and-drinks-processing-report-2023",
+            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024",
+            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "October to November 2026 (provisional)",
+            "updated": "2026-06-16T10:49:37Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "long-term-international-migration-statistics-for-northern-ireland-2025",
