@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-16T19:55:14Z",
+    "modified": "2026-06-17T08:32:21Z",
     "entries": [
+        {
+            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
+            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
+            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2025",
+            "release_date": "2026-06-17T07:00:00Z",
+            "display_date": "17 June 2026",
+            "org": "DoJ",
+            "updated": "2026-06-17T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-march-2026",
+            "title": "Northern Ireland Child Maintenance Service: Data to March 2026",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending March 2026.",
+            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-march-2026",
+            "release_date": "2026-06-17T07:00:00Z",
+            "display_date": "17 June 2026",
+            "org": "DfC",
+            "updated": "2026-06-17T09:30:04Z",
+            "type": "OS"
+        },
         {
             "id": "fps-general-medical-services-statistics-for-ni-202526",
             "title": "FPS General Medical Services Statistics for NI 2025/26",
@@ -1079,50 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-04-17T09:30:05Z",
             "type": "AOS"
-        },
-        {
-            "id": "baby-names-northern-ireland-2025",
-            "title": "Baby Names (Northern Ireland) 2025",
-            "summary": "The most popular baby names that were registered in Northern Ireland in 2025.",
-            "url": "https://www.nisra.gov.uk/statistics/births/baby-names",
-            "release_date": "2026-04-16T07:00:00Z",
-            "display_date": "16 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-16T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-march-2026",
-            "title": "Monthly Marriages (Northern Ireland): March 2026",
-            "summary": "Monthly Marriages (Northern Ireland): March 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-04-13T07:00:00Z",
-            "display_date": "13 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-13T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025--3",
-            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
-            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
-            "release_date": "2026-06-17T09:30:00Z",
-            "display_date": "17 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-12T11:57:24Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-march-2026",
-            "title": "Northern Ireland Child Maintenance Service: Data to March 2026",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending March 2026.",
-            "release_date": "2026-06-17T09:30:00Z",
-            "display_date": "17 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-20T09:42:29Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-march-2026",
