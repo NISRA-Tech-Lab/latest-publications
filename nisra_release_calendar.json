@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-17T10:26:17Z",
+    "modified": "2026-06-17T10:44:53Z",
     "entries": [
         {
             "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
@@ -1191,17 +1191,6 @@
             "status": "confirmed"
         },
         {
-            "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
-            "title": "First time entrants to the criminal justice system in Northern Ireland 2024 to 2025",
-            "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
-            "release_date": "2026-06-19T09:30:00Z",
-            "display_date": "19 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-21T12:05:21Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
@@ -1736,6 +1725,17 @@
             "release_date": "2026-08-11T09:30:00Z",
             "display_date": "11 August 2026 9:30am (confirmed)",
             "updated": "2026-05-27T15:06:31Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-july-2026",
+            "title": "Monthly Births (Northern Ireland): July 2026",
+            "summary": "Monthly Births (Northern Ireland): July 2026",
+            "release_date": "2026-08-11T09:30:00Z",
+            "display_date": "11 August 2026 9:30am (confirmed)",
+            "updated": "2026-05-27T14:30:37Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
