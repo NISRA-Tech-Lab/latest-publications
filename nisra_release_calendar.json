@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-17T08:32:21Z",
+    "modified": "2026-06-17T10:26:17Z",
     "entries": [
         {
             "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
@@ -1125,6 +1125,28 @@
             "status": "confirmed"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-17T10:23:28Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
+            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
+            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-18T09:30:00Z",
+            "display_date": "18 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-17T10:04:29Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "energy-in-northern-ireland-2026",
             "title": "Energy in Northern Ireland 2026",
             "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
@@ -1144,28 +1166,6 @@
             "updated": "2026-05-19T08:46:57Z",
             "org": "DfI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:13:54Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
-            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
-            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:13:13Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
