@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-19T12:29:30Z",
+    "modified": "2026-06-19T14:44:12Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -1510,6 +1510,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:40:30Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "labour-force-survey-annual-tables-2025",
             "title": "Labour Force Survey Annual Tables 2025",
             "summary": "These tables present additional Labour Market data for the period January to December 2025.",
@@ -1563,6 +1574,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
+            "release_date": "2026-08-06T09:30:00Z",
+            "display_date": "6 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:42:30Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
@@ -1827,6 +1849,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
+            "title": "Northern Ireland planning statistics: April 2025 to March 2026",
+            "summary": "Finalised annual results for 2025/26. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "July to August 2026 (provisional)",
+            "updated": "2026-04-24T08:29:44Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
@@ -2288,17 +2321,6 @@
             "updated": "2026-02-23T14:14:14Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2026",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2026",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2026",
-            "release_date": "2026-11-18T09:30:00Z",
-            "display_date": "18 November 2026 9:30am (confirmed)",
-            "updated": "2026-01-21T11:53:17Z",
-            "org": "DoF",
-            "type": "OS",
             "status": "confirmed"
         },
         {
