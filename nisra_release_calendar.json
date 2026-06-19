@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-19T08:31:58Z",
+    "modified": "2026-06-19T10:12:55Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -113,17 +113,6 @@
             "type": "AOS"
         },
         {
-            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
-            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
-            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2025",
-            "release_date": "2026-06-17T07:00:00Z",
-            "display_date": "17 June 2026",
-            "org": "DoJ",
-            "updated": "2026-06-17T09:30:04Z",
-            "type": "OS"
-        },
-        {
             "id": "northern-ireland-child-maintenance-service-data-to-march-2026",
             "title": "Northern Ireland Child Maintenance Service: Data to March 2026",
             "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending March 2026.",
@@ -132,6 +121,17 @@
             "display_date": "17 June 2026",
             "org": "DfC",
             "updated": "2026-06-17T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
+            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
+            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2025",
+            "release_date": "2026-06-17T07:00:00Z",
+            "display_date": "17 June 2026",
+            "org": "DoJ",
+            "updated": "2026-06-17T09:30:00Z",
             "type": "OS"
         },
         {
