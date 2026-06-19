@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-18T19:44:18Z",
+    "modified": "2026-06-19T08:31:58Z",
     "entries": [
+        {
+            "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
+            "title": "First time entrants to the criminal justice system in Northern Ireland 2024 to 2025",
+            "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
+            "url": "https://www.justice-ni.gov.uk/publications/first-time-entrants-criminal-justice-system-northern-ireland-202425",
+            "release_date": "2026-06-19T07:00:00Z",
+            "display_date": "19 June 2026",
+            "org": "DoJ",
+            "updated": "2026-06-19T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-19T07:00:00Z",
+            "display_date": "19 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-19T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "family-practitioner-services-dental-statistics-for-ni-202526",
             "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
@@ -1079,61 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-05-01T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2026-04-30T07:00:00Z",
-            "display_date": "30 April 2026",
-            "org": "PSNI",
-            "updated": "2026-04-30T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
-            "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
-            "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year.",
-            "url": "https://www.education-ni.gov.uk/articles/pupil-suspensions-and-expulsions",
-            "release_date": "2026-04-30T07:00:00Z",
-            "display_date": "30 April 2026",
-            "org": "DE",
-            "updated": "2026-04-30T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "energy-in-northern-ireland-2026",
-            "title": "Energy in Northern Ireland 2026",
-            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-21T09:07:04Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
-            "title": "First time entrants to the criminal justice system in Northern Ireland 2024 to 2025",
-            "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
-            "release_date": "2026-06-19T09:30:00Z",
-            "display_date": "19 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-17T11:45:22Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
-            "release_date": "2026-06-19T09:30:00Z",
-            "display_date": "19 June 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T09:40:14Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "registrar-general-quarterly-report-northern-ireland-january-to-march-2026",
