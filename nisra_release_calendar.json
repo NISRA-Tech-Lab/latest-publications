@@ -1,17 +1,116 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-17T08:32:21Z",
+    "modified": "2026-06-22T11:43:02Z",
     "entries": [
         {
-            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
-            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
-            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
-            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2025",
-            "release_date": "2026-06-17T07:00:00Z",
-            "display_date": "17 June 2026",
+            "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
+            "title": "First time entrants to the criminal justice system in Northern Ireland 2024 to 2025",
+            "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
+            "url": "https://www.justice-ni.gov.uk/publications/first-time-entrants-criminal-justice-system-northern-ireland-202425",
+            "release_date": "2026-06-19T07:00:00Z",
+            "display_date": "19 June 2026",
             "org": "DoJ",
-            "updated": "2026-06-17T09:30:04Z",
+            "updated": "2026-06-19T09:30:00Z",
             "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-19T07:00:00Z",
+            "display_date": "19 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-19T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
+            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
+            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-annual-report-25-26.html",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "BSO",
+            "updated": "2026-06-18T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
+            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-quarterly-report-q4-25-26.html",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "BSO",
+            "updated": "2026-06-18T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2024",
+            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2024",
+            "summary": "This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/clinically-serious-injured-mais-3-road-casualties-northern-ireland",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "DfI",
+            "updated": "2026-06-18T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-1-2026",
+            "title": "Northern Ireland Index of Services: Quarter 1 2026",
+            "summary": "Quarterly index of the Northern Ireland private sector services output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-18T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-1-2026",
+            "title": "Northern Ireland Index of Production: Quarter 1 2026",
+            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-18T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "energy-in-northern-ireland-2026",
+            "title": "Energy in Northern Ireland 2026",
+            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
+            "url": "https://www.economy-ni.gov.uk/articles/energy-northern-ireland",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "DfE",
+            "updated": "2026-06-18T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2026",
+            "title": "NI Labour Market statistics: June 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-18T07:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-employment-survey-march-2026",
+            "title": "Quarterly Employment Survey: March 2026",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
+            "release_date": "2026-06-18T07:00:00Z",
+            "display_date": "18 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-18T07:00:00Z",
+            "type": "AOS"
         },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-march-2026",
@@ -22,6 +121,17 @@
             "display_date": "17 June 2026",
             "org": "DfC",
             "updated": "2026-06-17T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "court-prosecutions-convictions-and-out-of-court-disposals-in-northern-ireland-2025",
+            "title": "Court prosecutions, convictions and out of court disposals in Northern Ireland 2025",
+            "summary": "Report presenting information on prosecutions and convictions in courts and out of court disposals in Northern Ireland for the period 1 January 2025 to 31 December 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/court-prosecutions-convictions-and-out-court-disposals-statistics-northern-ireland-2025",
+            "release_date": "2026-06-17T07:00:00Z",
+            "display_date": "17 June 2026",
+            "org": "DoJ",
+            "updated": "2026-06-17T09:30:00Z",
             "type": "OS"
         },
         {
@@ -993,221 +1103,12 @@
             "type": "AOS"
         },
         {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-28-february-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 28 February 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2026-04-30T07:00:00Z",
-            "display_date": "30 April 2026",
-            "org": "PSNI",
-            "updated": "2026-04-30T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "pupil-suspensions-and-expulsions-in-northern-ireland-202425",
-            "title": "Pupil Suspensions and Expulsions in Northern Ireland 2024/25",
-            "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2024/25 academic year.",
-            "url": "https://www.education-ni.gov.uk/articles/pupil-suspensions-and-expulsions",
-            "release_date": "2026-04-30T07:00:00Z",
-            "display_date": "30 April 2026",
-            "org": "DE",
-            "updated": "2026-04-30T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "2024-based-population-projections-for-northern-ireland",
-            "title": "2024-based Population Projections for Northern Ireland",
-            "summary": "2024-based Population Projections for Northern Ireland",
-            "url": "https://www.nisra.gov.uk/publications/2024-based-population-projections-northern-ireland",
-            "release_date": "2026-04-28T07:00:00Z",
-            "display_date": "28 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-28T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-april-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 April 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 17 April 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-04-24T07:00:00Z",
-            "display_date": "24 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-24T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-january-march-2026",
-            "title": "Emergency Care Waiting Time Statistics (January - March 2026)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
-            "release_date": "2026-04-23T07:00:00Z",
-            "display_date": "23 April 2026",
-            "org": "DoH",
-            "updated": "2026-04-23T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202526",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 4 2025/26",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
-            "release_date": "2026-04-23T07:00:00Z",
-            "display_date": "23 April 2026",
-            "org": "OPONI",
-            "updated": "2026-04-23T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-oct-dec-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Oct-Dec 2025",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - October - December 2025",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
-            "release_date": "2026-04-23T07:00:00Z",
-            "display_date": "23 April 2026",
-            "org": "DAERA",
-            "updated": "2026-04-23T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-april-2026",
-            "title": "NI Labour Market statistics: April 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2026-04-21T07:00:00Z",
-            "display_date": "21 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-21T07:00:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-march-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: March 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-march-2026",
-            "release_date": "2026-04-17T07:00:00Z",
-            "display_date": "17 April 2026",
-            "org": "DfI",
-            "updated": "2026-04-17T09:30:05Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-april-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 April 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 April 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-04-17T07:00:00Z",
-            "display_date": "17 April 2026",
-            "org": "NISRA",
-            "updated": "2026-04-17T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-employment-survey-march-2026",
-            "title": "Quarterly Employment Survey: March 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "2026-06-18T07:00:00Z",
-            "display_date": "18 June 2026 7:00am (confirmed)",
-            "updated": "2026-06-10T12:28:34Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-labour-market-statistics-june-2026",
-            "title": "NI Labour Market statistics: June 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-06-18T07:00:00Z",
-            "display_date": "18 June 2026 7:00am (confirmed)",
-            "updated": "2026-03-31T16:28:04Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "energy-in-northern-ireland-2026",
-            "title": "Energy in Northern Ireland 2026",
-            "summary": "The Energy in Northern Ireland (NI) report is updated biennially and provides a comprehensive overview of key statistics relating to energy in NI.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-21T09:07:04Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2024",
-            "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2024",
-            "summary": "This research series presents the number of people seriously injured in road traffic collisions in Northern Ireland using a clinical definition.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-19T08:46:57Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:13:54Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
-            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
-            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:13:13Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-1-2026",
-            "title": "Northern Ireland Index of Services: Quarter 1 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T16:19:49Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-1-2026",
-            "title": "Northern Ireland Index of Production: Quarter 1 2026",
-            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "release_date": "2026-06-18T09:30:00Z",
-            "display_date": "18 June 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T15:54:19Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
-            "title": "First time entrants to the criminal justice system in Northern Ireland 2024 to 2025",
-            "summary": "Annual report on first time entrants to the criminal justice system in Northern Ireland, disaggregated by gender, age group and offence classification.",
-            "release_date": "2026-06-19T09:30:00Z",
-            "display_date": "19 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-21T12:05:21Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
-            "release_date": "2026-06-19T09:30:00Z",
-            "display_date": "19 June 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T09:40:14Z",
+            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland--2",
+            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
+            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T18:02:20Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -1298,17 +1199,6 @@
             "updated": "2026-05-19T12:12:25Z",
             "org": "DfI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland--2",
-            "title": "Census 2021 UK armed forces veterans for Northern Ireland",
-            "summary": "Data and supporting commentary about UK armed forces veterans from Census 2021 in Northern Ireland.",
-            "release_date": "2026-06-25T09:30:00Z",
-            "display_date": "25 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-07T09:20:39Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1620,6 +1510,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:40:30Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "labour-force-survey-annual-tables-2025",
             "title": "Labour Force Survey Annual Tables 2025",
             "summary": "These tables present additional Labour Market data for the period January to December 2025.",
@@ -1673,6 +1574,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
+            "release_date": "2026-08-06T09:30:00Z",
+            "display_date": "6 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:42:30Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
@@ -1763,6 +1675,17 @@
             "status": "provisional"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Medical Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 2026/27.",
+            "release_date": "2026-08-13T09:30:00Z",
+            "display_date": "13 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:45:46Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-july-2026",
             "title": "DVA Monthly Tests Conducted Statistics: July 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1815,6 +1738,17 @@
             "updated": "2026-01-21T11:13:52Z",
             "org": "DoF",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-june-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to June 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "release_date": "2026-08-20T09:30:00Z",
+            "display_date": "20 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:49:43Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1913,6 +1847,17 @@
             "display_date": "26 August 2026 9:30am (confirmed)",
             "updated": "2025-07-30T15:35:23Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q1-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q1 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2026/27.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-06-19T15:52:46Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2905,28 +2850,6 @@
             "org": "DfI",
             "type": "AOS",
             "status": "provisional"
-        },
-        {
-            "id": "quarterly-employment-survey-march-2026",
-            "title": "Quarterly Employment Survey: March 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "The Northern Ireland Quarterly Employment Survey June 2026 release has been delayed from Tuesday 16 June to Thursday 18 June as a result of the delay to the June 2026 Northern Ireland Labour Market Report. This is due to the national bank holiday in Scotland on Monday 15 June. These releases are always published on the same day.",
-            "updated": "2026-06-10T12:28:34Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "The Northern Ireland Quarterly Employment Survey June 2026 release has been delayed from Tuesday 16 June to Thursday 18 June as a result of the delay to the June 2026 Northern Ireland Labour Market Report. This is due to the national bank holiday in Scotland on Monday 15 June. These releases are always published on the same day."
-        },
-        {
-            "id": "ni-labour-market-statistics-june-2026",
-            "title": "NI Labour Market statistics: June 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "NAT09:30:00Z",
-            "display_date": "Reason for change:\r\nThe June 2026 labour market publication is delayed from Tuesday 16 June to Thursday 18 June because of a national bank holiday in Scotland on Monday 15 June.",
-            "updated": "2026-03-31T16:28:04Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "Reason for change:\r\nThe June 2026 labour market publication is delayed from Tuesday 16 June to Thursday 18 June because of a national bank holiday in Scotland on Monday 15 June."
         },
         {
             "id": "material-footprint-in-northern-ireland-2001-to-2022",
