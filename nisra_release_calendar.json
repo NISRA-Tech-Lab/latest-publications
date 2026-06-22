@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-22T11:43:02Z",
+    "modified": "2026-06-22T13:15:50Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -2910,20 +2910,20 @@
             "id": "employment-transitions-in-northern-ireland-20112021-the-role-of-disability-health-household-and-socioeconomic-factors-",
             "title": "Employment transitions in Northern Ireland, 2011-2021: The role of disability, health, household and socio-economic factors ",
             "summary": "Research outlining employment transitions in Northern Ireland, 2011-2021",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "June 2026 (provisional)",
-            "updated": "2026-06-02T09:12:00Z",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 (confirmed)",
+            "updated": "2026-06-22T14:16:00Z",
             "org": "NISRA",
             "type": "R",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "postprison-mortality-in-northern-ireland",
             "title": "Post-prison mortality in Northern Ireland",
             "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
-            "release_date": "2026-06-30T09:30:00Z",
-            "display_date": "June 2026 (provisional)",
-            "updated": "2026-05-21T09:50:00Z",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "September 2026 (provisional)",
+            "updated": "2026-06-22T14:16:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -2934,7 +2934,7 @@
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
             "release_date": "2026-07-31T09:30:00Z",
             "display_date": "July 2026 (provisional)",
-            "updated": "2026-05-21T09:50:00Z",
+            "updated": "2026-06-22T14:16:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
