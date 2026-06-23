@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-23T09:29:08Z",
+    "modified": "2026-06-23T11:30:03Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -1895,17 +1895,6 @@
             "status": "provisional"
         },
         {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
-            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "release_date": "2026-08-31T09:30:00Z",
-            "display_date": "July to August 2026 (provisional)",
-            "updated": "2026-03-31T15:39:58Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
             "title": "Personnel Statistics for the Northern Ireland Civil Service 2026",
             "summary": "Information on staffing numbers in the Northern Ireland Civil Service 2025/26. Subject to review, these statistics will be released between July and August 2026.",
@@ -2113,6 +2102,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
+            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "August to September 2026 (provisional)",
+            "updated": "2026-06-23T10:57:07Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
