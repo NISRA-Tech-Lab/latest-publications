@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-23T11:35:59Z",
+    "modified": "2026-06-23T14:28:29Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -1257,6 +1257,17 @@
             "status": "confirmed"
         },
         {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-january-2026",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to January 2026",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2026-06-26T09:30:00Z",
+            "display_date": "26 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-23T14:16:25Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "judicial-statistics-2025",
             "title": "Judicial Statistics 2025",
             "summary": "An Accredited Official Statistics publication presenting a summary of business in all court tiers of the Northern Ireland Courts and Tribunals Service for the calendar year 2025.",
@@ -1895,17 +1906,6 @@
             "status": "provisional"
         },
         {
-            "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
-            "title": "Personnel Statistics for the Northern Ireland Civil Service 2026",
-            "summary": "Information on staffing numbers in the Northern Ireland Civil Service 2025/26. Subject to review, these statistics will be released between July and August 2026.",
-            "release_date": "2026-08-31T09:30:00Z",
-            "display_date": "July to August 2026 (provisional)",
-            "updated": "2025-07-31T12:52:06Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 28 August 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 28 August 2026.",
@@ -2104,6 +2104,28 @@
             "status": "confirmed"
         },
         {
+            "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
+            "title": "Personnel Statistics for the Northern Ireland Civil Service 2026",
+            "summary": "Information on staffing numbers in the Northern Ireland Civil Service 2025/26. Subject to review, these statistics will be released between July and August 2026.\r\n\r\nThis publication will be updated.\r\nPersonnel Statistics for the Northern Ireland Civil Service was reviewed in 2025 and will be streamlined and improved to meet user needs. Further updates will be provided in due course.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "August to September 2026 (provisional)",
+            "updated": "2026-06-23T15:27:54Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "employment-in-the-northern-ireland-civil-service-1-july-2026",
+            "title": "Employment in the Northern Ireland Civil Service - 1 July 2026",
+            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                                                                                                                                                                                          \r\nSubject to review, these statistics will be released between August and September 2026.\r\n\r\nThis publication will be updated.\r\nThe Employment in the Northern Ireland Civil Service was reviewed in 2025 and will be streamlined and improved to meet user needs. Further updates will be provided in due course.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "August to September 2026 (provisional)",
+            "updated": "2026-06-23T15:26:23Z",
+            "org": "DoF",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
             "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
             "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
@@ -2166,17 +2188,6 @@
             "display_date": "August to September 2026 (provisional)",
             "updated": "2025-08-28T11:48:15Z",
             "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1-july-2026",
-            "title": "Employment in the Northern Ireland Civil Service - 1 July 2026",
-            "summary": "This bulletin provides details of NICS staff numbers on a quarterly basis and provides comparisons with the previous quarter, the wider public sector.                               \r\n                                                                                                                                                                                                          \r\nSubject to review, these statistics will be released between August and September 2026.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2025-07-31T12:34:14Z",
-            "org": "DoF",
             "type": "OS",
             "status": "provisional"
         },
@@ -2298,6 +2309,17 @@
             "display_date": "22 October 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:37:17Z",
             "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-april-2026-june-2026",
+            "title": "Quarterly Sickness Absence in the Northern Ireland Civil Service: April 2026 - June 2026",
+            "summary": "This provides an analysis of all sickness absence in the Northern Ireland Civil Service between 1 April 2026 and 30 June 2026.  \r\n\r\nThis publication is under review.\r\n\r\nThe content of the Quarterly Sickness report is to be reviewed in 2026 to ensure it meets user needs. Further updates will be provided in due course.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-06-23T15:23:13Z",
+            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
@@ -2947,7 +2969,7 @@
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-april-2026",
-            "updated": "2026-05-29T10:56:25Z"
+            "updated": "2026-06-23T15:25:07Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-february-2026",
