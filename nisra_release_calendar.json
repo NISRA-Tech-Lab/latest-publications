@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-24T08:58:15Z",
+    "modified": "2026-06-24T11:16:23Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "fps-pharmaceutical-statistics-for-northern-ireland-202526",
+            "title": "FPS Pharmaceutical Statistics for Northern Ireland 2025/26",
+            "summary": "Statistics related to community pharmacies and dispensing in Northern Ireland between April 2025 and March 2026.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-24T10:07:42Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "general-pharmaceutical-services-statistics-for-ni-q4-202526",
             "title": "General Pharmaceutical Services Statistics for NI, Q4 2025/26",
             "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2025/26.",
@@ -1210,17 +1221,6 @@
             "updated": "2026-05-19T12:12:25Z",
             "org": "DfI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "fps-pharmaceutical-statistics-for-northern-ireland-202526",
-            "title": "FPS Pharmaceutical Statistics for Northern Ireland 2025/26",
-            "summary": "Statistics related to community pharmacies and dispensing in Northern Ireland between April 2025 and March 2026.",
-            "release_date": "2026-06-25T09:30:00Z",
-            "display_date": "25 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-23T17:28:16Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1599,11 +1599,11 @@
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2026",
             "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
             "release_date": "2026-07-31T09:30:00Z",
             "display_date": "31 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:24:21Z",
+            "updated": "2026-06-24T10:50:35Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
