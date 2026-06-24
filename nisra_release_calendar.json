@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-23T18:18:28Z",
+    "modified": "2026-06-24T08:34:34Z",
     "entries": [
         {
             "id": "first-time-entrants-to-the-criminal-justice-system-in-northern-ireland-2024-to-2025",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q4-202526",
+            "title": "General Pharmaceutical Services Statistics for NI, Q4 2025/26",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2025/26.",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026 9:30am (confirmed)",
+            "updated": "2026-06-24T09:30:03Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "pps-statistical-bulletin-2025-26",
             "title": "PPS Statistical Bulletin 2025-26",
             "summary": "Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions.",
@@ -1208,17 +1219,6 @@
             "release_date": "2026-06-25T09:30:00Z",
             "display_date": "25 June 2026 9:30am (confirmed)",
             "updated": "2026-04-23T17:28:16Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q4-202526",
-            "title": "General Pharmaceutical Services Statistics for NI, Q4 2025/26",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 4 of 2025/26.",
-            "release_date": "2026-06-25T09:30:00Z",
-            "display_date": "25 June 2026 9:30am (confirmed)",
-            "updated": "2026-04-23T17:26:52Z",
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
