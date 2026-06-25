@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-25T08:52:48Z",
+    "modified": "2026-06-25T10:53:41Z",
     "entries": [
         {
             "id": "fps-pharmaceutical-statistics-for-northern-ireland-202526",
@@ -1151,11 +1151,11 @@
             "title": "Northern Ireland HSC Workforce Census March 2026",
             "summary": "A comprehensive profile of HSC staff",
             "release_date": "2026-07-01T09:30:00Z",
-            "display_date": "1 July 2026 9:30am (provisional)",
-            "updated": "2026-03-19T12:00:58Z",
+            "display_date": "1 July 2026 9:30am (confirmed)",
+            "updated": "2026-06-25T10:12:37Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-cancer-waiting-times-quarter-ending-march-2026",
