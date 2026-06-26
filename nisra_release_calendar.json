@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-26T11:20:45Z",
+    "modified": "2026-06-26T14:03:42Z",
     "entries": [
         {
             "id": "judicial-statistics-2025",
@@ -2740,6 +2740,17 @@
             "org": "DfI",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "work-transitions-in-northern-ireland-2011-2021",
+            "title": "Work Transitions in Northern Ireland: 2011 - 2021",
+            "summary": "Using 2011–2021 Census data, this study examined health, household, and socio-economic factors linked to entering or leaving employment.",
+            "url": "https://www.nisra.gov.uk/publications/work-transitions-northern-ireland-2011-2021",
+            "release_date": "2026-06-25T09:30:00Z",
+            "display_date": "25 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-25T09:30:00Z",
+            "type": "R"
         },
         {
             "id": "material-footprint-in-northern-ireland-2001-to-2022",
