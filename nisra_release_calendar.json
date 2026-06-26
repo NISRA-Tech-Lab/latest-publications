@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-25T18:30:21Z",
+    "modified": "2026-06-26T08:33:30Z",
     "entries": [
+        {
+            "id": "judicial-statistics-2025",
+            "title": "Judicial Statistics 2025",
+            "summary": "An Accredited Official Statistics publication presenting a summary of business in all court tiers of the NICTS for the calendar year 2025.",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-judicial-statistics",
+            "release_date": "2026-06-26T07:00:00Z",
+            "display_date": "26 June 2026",
+            "org": "NICTS",
+            "updated": "2026-06-26T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-january-2026",
+            "title": "Skills for Life and Work Fact Sheet and Tables - to January 2026",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2026-06-26T07:00:00Z",
+            "display_date": "26 June 2026",
+            "org": "DfE",
+            "updated": "2026-06-26T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-19-june-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 19 June 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 19 June 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-26T07:00:00Z",
+            "display_date": "26 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-26T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-april-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 April 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-06-26T07:00:00Z",
+            "display_date": "26 June 2026",
+            "org": "PSNI",
+            "updated": "2026-06-26T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "fps-pharmaceutical-statistics-for-northern-ireland-202526",
             "title": "FPS Pharmaceutical Statistics for Northern Ireland 2025/26",
@@ -1057,94 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-05-14T09:30:04Z",
             "type": "OS"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 31 March 2026",
-            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
-            "release_date": "2026-05-14T07:00:00Z",
-            "display_date": "14 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-14T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 March 2026",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2026-05-14T07:00:00Z",
-            "display_date": "14 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-14T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 31 March 2026",
-            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2026-05-14T07:00:00Z",
-            "display_date": "14 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-14T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 March 2026",
-            "summary": "Quarterly update of Agricultural and Rural Crime.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2026-05-14T07:00:00Z",
-            "display_date": "14 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-14T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "skills-for-life-and-work-fact-sheet-and-tables-to-january-2026",
-            "title": "Skills for Life and Work Fact Sheet and Tables - to January 2026",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2026-06-26T09:30:00Z",
-            "display_date": "26 June 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T14:16:25Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "judicial-statistics-2025",
-            "title": "Judicial Statistics 2025",
-            "summary": "An Accredited Official Statistics publication presenting a summary of business in all court tiers of the Northern Ireland Courts and Tribunals Service for the calendar year 2025.",
-            "release_date": "2026-06-26T09:30:00Z",
-            "display_date": "26 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-22T08:38:46Z",
-            "org": "NICTS",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-january-2026",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 April 2026",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-06-26T09:30:00Z",
-            "display_date": "26 June 2026 9:30am (confirmed)",
-            "updated": "2026-05-20T12:48:33Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-19-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 19 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 19 June 2026.",
-            "release_date": "2026-06-26T09:30:00Z",
-            "display_date": "26 June 2026 9:30am (confirmed)",
-            "updated": "2026-01-15T09:43:50Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-hsc-workforce-census-march-2026",
