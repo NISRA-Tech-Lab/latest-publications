@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-06-30T11:21:09Z",
+    "modified": "2026-06-30T13:56:33Z",
     "entries": [
         {
             "id": "judicial-statistics-2025",
@@ -1114,6 +1114,17 @@
             "status": "confirmed"
         },
         {
+            "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
+            "title": "Family Practitioner Services Statistics for NI - Key Facts 25/26",
+            "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
+            "release_date": "2026-07-02T09:30:00Z",
+            "display_date": "2 July 2026 9:30am (confirmed)",
+            "updated": "2026-06-30T14:01:14Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-cancer-waiting-times-quarter-ending-march-2026",
             "title": "Northern Ireland Cancer Waiting Times Quarter Ending March 2026",
             "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
@@ -1133,17 +1144,6 @@
             "updated": "2026-05-13T09:45:20Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
-            "title": "Family Practitioner Services Statistics for NI - Key Facts 25/26",
-            "summary": "This report contains key summary information on activity and payments in relation to general medical, dental, ophthalmic and pharmaceutical services in Northern Ireland.\r\n\r\nIt details information on the number of practitioners in Northern Ireland along with the number of registered patients and the treatments carried out and submitted to BSO for payment. The report also contains summary information on prescription dispensing and payments in relation to community dispensing (i.e. dispensing by community pharmacies, dispensing doctors and appliance suppliers).\r\n\r\nInformation is provided at Northern Ireland level with further breakdowns at Local Government District (LGD) and Local Commissioning Group (LCG) level.\r\n\r\nThe full, annual reports can be located within the relevant service area on the FPS website (https://bso.hscni.net/directorates/operations/family-practitioner-services/directorates-operations-family-practitioner-services-information-unit/)",
-            "release_date": "2026-07-02T09:30:00Z",
-            "display_date": "2 July 2026 9:30am (confirmed)",
-            "updated": "2026-04-24T11:15:13Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
