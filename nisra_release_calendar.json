@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-01T09:36:34Z",
+    "modified": "2026-07-01T11:33:20Z",
     "entries": [
         {
             "id": "northern-ireland-hsc-workforce-census-march-2026",
@@ -1108,7 +1108,7 @@
             "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
             "release_date": "2026-07-02T09:30:00Z",
             "display_date": "2 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-30T14:01:14Z",
+            "updated": "2026-07-01T10:51:48Z",
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
