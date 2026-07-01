@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-01T08:19:55Z",
+    "modified": "2026-07-01T08:32:00Z",
     "entries": [
         {
             "id": "judicial-statistics-2025",
@@ -210,6 +210,17 @@
             "org": "DoJ",
             "updated": "2026-06-19T09:30:00Z",
             "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-06-19T07:00:00Z",
+            "display_date": "19 June 2026",
+            "org": "NISRA",
+            "updated": "2026-06-19T09:30:00Z",
+            "type": "AOS"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
@@ -1090,28 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-05-14T09:30:04Z",
             "type": "OS"
-        },
-        {
-            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-31-march-2026",
-            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 31 March 2026",
-            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics",
-            "release_date": "2026-05-14T07:00:00Z",
-            "display_date": "14 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-14T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-census-march-2026",
-            "title": "Northern Ireland HSC Workforce Census March 2026",
-            "summary": "A comprehensive profile of HSC staff",
-            "release_date": "2026-07-01T09:30:00Z",
-            "display_date": "1 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-25T10:12:37Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
