@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-01T08:32:00Z",
+    "modified": "2026-07-01T09:29:28Z",
     "entries": [
+        {
+            "id": "northern-ireland-hsc-workforce-census-march-2026",
+            "title": "Northern Ireland HSC Workforce Census March 2026",
+            "summary": "A comprehensive profile of HSC staff",
+            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
+            "release_date": "2026-07-01T07:00:00Z",
+            "display_date": "1 July 2026",
+            "org": "DoH",
+            "updated": "2026-07-01T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "judicial-statistics-2025",
             "title": "Judicial Statistics 2025",
@@ -210,17 +221,6 @@
             "org": "DoJ",
             "updated": "2026-06-19T09:30:00Z",
             "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-06-19T07:00:00Z",
-            "display_date": "19 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-19T09:30:00Z",
-            "type": "AOS"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
