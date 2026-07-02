@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-02T13:30:25Z",
+    "modified": "2026-07-02T18:10:04Z",
     "entries": [
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
@@ -1411,6 +1411,17 @@
             "status": "provisional"
         },
         {
+            "id": "further-education-outcomes-academic-year-202425",
+            "title": "Further Education Outcomes: Academic Year 2024/25",
+            "summary": "Outcomes and satisfaction of leavers of NI Further Education institutions in the 2024/25 academic year.",
+            "release_date": "2026-08-04T09:30:00Z",
+            "display_date": "4 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-02T15:36:33Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2025",
             "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2025",
             "summary": "A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
@@ -1675,17 +1686,6 @@
             "status": "confirmed"
         },
         {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026--2",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2026",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-08-25T09:30:00Z",
-            "display_date": "25 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-02T11:46:47Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
             "title": "Northern Ireland HSC Active Recruitment Statistics June 2026",
             "summary": "A quarterly publication of HSC vacancies",
@@ -1803,6 +1803,17 @@
             "display_date": "27 August 2026 9:30am (confirmed)",
             "updated": "2026-06-10T13:50:54Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026--2",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-08-28T09:30:00Z",
+            "display_date": "28 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-02T16:55:52Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
