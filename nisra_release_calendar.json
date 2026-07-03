@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-03T08:54:43Z",
+    "modified": "2026-07-03T10:49:24Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
@@ -2231,6 +2231,17 @@
             "release_date": "2026-10-22T09:30:00Z",
             "display_date": "22 October 2026 9:30am (provisional)",
             "updated": "2025-09-25T10:37:17Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-june-2026",
+            "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times June 2026",
+            "summary": "Information is detailed below on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-07-03T11:09:22Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
