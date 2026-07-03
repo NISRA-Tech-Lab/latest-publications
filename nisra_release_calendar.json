@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-02T18:10:04Z",
+    "modified": "2026-07-03T07:32:14Z",
     "entries": [
         {
             "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
@@ -2956,7 +2956,7 @@
             "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
             "release_date": "2026-09-30T09:30:00Z",
             "display_date": "September 2026 (provisional)",
-            "updated": "2026-06-22T14:16:00Z",
+            "updated": "2026-07-03T08:30:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -2965,9 +2965,9 @@
             "id": "minority-ethnic-groups-in-northern-ireland",
             "title": "Minority Ethnic Groups in Northern Ireland",
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "July 2026 (provisional)",
-            "updated": "2026-06-22T14:16:00Z",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "August 2026 (provisional)",
+            "updated": "2026-07-03T08:30:00Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
