@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-06T12:19:38Z",
+    "modified": "2026-07-06T14:59:46Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
@@ -1407,6 +1407,17 @@
             "display_date": "4 August 2026 9:30am (confirmed)",
             "updated": "2026-07-02T15:36:33Z",
             "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-one-202627-financial-year",
+            "title": "Employment vacancies notified to DfC Quarter One 2026/27 financial year",
+            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
+            "release_date": "2026-08-05T09:30:00Z",
+            "display_date": "5 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-06T15:42:11Z",
+            "org": "DfC",
             "type": "OS",
             "status": "confirmed"
         },
