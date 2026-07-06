@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-06T08:35:23Z",
+    "modified": "2026-07-06T09:56:07Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
@@ -1407,6 +1407,17 @@
             "display_date": "4 August 2026 9:30am (confirmed)",
             "updated": "2026-07-02T15:36:33Z",
             "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-june-2026",
+            "title": "Monthly Occupancy Statistics, June 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-08-06T09:30:00Z",
+            "display_date": "6 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-06T09:58:49Z",
+            "org": "NISRA",
             "type": "OS",
             "status": "confirmed"
         },
