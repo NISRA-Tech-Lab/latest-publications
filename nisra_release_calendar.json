@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-07T09:31:44Z",
+    "modified": "2026-07-07T11:18:44Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
@@ -1991,6 +1991,17 @@
             "updated": "2026-05-26T15:29:03Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "continuous-household-survey-heat-and-insulation-results-202526",
+            "title": "Continuous Household Survey Heat and Insulation Results 2025/26",
+            "summary": "The Continuous Household Survey (CHS) Heat and Insulation report presents statistics on household heating and insulation in Northern Ireland. The publication includes information on primary and secondary heating methods, heating fuels, insulation measures, heating controls, and consumer behaviour relating to the purchase of heating oil. The report provides insights into household energy use and energy efficiency and supports the monitoring of trends over time. Results are based on data collected through the 2025/26 Continuous Household Survey. These statistics are used by government departments, local authorities, researchers, industry representatives, and the wider public to inform policy development, monitor trends in domestic energy use, and support evidence-based decision making.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (confirmed)",
+            "updated": "2026-07-07T11:36:26Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "confirmed"
         },
         {
