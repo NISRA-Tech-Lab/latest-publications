@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-08T08:16:02Z",
+    "modified": "2026-07-08T08:33:19Z",
     "entries": [
+        {
+            "id": "northern-ireland-hospital-statistics-emergency-care-202526",
+            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
+            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
+            "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
+            "release_date": "2026-07-08T07:00:00Z",
+            "display_date": "8 July 2026",
+            "org": "DoH",
+            "updated": "2026-07-08T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 26 June 2026",
@@ -1090,28 +1101,6 @@
             "org": "DfI",
             "updated": "2026-05-15T09:30:01Z",
             "type": "OS"
-        },
-        {
-            "id": "police-and-criminal-evidence-detection-pace-statistics-for-northern-ireland-202526",
-            "title": "Police and Criminal Evidence Detection (PACE) statistics for Northern Ireland 2025/26",
-            "summary": "Finalised Police and Criminal Evidence (PACE) Detection statistics for period 1 April 2025 - 31 March 2026.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-and-criminal-evidence-pace-order",
-            "release_date": "2026-05-15T07:00:00Z",
-            "display_date": "15 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-15T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
-            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
-            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
-            "release_date": "2026-07-08T09:30:00Z",
-            "display_date": "8 July 2026 9:30am (confirmed)",
-            "updated": "2026-07-06T11:05:50Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
