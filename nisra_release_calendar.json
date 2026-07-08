@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-08T08:33:19Z",
+    "modified": "2026-07-08T10:30:35Z",
     "entries": [
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202526",
@@ -1243,6 +1243,17 @@
             "updated": "2026-05-26T13:52:07Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "neighbourhood-renewal-area-profiles-2026",
+            "title": "Neighbourhood Renewal Area Profiles 2026",
+            "summary": "The 2026 Neighbourhood Renewal Area Profiles provide an updated statistical picture of the 36 Neighbourhood Renewal Areas across Northern Ireland.",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (confirmed)",
+            "updated": "2026-07-08T11:26:47Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
