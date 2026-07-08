@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-08T10:30:35Z",
+    "modified": "2026-07-08T13:41:16Z",
     "entries": [
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202526",
@@ -1682,6 +1682,17 @@
             "display_date": "21 August 2026 9:30am (confirmed)",
             "updated": "2026-03-24T08:58:09Z",
             "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "probation-board-ni-quarterly-caseload-quarter-1-202627",
+            "title": "Probation Board NI quarterly caseload, quarter 1, 2026/27",
+            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 30th June 2026.",
+            "release_date": "2026-08-26T09:30:00Z",
+            "display_date": "26 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-08T12:09:39Z",
+            "org": "PBNI",
             "type": "OS",
             "status": "confirmed"
         },
