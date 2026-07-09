@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-09T11:23:27Z",
+    "modified": "2026-07-09T18:15:23Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
@@ -1738,6 +1738,17 @@
             "updated": "2025-07-30T15:35:23Z",
             "org": "DfC",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "higher-level-apprenticeships-in-higher-education-ni-academic-year-202425",
+            "title": "Higher Level Apprenticeships in Higher Education NI, academic year 2024/25",
+            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Higher Education Institutions, including the number of starts, participants and qualifications achieved.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-09T14:43:29Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "confirmed"
         },
         {
