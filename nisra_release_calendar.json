@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-08T17:56:21Z",
+    "modified": "2026-07-09T08:31:48Z",
     "entries": [
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
+            "title": "Police recorded injury Road Traffic collisions and casualties Northern Ireland Detailed Trends report 2025",
+            "summary": "Annual calendar year detailed trends report on road traffic collision statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-07-09T07:00:00Z",
+            "display_date": "9 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-09T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-hospital-statistics-emergency-care-202526",
             "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-05-15T09:30:01Z",
             "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-april-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: April 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-april-2026",
-            "release_date": "2026-05-15T07:00:00Z",
-            "display_date": "15 May 2026",
-            "org": "DfI",
-            "updated": "2026-05-15T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
-            "title": "Police recorded injury Road Traffic collisions and casualties Northern Ireland Detailed Trends report 2025",
-            "summary": "Annual calendar year detailed trends report on road traffic collision statistics.",
-            "release_date": "2026-07-09T09:30:00Z",
-            "display_date": "9 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-09T14:18:23Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-june-2026",
