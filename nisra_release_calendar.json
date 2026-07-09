@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-09T08:31:48Z",
+    "modified": "2026-07-09T09:26:52Z",
     "entries": [
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
@@ -1378,15 +1378,15 @@
             "status": "confirmed"
         },
         {
-            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
-            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
-            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "July 2026 (provisional)",
-            "updated": "2026-04-03T14:25:44Z",
+            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2026",
+            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2026 ",
+            "summary": "The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
+            "release_date": "2026-08-04T09:30:00Z",
+            "display_date": "4 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-09T09:46:41Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "further-education-outcomes-academic-year-202425",
@@ -2060,6 +2060,17 @@
             "status": "confirmed"
         },
         {
+            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
+            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
+            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "September 2026 (provisional)",
+            "updated": "2026-07-09T09:55:33Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
             "title": "Personnel Statistics for the Northern Ireland Civil Service 2026",
             "summary": "Information on staffing numbers in the Northern Ireland Civil Service 2025/26. Subject to review, these statistics will be released between July and August 2026.\r\n\r\nThis publication will be updated.\r\nPersonnel Statistics for the Northern Ireland Civil Service was reviewed in 2025 and will be streamlined and improved to meet user needs. Further updates will be provided in due course.",
@@ -2134,17 +2145,6 @@
             "updated": "2026-05-26T14:44:52Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2026",
-            "title": "Making Life Better: Monitoring the Wider Social Determinants of Health & Wellbeing - Key Indicators 2026 ",
-            "summary": "The latest figures for key indicators of the wider social determinants of health & wellbeing according to themes in the making life better strategic framework.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2025-08-28T11:48:15Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "provisional"
         },
         {
