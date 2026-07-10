@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-10T09:19:09Z",
+    "modified": "2026-07-10T09:25:03Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-july-2026",
@@ -2269,17 +2269,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
-            "title": "Northern Ireland waiting time statistics: outpatient waiting times June 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-08T16:37:35Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-june-2026",
             "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times June 2026",
             "summary": "Information is detailed below on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
@@ -3051,6 +3040,10 @@
         }
     ],
     "cancelled": [
+        {
+            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
+            "updated": "2026-07-10T10:22:54Z"
+        },
         {
             "id": "benefit-cap-report-northern-ireland-may-2026",
             "updated": "2025-09-18T11:10:24Z"
