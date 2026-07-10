@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-10T09:25:03Z",
+    "modified": "2026-07-10T11:17:07Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-3-july-2026",
@@ -2247,23 +2247,23 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026--2",
-            "title": "Northern Ireland waiting time statistics: outpatient waiting times June 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-08T17:00:58Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-june-2026",
             "title": "Northern Ireland waiting time statistics: diagnostic waiting times June 2026",
             "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
             "release_date": "2026-10-31T09:30:00Z",
             "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-08T17:00:53Z",
+            "updated": "2026-07-10T11:59:55Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026--2",
+            "title": "Northern Ireland waiting time statistics: outpatient waiting times June 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-07-10T11:56:13Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
@@ -2861,6 +2861,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "pupil-suspensions-and-expulsions-in-northern-ireland-2025-to-2026-academic-year",
+            "title": "Pupil Suspensions and Expulsions in Northern Ireland, 2025 to 2026 (academic year)",
+            "summary": "The purpose of this data is to present suspensions and expulsions figures for schools for the 2025 to 2026 academic year.",
+            "release_date": "2027-05-31T09:30:00Z",
+            "display_date": "April to May 2027 (provisional)",
+            "updated": "2026-07-10T10:54:31Z",
+            "org": "DE",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "judicial-statistics-2026",
