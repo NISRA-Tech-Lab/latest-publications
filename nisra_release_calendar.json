@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-16T10:20:51Z",
+    "modified": "2026-07-20T06:59:48Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-10-july-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 10 July 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 July 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-07-17T07:00:00Z",
+            "display_date": "17 July 2026",
+            "org": "NISRA",
+            "updated": "2026-07-17T09:30:04Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-marriages-northern-ireland-june-2026",
             "title": "Monthly Marriages (Northern Ireland): June 2026",
@@ -1092,28 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "nicts-quarterly-provisional-figures-january-to-march-2026--2",
-            "title": "NICTS Quarterly Provisional Figures January to March 2026",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter January to March 2026",
-            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
-            "release_date": "2026-05-22T07:00:00Z",
-            "display_date": "22 May 2026",
-            "org": "NICTS",
-            "updated": "2026-05-22T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 July 2026.",
-            "release_date": "2026-07-17T09:30:00Z",
-            "display_date": "17 July 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T13:49:50Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "ni-labour-market-statistics-july-2026",
             "title": "NI Labour Market statistics: July 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -2167,6 +2156,17 @@
             "updated": "2026-02-23T13:33:18Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202627",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 2 2026/27",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (confirmed)",
+            "updated": "2026-07-17T09:55:28Z",
+            "org": "OPONI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
