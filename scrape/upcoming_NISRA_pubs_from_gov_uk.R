@@ -110,7 +110,7 @@ while (has_pubs == TRUE) {
     
     for (k in 1:length(p_tags)) {
       class <- html_attr(p_tags[k], "class")
-      if (class == "gem-c-lead-paragraph" & !is.na(class)) {
+      if (grepl("gem-c-lead-paragraph", class) & !is.na(class)) {
         summary <- trimws(html_text(p_tags[k]))
       }
     }

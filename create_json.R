@@ -46,13 +46,13 @@ output_list <- list(name = "nisra release calendar",
                     entries = c(),
                     cancelled = c())
 
-source("org_names.R")
-source("release_types.R")
-source("latest_NISRA_pubs_from_gov_uk.R")
-source("upcoming_NISRA_pubs_from_gov_uk.R")
-source("research_NISRA_pubs_from_gov_uk.R")
-source("upcoming_research_from_csv.R")
-source("cancelled_NISRA_pubs_from_gov_uk.R")
+source("lookups/org_names.R")
+source("lookups/release_types.R")
+source("scrape/latest_NISRA_pubs_from_gov_uk.R")
+source("scrape/upcoming_NISRA_pubs_from_gov_uk.R")
+source("scrape/research_NISRA_pubs_from_gov_uk.R")
+source("scrape/upcoming_research_from_csv.R")
+source("scrape/cancelled_NISRA_pubs_from_gov_uk.R")
 
 toJSON(output_list, auto_unbox = TRUE) %>%
   prettify() %>%
