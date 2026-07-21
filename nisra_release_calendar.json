@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-20T18:27:19Z",
+    "modified": "2026-07-21T08:08:45Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-july-2026",
+            "title": "NI Labour Market statistics: July 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-07-21T07:00:00Z",
+            "display_date": "21 July 2026",
+            "org": "NISRA",
+            "updated": "2026-07-21T07:00:03Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-10-july-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 10 July 2026",
@@ -1092,28 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "deaths-registered-in-northern-ireland-week-ending-15-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 15 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 15 May 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-05-22T07:00:00Z",
-            "display_date": "22 May 2026",
-            "org": "NISRA",
-            "updated": "2026-05-22T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-july-2026",
-            "title": "NI Labour Market statistics: July 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-07-21T07:00:00Z",
-            "display_date": "21 July 2026 7:00am (confirmed)",
-            "updated": "2026-02-23T12:41:17Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
             "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
             "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
@@ -1642,6 +1631,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2026",
+            "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2026",
+            "summary": "The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report monitors the progress of the strategy against agreed targets and key performance indicators.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-21T08:42:23Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "higher-level-apprenticeships-in-higher-education-ni-academic-year-202425",
             "title": "Higher Level Apprenticeships in Higher Education NI, academic year 2024/25",
             "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Higher Education Institutions, including the number of starts, participants and qualifications achieved.",
@@ -1761,6 +1761,17 @@
             "org": "DfI",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "highest-qualification-and-participation-in-education-and-training-2025",
+            "title": "Highest qualification and participation in education and training 2025",
+            "summary": "The tables provide updated figures to 2025 for the highest qualification level.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-07-21T06:57:22Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
