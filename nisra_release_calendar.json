@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-23T08:20:48Z",
+    "modified": "2026-07-23T08:32:59Z",
     "entries": [
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
+            "release_date": "2026-07-23T07:00:00Z",
+            "display_date": "23 July 2026",
+            "org": "OPONI",
+            "updated": "2026-07-23T09:30:04Z",
+            "type": "OS"
+        },
         {
             "id": "ni-labour-market-statistics-july-2026",
             "title": "NI Labour Market statistics: July 2026",
@@ -1090,28 +1101,6 @@
             "org": "DfC",
             "updated": "2026-05-27T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2025",
-            "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2025",
-            "summary": "Calendar year report providing statistics in relation to Preliminary Breath Tests carried out by the Police Service of Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2026-05-22T07:00:00Z",
-            "display_date": "22 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-22T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "release_date": "2026-07-23T09:30:00Z",
-            "display_date": "23 July 2026 9:30am (confirmed)",
-            "updated": "2026-05-11T08:08:00Z",
-            "org": "OPONI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
