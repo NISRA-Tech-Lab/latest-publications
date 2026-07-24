@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-24T13:18:57Z",
+    "modified": "2026-07-24T17:58:28Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
+            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (confirmed)",
+            "updated": "2026-07-24T14:19:58Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "neighbourhood-renewal-area-profiles-2026",
             "title": "Neighbourhood Renewal Area Profiles 2026",
             "summary": "The 2026 Neighbourhood Renewal Area Profiles provide an updated statistical picture of the 36 Neighbourhood Renewal Areas across Northern Ireland.",
@@ -1188,17 +1199,6 @@
             "updated": "2026-06-08T13:19:56Z",
             "org": "DfC",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
-            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T15:43:07Z",
-            "org": "DAERA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1730,6 +1730,28 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2026",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2026)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "August 2026 (provisional)",
+            "updated": "2026-07-24T15:29:18Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2026",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (June 2026)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2026-08-31T09:30:00Z",
+            "display_date": "August 2026 (provisional)",
+            "updated": "2026-07-24T15:23:18Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
             "title": "Northern Ireland planning statistics: April 2025 to March 2026",
             "summary": "Finalised annual results for 2025/26. Northern Ireland planning volumes and processing performance data.",
@@ -1791,17 +1813,6 @@
             "release_date": "2026-09-11T09:30:00Z",
             "display_date": "11 September 2026 9:30am (confirmed)",
             "updated": "2026-05-27T15:29:40Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-august-2026",
-            "title": "Monthly Deaths (Northern Ireland): August 2026",
-            "summary": "Monthly Deaths (Northern Ireland): August 2026",
-            "release_date": "2026-09-11T09:30:00Z",
-            "display_date": "11 September 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:22:55Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -1970,6 +1981,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "children-adopted-from-care-in-northern-ireland-202526",
+            "title": "Children Adopted from Care in Northern Ireland 2025/26",
+            "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "September 2026 (provisional)",
+            "updated": "2026-07-24T16:23:49Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "mental-health-and-learning-disability-inpatient-tables-202425",
@@ -2192,6 +2214,28 @@
             "status": "provisional"
         },
         {
+            "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202526",
+            "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2025/26",
+            "summary": "This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "October 2026 (provisional)",
+            "updated": "2026-07-24T16:58:31Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "childrens-social-care-statistics-for-northern-ireland-202526",
+            "title": "Childrens Social Care Statistics for Northern Ireland 2025/26",
+            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "October 2026 (provisional)",
+            "updated": "2026-07-24T16:52:20Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-june-2026",
             "title": "Northern Ireland waiting time statistics: diagnostic waiting times June 2026",
             "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
@@ -2390,6 +2434,28 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "November 2026 (provisional)",
+            "updated": "2026-07-24T17:02:38Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "November 2026 (provisional)",
+            "updated": "2026-07-24T15:32:10Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2026",
             "title": "Northern Ireland waiting time statistics: cancer waiting times April - June 2026",
             "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
@@ -2429,6 +2495,17 @@
             "release_date": "2026-11-30T09:30:00Z",
             "display_date": "November 2026 (provisional)",
             "updated": "2026-05-19T10:08:18Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2025",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2025",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2025",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "November 2026 (provisional)",
+            "updated": "2026-05-19T09:50:18Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
