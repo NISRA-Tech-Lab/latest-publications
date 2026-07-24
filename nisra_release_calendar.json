@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-24T08:15:06Z",
+    "modified": "2026-07-24T09:03:18Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 17 July 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 17 July 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-07-24T07:00:00Z",
+            "display_date": "24 July 2026",
+            "org": "NISRA",
+            "updated": "2026-07-24T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
             "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
@@ -1090,28 +1101,6 @@
             "org": "DfC",
             "updated": "2026-05-27T09:30:00Z",
             "type": "OS"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-february-2026",
-            "title": "Northern Ireland Benefit Statistics Summary: February 2026",
-            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "url": "https://www.communities-ni.gov.uk/articles/benefits-statistics-summary",
-            "release_date": "2026-05-27T07:00:00Z",
-            "display_date": "27 May 2026",
-            "org": "DfC",
-            "updated": "2026-05-27T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 17 July 2026.",
-            "release_date": "2026-07-24T09:30:00Z",
-            "display_date": "24 July 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T13:52:07Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "neighbourhood-renewal-area-profiles-2026",
