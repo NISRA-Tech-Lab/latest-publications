@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-28T13:30:49Z",
+    "modified": "2026-07-28T17:49:37Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
@@ -1609,6 +1609,17 @@
             "status": "confirmed"
         },
         {
+            "id": "travel-survey-for-northern-ireland-report-2024-data",
+            "title": "Travel Survey for Northern Ireland Report 2024 data",
+            "summary": "Release of 2024 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-28T16:05:00Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2026",
             "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2026",
             "summary": "The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report monitors the progress of the strategy against agreed targets and key performance indicators.",
@@ -2093,6 +2104,17 @@
             "status": "confirmed"
         },
         {
+            "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
+            "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2026-10-09T09:30:00Z",
+            "display_date": "9 October 2026 9:30am (confirmed)",
+            "updated": "2026-07-28T14:41:16Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
             "title": "Monthly Stillbirths (Northern Ireland): September 2026",
             "summary": "Monthly Stillbirths (Northern Ireland): September 2026",
@@ -2200,6 +2222,17 @@
             "updated": "2025-09-25T10:37:17Z",
             "org": "DoH",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-june-2026",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending June 2026",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-07-28T15:20:46Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "provisional"
         },
         {
