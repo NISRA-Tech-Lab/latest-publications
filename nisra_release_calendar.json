@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-29T08:30:10Z",
+    "modified": "2026-07-29T10:48:10Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
@@ -1609,6 +1609,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-housing-bulletin-april-june-2026",
+            "title": "Northern Ireland Housing Bulletin April - June 2026",
+            "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-29T10:23:21Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "travel-survey-for-northern-ireland-report-2024-data",
             "title": "Travel Survey for Northern Ireland Report 2024 data",
             "summary": "Release of 2024 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
@@ -2907,6 +2918,17 @@
             "status": "confirmed"
         },
         {
+            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2025-to-2026-academic-year",
+            "title": "Qualifications and destinations of Northern Ireland school leavers: 2025 to 2026 (academic year)",
+            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2025 to 2026 (academic year).",
+            "release_date": "2027-06-30T09:30:00Z",
+            "display_date": "May to June 2027 (provisional)",
+            "updated": "2026-07-29T10:35:40Z",
+            "org": "DE",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "teacher-vacancies-sickness-absence-and-substitution-2026-to-2027-academic-year",
             "title": "Teacher vacancies, sickness absence and substitution, 2026 to 2027 (academic year)",
             "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2026 to 2027 (academic year)",
@@ -2927,6 +2949,28 @@
             "org": "DE",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "personal-independence-payment-statistics-may-2027",
+            "title": "Personal Independence Payment Statistics - May 2027",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2027-08-25T09:30:00Z",
+            "display_date": "25 August 2027 9:30am (confirmed)",
+            "updated": "2026-07-29T09:56:24Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-may-2027",
+            "title": "Northern Ireland Benefit Statistics Summary: May 2027",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2027-08-25T09:30:00Z",
+            "display_date": "25 August 2027 9:30am (confirmed)",
+            "updated": "2026-07-29T09:46:48Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "nicts-quarterly-provisional-figures-april-to-june-2027",
@@ -3088,6 +3132,10 @@
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-july-2026",
             "updated": "2026-07-28T12:16:47Z"
+        },
+        {
+            "id": "northern-ireland-housing-bulletin-april-june-2026--2",
+            "updated": "2026-07-29T11:00:37Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-may-2026",
