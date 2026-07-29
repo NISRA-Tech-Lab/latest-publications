@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-28T17:49:37Z",
+    "modified": "2026-07-29T08:20:57Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
+            "release_date": "2026-07-30T09:30:00Z",
+            "display_date": "30 July 2026 9:30am (confirmed)",
+            "updated": "2026-07-29T09:15:27Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
             "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
             "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
@@ -1165,17 +1176,6 @@
             "display_date": "30 July 2026 9:30am (confirmed)",
             "updated": "2026-06-23T16:07:15Z",
             "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-19T15:40:30Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
