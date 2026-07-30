@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-29T17:45:31Z",
+    "modified": "2026-07-30T08:08:30Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
@@ -2960,6 +2960,17 @@
             "org": "DE",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-may-2027",
+            "title": "Northern Ireland Universal Credit Statistics: May 2027",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "release_date": "2027-08-25T09:30:00Z",
+            "display_date": "25 August 2027 9:30am (confirmed)",
+            "updated": "2026-07-30T08:05:53Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "personal-independence-payment-statistics-may-2027",
