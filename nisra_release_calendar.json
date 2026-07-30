@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-30T10:34:11Z",
+    "modified": "2026-07-30T13:27:08Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
@@ -1818,6 +1818,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-index-of-services-quarter-2-2026",
+            "title": "Northern Ireland Index of Services: Quarter 2 2026",
+            "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-07-30T12:07:11Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "statistical-bulletin-cases-involving-hate-crime-202526",
             "title": "Statistical Bulletin: Cases Involving Hate Crime 2025/26",
             "summary": "The PPS publishes annual statistics on Cases Involving Hate Crime. The statistics are set out in two parts: In Part One, Tables 1 – 6 present key statistics in relation to cases involving hate crime submitted to the PPS by the PSNI. In Part Two, Tables 7 - 10 present key statistics in relation to cases considered by a prosecutor to have involved hate crime which was ‘aggravated by hostility’.",
@@ -1826,17 +1837,6 @@
             "updated": "2026-07-30T09:46:26Z",
             "org": "PPS",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-2-2026",
-            "title": "Northern Ireland Index of Services: Quarter 2 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-01-13T13:02:14Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -2491,10 +2491,10 @@
         {
             "id": "northern-ireland-index-of-services-quarter-3-2026",
             "title": "Northern Ireland Index of Services: Quarter 3 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
+            "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
             "release_date": "2026-12-17T09:30:00Z",
             "display_date": "17 December 2026 9:30am (confirmed)",
-            "updated": "2025-09-25T16:29:35Z",
+            "updated": "2026-07-30T12:07:37Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2731,12 +2731,23 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-index-of-services-quarter-4-2026",
-            "title": "Northern Ireland Index of Services: Quarter 4 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
+            "id": "northern-ireland-index-of-production-quarter-4-2026",
+            "title": "Northern Ireland Index of Production: Quarter 4 2026",
+            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
             "release_date": "2027-03-18T09:30:00Z",
             "display_date": "18 March 2027 9:30am (confirmed)",
-            "updated": "2026-07-30T11:30:00Z",
+            "updated": "2026-07-30T13:08:56Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-4-2026",
+            "title": "Northern Ireland Index of Services: Quarter 4 2026",
+            "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
+            "release_date": "2027-03-18T09:30:00Z",
+            "display_date": "18 March 2027 9:30am (confirmed)",
+            "updated": "2026-07-30T12:06:28Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
@@ -2869,6 +2880,28 @@
             "release_date": "2027-06-15T07:00:00Z",
             "display_date": "15 June 2027 7:00am (confirmed)",
             "updated": "2026-07-30T10:49:27Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-1-2027",
+            "title": "Northern Ireland Index of Production: Quarter 1 2027",
+            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2027-06-17T09:30:00Z",
+            "display_date": "17 June 2027 9:30am (confirmed)",
+            "updated": "2026-07-30T13:14:06Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-1-2027",
+            "title": "Northern Ireland Index of Services: Quarter 1 2027",
+            "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
+            "release_date": "2027-06-17T09:30:00Z",
+            "display_date": "17 June 2027 9:30am (confirmed)",
+            "updated": "2026-07-30T12:10:52Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
