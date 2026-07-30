@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-30T08:56:22Z",
+    "modified": "2026-07-30T10:34:11Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
@@ -2720,6 +2720,28 @@
             "status": "provisional"
         },
         {
+            "id": "quarterly-employment-survey-december-2026",
+            "title": "Quarterly Employment Survey: December 2026",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
+            "release_date": "2027-03-16T07:00:00Z",
+            "display_date": "16 March 2027 7:00am (confirmed)",
+            "updated": "2026-07-30T10:36:24Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-4-2026",
+            "title": "Northern Ireland Index of Services: Quarter 4 2026",
+            "summary": "Quarterly index of the Northern Ireland private sector services output.",
+            "release_date": "2027-03-18T09:30:00Z",
+            "display_date": "18 March 2027 9:30am (confirmed)",
+            "updated": "2026-07-30T11:30:00Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-planning-statistics-october-to-december-2026",
             "title": "Northern Ireland planning statistics: October to December 2026",
             "summary": "Provisional quarterly results for the third quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
@@ -2839,6 +2861,17 @@
             "org": "DE",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "quarterly-employment-survey-march-2027",
+            "title": "Quarterly Employment Survey: March 2027",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
+            "release_date": "2027-06-15T07:00:00Z",
+            "display_date": "15 June 2027 7:00am (confirmed)",
+            "updated": "2026-07-30T10:49:27Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "judicial-statistics-2026",
