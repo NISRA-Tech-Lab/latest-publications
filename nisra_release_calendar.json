@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-30T13:27:08Z",
+    "modified": "2026-07-30T17:55:05Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
@@ -1532,6 +1532,17 @@
             "status": "confirmed"
         },
         {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-07-30T15:23:10Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-housing-bulletin-april-june-2026",
             "title": "Northern Ireland Housing Bulletin April - June 2026",
             "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
@@ -2002,17 +2013,6 @@
             "updated": "2026-06-09T13:36:16Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
-            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
-            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2026-05-29T14:27:12Z",
-            "org": "DoF",
-            "type": "AOS",
             "status": "provisional"
         },
         {
