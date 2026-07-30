@@ -1,7 +1,95 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-30T08:13:58Z",
+    "modified": "2026-07-30T08:56:22Z",
     "entries": [
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-quarterly-report-q1-26-27.html",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "BSO",
+            "updated": "2026-07-30T09:30:19Z",
+            "type": "AOS"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-june-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 June 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-30T09:30:08Z",
+            "type": "AOS"
+        },
+        {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-june-2026",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 June 2026",
+            "summary": "Quarterly update of Agricultural and Rural Crime.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-30T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-june-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 June 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-30T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-may-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 31 May 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-30T09:30:08Z",
+            "type": "AOS"
+        },
+        {
+            "id": "neighbourhood-renewal-area-profiles-2026",
+            "title": "Neighbourhood Renewal Area Profiles 2026",
+            "summary": "The 2026 Neighbourhood Renewal Area Profiles provide an updated statistical picture of the 36 Neighbourhood Renewal Areas across Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/resources-neighbourhood-renewal-partnerships",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "DfC",
+            "updated": "2026-07-30T09:30:08Z",
+            "type": "OS"
+        },
+        {
+            "id": "liquor-licences-in-northern-ireland-2025",
+            "title": "Liquor Licences in Northern Ireland 2025",
+            "summary": "The publication provides summary statistics on the number of liquor licences in force for public houses and off-licences as at 31 December 2025.",
+            "url": "https://www.communities-ni.gov.uk/topics/law-and-legislation-statistics-and-research/social-policy-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "DfC",
+            "updated": "2026-07-30T09:30:07Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
+            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
+            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
+            "release_date": "2026-07-30T07:00:00Z",
+            "display_date": "30 July 2026",
+            "org": "DAERA",
+            "updated": "2026-07-30T09:30:06Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 17 July 2026",
@@ -1015,171 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "northern-ireland-housing-bulletin-january-march-2026",
-            "title": "Northern Ireland Housing Bulletin January - March 2026",
-            "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
-            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "DfC",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-environmental-statistics-report-2026",
-            "title": "Northern Ireland Environmental Statistics Report 2026",
-            "summary": "This publication reports on a range of environmental indicators for Northern Ireland and provides links to government strategies.",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-environmental-statistics-report",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "DAERA",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "AOS"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-march-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 31 March 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "PSNI",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "AOS"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-jan-march-2026",
-            "title": "Young people not in education, employment or training (NEET), NI: Jan-March 2026",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-may-2026",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "NISRA",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "AOS"
-        },
-        {
-            "id": "probation-board-ni-annual-caseload-202526",
-            "title": "Probation Board NI annual caseload 2025/26",
-            "summary": "This annual report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-annual-caseload-statistics-2025-26.html",
-            "release_date": "2026-05-27T07:00:00Z",
-            "display_date": "27 May 2026",
-            "org": "PBNI",
-            "updated": "2026-05-27T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "structure-performance-of-the-ni-economy-2022",
-            "title": "Structure & Performance of the NI Economy 2022",
-            "summary": "Structure & Performance of the NI Economy 2022 including Detailed Supply-Use tables for 2022.",
-            "url": "https://www.nisra.gov.uk/statistics/business-economy-and-trade/economic-accounts",
-            "release_date": "2026-05-27T07:00:00Z",
-            "display_date": "27 May 2026",
-            "org": "NISRA",
-            "updated": "2026-05-27T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "probation-board-ni-quarterly-caseload-quarter-4-202526",
-            "title": "Probation Board NI quarterly caseload, quarter 4, 2025/26",
-            "summary": "This quarterly report presents information on service users and caseload supervised by the Probation Board for Northern Ireland on 31st March 2026.",
-            "url": "https://datavis.nisra.gov.uk/pbni/pbni-quarterly-caseload-statistics-q4-2025-26.html",
-            "release_date": "2026-05-27T07:00:00Z",
-            "display_date": "27 May 2026",
-            "org": "PBNI",
-            "updated": "2026-05-27T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-february-2026",
-            "title": "Northern Ireland Universal Credit Statistics: February 2026",
-            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
-            "release_date": "2026-05-27T07:00:00Z",
-            "display_date": "27 May 2026",
-            "org": "DfC",
-            "updated": "2026-05-27T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-07-29T09:15:27Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
-            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-07-24T14:19:58Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "neighbourhood-renewal-area-profiles-2026",
-            "title": "Neighbourhood Renewal Area Profiles 2026",
-            "summary": "The 2026 Neighbourhood Renewal Area Profiles provide an updated statistical picture of the 36 Neighbourhood Renewal Areas across Northern Ireland.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-07-08T11:26:47Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-may-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 31 May 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:27:32Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 June 2026",
-            "summary": "Quarterly update of Agricultural and Rural Crime.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:13:41Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 30 June 2026",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:10:08Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Police recorded crime in Northern Ireland, period ending 30 June 2026",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:07:15Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "labour-force-survey-annual-tables-2025",
             "title": "Labour Force Survey Annual Tables 2025",
             "summary": "These tables present additional Labour Market data for the period January to December 2025.",
@@ -1188,17 +1111,6 @@
             "updated": "2026-06-09T11:32:53Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "liquor-licences-in-northern-ireland-2025",
-            "title": "Liquor Licences in Northern Ireland 2025",
-            "summary": "The publication provides summary statistics on the number of liquor licences in force for public houses and off-licences as at 31 December 2025.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-08T13:19:56Z",
-            "org": "DfC",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1903,6 +1815,17 @@
             "updated": "2025-10-03T08:28:12Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-hate-crime-202526",
+            "title": "Statistical Bulletin: Cases Involving Hate Crime 2025/26",
+            "summary": "The PPS publishes annual statistics on Cases Involving Hate Crime. The statistics are set out in two parts: In Part One, Tables 1 – 6 present key statistics in relation to cases involving hate crime submitted to the PPS by the PSNI. In Part Two, Tables 7 - 10 present key statistics in relation to cases considered by a prosecutor to have involved hate crime which was ‘aggravated by hostility’.",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-07-30T09:46:26Z",
+            "org": "PPS",
+            "type": "OS",
             "status": "confirmed"
         },
         {
