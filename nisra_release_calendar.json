@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-31T13:40:46Z",
+    "modified": "2026-07-31T17:59:38Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-july-2026",
@@ -1664,6 +1664,17 @@
             "status": "provisional"
         },
         {
+            "id": "monthly-occupancy-statistics-july-2026",
+            "title": "Monthly Occupancy Statistics, July 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-07-31T15:55:29Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-june-2026",
             "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending June 2026",
             "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
@@ -1950,17 +1961,6 @@
             "status": "provisional"
         },
         {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
-            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2026-06-23T10:57:07Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
             "title": "Statistics on community care for adults in Northern Ireland 2024/25",
             "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations.",
@@ -2134,6 +2134,17 @@
             "updated": "2025-09-25T10:37:17Z",
             "org": "DoH",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
+            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-07-31T15:41:27Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "provisional"
         },
         {
