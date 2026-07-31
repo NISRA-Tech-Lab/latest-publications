@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-07-30T17:55:05Z",
+    "modified": "2026-07-31T08:38:09Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-24-july-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 24 July 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 24 July 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-07-31T07:00:00Z",
+            "display_date": "31 July 2026",
+            "org": "NISRA",
+            "updated": "2026-07-31T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-june-2026",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 June 2026",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
+            "release_date": "2026-07-31T07:00:00Z",
+            "display_date": "31 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-31T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-may-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-07-31T07:00:00Z",
+            "display_date": "31 July 2026",
+            "org": "PSNI",
+            "updated": "2026-07-31T09:30:04Z",
+            "type": "AOS"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
             "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
@@ -1068,83 +1101,6 @@
             "org": "BSO",
             "updated": "2026-05-28T09:30:20Z",
             "type": "OS"
-        },
-        {
-            "id": "family-resources-survey-report-northern-ireland-2024-to-2025",
-            "title": "Family Resources Survey Report, Northern Ireland 2024 to 2025",
-            "summary": "This is a publication of Official Statistics in Development. This report provides an annual summary of the key findings from the Northern Ireland Family Resources Survey.",
-            "url": "https://www.communities-ni.gov.uk/topics/family-resources-survey#toc-0",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "DfC",
-            "updated": "2026-05-28T09:30:10Z",
-            "type": "OS"
-        },
-        {
-            "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2024-to-2025-academic-year",
-            "title": "Qualifications and destinations of Northern Ireland school leavers: 2024 to 2025 (academic year)",
-            "summary": "An analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2024 to 2025 (academic year).",
-            "url": "https://www.education-ni.gov.uk/articles/school-leavers",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "DE",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "AOS"
-        },
-        {
-            "id": "motorcyclist-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
-            "title": "Motorcyclist killed or seriously injured (KSI) casualties in Northern Ireland, 2020-2024",
-            "summary": "This statistical brief uses PSNI road traffic collision data from 2020 to 2024 to identify any emerging issues regarding the number of motorcyclists killed or seriously injured on roads in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "DfI",
-            "updated": "2026-05-28T09:30:09Z",
-            "type": "OS"
-        },
-        {
-            "id": "labour-force-survey-annual-tables-2025",
-            "title": "Labour Force Survey Annual Tables 2025",
-            "summary": "These tables present additional Labour Market data for the period January to December 2025.",
-            "release_date": "2026-07-30T09:30:00Z",
-            "display_date": "30 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-09T11:32:53Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 May 2026",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "31 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-24T10:50:35Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 June 2026",
-            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "31 July 2026 9:30am (confirmed)",
-            "updated": "2026-06-23T16:16:30Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-24-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 24 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 24 July 2026.",
-            "release_date": "2026-07-31T09:30:00Z",
-            "display_date": "31 July 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T13:55:07Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2026",
