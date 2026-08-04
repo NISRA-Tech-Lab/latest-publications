@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-04T08:21:04Z",
+    "modified": "2026-08-04T08:27:54Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-24-july-2026",
@@ -1444,17 +1444,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2026",
-            "title": "Northern Ireland HSC Workforce Statistics June 2026",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2026-08-26T09:30:00Z",
-            "display_date": "26 August 2026 9:30am (provisional)",
-            "updated": "2026-03-19T10:53:00Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-benefit-statistics-summary-may-2026",
             "title": "Northern Ireland Benefit Statistics Summary: May 2026",
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
@@ -1763,17 +1752,6 @@
             "status": "confirmed"
         },
         {
-            "id": "monthly-births-northern-ireland-august-2026",
-            "title": "Monthly Births (Northern Ireland): August 2026",
-            "summary": "Monthly Births (Northern Ireland): August 2026",
-            "release_date": "2026-09-11T09:30:00Z",
-            "display_date": "11 September 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T14:34:19Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-4-september-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 4 September 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 4 September 2026.",
@@ -1826,6 +1804,17 @@
             "updated": "2026-07-30T09:46:26Z",
             "org": "PPS",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-2-2026",
+            "title": "Northern Ireland Index of Production: Quarter 2 2026",
+            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-01-13T13:00:27Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -2573,6 +2562,17 @@
             "display_date": "December to January 2027 (provisional)",
             "updated": "2026-05-18T16:14:30Z",
             "org": "DE",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-planning-statistics-july-to-september-2026",
+            "title": "Northern Ireland planning statistics: July to September 2026",
+            "summary": "Provisional quarterly results for the second quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-05-14T13:24:46Z",
+            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
