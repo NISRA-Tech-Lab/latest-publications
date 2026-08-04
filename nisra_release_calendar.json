@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-04T08:46:15Z",
+    "modified": "2026-08-04T11:00:41Z",
     "entries": [
         {
             "id": "making-life-better-monitoring-the-wider-social-determinants-of-health-wellbeing-key-indicators-2026",
@@ -11,6 +11,17 @@
             "display_date": "4 August 2026",
             "org": "DoH",
             "updated": "2026-08-04T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "further-education-outcomes-academic-year-202425",
+            "title": "Further Education Outcomes: Academic Year 2024/25",
+            "summary": "Outcomes and satisfaction of leavers of NI Further Education institutions in the 2024/25 academic year.",
+            "url": "https://www.economy-ni.gov.uk/publications/further-education-outcomes-202425",
+            "release_date": "2026-08-04T07:00:00Z",
+            "display_date": "4 August 2026",
+            "org": "DfE",
+            "updated": "2026-08-04T09:30:00Z",
             "type": "OS"
         },
         {
@@ -1090,28 +1101,6 @@
             "org": "DfI",
             "updated": "2026-05-29T09:30:00Z",
             "type": "OS"
-        },
-        {
-            "id": "legal-aid-activity-in-northern-ireland-period-ending-31st-march-2026",
-            "title": "Legal aid activity in Northern Ireland, period ending 31st March 2026",
-            "summary": "This is the first of two annual statistical publications on legal aid in Northern Ireland. Incorporating 2025/26 information for the first time, it presents data on applications granted and authorised expenditure for criminal and civil cases from 2019/20 onwards. A second release, focusing on the utilisation of legal aid by both applicants and suppliers, will be published later in the year.",
-            "url": "https://datavis.nisra.gov.uk/LSANI/Annual-Statistics-March-2026.html",
-            "release_date": "2026-05-28T07:00:00Z",
-            "display_date": "28 May 2026",
-            "org": "LSA",
-            "updated": "2026-05-28T09:30:20Z",
-            "type": "OS"
-        },
-        {
-            "id": "further-education-outcomes-academic-year-202425",
-            "title": "Further Education Outcomes: Academic Year 2024/25",
-            "summary": "Outcomes and satisfaction of leavers of NI Further Education institutions in the 2024/25 academic year.",
-            "release_date": "2026-08-04T09:30:00Z",
-            "display_date": "4 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-02T15:36:33Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202627-financial-year",
