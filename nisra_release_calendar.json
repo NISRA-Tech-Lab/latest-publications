@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-05T08:38:06Z",
+    "modified": "2026-08-05T10:45:48Z",
     "entries": [
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202627-financial-year",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
+            "release_date": "2026-08-06T09:30:00Z",
+            "display_date": "6 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-05T10:37:38Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics-june-2026",
             "title": "Monthly Occupancy Statistics, June 2026",
             "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
@@ -1122,17 +1133,6 @@
             "updated": "2026-06-28T11:58:07Z",
             "org": "TEO",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (confirmed)",
-            "updated": "2026-06-19T15:42:30Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1228,11 +1228,11 @@
             "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
             "release_date": "2026-08-12T09:30:00Z",
-            "display_date": "12 August 2026 9:30am (provisional)",
-            "updated": "2026-05-22T11:45:26Z",
+            "display_date": "12 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-05T10:56:05Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202627",
