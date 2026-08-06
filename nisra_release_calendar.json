@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-06T10:59:15Z",
+    "modified": "2026-08-06T13:42:26Z",
     "entries": [
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
@@ -1796,6 +1796,17 @@
             "status": "confirmed"
         },
         {
+            "id": "independent-custody-visiting-report-2025-26",
+            "title": "Independent Custody Visiting Report 2025-26",
+            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
+            "release_date": "2026-09-23T09:30:00Z",
+            "display_date": "23 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-06T13:17:34Z",
+            "org": "NIPB",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "continuous-household-survey-heat-and-insulation-results-202526",
             "title": "Continuous Household Survey Heat and Insulation Results 2025/26",
             "summary": "The Continuous Household Survey (CHS) Heat and Insulation report presents statistics on household heating and insulation in Northern Ireland. The publication includes information on primary and secondary heating methods, heating fuels, insulation measures, heating controls, and consumer behaviour relating to the purchase of heating oil. The report provides insights into household energy use and energy efficiency and supports the monitoring of trends over time. Results are based on data collected through the 2025/26 Continuous Household Survey. These statistics are used by government departments, local authorities, researchers, industry representatives, and the wider public to inform policy development, monitor trends in domestic energy use, and support evidence-based decision making.",
@@ -2489,6 +2500,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-abortion-statistics-202526",
+            "title": "Northern Ireland abortion statistics 2025/26",
+            "summary": "The number of medical and surgical abortions at health and social care trusts in Northern Ireland during 2020/21 to 2025/26.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-08-06T14:19:25Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "2025-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
             "title": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
             "summary": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
@@ -2905,6 +2927,28 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "hospital-statistics-outpatient-activity-statistics-202627",
+            "title": "Hospital statistics: outpatient activity statistics 2026/27",
+            "summary": "Presents information on outpatient activity at consultant led and integrated clinical assessment and treatment service (ICATS) services. It details information on new and review attendances, missed appointments (DNAs), patient cancellations (CNAs), hospital cancellations, ward attendance and reasons for cancellation.",
+            "release_date": "2027-08-31T09:30:00Z",
+            "display_date": "August 2027 (provisional)",
+            "updated": "2026-08-06T13:45:37Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "inpatient-and-day-case-activity-in-northern-ireland-2026-to-2027",
+            "title": "Inpatient and Day Case Activity in Northern Ireland 2026 to 2027",
+            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
+            "release_date": "2027-08-31T09:30:00Z",
+            "display_date": "August 2027 (provisional)",
+            "updated": "2026-08-06T13:32:16Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-planning-statistics-april-2026-to-march-2027",
