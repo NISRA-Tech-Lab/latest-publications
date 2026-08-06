@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-06T08:24:43Z",
+    "modified": "2026-08-06T08:48:25Z",
     "entries": [
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gos-quarterly-report-q1-26-27.html",
+            "release_date": "2026-08-06T07:00:00Z",
+            "display_date": "6 August 2026",
+            "org": "BSO",
+            "updated": "2026-08-06T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-occupancy-statistics-june-2026",
+            "title": "Monthly Occupancy Statistics, June 2026",
+            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/tourism/occupancy-surveys",
+            "release_date": "2026-08-06T07:00:00Z",
+            "display_date": "6 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-06T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2025",
+            "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2025",
+            "summary": "A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
+            "url": "https://www.executiveoffice-ni.gov.uk/topics/refugees-and-asylum-seekers",
+            "release_date": "2026-08-06T07:00:00Z",
+            "display_date": "6 August 2026",
+            "org": "TEO",
+            "updated": "2026-08-06T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
+            "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
+            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
+            "url": "https://www.health-ni.gov.uk/articles/inpatient-and-day-case-activity",
+            "release_date": "2026-08-06T07:00:00Z",
+            "display_date": "6 August 2026",
+            "org": "DoH",
+            "updated": "2026-08-06T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-one-202627-financial-year",
             "title": "Employment vacancies notified to DfC Quarter One 2026/27 financial year",
@@ -1057,94 +1101,6 @@
             "org": "DoH",
             "updated": "2026-06-03T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-31-march-2026",
-            "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending 31 March 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "url": "https://www.health-ni.gov.uk/articles/diagnostic-waiting-times",
-            "release_date": "2026-06-03T07:00:00Z",
-            "display_date": "3 June 2026",
-            "org": "DoH",
-            "updated": "2026-06-03T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-march-2026",
-            "title": "Northern Ireland HSC Workforce Statistics March 2026",
-            "summary": "A quarterly summary of HSC staff",
-            "url": "https://www.health-ni.gov.uk/articles/staff-numbers",
-            "release_date": "2026-06-02T07:00:00Z",
-            "display_date": "2 June 2026",
-            "org": "DoH",
-            "updated": "2026-06-02T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-hsc-active-recruitment-statistics-march-2026",
-            "title": "Northern Ireland HSC Active Recruitment Statistics March 2026",
-            "summary": "A quarterly publication of HSC vacancies",
-            "url": "https://www.health-ni.gov.uk/articles/staff-vacancies",
-            "release_date": "2026-06-02T07:00:00Z",
-            "display_date": "2 June 2026",
-            "org": "DoH",
-            "updated": "2026-06-02T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-22-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 22 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 22 May 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-05-29T07:00:00Z",
-            "display_date": "29 May 2026",
-            "org": "NISRA",
-            "updated": "2026-05-29T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 1 of 2026/27.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (confirmed)",
-            "updated": "2026-08-05T10:37:38Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-occupancy-statistics-june-2026",
-            "title": "Monthly Occupancy Statistics, June 2026",
-            "summary": "The monthly occupancy survey provides information on the occupancy rates and rooms and beds sold in Northern Ireland.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-06T09:58:49Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2025",
-            "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2025",
-            "summary": "A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (confirmed)",
-            "updated": "2026-06-28T11:58:07Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
-            "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
-            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
-            "release_date": "2026-08-06T09:30:00Z",
-            "display_date": "6 August 2026 9:30am (provisional)",
-            "updated": "2025-11-20T11:12:53Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
