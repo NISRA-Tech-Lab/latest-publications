@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-10T14:14:00Z",
+    "modified": "2026-08-10T17:19:30Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
@@ -1873,6 +1873,17 @@
             "status": "confirmed"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-july-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 July 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-09-25T09:30:00Z",
+            "display_date": "25 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T15:51:17Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dfi-driver-vehicle-operator-and-enforcement-statistics-2026-27-quarter-1",
             "title": "DfI Driver, Vehicle, Operator and Enforcement Statistics - 2026-27 - Quarter 1",
             "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
@@ -2159,6 +2170,17 @@
             "status": "confirmed"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-10-30T09:30:00Z",
+            "display_date": "30 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T15:55:46Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-september-2026",
             "title": "Drug seizures and arrests in Northern Ireland, period ending 30 September 2026",
             "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
@@ -2434,6 +2456,17 @@
             "status": "provisional"
         },
         {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-september-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 September 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T16:20:40Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-july-to-september-2026",
             "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures July to September 2026",
             "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter July to September 2026",
@@ -2641,6 +2674,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 October 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "release_date": "2026-12-23T09:30:00Z",
+            "display_date": "23 December 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T16:23:56Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
