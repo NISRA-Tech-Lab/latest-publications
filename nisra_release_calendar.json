@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-10T12:44:56Z",
+    "modified": "2026-08-10T14:14:00Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
@@ -1636,7 +1636,7 @@
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
             "release_date": "2026-09-11T09:30:00Z",
             "display_date": "11 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:35:14Z",
+            "updated": "2026-08-10T14:05:06Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -1812,7 +1812,7 @@
             "summary": "Monthly update of PSNI recorded crime statistics.",
             "release_date": "2026-09-24T09:30:00Z",
             "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T09:59:26Z",
+            "updated": "2026-08-10T14:58:46Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -1823,7 +1823,7 @@
             "summary": "Monthly update of PSNI anti-social behaviour statistics.",
             "release_date": "2026-09-24T09:30:00Z",
             "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T09:48:37Z",
+            "updated": "2026-08-10T14:37:00Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -1977,7 +1977,7 @@
             "summary": "Annual trends of class A, B and C drug seizure incidents and arrests by PSNI.",
             "release_date": "2026-10-02T09:30:00Z",
             "display_date": "2 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:30:39Z",
+            "updated": "2026-08-10T15:07:03Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -1999,7 +1999,7 @@
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
             "release_date": "2026-10-09T09:30:00Z",
             "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:36:40Z",
+            "updated": "2026-08-10T14:20:39Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -2126,25 +2126,25 @@
             "status": "provisional"
         },
         {
-            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-september-2026",
-            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 September 2026",
-            "summary": "Quarterly update of Agricultural and Rural Crime.",
-            "release_date": "2026-10-29T09:30:00Z",
-            "display_date": "29 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:16:10Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-30-september-2026",
             "title": "Police recorded crime in Northern Ireland, period ending 30 September 2026",
             "summary": "Monthly update of PSNI recorded crime statistics.",
             "release_date": "2026-10-29T09:30:00Z",
             "display_date": "29 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T10:01:50Z",
+            "updated": "2026-08-10T15:03:19Z",
             "org": "PSNI",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of Agricultural and Rural Crime.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T14:53:20Z",
+            "org": "PSNI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2153,7 +2153,7 @@
             "summary": "Monthly update of PSNI anti-social behaviour statistics.",
             "release_date": "2026-10-29T09:30:00Z",
             "display_date": "29 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T09:52:14Z",
+            "updated": "2026-08-10T14:44:27Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2164,7 +2164,7 @@
             "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
             "release_date": "2026-10-30T09:30:00Z",
             "display_date": "30 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:24:25Z",
+            "updated": "2026-08-10T15:05:05Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2263,7 +2263,7 @@
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
             "release_date": "2026-11-06T09:30:00Z",
             "display_date": "6 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:40:27Z",
+            "updated": "2026-08-10T14:29:56Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -2296,7 +2296,7 @@
             "summary": "Quarterly update of persons stopped and searched by PSNI.",
             "release_date": "2026-11-18T09:30:00Z",
             "display_date": "18 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:45:29Z",
+            "updated": "2026-08-10T14:45:47Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2379,12 +2379,23 @@
             "status": "confirmed"
         },
         {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T15:06:41Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2026",
             "title": "Hate incidents and crimes in Northern Ireland, period ending 30 September 2026",
             "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
             "release_date": "2026-11-26T09:30:00Z",
             "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:22:16Z",
+            "updated": "2026-08-10T15:01:57Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2395,20 +2406,9 @@
             "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
             "release_date": "2026-11-26T09:30:00Z",
             "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:19:44Z",
+            "updated": "2026-08-10T14:59:23Z",
             "org": "PSNI",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2026",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2026",
-            "summary": "Monthly update of PSNI recorded crime statistics.",
-            "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T10:05:37Z",
-            "org": "PSNI",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -2417,7 +2417,7 @@
             "summary": "Monthly update of PSNI anti-social behaviour statistics.",
             "release_date": "2026-11-26T09:30:00Z",
             "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T09:54:35Z",
+            "updated": "2026-08-10T14:48:16Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2538,7 +2538,7 @@
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
             "release_date": "2026-12-04T09:30:00Z",
             "display_date": "4 December 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:41:43Z",
+            "updated": "2026-08-10T14:35:20Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -2549,7 +2549,7 @@
             "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, spit and bite guards, police dogs, CED (conductive energy device) and water cannon.",
             "release_date": "2026-12-11T09:30:00Z",
             "display_date": "11 December 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T12:47:42Z",
+            "updated": "2026-08-10T14:40:11Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2582,7 +2582,7 @@
             "summary": "Monthly update of PSNI recorded crime statistics.",
             "release_date": "2026-12-17T09:30:00Z",
             "display_date": "17 December 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T10:09:07Z",
+            "updated": "2026-08-10T15:09:17Z",
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
@@ -2593,7 +2593,7 @@
             "summary": "Monthly update of PSNI anti-social behaviour statistics.",
             "release_date": "2026-12-17T09:30:00Z",
             "display_date": "17 December 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T09:56:59Z",
+            "updated": "2026-08-10T14:52:01Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
