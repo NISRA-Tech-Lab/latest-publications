@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-10T09:55:00Z",
+    "modified": "2026-08-10T12:44:56Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
@@ -1609,6 +1609,17 @@
             "status": "confirmed"
         },
         {
+            "id": "the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case--3",
+            "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2025/26",
+            "summary": "Report presenting information on prosecutions, out of court disposals and case processing time for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for the period 1 April 2025 to 31 March 2026.",
+            "release_date": "2026-09-04T09:30:00Z",
+            "display_date": "4 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T11:41:49Z",
+            "org": "DoJ",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 28 August 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 28 August 2026.",
@@ -1616,6 +1627,17 @@
             "display_date": "4 September 2026 9:30am (confirmed)",
             "updated": "2026-05-26T14:11:56Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 August 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:35:14Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1950,6 +1972,17 @@
             "status": "provisional"
         },
         {
+            "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
+            "title": "Drug Seizures and Arrests Annual Trends 2006/07 to 2025/26",
+            "summary": "Annual trends of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "release_date": "2026-10-02T09:30:00Z",
+            "display_date": "2 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:30:39Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-25-september-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 25 September 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 25 September 2026.",
@@ -1957,6 +1990,17 @@
             "display_date": "2 October 2026 9:30am (confirmed)",
             "updated": "2026-05-27T13:57:06Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-10-09T09:30:00Z",
+            "display_date": "9 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:36:40Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2082,6 +2126,17 @@
             "status": "provisional"
         },
         {
+            "id": "agricultural-and-rural-crime-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Agricultural and Rural Crime in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of Agricultural and Rural Crime.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:16:10Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-30-september-2026",
             "title": "Police recorded crime in Northern Ireland, period ending 30 September 2026",
             "summary": "Monthly update of PSNI recorded crime statistics.",
@@ -2099,6 +2154,17 @@
             "release_date": "2026-10-29T09:30:00Z",
             "display_date": "29 October 2026 9:30am (confirmed)",
             "updated": "2026-08-10T09:52:14Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "release_date": "2026-10-30T09:30:00Z",
+            "display_date": "30 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:24:25Z",
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
@@ -2192,6 +2258,17 @@
             "status": "provisional"
         },
         {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 31 October 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-11-06T09:30:00Z",
+            "display_date": "6 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:40:27Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-october-2026",
             "title": "DVA Monthly Tests Conducted Statistics: October 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -2211,6 +2288,17 @@
             "updated": "2026-02-23T14:14:14Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "release_date": "2026-11-18T09:30:00Z",
+            "display_date": "18 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:45:29Z",
+            "org": "PSNI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2288,6 +2376,28 @@
             "updated": "2025-11-03T09:46:07Z",
             "org": "DfC",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:22:16Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "domestic-abuse-incidents-and-crimes-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Domestic abuse incidents and crimes in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of incidents and crimes with a domestic abuse motivation reported to PSNI.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:19:44Z",
+            "org": "PSNI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2421,6 +2531,28 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-november-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 November 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "release_date": "2026-12-04T09:30:00Z",
+            "display_date": "4 December 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:41:43Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2026",
+            "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2026",
+            "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, spit and bite guards, police dogs, CED (conductive energy device) and water cannon.",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T12:47:42Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-november-2026",
