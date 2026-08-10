@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-10T09:04:00Z",
+    "modified": "2026-08-10T09:46:11Z",
     "entries": [
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
@@ -1664,17 +1664,6 @@
             "status": "confirmed"
         },
         {
-            "id": "monthly-marriages-northern-ireland-august-2026",
-            "title": "Monthly Marriages (Northern Ireland): August 2026",
-            "summary": "Monthly Marriages (Northern Ireland): August 2026",
-            "release_date": "2026-09-11T09:30:00Z",
-            "display_date": "11 September 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:29:40Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "monthly-deaths-northern-ireland-august-2026",
             "title": "Monthly Deaths (Northern Ireland): August 2026",
             "summary": "Monthly Deaths (Northern Ireland): August 2026",
@@ -2302,6 +2291,17 @@
             "status": "confirmed"
         },
         {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 October 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T10:05:37Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-october-2026",
             "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 October 2026",
             "summary": "Monthly update of PSNI anti-social behaviour statistics.",
@@ -2441,6 +2441,17 @@
             "display_date": "15 December 2026 7:00am (confirmed)",
             "updated": "2025-10-03T08:38:19Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-november-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 30 November 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "release_date": "2026-12-17T09:30:00Z",
+            "display_date": "17 December 2026 9:30am (confirmed)",
+            "updated": "2026-08-10T10:09:07Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
