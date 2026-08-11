@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-11T08:49:12Z",
+    "modified": "2026-08-11T09:12:49Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-july-2026",
@@ -3062,11 +3062,11 @@
         },
         {
             "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202627",
-            "title": "Northern Ireland Hospital Statistics: Urgent and Emergency Care (2026/27)",
+            "title": "Northern Ireland Hospital Statistics: Emergency Care (2026/27)",
             "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
             "release_date": "2027-07-07T09:30:00Z",
             "display_date": "7 July 2027 9:30am (provisional)",
-            "updated": "2026-08-11T09:47:41Z",
+            "updated": "2026-08-11T09:50:03Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
