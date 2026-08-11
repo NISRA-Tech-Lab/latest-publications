@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-11T12:41:41Z",
+    "modified": "2026-08-11T14:13:04Z",
     "entries": [
         {
             "id": "monthly-births-northern-ireland-july-2026",
@@ -1752,6 +1752,17 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 31 July 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (provisional)",
+            "updated": "2026-08-11T14:36:19Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-31-august-2026",
             "title": "Police recorded crime in Northern Ireland, period ending 31 August 2026",
             "summary": "Monthly update of PSNI recorded crime statistics.",
@@ -2082,6 +2093,17 @@
             "status": "provisional"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-august-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 31 August 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (provisional)",
+            "updated": "2026-08-11T14:52:04Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-30-september-2026",
             "title": "Police recorded crime in Northern Ireland, period ending 30 September 2026",
             "summary": "Monthly update of PSNI recorded crime statistics.",
@@ -2344,6 +2366,17 @@
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 30 September 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (provisional)",
+            "updated": "2026-08-11T14:42:08Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2026",
