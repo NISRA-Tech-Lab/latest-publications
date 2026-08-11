@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-11T08:12:45Z",
+    "modified": "2026-08-11T08:49:12Z",
     "entries": [
+        {
+            "id": "monthly-births-northern-ireland-july-2026",
+            "title": "Monthly Births (Northern Ireland): July 2026",
+            "summary": "Monthly Births (Northern Ireland): July 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2026-08-11T07:00:00Z",
+            "display_date": "11 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-july-2026",
+            "title": "Monthly Marriages (Northern Ireland): July 2026",
+            "summary": "Monthly Marriages (Northern Ireland): July 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2026-08-11T07:00:00Z",
+            "display_date": "11 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-july-2026",
+            "title": "Monthly Deaths (Northern Ireland): July 2026",
+            "summary": "Monthly Deaths (Northern Ireland): July 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2026-08-11T07:00:00Z",
+            "display_date": "11 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-july-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): July 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): July 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2026-08-11T07:00:00Z",
+            "display_date": "11 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-11T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-july-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): July 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): July 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2026-08-11T07:00:00Z",
+            "display_date": "11 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-11T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-july-2026",
             "title": "Security Situation Statistics for Northern Ireland, period ending 31 July 2026",
@@ -1046,116 +1101,6 @@
             "org": "OPONI",
             "updated": "2026-06-04T09:30:02Z",
             "type": "OS"
-        },
-        {
-            "id": "annual-report-on-public-awareness-of-the-police-complaints-system-in-northern-ireland-2025",
-            "title": "Annual Report on Public Awareness of the Police Complaints system in Northern Ireland, 2025",
-            "summary": "This statistical report presents the findings from the Police Ombudsman's module in the Northern Ireland Life and Times (NILT) Survey, 2025",
-            "url": "https://www.policeombudsman.org/Statistics-and-Research/Public-Awareness-of-the-Office",
-            "release_date": "2026-06-04T07:00:00Z",
-            "display_date": "4 June 2026",
-            "org": "OPONI",
-            "updated": "2026-06-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "labour-force-survey-annual-summary-report-2025",
-            "title": "Labour Force Survey Annual Summary Report 2025",
-            "summary": "This report provides the key labour market results from the Labour Force Survey for the year ending 31 December 2025.",
-            "url": "https://www.nisra.gov.uk/publications/labour-force-survey-annual-summary-report-2025",
-            "release_date": "2026-06-04T07:00:00Z",
-            "display_date": "4 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-04T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "perceptions-of-the-pps-findings-from-the-nilts-2025",
-            "title": "Perceptions of the PPS - Findings from the NILTS 2025",
-            "summary": "Findings from the 2025 Northern Ireland Life and Times Survey module on perceptions of the Public Prosecution Service for Northern Ireland",
-            "url": "https://www.ppsni.gov.uk/perceptions-pps-survey-results",
-            "release_date": "2026-06-04T07:00:00Z",
-            "display_date": "4 June 2026",
-            "org": "PPS",
-            "updated": "2026-06-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-analytical-input-output-tables-2022",
-            "title": "NI Analytical Input-Output tables 2022",
-            "summary": "NI Analytical Input-Output tables 2022 – industry by industry",
-            "url": "https://www.nisra.gov.uk/statistics/business-economy-and-trade/economic-accounts",
-            "release_date": "2026-06-03T07:00:00Z",
-            "display_date": "3 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-03T09:30:03Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-inpatient-and-day-case-waiting-time-statistics-31-march-2026",
-            "title": "Northern Ireland Inpatient and Day Case Waiting Time Statistics 31 March 2026",
-            "summary": "This statistical release presents information on waiting times for admission for inpatient or day case treatment in Northern Ireland.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-waiting-times",
-            "release_date": "2026-06-03T07:00:00Z",
-            "display_date": "3 June 2026",
-            "org": "DoH",
-            "updated": "2026-06-03T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-july-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): July 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): July 2026",
-            "release_date": "2026-08-11T09:30:00Z",
-            "display_date": "11 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:43:45Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-july-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): July 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): July 2026",
-            "release_date": "2026-08-11T09:30:00Z",
-            "display_date": "11 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:36:22Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-july-2026",
-            "title": "Monthly Marriages (Northern Ireland): July 2026",
-            "summary": "Monthly Marriages (Northern Ireland): July 2026",
-            "release_date": "2026-08-11T09:30:00Z",
-            "display_date": "11 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:28:09Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-july-2026",
-            "title": "Monthly Deaths (Northern Ireland): July 2026",
-            "summary": "Monthly Deaths (Northern Ireland): July 2026",
-            "release_date": "2026-08-11T09:30:00Z",
-            "display_date": "11 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:06:31Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-july-2026",
-            "title": "Monthly Births (Northern Ireland): July 2026",
-            "summary": "Monthly Births (Northern Ireland): July 2026",
-            "release_date": "2026-08-11T09:30:00Z",
-            "display_date": "11 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T14:30:37Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "emergency-care-waiting-time-statistics-april-june-2026",
@@ -2797,6 +2742,17 @@
             "status": "provisional"
         },
         {
+            "id": "emergency-care-waiting-time-statistics-october-december-2026",
+            "title": "Emergency Care Waiting Time Statistics (October - December 2026)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target",
+            "release_date": "2027-02-04T09:30:00Z",
+            "display_date": "4 February 2027 9:30am (provisional)",
+            "updated": "2026-08-11T09:27:16Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-hsc-active-recruitment-statistics-december-2026",
             "title": "Northern Ireland HSC Active Recruitment Statistics December 2026",
             "summary": "A quarterly publication of HSC vacancies",
@@ -2916,6 +2872,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-january-march-2027",
+            "title": "Emergency Care Waiting Time Statistics (January - March 2027)",
+            "summary": "Time spent in emergency departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2027-04-22T09:30:00Z",
+            "display_date": "22 April 2027 9:30am (provisional)",
+            "updated": "2026-08-11T09:35:41Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "northern-ireland-planning-statistics-october-to-december-2026",
@@ -3094,6 +3061,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-hospital-statistics-urgent-and-emergency-care-202627",
+            "title": "Northern Ireland Hospital Statistics: Urgent and Emergency Care (2026/27)",
+            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
+            "release_date": "2027-07-07T09:30:00Z",
+            "display_date": "7 July 2027 9:30am (provisional)",
+            "updated": "2026-08-11T09:47:41Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "teacher-vacancies-sickness-absence-and-substitution-2026-to-2027-academic-year",
             "title": "Teacher vacancies, sickness absence and substitution, 2026 to 2027 (academic year)",
             "summary": "Analysis of teacher vacancies, sickness absence and substitution statistics in grant-aided schools in Northern Ireland, 2026 to 2027 (academic year)",
@@ -3112,6 +3090,17 @@
             "display_date": "June to July 2027 (provisional)",
             "updated": "2026-07-10T09:41:15Z",
             "org": "DE",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "emergency-care-waiting-time-statistics-april-june-2027",
+            "title": "Emergency Care Waiting Time Statistics (April - June 2027)",
+            "summary": "Time spent waiting in emergency departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "release_date": "2027-08-11T09:30:00Z",
+            "display_date": "11 August 2027 9:30am (provisional)",
+            "updated": "2026-08-11T09:40:42Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "provisional"
         },
