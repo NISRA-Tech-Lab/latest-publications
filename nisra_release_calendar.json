@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-12T07:16:55Z",
+    "modified": "2026-08-12T09:23:59Z",
     "entries": [
+        {
+            "id": "emergency-care-waiting-time-statistics-april-june-2026",
+            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
+            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
+            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
+            "release_date": "2026-08-12T07:00:00Z",
+            "display_date": "12 August 2026",
+            "org": "DoH",
+            "updated": "2026-08-12T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-births-northern-ireland-july-2026",
             "title": "Monthly Births (Northern Ireland): July 2026",
@@ -1090,28 +1101,6 @@
             "org": "OPONI",
             "updated": "2026-06-04T09:30:02Z",
             "type": "OS"
-        },
-        {
-            "id": "annual-report-on-police-officer-satisfaction-with-services-provided-by-the-police-ombudsmans-office-202526",
-            "title": "Annual Report on Police Officer Satisfaction with services provided by the Police Ombudsman's Office, 2025/26",
-            "summary": "This report presents the findings from the Police Officer Satisfaction Survey.",
-            "url": "https://www.policeombudsman.org/Statistics-and-Research/Police-Officer-Satisfaction-Survey",
-            "release_date": "2026-06-04T07:00:00Z",
-            "display_date": "4 June 2026",
-            "org": "OPONI",
-            "updated": "2026-06-04T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-april-june-2026",
-            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "release_date": "2026-08-12T09:30:00Z",
-            "display_date": "12 August 2026 9:30am (confirmed)",
-            "updated": "2026-08-05T10:56:05Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2026",
