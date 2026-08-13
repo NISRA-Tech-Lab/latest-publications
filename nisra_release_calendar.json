@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-13T14:16:02Z",
+    "modified": "2026-08-13T17:25:40Z",
     "entries": [
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202627",
@@ -1539,6 +1539,28 @@
             "display_date": "4 September 2026 9:30am (confirmed)",
             "updated": "2026-05-26T14:11:56Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "qualifications-at-uk-higher-education-institutions-northern-ireland-analysis-202425",
+            "title": "Qualifications at UK Higher Education Institutions: Northern Ireland analysis 2024/25",
+            "summary": "Characteristics of qualifiers at UK and NI Higher Education Institutions, in the 2024/25 academic year.",
+            "release_date": "2026-09-10T09:30:00Z",
+            "display_date": "10 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-13T16:16:49Z",
+            "org": "DfE",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202425",
+            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2024/25",
+            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2024/25 academic year.",
+            "release_date": "2026-09-10T09:30:00Z",
+            "display_date": "10 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-13T16:13:07Z",
+            "org": "DfE",
             "type": "AOS",
             "status": "confirmed"
         },
