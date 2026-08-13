@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-13T12:46:14Z",
+    "modified": "2026-08-13T14:16:02Z",
     "entries": [
         {
             "id": "general-medical-services-statistics-for-ni-quarter-1-202627",
@@ -1653,6 +1653,17 @@
             "status": "confirmed"
         },
         {
+            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
+            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
+            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-13T14:47:18Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-index-of-services-quarter-2-2026",
             "title": "Northern Ireland Index of Services: Quarter 2 2026",
             "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
@@ -1881,17 +1892,6 @@
             "updated": "2026-06-09T13:36:16Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
-            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
-            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "August to September 2026 (provisional)",
-            "updated": "2026-05-26T14:44:52Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "provisional"
         },
         {
