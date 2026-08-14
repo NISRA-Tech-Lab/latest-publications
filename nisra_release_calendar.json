@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-14T12:41:33Z",
+    "modified": "2026-08-14T14:09:12Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2026",
@@ -1147,6 +1147,17 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2026",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2026)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments",
+            "release_date": "2026-08-20T09:30:00Z",
+            "display_date": "20 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-14T14:37:06Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-carrier-bag-levy-statistics-202526",
             "title": "Northern Ireland Carrier Bag Levy Statistics 2025/26",
             "summary": "This publication reports on the number of carrier bags dispensed in the 2025/26 financial year under the Carrier Bag Levy in Northern Ireland.",
@@ -1442,17 +1453,6 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-june-2026",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (June 2026)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments",
-            "release_date": "2026-08-31T09:30:00Z",
-            "display_date": "August 2026 (provisional)",
-            "updated": "2026-07-24T15:29:18Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "household-water-usage-in-northern-ireland-202526",
