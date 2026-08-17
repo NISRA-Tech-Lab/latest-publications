@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-17T13:32:56Z",
+    "modified": "2026-08-17T16:52:27Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-july-2026",
@@ -1455,6 +1455,39 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026--2",
+            "title": "Northern Ireland waiting time statistics: outpatient waiting times June 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-17T15:59:53Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-june-2026",
+            "title": "Northern Ireland waiting time statistics: diagnostic waiting times June 2026",
+            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-17T15:59:48Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-june-2026",
+            "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times June 2026",
+            "summary": "Information is detailed below on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-17T15:59:39Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "household-water-usage-in-northern-ireland-202526",
             "title": "Household Water Usage in Northern Ireland 2025/26\t \t",
             "summary": "This report presents findings from the 2025/2026 Continuous Household Survey in relation to household water usage.",
@@ -1895,6 +1928,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2026",
+            "title": "Northern Ireland waiting time statistics: cancer waiting times April - June 2026",
+            "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
+            "release_date": "2026-10-01T09:30:00Z",
+            "display_date": "1 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-17T16:00:01Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "acute-episode-based-activity-statistics-2025-to-2026",
             "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
             "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
@@ -2154,39 +2198,6 @@
             "release_date": "2026-10-31T09:30:00Z",
             "display_date": "October 2026 (provisional)",
             "updated": "2026-07-24T16:52:20Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-june-2026",
-            "title": "Northern Ireland waiting time statistics: diagnostic waiting times June 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-10T11:59:55Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026--2",
-            "title": "Northern Ireland waiting time statistics: outpatient waiting times June 2026",
-            "summary": "Presents information on waiting times at the end of each quarter for a first consultant-led outpatient appointment and a first integrated clinical assessment and treatment services (ICATS) appointment.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-10T11:56:13Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-june-2026",
-            "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times June 2026",
-            "summary": "Information is detailed below on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-07-03T11:09:22Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
@@ -2453,17 +2464,6 @@
             "updated": "2026-07-24T15:32:10Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2026",
-            "title": "Northern Ireland waiting time statistics: cancer waiting times April - June 2026",
-            "summary": "Presents information on waiting times for patients accessing cancer services at hospitals in Northern Ireland during each quarter.",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-07-08T17:00:56Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "provisional"
         },
         {
