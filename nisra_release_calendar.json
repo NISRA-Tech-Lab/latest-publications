@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-18T09:55:29Z",
+    "modified": "2026-08-18T12:25:19Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-august-2026",
@@ -1345,17 +1345,6 @@
             "status": "confirmed"
         },
         {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-30-june-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 30 June 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-08-27T09:30:00Z",
-            "display_date": "27 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-06T12:50:06Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-june-2026",
             "title": "Hate incidents and crimes in Northern Ireland, period ending 30 June 2026",
             "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
@@ -1440,6 +1429,17 @@
             "display_date": "28 August 2026 9:30am (confirmed)",
             "updated": "2026-05-26T14:08:41Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-june-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 30 June 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-09-03T09:30:00Z",
+            "display_date": "3 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-18T11:06:45Z",
+            "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1672,6 +1672,17 @@
             "updated": "2025-10-03T08:28:12Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
+            "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2026.",
+            "release_date": "2026-09-16T09:30:00Z",
+            "display_date": "16 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-18T12:26:18Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
