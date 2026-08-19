@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-19T13:36:58Z",
+    "modified": "2026-08-19T17:47:38Z",
     "entries": [
         {
             "id": "northern-ireland-new-dwelling-statistics-quarter-2-2026",
@@ -1650,6 +1650,17 @@
             "updated": "2026-08-18T12:26:18Z",
             "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-tourism-statistics-quarter-1-2026",
+            "title": "Northern Ireland Tourism Statistics, Quarter 1 2026",
+            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2026.",
+            "release_date": "2026-09-17T09:30:00Z",
+            "display_date": "17 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-19T15:15:18Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
