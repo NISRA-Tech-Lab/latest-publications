@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-19T07:33:27Z",
+    "modified": "2026-08-19T08:55:17Z",
     "entries": [
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-2-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 2 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Apr - Jun 2026",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2026-08-19T07:00:00Z",
+            "display_date": "19 August 2026",
+            "org": "DoF",
+            "updated": "2026-08-19T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-2-2026",
+            "title": "Northern Ireland House Price Index Quarter 2 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2026",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2026-08-19T07:00:00Z",
+            "display_date": "19 August 2026",
+            "org": "DoF",
+            "updated": "2026-08-19T09:30:02Z",
+            "type": "AOS"
+        },
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-june-2026",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 30 June 2026",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
+            "release_date": "2026-08-19T07:00:00Z",
+            "display_date": "19 August 2026",
+            "org": "PSNI",
+            "updated": "2026-08-19T09:30:02Z",
+            "type": "OS"
+        },
         {
             "id": "ni-labour-market-statistics-august-2026",
             "title": "NI Labour Market statistics: August 2026",
@@ -1068,72 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-06-10T09:30:03Z",
             "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-greenhouse-gas-inventory-1990-to-2024",
-            "title": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
-            "summary": "Northern Ireland Greenhouse Gas Inventory 1990 to 2024",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-greenhouse-gas-inventory",
-            "release_date": "2026-06-09T07:00:00Z",
-            "display_date": "9 June 2026",
-            "org": "DAERA",
-            "updated": "2026-06-09T09:30:10Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-29-may-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 29 May 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 29 May 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-06-05T07:00:00Z",
-            "display_date": "5 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-05T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-may-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 May 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-06-05T07:00:00Z",
-            "display_date": "5 June 2026",
-            "org": "PSNI",
-            "updated": "2026-06-05T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-june-2026",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 June 2026",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "release_date": "2026-08-19T09:30:00Z",
-            "display_date": "19 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-02T11:44:03Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-2-2026",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 2 2026",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Apr - Jun 2026",
-            "release_date": "2026-08-19T09:30:00Z",
-            "display_date": "19 August 2026 9:30am (confirmed)",
-            "updated": "2026-01-21T11:50:49Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-2-2026",
-            "title": "Northern Ireland House Price Index Quarter 2 2026",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2026",
-            "release_date": "2026-08-19T09:30:00Z",
-            "display_date": "19 August 2026 9:30am (confirmed)",
-            "updated": "2026-01-21T11:13:52Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-june-2026",
