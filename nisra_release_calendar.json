@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-21T07:37:24Z",
+    "modified": "2026-08-21T08:37:46Z",
     "entries": [
+        {
+            "id": "nicts-quarterly-provisional-figures-april-to-june-2026",
+            "title": "NICTS Quarterly Provisional Figures April to June 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2026",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-business-data",
+            "release_date": "2026-08-21T07:00:00Z",
+            "display_date": "21 August 2026",
+            "org": "NICTS",
+            "updated": "2026-08-21T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-14-august-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 14 August 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 14 August 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-08-21T07:00:00Z",
+            "display_date": "21 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-21T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2026",
+            "title": "Mortgages: Actions for possession bulletin April to June 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2026",
+            "url": "https://www.justice-ni.gov.uk/publications/nicts-mortgages-action-possession",
+            "release_date": "2026-08-21T07:00:00Z",
+            "display_date": "21 August 2026",
+            "org": "NICTS",
+            "updated": "2026-08-21T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-june-2026",
             "title": "NI Sodium Valproate and Topiramate Monitoring Report to June 2026",
@@ -1070,72 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "monthly-civil-partnerships-northern-ireland-may-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): May 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): May 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-06-11T07:00:00Z",
-            "display_date": "11 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-may-2026",
-            "title": "Monthly Deaths (Northern Ireland): May 2026",
-            "summary": "Monthly Deaths (Northern Ireland): May 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-06-11T07:00:00Z",
-            "display_date": "11 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-births-northern-ireland-may-2026",
-            "title": "Monthly Births (Northern Ireland): May 2026",
-            "summary": "Monthly Births (Northern Ireland): May 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2026-06-11T07:00:00Z",
-            "display_date": "11 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2026",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2026",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2026",
-            "release_date": "2026-08-21T09:30:00Z",
-            "display_date": "21 August 2026 9:30am (confirmed)",
-            "updated": "2026-08-21T07:48:46Z",
-            "org": "NICTS",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2026",
-            "title": "Mortgages: Actions for possession bulletin April to June 2026",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2026",
-            "release_date": "2026-08-21T09:30:00Z",
-            "display_date": "21 August 2026 9:30am (confirmed)",
-            "updated": "2026-08-21T07:38:02Z",
-            "org": "NICTS",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-14-august-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 14 August 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 14 August 2026.",
-            "release_date": "2026-08-21T09:30:00Z",
-            "display_date": "21 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T14:05:32Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
             "title": "Northern Ireland HSC Active Recruitment Statistics June 2026",
             "summary": "A quarterly publication of HSC vacancies",
@@ -1686,17 +1653,6 @@
             "status": "confirmed"
         },
         {
-            "id": "independent-custody-visiting-report-2025-26",
-            "title": "Independent Custody Visiting Report 2025-26",
-            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
-            "release_date": "2026-09-23T09:30:00Z",
-            "display_date": "23 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-06T13:17:34Z",
-            "org": "NIPB",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2026",
             "title": "Motoring offences statistics in Northern Ireland to 31 July 2026",
             "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1904,6 +1860,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "independent-custody-visiting-report-2025-26",
+            "title": "Independent Custody Visiting Report 2025-26",
+            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
+            "release_date": "2026-10-07T09:30:00Z",
+            "display_date": "7 October 2026 9:30am (provisional)",
+            "updated": "2026-08-21T09:25:52Z",
+            "org": "NIPB",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2026",
