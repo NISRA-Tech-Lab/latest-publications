@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-21T06:35:37Z",
+    "modified": "2026-08-21T07:37:24Z",
     "entries": [
         {
             "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-june-2026",
@@ -1103,6 +1103,28 @@
             "type": "AOS"
         },
         {
+            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2026",
+            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2026",
+            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2026",
+            "release_date": "2026-08-21T09:30:00Z",
+            "display_date": "21 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-21T07:48:46Z",
+            "org": "NICTS",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2026",
+            "title": "Mortgages: Actions for possession bulletin April to June 2026",
+            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2026",
+            "release_date": "2026-08-21T09:30:00Z",
+            "display_date": "21 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-21T07:38:02Z",
+            "org": "NICTS",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-14-august-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 14 August 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 14 August 2026.",
@@ -1114,24 +1136,24 @@
             "status": "confirmed"
         },
         {
-            "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-april-to-june-2026",
-            "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures April to June 2026",
-            "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter April to June 2026",
-            "release_date": "2026-08-21T09:30:00Z",
-            "display_date": "21 August 2026 9:30am (confirmed)",
-            "updated": "2026-03-24T09:00:29Z",
-            "org": "NICTS",
-            "type": "AOS",
+            "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
+            "title": "Northern Ireland HSC Active Recruitment Statistics June 2026",
+            "summary": "A quarterly publication of HSC vacancies",
+            "release_date": "2026-08-26T09:30:00Z",
+            "display_date": "26 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-21T08:28:48Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "confirmed"
         },
         {
-            "id": "mortgages-actions-for-possession-bulletin-april-to-june-2026",
-            "title": "Mortgages: Actions for possession bulletin April to June 2026",
-            "summary": "Mortgages business in the Chancery Division of the Northern Ireland High Court for the period April to June 2026",
-            "release_date": "2026-08-21T09:30:00Z",
-            "display_date": "21 August 2026 9:30am (confirmed)",
-            "updated": "2026-03-24T08:58:09Z",
-            "org": "NICTS",
+            "id": "northern-ireland-hsc-workforce-statistics-june-2026",
+            "title": "Northern Ireland HSC Workforce Statistics June 2026",
+            "summary": "A quarterly summary of HSC staff",
+            "release_date": "2026-08-26T09:30:00Z",
+            "display_date": "26 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-21T08:26:31Z",
+            "org": "DoH",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1156,28 +1178,6 @@
             "org": "PBNI",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-hsc-active-recruitment-statistics-june-2026",
-            "title": "Northern Ireland HSC Active Recruitment Statistics June 2026",
-            "summary": "A quarterly publication of HSC vacancies",
-            "release_date": "2026-08-26T09:30:00Z",
-            "display_date": "26 August 2026 9:30am (provisional)",
-            "updated": "2026-03-19T11:47:42Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-hsc-workforce-statistics-june-2026",
-            "title": "Northern Ireland HSC Workforce Statistics June 2026",
-            "summary": "A quarterly summary of HSC staff",
-            "release_date": "2026-08-26T09:30:00Z",
-            "display_date": "26 August 2026 9:30am (provisional)",
-            "updated": "2026-03-19T10:53:00Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-benefit-statistics-summary-may-2026",
