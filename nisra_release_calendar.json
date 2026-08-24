@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-24T10:08:37Z",
+    "modified": "2026-08-24T12:27:39Z",
     "entries": [
         {
             "id": "nicts-quarterly-provisional-figures-april-to-june-2026",
@@ -1816,6 +1816,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-youth-justice-agency-annual-workload-statistics-1-april-2025-to-31-march-2026",
+            "title": "Northern Ireland Youth Justice Agency Annual Workload Statistics 1 April 2025 to 31 March 2026",
+            "summary": "This publication provides an overview of the workload of the Youth Justice Agency from 2021/22 to 2025/26 providing descriptive analysis of trends on a range of demographics, including some Section 75 characteristics and care status of individual children/referrals to YJS and of individuals/admissions/movements in custody.",
+            "release_date": "2026-10-01T09:30:00Z",
+            "display_date": "1 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-24T11:56:15Z",
+            "org": "YJA",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2026",
