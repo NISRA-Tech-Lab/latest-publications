@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-26T09:17:29Z",
+    "modified": "2026-08-26T09:55:14Z",
     "entries": [
         {
             "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q1-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q1 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2026/27.",
+            "release_date": "2026-08-27T09:30:00Z",
+            "display_date": "27 August 2026 9:30am (confirmed)",
+            "updated": "2026-08-26T10:23:49Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
             "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
             "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
@@ -1198,17 +1209,6 @@
             "display_date": "27 August 2026 9:30am (confirmed)",
             "updated": "2026-07-02T10:49:54Z",
             "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q1-202627",
-            "title": "General Pharmaceutical Services Statistics for NI, Q1 2026/27",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2026/27.",
-            "release_date": "2026-08-27T09:30:00Z",
-            "display_date": "27 August 2026 9:30am (confirmed)",
-            "updated": "2026-06-19T15:52:46Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
