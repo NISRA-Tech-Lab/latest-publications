@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-26T12:30:49Z",
+    "modified": "2026-08-26T13:45:28Z",
     "entries": [
         {
             "id": "northern-ireland-planning-statistics-april-2025-to-march-2026",
@@ -1573,6 +1573,17 @@
             "updated": "2026-05-26T15:29:03Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "utilisation-of-legal-aid-in-northen-ireland-annual-statistics-to-march-2026",
+            "title": "Utilisation of Legal Aid in Northern Ireland: Annual Statistics to March 2026",
+            "summary": "This publication is the second of two annual statistical releases on legal aid in Northern Ireland. Following the first publication, which focused on legal aid applications and expenditure, this release provides further analysis of the utilisation of legal aid services. It presents detailed information on granted applications and expenditure by assisted persons and legal aid providers across Northern Ireland.",
+            "release_date": "2026-09-24T09:30:00Z",
+            "display_date": "24 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-26T14:04:54Z",
+            "org": "LSA",
+            "type": "OS",
             "status": "confirmed"
         },
         {
