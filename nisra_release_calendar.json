@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-27T19:10:51Z",
+    "modified": "2026-08-28T08:53:55Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-21-august-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 21 August 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 21 August 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-08-28T07:00:00Z",
+            "display_date": "28 August 2026",
+            "org": "NISRA",
+            "updated": "2026-08-28T09:30:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-08-28T07:00:00Z",
+            "display_date": "28 August 2026",
+            "org": "PSNI",
+            "updated": "2026-08-28T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "higher-level-apprenticeships-in-higher-education-ni-academic-year-202425",
             "title": "Higher Level Apprenticeships in Higher Education NI, academic year 2024/25",
@@ -110,6 +132,17 @@
             "display_date": "27 August 2026",
             "org": "PSNI",
             "updated": "2026-08-27T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202526",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2025/26 financial year.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/sickness-absence-statistics",
+            "release_date": "2026-08-27T07:00:00Z",
+            "display_date": "27 August 2026",
+            "org": "DoF",
+            "updated": "2026-08-27T09:30:00Z",
             "type": "AOS"
         },
         {
@@ -1068,61 +1101,6 @@
             "org": "DoJ",
             "updated": "2026-06-19T09:30:00Z",
             "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-12-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 12 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 12 June 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-06-19T07:00:00Z",
-            "display_date": "19 June 2026",
-            "org": "NISRA",
-            "updated": "2026-06-19T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "family-practitioner-services-dental-statistics-for-ni-202526",
-            "title": "Family Practitioner Services Dental Statistics for NI 2025/26",
-            "summary": "Activity and payment statistics relating to General Dental Services in Northern Ireland between April 2025 and March 2026.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-annual-report-25-26.html",
-            "release_date": "2026-06-18T07:00:00Z",
-            "display_date": "18 June 2026",
-            "org": "BSO",
-            "updated": "2026-06-18T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-4-202526",
-            "title": "General Dental Services Statistics for NI, Quarter 4 2025/26",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 4 of 2025/26.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-quarterly-report-q4-25-26.html",
-            "release_date": "2026-06-18T07:00:00Z",
-            "display_date": "18 June 2026",
-            "org": "BSO",
-            "updated": "2026-06-18T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-june-2026--2",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 June 2026",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-08-28T09:30:00Z",
-            "display_date": "28 August 2026 9:30am (confirmed)",
-            "updated": "2026-07-02T16:55:52Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-21-august-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 21 August 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 21 August 2026.",
-            "release_date": "2026-08-28T09:30:00Z",
-            "display_date": "28 August 2026 9:30am (confirmed)",
-            "updated": "2026-05-26T14:08:41Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "motoring-offences-statistics-in-northern-ireland-to-30-june-2026",
