@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-08-28T08:53:55Z",
+    "modified": "2026-08-28T17:53:58Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-august-2026",
@@ -1565,17 +1565,6 @@
             "status": "confirmed"
         },
         {
-            "id": "children-in-care-in-northern-ireland-202324",
-            "title": "Children in Care in Northern Ireland 2023/24",
-            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "September 2026 (provisional)",
-            "updated": "2026-07-27T11:45:00Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "children-adopted-from-care-in-northern-ireland-202526",
             "title": "Children Adopted from Care in Northern Ireland 2025/26",
             "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
@@ -1618,6 +1607,17 @@
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-occupancy-statistics-august-2026",
+            "title": "Monthly Occupancy Statistics, August 2026",
+            "summary": "The Hotel Occupancy Survey is an Accredited Official Statistics however the Small Service Accommodation Occupancy report is an Official Statistic.",
+            "release_date": "2026-10-01T09:30:00Z",
+            "display_date": "1 October 2026 9:30am (confirmed)",
+            "updated": "2026-08-28T16:15:50Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-housing-statistics-2025-to-2026",
@@ -1893,6 +1893,17 @@
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "children-in-care-in-northern-ireland-202324",
+            "title": "Children in Care in Northern Ireland 2023/24",
+            "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "October 2026 (provisional)",
+            "updated": "2026-08-28T15:08:27Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
