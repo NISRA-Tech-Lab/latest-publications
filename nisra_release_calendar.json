@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-02T12:51:53Z",
+    "modified": "2026-09-02T13:50:25Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-21-august-2026",
@@ -1609,6 +1609,17 @@
             "status": "provisional"
         },
         {
+            "id": "acute-episode-based-activity-statistics-2025-to-2026",
+            "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
+            "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
+            "release_date": "2026-10-01T09:30:00Z",
+            "display_date": "1 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-02T14:37:31Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "monthly-occupancy-statistics-august-2026",
             "title": "Monthly Occupancy Statistics, August 2026",
             "summary": "The Hotel Occupancy Survey is an Accredited Official Statistics however the Small Service Accommodation Occupancy report is an Official Statistic.",
@@ -1651,17 +1662,6 @@
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "acute-episode-based-activity-statistics-2025-to-2026",
-            "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
-            "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
-            "release_date": "2026-10-01T09:30:00Z",
-            "display_date": "1 October 2026 9:30am (provisional)",
-            "updated": "2026-03-31T09:04:00Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
