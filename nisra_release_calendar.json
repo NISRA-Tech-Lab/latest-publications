@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-03T12:55:02Z",
+    "modified": "2026-09-03T15:28:54Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-july-2026",
@@ -1510,28 +1510,6 @@
             "status": "provisional"
         },
         {
-            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
-            "title": "Statistics on community care for adults in Northern Ireland 2024/25",
-            "summary": "This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "September 2026 (provisional)",
-            "updated": "2026-06-09T13:36:35Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
-            "title": "Domiciliary Care Services for Adults in Northern Ireland (2025)",
-            "summary": "This report summarises information collected from health and social care trusts on adults receiving domiciliary care services from the statutory and independent sectors during a survey week in September. It details information on the numbers of clients receiving domiciliary care, visits, contact hours and intensive domiciliary care provision.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "September 2026 (provisional)",
-            "updated": "2026-06-09T13:36:16Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "acute-episode-based-activity-statistics-2025-to-2026",
             "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
             "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
@@ -2966,6 +2944,14 @@
         {
             "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-april-2026-june-2026",
             "updated": "2026-07-28T12:23:38Z"
+        },
+        {
+            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
+            "updated": "2026-09-03T16:02:57Z"
+        },
+        {
+            "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
+            "updated": "2026-09-03T16:02:11Z"
         },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
