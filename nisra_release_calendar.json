@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-03T08:39:06Z",
+    "modified": "2026-09-03T10:07:03Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-july-2026",
@@ -2931,10 +2931,10 @@
         {
             "id": "postprison-mortality-in-northern-ireland",
             "title": "Post-prison mortality in Northern Ireland",
-            "summary": "Understanding patterns in mortality for people who have been in prison in Northern Ireland",
+            "summary": "Understanding scale and nature of mortality for people who have been in prison in Northern Ireland",
             "release_date": "2026-09-30T09:30:00Z",
             "display_date": "September 2026 (provisional)",
-            "updated": "2026-08-18T15:45:00Z",
+            "updated": "2026-09-03T10:03:03Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
@@ -2943,9 +2943,9 @@
             "id": "minority-ethnic-groups-in-northern-ireland",
             "title": "Minority Ethnic Groups in Northern Ireland",
             "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "September 2026 (provisional)",
-            "updated": "2026-08-18T15:45:00Z",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "October 2026 (provisional)",
+            "updated": "2026-09-03T10:02:33Z",
             "org": "NISRA",
             "type": "R",
             "status": "provisional"
