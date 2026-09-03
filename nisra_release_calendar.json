@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-03T10:07:03Z",
+    "modified": "2026-09-03T10:23:19Z",
     "entries": [
         {
             "id": "monthly-occupancy-statistics-july-2026",
@@ -1584,6 +1584,17 @@
             "updated": "2026-08-17T16:00:01Z",
             "org": "DoH",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "uk-innovation-survey-2025-northern-ireland-results",
+            "title": "UK Innovation Survey 2025: Northern Ireland Results",
+            "summary": "Results from the Northern Ireland (NI) element of the UK Innovation Survey (UKIS) 2025, covering the three-year period from 2022 to 2024.",
+            "release_date": "2026-10-02T09:30:00Z",
+            "display_date": "2 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-03T11:16:00Z",
+            "org": "NISRA",
+            "type": "OS",
             "status": "confirmed"
         },
         {
