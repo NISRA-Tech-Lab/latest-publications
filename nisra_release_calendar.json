@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-04T15:27:30Z",
+    "modified": "2026-09-04T19:02:26Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1675,6 +1675,17 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-9-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 9 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 9 October 2026.",
+            "release_date": "2026-10-16T09:30:00Z",
+            "display_date": "16 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-04T16:34:44Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-september-2026",
             "title": "DVA Monthly Tests Conducted Statistics: September 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1730,6 +1741,17 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-16-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 16 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 16 October 2026.",
+            "release_date": "2026-10-23T09:30:00Z",
+            "display_date": "23 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-04T16:39:28Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "motoring-offences-statistics-in-northern-ireland-to-31-august-2026",
             "title": "Motoring offences statistics in Northern Ireland to 31 August 2026",
             "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
@@ -1771,6 +1793,17 @@
             "updated": "2026-08-10T14:44:27Z",
             "org": "PSNI",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 October 2026.",
+            "release_date": "2026-10-30T09:30:00Z",
+            "display_date": "30 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-04T16:42:38Z",
+            "org": "NISRA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1860,6 +1893,17 @@
             "org": "DfI",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-30-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 30 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 30 October 2026.",
+            "release_date": "2026-11-06T09:30:00Z",
+            "display_date": "6 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-04T16:45:16Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-31-october-2026",
