@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-04T12:48:52Z",
+    "modified": "2026-09-04T15:27:30Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1587,6 +1587,17 @@
             "status": "provisional"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-2-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 2 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 2 October 2026.",
+            "release_date": "2026-10-09T09:30:00Z",
+            "display_date": "9 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-04T16:28:02Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2026",
             "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
@@ -1783,6 +1794,17 @@
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
+            "summary": "Statistics: Births, Deaths and Marriages, Cause of Death, Stillbirths & Infant Deaths",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "September to October 2026 (provisional)",
+            "updated": "2026-09-04T16:02:56Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
