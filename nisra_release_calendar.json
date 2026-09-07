@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-07T11:20:04Z",
+    "modified": "2026-09-07T14:14:32Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1125,6 +1125,17 @@
             "status": "confirmed"
         },
         {
+            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
+            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
+            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (provisional)",
+            "updated": "2026-09-07T12:30:35Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-apr-26",
             "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Apr 26",
             "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
@@ -1837,17 +1848,6 @@
             "updated": "2026-09-07T09:58:12Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202526",
-            "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
-            "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-09-02T16:21:56Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "provisional"
         },
         {
