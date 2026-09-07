@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-07T08:39:08Z",
+    "modified": "2026-09-07T11:02:57Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1831,10 +1831,10 @@
         {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
-            "summary": "Statistics: Births, Deaths and Marriages, Cause of Death, Stillbirths & Infant Deaths",
+            "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
             "release_date": "2026-10-31T09:30:00Z",
             "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-09-04T16:02:56Z",
+            "updated": "2026-09-07T09:58:12Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
