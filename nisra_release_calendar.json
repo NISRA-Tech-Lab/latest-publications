@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-07T20:03:37Z",
+    "modified": "2026-09-08T08:43:12Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -2189,6 +2189,17 @@
             "updated": "2026-05-19T09:50:18Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "carbon-intensity-indicators-northern-ireland-2026",
+            "title": "Carbon intensity indicators: Northern Ireland 2026",
+            "summary": "Carbon intensity indicators: Northern Ireland 2026",
+            "release_date": "2026-12-03T09:30:00Z",
+            "display_date": "3 December 2026 9:30am (provisional)",
+            "updated": "2026-09-08T08:34:17Z",
+            "org": "DAERA",
+            "type": "OS",
             "status": "provisional"
         },
         {
