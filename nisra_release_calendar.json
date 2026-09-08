@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-08T10:26:28Z",
+    "modified": "2026-09-08T12:51:37Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1129,11 +1129,11 @@
             "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2025/26",
             "summary": "Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland.",
             "release_date": "2026-09-11T09:30:00Z",
-            "display_date": "11 September 2026 9:30am (provisional)",
-            "updated": "2026-09-07T12:30:35Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-09-08T12:00:23Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-apr-26",
@@ -2124,6 +2124,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
+            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "October to November 2026 (provisional)",
+            "updated": "2026-09-08T11:56:45Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
