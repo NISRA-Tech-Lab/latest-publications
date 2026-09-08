@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-08T12:57:32Z",
+    "modified": "2026-09-08T15:40:36Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1121,6 +1121,17 @@
             "display_date": "10 September 2026 9:30am (confirmed)",
             "updated": "2026-08-13T16:13:07Z",
             "org": "DfE",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-cancer-waiting-times-revised-62-day-waits-for-quarters-ending-december-2023-to-march-2026",
+            "title": "Northern Ireland Cancer Waiting Times – Revised 62 Day Waits for Quarters Ending December 2023 to March 2026",
+            "summary": "This publication presents revised data relating to patients commencing treatment following an urgent GP referral (the 62-day cancer waiting time target) for the quarters ending 31 December 2023 to 31 March 2026.",
+            "release_date": "2026-09-11T09:30:00Z",
+            "display_date": "11 September 2026 9:30am (confirmed)",
+            "updated": "2026-09-08T15:48:31Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
