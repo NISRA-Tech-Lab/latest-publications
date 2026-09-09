@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-09T15:34:05Z",
+    "modified": "2026-09-09T19:21:17Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-28-august-2026",
@@ -1607,6 +1607,17 @@
             "org": "NIPB",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "attitudes-to-the-free-period-products-scheme-in-northern-ireland-2025",
+            "title": "Attitudes to the Free Period Products Scheme in Northern Ireland 2025",
+            "summary": "A publication examining public attitudes to the Free Period Products scheme.",
+            "release_date": "2026-10-08T09:30:00Z",
+            "display_date": "8 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-09T16:45:05Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-2-october-2026",
