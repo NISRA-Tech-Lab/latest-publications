@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-10T08:39:24Z",
+    "modified": "2026-09-10T10:16:27Z",
     "entries": [
         {
             "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202425",
@@ -1477,17 +1477,6 @@
             "status": "provisional"
         },
         {
-            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
-            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
-            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "September 2026 (provisional)",
-            "updated": "2026-07-09T09:55:33Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "acute-episode-based-activity-statistics-2025-to-2026",
             "title": "Acute Episode-Based Activity Statistics 2025 to 2026",
             "summary": "Presents data on finished consultant episodes in Health and Social Care Trusts in Northern Ireland for 2025 to 2026, including breakdown by specialty, diagnosis, procedure, and resource group.",
@@ -2344,6 +2333,17 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
+            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
+            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "December 2026 (provisional)",
+            "updated": "2026-09-10T10:21:36Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
