@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-14T11:30:11Z",
+    "modified": "2026-09-14T15:00:01Z",
     "entries": [
         {
             "id": "northern-ireland-cancer-waiting-times-revised-62-day-waits-for-quarters-ending-december-2023-to-march-2026",
@@ -1125,6 +1125,17 @@
             "status": "confirmed"
         },
         {
+            "id": "public-transport-statistics-northern-ireland-2025-26",
+            "title": "Public Transport Statistics Northern Ireland 2025-26",
+            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
+            "release_date": "2026-09-16T09:30:00Z",
+            "display_date": "16 September 2026 9:30am (confirmed)",
+            "updated": "2026-08-19T10:26:57Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
             "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
             "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2026.",
@@ -1618,6 +1629,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "employee-earnings-in-ni-2025--2",
+            "title": "Employee earnings in NI: 2026",
+            "summary": "The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (provisional)",
+            "updated": "2026-09-14T14:13:02Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202627",
