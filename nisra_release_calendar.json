@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-14T20:22:15Z",
+    "modified": "2026-09-15T08:39:02Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-september-2026",
+            "title": "NI Labour Market statistics: September 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-09-15T07:00:00Z",
+            "display_date": "15 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-15T07:00:00Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-employment-survey-june-2026",
+            "title": "Quarterly Employment Survey: June 2026",
+            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
+            "release_date": "2026-09-15T07:00:00Z",
+            "display_date": "15 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-15T07:00:00Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-cancer-waiting-times-revised-62-day-waits-for-quarters-ending-december-2023-to-march-2026",
             "title": "Northern Ireland Cancer Waiting Times – Revised 62 Day Waits for Quarters Ending December 2023 to March 2026",
@@ -1079,50 +1101,6 @@
             "org": "DoH",
             "updated": "2026-07-08T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-26-june-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 26 June 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 26 June 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-07-03T07:00:00Z",
-            "display_date": "3 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-03T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "family-practitioner-services-statistics-for-ni-key-facts-2526",
-            "title": "Family Practitioner Services Statistics for NI - Key Facts 25/26",
-            "summary": "Key facts taken from FPS annual reports on activity and payment statistics within General Medical Services, Dentistry, Ophthalmic & Pharmaceutical Services.",
-            "url": "https://datavis.nisra.gov.uk/bso/2526-key-facts-dashboard.html",
-            "release_date": "2026-07-02T07:00:00Z",
-            "display_date": "2 July 2026",
-            "org": "BSO",
-            "updated": "2026-07-02T09:30:07Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-september-2026",
-            "title": "NI Labour Market statistics: September 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-09-15T07:00:00Z",
-            "display_date": "15 September 2026 7:00am (confirmed)",
-            "updated": "2026-02-23T12:40:05Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-employment-survey-june-2026",
-            "title": "Quarterly Employment Survey: June 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
-            "release_date": "2026-09-15T07:00:00Z",
-            "display_date": "15 September 2026 7:00am (confirmed)",
-            "updated": "2025-10-03T08:28:12Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "public-transport-statistics-northern-ireland-2025-26",
