@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-15T19:45:00Z",
+    "modified": "2026-09-16T08:38:47Z",
     "entries": [
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
+            "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2026.",
+            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-june-2026",
+            "release_date": "2026-09-16T07:00:00Z",
+            "display_date": "16 September 2026",
+            "org": "DfC",
+            "updated": "2026-09-16T09:30:02Z",
+            "type": "OS"
+        },
+        {
+            "id": "public-transport-statistics-northern-ireland-2025-26",
+            "title": "Public Transport Statistics Northern Ireland 2025-26",
+            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
+            "release_date": "2026-09-16T07:00:00Z",
+            "display_date": "16 September 2026",
+            "org": "DfI",
+            "updated": "2026-09-16T09:30:02Z",
+            "type": "AOS"
+        },
         {
             "id": "ni-labour-market-statistics-september-2026",
             "title": "NI Labour Market statistics: September 2026",
@@ -1081,50 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-detailed-trends-report-2025",
-            "title": "Police recorded injury Road Traffic collisions and casualties Northern Ireland Detailed Trends report 2025",
-            "summary": "Annual calendar year detailed trends report on road traffic collision statistics.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
-            "release_date": "2026-07-09T07:00:00Z",
-            "display_date": "9 July 2026",
-            "org": "PSNI",
-            "updated": "2026-07-09T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-hospital-statistics-emergency-care-202526",
-            "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
-            "summary": "Information on emergency care activity, including new attendances, planned & unplanned reviews, waiting times, patient transport and ambulance response.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-and-ambulance-statistics",
-            "release_date": "2026-07-08T07:00:00Z",
-            "display_date": "8 July 2026",
-            "org": "DoH",
-            "updated": "2026-07-08T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "public-transport-statistics-northern-ireland-2025-26",
-            "title": "Public Transport Statistics Northern Ireland 2025-26",
-            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
-            "release_date": "2026-09-16T09:30:00Z",
-            "display_date": "16 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-19T10:26:57Z",
-            "org": "DfI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
-            "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2026.",
-            "release_date": "2026-09-16T09:30:00Z",
-            "display_date": "16 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-18T12:26:18Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "northern-ireland-tourism-statistics-quarter-1-2026",
             "title": "Northern Ireland Tourism Statistics, Quarter 1 2026",
             "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2026.",
@@ -1565,17 +1543,6 @@
             "status": "confirmed"
         },
         {
-            "id": "dva-monthly-tests-conducted-statistics-september-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: September 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-10-16T09:30:00Z",
-            "display_date": "16 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-11T09:54:21Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-9-october-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 9 October 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 9 October 2026.",
@@ -1584,6 +1551,17 @@
             "updated": "2026-09-04T16:34:44Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-september-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: September 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-10-16T09:30:00Z",
+            "display_date": "16 October 2026 9:30am (confirmed)",
+            "updated": "2026-06-10T12:21:15Z",
+            "org": "DfI",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1730,17 +1708,6 @@
             "status": "confirmed"
         },
         {
-            "id": "children-adopted-from-care-in-northern-ireland-202526",
-            "title": "Children Adopted from Care in Northern Ireland 2025/26",
-            "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "October 2026 (provisional)",
-            "updated": "2026-09-15T10:01:54Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
             "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
             "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
@@ -1785,6 +1752,17 @@
             "status": "provisional"
         },
         {
+            "id": "children-adopted-from-care-in-northern-ireland-202526",
+            "title": "Children Adopted from Care in Northern Ireland 2025/26",
+            "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
+            "release_date": "2026-10-31T09:30:00Z",
+            "display_date": "October 2026 (provisional)",
+            "updated": "2026-07-24T16:23:49Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-planning-statistics-april-to-june-2026",
             "title": "Northern Ireland planning statistics: April to June 2026",
             "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
@@ -1823,7 +1801,7 @@
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-11-13T09:30:00Z",
             "display_date": "13 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-11T09:56:40Z",
+            "updated": "2026-06-10T12:32:54Z",
             "org": "DfI",
             "type": "OS",
             "status": "confirmed"
@@ -2126,17 +2104,6 @@
             "status": "confirmed"
         },
         {
-            "id": "dva-monthly-tests-conducted-statistics-november-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: November 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-12-11T09:30:00Z",
-            "display_date": "11 December 2026 9:30am (confirmed)",
-            "updated": "2026-09-11T09:57:28Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2026",
             "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, spit and bite guards, police dogs, CED (conductive energy device) and water cannon.",
@@ -2144,6 +2111,17 @@
             "display_date": "11 December 2026 9:30am (confirmed)",
             "updated": "2026-08-10T14:40:11Z",
             "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "dva-monthly-tests-conducted-statistics-november-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: November 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-06-10T12:38:00Z",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2208,7 +2186,7 @@
             "summary": "This is a quarterly release of information on the testing, licensing and enforcement/compliance activities of the Driver and Vehicle Agency in Northern Ireland.",
             "release_date": "2026-12-18T09:30:00Z",
             "display_date": "18 December 2026 9:30am (confirmed)",
-            "updated": "2026-09-11T09:59:09Z",
+            "updated": "2026-06-10T14:13:37Z",
             "org": "DfI",
             "type": "AOS",
             "status": "confirmed"
@@ -2234,17 +2212,6 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
-            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
-            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "December 2026 (provisional)",
-            "updated": "2026-09-10T10:21:36Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
