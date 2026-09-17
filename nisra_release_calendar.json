@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-17T10:49:01Z",
+    "modified": "2026-09-17T13:24:49Z",
     "entries": [
         {
             "id": "northern-ireland-tourism-statistics-quarter-1-2026",
@@ -2595,6 +2595,17 @@
             "display_date": "7 July 2027 9:30am (provisional)",
             "updated": "2026-08-11T09:50:03Z",
             "org": "DoH",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026--2",
+            "title": "Pay in the Northern Ireland Civil Service - Year Ending March 2027",
+            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2027.",
+            "release_date": "2027-07-31T09:30:00Z",
+            "display_date": "June to July 2027 (provisional)",
+            "updated": "2026-09-17T12:45:34Z",
+            "org": "DoF",
             "type": "AOS",
             "status": "provisional"
         },
