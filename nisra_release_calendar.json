@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-16T19:37:35Z",
+    "modified": "2026-09-17T08:38:45Z",
     "entries": [
+        {
+            "id": "northern-ireland-tourism-statistics-quarter-1-2026",
+            "title": "Northern Ireland Tourism Statistics, Quarter 1 2026",
+            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2026.",
+            "url": "https://www.nisra.gov.uk/publications/quarterly-tourism-statistics-publications",
+            "release_date": "2026-09-17T07:00:00Z",
+            "display_date": "17 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-17T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-hate-crime-202526",
+            "title": "Statistical Bulletin: Cases Involving Hate Crime 2025/26",
+            "summary": "The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
+            "url": "https://www.ppsni.gov.uk/thematic-bulletins-hate-crime",
+            "release_date": "2026-09-17T07:00:00Z",
+            "display_date": "17 September 2026",
+            "org": "PPS",
+            "updated": "2026-09-17T09:30:06Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-index-of-services-quarter-2-2026",
+            "title": "Northern Ireland Index of Services: Quarter 2 2026",
+            "summary": "Quarterly index of the Northern Ireland private sector services output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
+            "release_date": "2026-09-17T07:00:00Z",
+            "display_date": "17 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-17T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-index-of-production-quarter-2-2026",
+            "title": "Northern Ireland Index of Production: Quarter 2 2026",
+            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
+            "release_date": "2026-09-17T07:00:00Z",
+            "display_date": "17 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-17T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
+            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
+            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/pay-statistics",
+            "release_date": "2026-09-17T07:00:00Z",
+            "display_date": "17 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-17T09:30:05Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
             "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
@@ -1046,116 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-07-15T09:30:10Z",
             "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-june-2026",
-            "title": "Monthly Deaths (Northern Ireland): June 2026",
-            "summary": "Monthly Deaths (Northern Ireland): June 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-07-15T07:00:00Z",
-            "display_date": "15 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-15T09:30:10Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-june-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): June 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): June 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2026-07-15T07:00:00Z",
-            "display_date": "15 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-15T09:30:10Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-3-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 3 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 3 July 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-07-10T07:00:00Z",
-            "display_date": "10 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-june-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 June 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-07-10T07:00:00Z",
-            "display_date": "10 July 2026",
-            "org": "PSNI",
-            "updated": "2026-07-10T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-june-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: June 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-june-2026",
-            "release_date": "2026-07-10T07:00:00Z",
-            "display_date": "10 July 2026",
-            "org": "DfI",
-            "updated": "2026-07-10T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-tourism-statistics-quarter-1-2026",
-            "title": "Northern Ireland Tourism Statistics, Quarter 1 2026",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2026.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-19T15:15:18Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
-            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
-            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-13T14:47:18Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-2-2026",
-            "title": "Northern Ireland Index of Services: Quarter 2 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output. This release also includes the Northern Ireland Retail Sales Index, which is an Official Statistic in Development.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-07-30T12:07:11Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-hate-crime-202526",
-            "title": "Statistical Bulletin: Cases Involving Hate Crime 2025/26",
-            "summary": "The PPS publishes annual statistics on Cases Involving Hate Crime. The statistics are set out in two parts: In Part One, Tables 1 – 6 present key statistics in relation to cases involving hate crime submitted to the PPS by the PSNI. In Part Two, Tables 7 - 10 present key statistics in relation to cases considered by a prosecutor to have involved hate crime which was ‘aggravated by hostility’.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-07-30T09:46:26Z",
-            "org": "PPS",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-2-2026",
-            "title": "Northern Ireland Index of Production: Quarter 2 2026",
-            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "release_date": "2026-09-17T09:30:00Z",
-            "display_date": "17 September 2026 9:30am (confirmed)",
-            "updated": "2026-01-13T13:00:27Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "dva-monthly-tests-conducted-statistics-august-2026",
