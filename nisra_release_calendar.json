@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-18T08:38:42Z",
+    "modified": "2026-09-18T10:15:23Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -2119,11 +2119,11 @@
             "title": "Working and workless households in Northern Ireland: July to September 2026",
             "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
             "release_date": "2026-12-22T09:30:00Z",
-            "display_date": "22 December 2026 9:30am (provisional)",
-            "updated": "2026-02-23T12:17:21Z",
+            "display_date": "22 December 2026 9:30am (confirmed)",
+            "updated": "2026-09-18T10:32:30Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-october-2026",
