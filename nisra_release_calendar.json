@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-21T08:39:02Z",
+    "modified": "2026-09-21T11:27:31Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -1939,12 +1939,12 @@
             "status": "confirmed"
         },
         {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
-            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
+            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
             "release_date": "2026-11-30T09:30:00Z",
             "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-09-08T11:56:45Z",
+            "updated": "2026-09-21T09:48:56Z",
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
@@ -2148,6 +2148,28 @@
             "status": "confirmed"
         },
         {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
+            "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "November to December 2026 (provisional)",
+            "updated": "2026-09-21T10:10:02Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
+            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "November to December 2026 (provisional)",
+            "updated": "2026-09-21T10:02:57Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
             "title": "June agricultural and horticultural census, Northern Ireland 2026",
             "summary": "The data in this statistical publication are sourced from the Agricultural Census conducted in June each year. Data is collected on crop areas, livestock numbers and farm labour. Outputs include time series data and frequency distributions. Results are presented at Northern Ireland and sub-regional level.",
@@ -2200,6 +2222,28 @@
             "updated": "2026-02-04T16:41:01Z",
             "org": "DAERA",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-09-21T10:15:12Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "health-survey-northern-ireland-202526-first-results",
+            "title": "Health Survey Northern Ireland 2025/26: First Results ",
+            "summary": "First results from the 2025/26 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-09-21T10:07:15Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "provisional"
         },
         {
