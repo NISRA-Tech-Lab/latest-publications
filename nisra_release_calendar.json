@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-21T15:05:34Z",
+    "modified": "2026-09-21T15:13:14Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -1510,6 +1510,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-planning-statistics-april-to-june-2026",
+            "title": "Northern Ireland planning statistics: April to June 2026",
+            "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2026-10-21T09:30:00Z",
+            "display_date": "21 October 2026 9:30am (provisional)",
+            "updated": "2026-09-21T16:10:54Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "employee-earnings-in-ni-2025--2",
             "title": "Employee earnings in NI: 2026",
             "summary": "The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
@@ -1693,17 +1704,6 @@
             "display_date": "October 2026 (provisional)",
             "updated": "2026-07-24T16:23:49Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-april-to-june-2026",
-            "title": "Northern Ireland planning statistics: April to June 2026",
-            "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-05-14T13:22:29Z",
-            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
