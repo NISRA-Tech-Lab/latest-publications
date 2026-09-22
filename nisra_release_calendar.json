@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-22T10:47:35Z",
+    "modified": "2026-09-22T13:23:30Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -1334,6 +1334,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-irelands-carbon-footprint-2001-to-2023",
+            "title": "Northern Ireland's Carbon Footprint: 2001 to 2023",
+            "summary": "Estimates of Northern Ireland's greenhouse gas (GHG) emissions on a consumption basis, commonly known as the carbon footprint, covering 2001 to 2023.",
+            "release_date": "2026-10-07T09:30:00Z",
+            "display_date": "7 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T12:20:18Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "independent-custody-visiting-report-2025-26",
             "title": "Independent Custody Visiting Report 2025-26",
             "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
@@ -1510,6 +1521,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-irelands-material-footprint-2001-to-2023",
+            "title": "Northern Ireland's Material Footprint: 2001 to 2023",
+            "summary": "Estimates of Northern Ireland's material footprint, also known as raw material consumption, covering 2001 to 2023.",
+            "release_date": "2026-10-21T09:30:00Z",
+            "display_date": "21 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T12:26:38Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-planning-statistics-april-to-june-2026",
             "title": "Northern Ireland planning statistics: April to June 2026",
             "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
@@ -1572,6 +1594,17 @@
             "display_date": "23 October 2026 9:30am (confirmed)",
             "updated": "2026-09-04T16:39:28Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-dental-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2026/27.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T13:49:05Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1730,6 +1763,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 2026/27",
+            "release_date": "2026-11-12T09:30:00Z",
+            "display_date": "12 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T13:51:05Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "dva-monthly-tests-conducted-statistics-october-2026",
             "title": "DVA Monthly Tests Conducted Statistics: October 2026",
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
@@ -1785,6 +1829,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T13:54:19Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hsc-active-recruitment-statistics-september-2026",
             "title": "Northern Ireland HSC Active Recruitment Statistics September 2026",
             "summary": "A quarterly publication of HSC vacancies",
@@ -1836,6 +1891,17 @@
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-03T09:46:07Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2026/27.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T13:53:17Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1939,6 +2005,17 @@
             "status": "confirmed"
         },
         {
+            "id": "circular-economy-behaviours-in-northern-ireland-202526",
+            "title": "Circular Economy Behaviours in Northern Ireland 2025/26",
+            "summary": "Consumer choices and behaviours in Northern Ireland, based on findings from the 2025/26 Continuous Household Survey (CHS).",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "November 2026 (provisional)",
+            "updated": "2026-09-22T12:32:11Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
             "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
             "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
@@ -2034,6 +2111,17 @@
             "display_date": "4 December 2026 9:30am (confirmed)",
             "updated": "2026-08-10T14:35:20Z",
             "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2026/27.",
+            "release_date": "2026-12-05T09:30:00Z",
+            "display_date": "5 December 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T13:50:05Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
