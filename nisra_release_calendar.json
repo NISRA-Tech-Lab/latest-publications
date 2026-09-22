@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-22T15:57:50Z",
+    "modified": "2026-09-22T19:48:20Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -1518,6 +1518,17 @@
             "updated": "2026-02-23T13:33:18Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-gambling-licensing-and-industry-data-2025",
+            "title": "Northern Ireland Gambling Licensing and Industry Data 2025",
+            "summary": "Data on amusement permits, bingo clubs and bookmaking office licences, as well as the number of people employed in the gambling sector and annual gambling turnover.",
+            "release_date": "2026-10-21T09:30:00Z",
+            "display_date": "21 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-22T17:14:12Z",
+            "org": "DfC",
+            "type": "OS",
             "status": "confirmed"
         },
         {
