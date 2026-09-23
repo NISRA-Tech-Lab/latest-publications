@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-22T19:48:20Z",
+    "modified": "2026-09-23T10:28:55Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
@@ -1902,6 +1902,17 @@
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-03T09:46:07Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "young-people-not-in-education-employment-or-training-neet-ni-july-to-september-2026",
+            "title": "Young people not in education, employment or training (NEET), NI: July to September 2026",
+            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-23T11:02:43Z",
+            "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
         },
