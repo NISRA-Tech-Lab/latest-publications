@@ -1,7 +1,106 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-23T19:44:40Z",
+    "modified": "2026-09-24T10:46:34Z",
     "entries": [
+        {
+            "id": "utilisation-of-legal-aid-in-northern-ireland-annual-statistics-to-march-2026",
+            "title": "Utilisation of Legal Aid in Northern Ireland: Annual Statistics to March 2026",
+            "summary": "This publication is the second of two annual statistical releases on legal aid in Northern Ireland. Following the first publication, which focused on legal aid applications and expenditure, this release provides further analysis of the utilisation of legal aid services. It presents detailed information on granted applications and expenditure by assisted persons and legal aid providers across Northern Ireland.",
+            "url": "https://www.justice-ni.gov.uk/publications/utilisation-legal-aid-northern-ireland-annual-statistics-march-2026",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "LSA",
+            "updated": "2026-09-24T09:30:12Z",
+            "type": "OS"
+        },
+        {
+            "id": "2025-mid-year-population-estimates-for-northern-ireland-including-estimates-of-the-population-aged-85",
+            "title": "2025 Mid-Year Population Estimates for Northern Ireland, including Estimates of the Population Aged 85",
+            "summary": "The 2025 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and over in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/publications/2025-mid-year-population-estimates-northern-ireland-and-estimates-population-aged-85",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-24T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-august-2026",
+            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 August 2026",
+            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/anti-social-behaviour-statistics",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "PSNI",
+            "updated": "2026-09-24T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-august-2026",
+            "title": "Police recorded crime in Northern Ireland, period ending 31 August 2026",
+            "summary": "Monthly update of PSNI recorded crime statistics.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "PSNI",
+            "updated": "2026-09-24T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 31 July 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/motoring-offence-statistics",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "PSNI",
+            "updated": "2026-09-24T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "working-and-workless-households-in-northern-ireland-april-to-june-2026",
+            "title": "Working and workless households in Northern Ireland: April to June 2026",
+            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-24T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
+            "summary": "This release provides a measure of construction output in Northern Ireland.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/construction-output-statistics",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-24T09:30:04Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2026",
+            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 2 2026",
+            "summary": "Quarterly Index of the Northern Ireland economy.",
+            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/ni-composite-economic-index",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-24T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "continuous-household-survey-heat-and-insulation-results-202526",
+            "title": "Continuous Household Survey Heat and Insulation Results 2025/26",
+            "summary": "This report presents the results of the household heating and insulation questions from the 2025/26 Northern Ireland Continuous Household Survey.",
+            "url": "https://www.economy-ni.gov.uk/articles/continuous-household-survey-heat-and-insulation-results",
+            "release_date": "2026-09-24T07:00:00Z",
+            "display_date": "24 September 2026",
+            "org": "DfE",
+            "updated": "2026-09-24T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 11 September 2026",
@@ -1004,204 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "neighbourhood-renewal-area-profiles-2026",
-            "title": "Neighbourhood Renewal Area Profiles 2026",
-            "summary": "The 2026 Neighbourhood Renewal Area Profiles provide an updated statistical picture of the 36 Neighbourhood Renewal Areas across Northern Ireland.",
-            "url": "https://www.communities-ni.gov.uk/articles/resources-neighbourhood-renewal-partnerships",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "DfC",
-            "updated": "2026-07-30T09:30:08Z",
-            "type": "OS"
-        },
-        {
-            "id": "liquor-licences-in-northern-ireland-2025",
-            "title": "Liquor Licences in Northern Ireland 2025",
-            "summary": "The publication provides summary statistics on the number of liquor licences in force for public houses and off-licences as at 31 December 2025.",
-            "url": "https://www.communities-ni.gov.uk/topics/law-and-legislation-statistics-and-research/social-policy-statistics",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "DfC",
-            "updated": "2026-07-30T09:30:07Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-jan-mar-2026",
-            "title": "Northern Ireland LAC municipal waste statistics - Jan-Mar 2026",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - January to March 2026",
-            "url": "https://www.daera-ni.gov.uk/articles/northern-ireland-local-authority-collected-municipal-waste-management-statistics",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "DAERA",
-            "updated": "2026-07-30T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "labour-force-survey-annual-tables-2025",
-            "title": "Labour Force Survey annual tables 2025",
-            "summary": "Additional breakdowns for January to December 2025, as sourced from the Labour Force Survey (LFS).",
-            "url": "https://www.nisra.gov.uk/publications/labour-force-survey-annual-tables-2025",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-30T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-17-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 17 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 17 July 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-07-24T07:00:00Z",
-            "display_date": "24 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-24T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-1-202627",
-            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 1 2026/27",
-            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
-            "url": "https://www.policeombudsman.org/statistics-and-research/quarterly-reports",
-            "release_date": "2026-07-23T07:00:00Z",
-            "display_date": "23 July 2026",
-            "org": "OPONI",
-            "updated": "2026-07-23T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-july-2026",
-            "title": "NI Labour Market statistics: July 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2026-07-21T07:00:00Z",
-            "display_date": "21 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-21T07:00:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-10-july-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 10 July 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 10 July 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-07-17T07:00:00Z",
-            "display_date": "17 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-17T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-june-2026",
-            "title": "Monthly Marriages (Northern Ireland): June 2026",
-            "summary": "Monthly Marriages (Northern Ireland): June 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-07-15T07:00:00Z",
-            "display_date": "15 July 2026",
-            "org": "NISRA",
-            "updated": "2026-07-15T09:30:10Z",
-            "type": "AOS"
-        },
-        {
-            "id": "utilisation-of-legal-aid-in-northen-ireland-annual-statistics-to-march-2026",
-            "title": "Utilisation of Legal Aid in Northern Ireland: Annual Statistics to March 2026",
-            "summary": "This publication is the second of two annual statistical releases on legal aid in Northern Ireland. Following the first publication, which focused on legal aid applications and expenditure, this release provides further analysis of the utilisation of legal aid services. It presents detailed information on granted applications and expenditure by assisted persons and legal aid providers across Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-09-21T13:20:04Z",
-            "org": "LSA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-april-to-june-2026",
-            "title": "Working and workless households in Northern Ireland: April to June 2026",
-            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-09-18T09:04:48Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-31-july-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 31 July 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-27T14:38:52Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "2025-mid-year-population-estimates-for-northern-ireland-including-estimates-of-the-population-aged-85",
-            "title": "2025 Mid-Year Population Estimates for Northern Ireland, including Estimates of the Population Aged 85",
-            "summary": "The 2025 mid-year population and migration estimates for Northern Ireland include population and migration estimates for the 11 Local Government Districts within Northern Ireland and estimates of the population aged 85 and over in Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-27T12:22:07Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-31-august-2026",
-            "title": "Police recorded crime in Northern Ireland, period ending 31 August 2026",
-            "summary": "Monthly update of PSNI recorded crime statistics.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T14:58:46Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "anti-social-behaviour-incidents-in-northern-ireland-period-ending-31-august-2026",
-            "title": "Anti-social behaviour incidents in Northern Ireland, period ending 31 August 2026",
-            "summary": "Monthly update of PSNI anti-social behaviour statistics.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T14:37:00Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "continuous-household-survey-heat-and-insulation-results-202526",
-            "title": "Continuous Household Survey Heat and Insulation Results 2025/26",
-            "summary": "The Continuous Household Survey (CHS) Heat and Insulation report presents statistics on household heating and insulation in Northern Ireland. The publication includes information on primary and secondary heating methods, heating fuels, insulation measures, heating controls, and consumer behaviour relating to the purchase of heating oil. The report provides insights into household energy use and energy efficiency and supports the monitoring of trends over time. Results are based on data collected through the 2025/26 Continuous Household Survey. These statistics are used by government departments, local authorities, researchers, industry representatives, and the wider public to inform policy development, monitor trends in domestic energy use, and support evidence-based decision making.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2026-07-07T11:36:26Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2026",
-            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 2 2026",
-            "summary": "Quarterly Index of the Northern Ireland economy.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2025-10-01T16:41:52Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
-            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
-            "summary": "This release provides a measure of construction output in Northern Ireland.",
-            "release_date": "2026-09-24T09:30:00Z",
-            "display_date": "24 September 2026 9:30am (confirmed)",
-            "updated": "2025-10-01T16:11:48Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-july-2026",
             "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 July 2026",
             "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
@@ -1736,17 +1637,6 @@
             "release_date": "2026-10-31T09:30:00Z",
             "display_date": "October 2026 (provisional)",
             "updated": "2026-07-24T16:52:20Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "children-adopted-from-care-in-northern-ireland-202526",
-            "title": "Children Adopted from Care in Northern Ireland 2025/26",
-            "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "October 2026 (provisional)",
-            "updated": "2026-07-24T16:23:49Z",
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
@@ -2544,6 +2434,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-construction-bulletin-1-october-to-31-december-2026",
+            "title": "Northern Ireland Construction Bulletin: 1 October to 31 December 2026",
+            "summary": "This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2027-03-31T09:30:00Z",
+            "display_date": "March 2027 (provisional)",
+            "updated": "2026-09-24T10:36:55Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-january-march-2027",
             "title": "Emergency Care Waiting Time Statistics (January - March 2027)",
             "summary": "Time spent in emergency departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
@@ -2718,6 +2619,17 @@
             "org": "NICTS",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-construction-bulletin-1-january-to-31-march-2027",
+            "title": "Northern Ireland Construction Bulletin: 1 January to 31 March 2027",
+            "summary": "This release provides a measure of construction output in Northern Ireland.",
+            "release_date": "2027-06-30T09:30:00Z",
+            "display_date": "June 2027 (provisional)",
+            "updated": "2026-09-24T10:44:00Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "qualifications-and-destinations-of-northern-ireland-school-leavers-2025-to-2026-academic-year",
