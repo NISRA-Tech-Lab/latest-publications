@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-25T10:58:11Z",
+    "modified": "2026-09-25T11:53:00Z",
     "entries": [
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2026-27-q1",
@@ -2893,7 +2893,8 @@
             "updated": "2026-09-22T16:13:45Z",
             "org": "NISRA",
             "type": "R",
-            "status": "confirmed"
+            "status": "confirmed",
+            "url": "https://www.nisra.gov.uk/publications/post-prison-mortality-northern-ireland-2011-2021"
         },
         {
             "id": "minority-ethnic-groups-in-northern-ireland",
