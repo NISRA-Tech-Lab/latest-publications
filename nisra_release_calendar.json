@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-28T12:39:20Z",
+    "modified": "2026-09-28T16:44:51Z",
     "entries": [
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2026-27-q1",
@@ -1202,6 +1202,17 @@
             "status": "confirmed"
         },
         {
+            "id": "independent-custody-visiting-report-2025-26",
+            "title": "Independent Custody Visiting Report 2025-26",
+            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
+            "release_date": "2026-10-07T09:30:00Z",
+            "display_date": "7 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-28T17:06:44Z",
+            "org": "NIPB",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-irelands-carbon-footprint-2001-to-2023",
             "title": "Northern Ireland's Carbon Footprint: 2001 to 2023",
             "summary": "Estimates of Northern Ireland's greenhouse gas (GHG) emissions on a consumption basis, commonly known as the carbon footprint, covering 2001 to 2023.",
@@ -1211,17 +1222,6 @@
             "org": "DfE",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "independent-custody-visiting-report-2025-26",
-            "title": "Independent Custody Visiting Report 2025-26",
-            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
-            "release_date": "2026-10-07T09:30:00Z",
-            "display_date": "7 October 2026 9:30am (provisional)",
-            "updated": "2026-08-21T09:25:52Z",
-            "org": "NIPB",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "business-register-and-employment-survey-northern-ireland-2024",
@@ -1411,6 +1411,17 @@
             "status": "confirmed"
         },
         {
+            "id": "employee-earnings-in-ni-2025--2",
+            "title": "Employee earnings in NI: 2026",
+            "summary": "The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (confirmed)",
+            "updated": "2026-09-28T14:23:01Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-planning-statistics-april-to-june-2026",
             "title": "Northern Ireland planning statistics: April to June 2026",
             "summary": "Provisional quarterly results for the first quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
@@ -1420,17 +1431,6 @@
             "org": "DfI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "employee-earnings-in-ni-2025--2",
-            "title": "Employee earnings in NI: 2026",
-            "summary": "The distribution and make-up of earnings and hours worked, by sex and full-time and part-time status, for employees in all industries and occupations.",
-            "release_date": "2026-10-22T09:30:00Z",
-            "display_date": "22 October 2026 9:30am (provisional)",
-            "updated": "2026-09-14T14:13:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-2-202627",
