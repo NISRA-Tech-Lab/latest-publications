@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-28T22:35:59Z",
+    "modified": "2026-09-29T11:48:58Z",
     "entries": [
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2026-27-q1",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
+            "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
+            "release_date": "2026-09-30T09:30:00Z",
+            "display_date": "30 September 2026 9:30am (confirmed)",
+            "updated": "2026-09-29T10:34:34Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "digest-of-statistics-for-the-public-record-office-of-northern-ireland-202425",
             "title": "Digest of statistics for the Public Record Office of Northern Ireland 2024/25",
             "summary": "An annual publication providing a broad overview of the Public Record Office of Northern Ireland (PRONI).",
@@ -1565,17 +1576,6 @@
             "status": "confirmed"
         },
         {
-            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
-            "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "September to October 2026 (provisional)",
-            "updated": "2026-09-07T09:58:12Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "children-in-care-in-northern-ireland-202324",
             "title": "Children in Care in Northern Ireland 2023/24",
             "summary": "This publication presents information on children in Northern Ireland who have been looked after continuously for 12 months or longer at 30 September each year.",
@@ -1607,6 +1607,28 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "adult-and-youth-roffending-in-northern-ireland-202324-cohort",
+            "title": "Adult and Youth Roffending in Northern Ireland (2023/24 Cohort)",
+            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24.",
+            "release_date": "2026-11-04T09:30:00Z",
+            "display_date": "4 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-29T12:14:35Z",
+            "org": "DoJ",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-occupancy-statistics-september-2026",
+            "title": "Monthly Occupancy Statistics, September 2026",
+            "summary": "The Hotel Occupancy Survey is an Accredited Official Statistics however the Small Service Accommodation Occupancy report is an Official Statistic.",
+            "release_date": "2026-11-05T09:30:00Z",
+            "display_date": "5 November 2026 9:30am (confirmed)",
+            "updated": "2026-09-29T10:56:02Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202627",
@@ -1893,6 +1915,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
+            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
+            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "October to November 2026 (provisional)",
+            "updated": "2026-09-29T12:01:39Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "circular-economy-behaviours-in-northern-ireland-202526",
