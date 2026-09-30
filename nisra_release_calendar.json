@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-09-29T20:56:31Z",
+    "modified": "2026-09-30T11:35:24Z",
     "entries": [
+        {
+            "id": "digest-of-statistics-for-the-public-record-office-of-northern-ireland-202425",
+            "title": "Digest of statistics for the Public Record Office of Northern Ireland 2024/25",
+            "summary": "An annual publication providing a broad overview of the Public Record Office of Northern Ireland (PRONI).",
+            "url": "https://www.communities-ni.gov.uk/topics/proni-statistics",
+            "release_date": "2026-09-30T07:00:00Z",
+            "display_date": "30 September 2026",
+            "org": "DfC",
+            "updated": "2026-09-30T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
+            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
+            "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-quarterly-report",
+            "release_date": "2026-09-30T07:00:00Z",
+            "display_date": "30 September 2026",
+            "org": "NISRA",
+            "updated": "2026-09-30T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "dfi-driver-vehicle-operator-enforcement-statistics-2026-27-q1",
             "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics-2026-27-Q1",
@@ -1079,50 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-07-31T09:30:04Z",
             "type": "AOS"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Dental Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2026/27.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gds-quarterly-report-q1-26-27.html",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "BSO",
-            "updated": "2026-07-30T09:30:19Z",
-            "type": "AOS"
-        },
-        {
-            "id": "police-recorded-crime-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Police recorded crime in Northern Ireland, period ending 30 June 2026",
-            "summary": "Monthly update of PSNI recorded crime statistics, incorporating knife/sharp instrument crime figures.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics",
-            "release_date": "2026-07-30T07:00:00Z",
-            "display_date": "30 July 2026",
-            "org": "PSNI",
-            "updated": "2026-07-30T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "registrar-general-quarterly-report-northern-ireland-april-to-june-2026",
-            "title": "Registrar General Quarterly Report (Northern Ireland) - April to June 2026",
-            "summary": "Statistics: Births, Deaths, Marriages, Cause of Death, Stillbirths and Infant Deaths",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "30 September 2026 9:30am (confirmed)",
-            "updated": "2026-09-29T10:34:34Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "digest-of-statistics-for-the-public-record-office-of-northern-ireland-202425",
-            "title": "Digest of statistics for the Public Record Office of Northern Ireland 2024/25",
-            "summary": "An annual publication providing a broad overview of the Public Record Office of Northern Ireland (PRONI).",
-            "release_date": "2026-09-30T09:30:00Z",
-            "display_date": "30 September 2026 9:30am (confirmed)",
-            "updated": "2026-09-02T09:18:41Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "acute-episode-based-activity-statistics-2025-to-2026",
