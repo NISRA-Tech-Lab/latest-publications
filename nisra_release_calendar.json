@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-01T12:15:12Z",
+    "modified": "2026-10-01T15:33:19Z",
     "entries": [
         {
             "id": "northern-ireland-housing-statistics-2025-to-2026",
@@ -1191,6 +1191,17 @@
             "status": "confirmed"
         },
         {
+            "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
+            "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "release_date": "2026-10-09T09:30:00Z",
+            "display_date": "9 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-01T16:16:48Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "experience-of-crime-and-perceptions-of-crime-policing-and-justice-and-organised-crime-findings-from-the-202425-northern-ireland-safe-community-surv",
             "title": "Experience of Crime and Perceptions of Crime, Policing and Justice and Organised Crime: Findings from the 2024/25 Northern Ireland Safe Community Survey",
             "summary": "Findings from the 2024/25 Northern Ireland Safe Community Survey. Regarding experience of crime, attitudes towards crime, policing and justice and organised crime.",
@@ -1221,17 +1232,6 @@
             "updated": "2026-08-10T14:20:39Z",
             "org": "PSNI",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
-            "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2026-10-09T09:30:00Z",
-            "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-07-28T14:41:16Z",
-            "org": "DfE",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1561,6 +1561,17 @@
             "display_date": "4 November 2026 9:30am (confirmed)",
             "updated": "2026-09-29T12:14:35Z",
             "org": "DoJ",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "walking-and-cycling-in-northern-ireland-202526",
+            "title": "Walking and Cycling in Northern Ireland 2025/26",
+            "summary": "This report presents findings from the 2025/26 Continuous Household Survey in relation to public attitudes to walking and cycling in Northern Ireland.",
+            "release_date": "2026-11-05T09:30:00Z",
+            "display_date": "5 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-01T14:39:12Z",
+            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
