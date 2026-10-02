@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-02T11:44:29Z",
+    "modified": "2026-10-02T14:43:19Z",
     "entries": [
         {
             "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
@@ -2061,13 +2061,13 @@
         },
         {
             "id": "northern-ireland-food-and-drinks-processing-report-2023",
-            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024",
+            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024 - Official Statistics in Development",
             "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
             "release_date": "2026-12-31T09:30:00Z",
             "display_date": "November to December 2026 (provisional)",
-            "updated": "2026-10-02T12:41:19Z",
+            "updated": "2026-10-02T13:13:28Z",
             "org": "DAERA",
-            "type": "AOS",
+            "type": "OS",
             "status": "provisional"
         },
         {
