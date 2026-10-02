@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-01T21:09:30Z",
+    "modified": "2026-10-02T11:35:27Z",
     "entries": [
+        {
+            "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
+            "title": "Drug Seizures and Arrests Annual Trends 2006/07 to 2025/26",
+            "summary": "Annual trends of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
+            "release_date": "2026-10-02T07:00:00Z",
+            "display_date": "2 October 2026",
+            "org": "PSNI",
+            "updated": "2026-10-02T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "uk-innovation-survey-2025-northern-ireland-results",
+            "title": "UK Innovation Survey 2025: Northern Ireland Results",
+            "summary": "Results from the Northern Ireland (NI) element of the UK Innovation Survey (UKIS) 2025, covering the three-year period from 2022 to 2024.",
+            "url": "https://www.nisra.gov.uk/statistics/other-surveys/innovation-survey",
+            "release_date": "2026-10-02T07:00:00Z",
+            "display_date": "2 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-02T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-25-september-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 25 September 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 25 September 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-10-02T07:00:00Z",
+            "display_date": "2 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-02T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "northern-ireland-housing-statistics-2025-to-2026",
             "title": "Northern Ireland Housing Statistics 2025 to 2026",
@@ -1070,72 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2025",
-            "title": "Attitudes to Refugees and Asylum Seekers in Northern Ireland 2025",
-            "summary": "A publication examining public attitudes to refugees and asylum seekers in Northern Ireland.",
-            "url": "https://www.executiveoffice-ni.gov.uk/topics/refugees-and-asylum-seekers",
-            "release_date": "2026-08-06T07:00:00Z",
-            "display_date": "6 August 2026",
-            "org": "TEO",
-            "updated": "2026-08-06T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "inpatient-and-day-case-activity-in-northern-ireland-2025-to-2026",
-            "title": "Inpatient and Day Case Activity in Northern Ireland 2025 to 2026",
-            "summary": "Admissions to health and social care trusts in Northern Ireland, including available and occupied beds, average length of stay, theatre activity and births.",
-            "url": "https://www.health-ni.gov.uk/articles/inpatient-and-day-case-activity",
-            "release_date": "2026-08-06T07:00:00Z",
-            "display_date": "6 August 2026",
-            "org": "DoH",
-            "updated": "2026-08-06T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-one-202627-financial-year",
-            "title": "Employment vacancies notified to DfC Quarter One 2026/27 financial year",
-            "summary": "Quarterly data showing listings of employment vacancies notified to Department for Communities",
-            "url": "https://datavis.nisra.gov.uk/communities/vacancies-statistical-factsheet-August-2026.html",
-            "release_date": "2026-08-05T07:00:00Z",
-            "display_date": "5 August 2026",
-            "org": "DfC",
-            "updated": "2026-08-05T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "uk-innovation-survey-2025-northern-ireland-results",
-            "title": "UK Innovation Survey 2025: Northern Ireland Results",
-            "summary": "Results from the Northern Ireland (NI) element of the UK Innovation Survey (UKIS) 2025, covering the three-year period from 2022 to 2024.",
-            "release_date": "2026-10-02T09:30:00Z",
-            "display_date": "2 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-03T11:16:00Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
-            "title": "Drug Seizures and Arrests Annual Trends 2006/07 to 2025/26",
-            "summary": "Annual trends of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "release_date": "2026-10-02T09:30:00Z",
-            "display_date": "2 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T15:07:03Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-25-september-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 25 September 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 25 September 2026.",
-            "release_date": "2026-10-02T09:30:00Z",
-            "display_date": "2 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T13:57:06Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "independent-custody-visiting-report-2025-26",
             "title": "Independent Custody Visiting Report 2025-26",
             "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
@@ -1939,17 +1906,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-food-and-drinks-processing-report-2023",
-            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024",
-            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-06-16T10:49:37Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
             "id": "registrar-general-northern-ireland-annual-report-2025",
             "title": "Registrar General Northern Ireland Annual Report 2025",
             "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
@@ -2102,6 +2058,17 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-food-and-drinks-processing-report-2023",
+            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024",
+            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "November to December 2026 (provisional)",
+            "updated": "2026-10-02T11:20:01Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
