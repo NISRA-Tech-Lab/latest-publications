@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-06T13:12:53Z",
+    "modified": "2026-10-06T15:07:21Z",
     "entries": [
         {
             "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "northern-irelands-carbon-footprint-2001-to-2023",
+            "title": "Northern Ireland's Carbon Footprint: 2001 to 2023",
+            "summary": "Estimates of Northern Ireland's greenhouse gas (GHG) emissions on a consumption basis, commonly known as the carbon footprint, covering 2001 to 2023.",
+            "release_date": "2026-10-07T09:30:00Z",
+            "display_date": "7 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-06T14:43:52Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "independent-custody-visiting-report-2025-26",
             "title": "Independent Custody Visiting Report 2025-26",
             "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
@@ -1110,17 +1121,6 @@
             "display_date": "7 October 2026 9:30am (confirmed)",
             "updated": "2026-09-28T17:06:44Z",
             "org": "NIPB",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-irelands-carbon-footprint-2001-to-2023",
-            "title": "Northern Ireland's Carbon Footprint: 2001 to 2023",
-            "summary": "Estimates of Northern Ireland's greenhouse gas (GHG) emissions on a consumption basis, commonly known as the carbon footprint, covering 2001 to 2023.",
-            "release_date": "2026-10-07T09:30:00Z",
-            "display_date": "7 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T12:20:18Z",
-            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
