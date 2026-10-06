@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-06T12:36:23Z",
+    "modified": "2026-10-06T13:12:53Z",
     "entries": [
         {
             "id": "drug-seizures-and-arrests-annual-trends-200607-to-202526",
@@ -2864,12 +2864,12 @@
             "url": "https://www.nisra.gov.uk/publications/post-prison-mortality-northern-ireland-2011-2021"
         },
         {
-            "id": "minority-ethnic-groups-in-northern-ireland",
-            "title": "Minority Ethnic Groups in Northern Ireland",
-            "summary": "Socioeconomic, health and housing outcomes for people from a minority ethnic background",
+            "id": "outcomes-for-minority-ethnic-and-minority-religion-groups-in-northern-ireland",
+            "title": "Outcomes for minority ethnic and minority religion groups in Northern Ireland",
+            "summary": "Investigating socioeconomic and self-reported health outcomes for minority ethnic and minority religion groups using data from the 2021 Census.",
             "release_date": "2026-10-08T09:30:00Z",
             "display_date": "8 October 2026 (confirmed)",
-            "updated": "2026-10-06T10:59:34Z",
+            "updated": "2026-10-06T12:17:54Z",
             "org": "NISRA",
             "type": "R",
             "status": "confirmed",
