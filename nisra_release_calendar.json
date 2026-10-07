@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-07T12:29:24Z",
+    "modified": "2026-10-07T15:32:26Z",
     "entries": [
         {
             "id": "northern-irelands-carbon-footprint-2001-to-2023",
@@ -2244,6 +2244,17 @@
             "updated": "2026-08-11T09:27:16Z",
             "org": "DoH",
             "type": "AOS",
+            "status": "provisional"
+        },
+        {
+            "id": "statistical-overview-of-general-practice-in-northern-ireland",
+            "title": "Statistical Overview of General Practice in Northern Ireland 2025/26",
+            "summary": "This publication presents a statistical overview of General Practice in Northern Ireland during 2025/26.",
+            "release_date": "2027-02-05T09:30:00Z",
+            "display_date": "5 February 2027 9:30am (provisional)",
+            "updated": "2026-10-07T15:06:54Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "provisional"
         },
         {
