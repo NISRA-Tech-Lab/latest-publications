@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-08T12:39:40Z",
+    "modified": "2026-10-08T15:33:45Z",
     "entries": [
+        {
+            "id": "independent-custody-visiting-report-2025-26",
+            "title": "Independent Custody Visiting Report 2025-26",
+            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
+            "url": "https://www.gov.uk/government/statistics/independent-custody-visiting-report-2025-26",
+            "release_date": "2026-10-08T07:00:00Z",
+            "display_date": "8 October 2026",
+            "org": "NIPB",
+            "updated": "2026-10-08T16:12:20Z",
+            "type": "OS"
+        },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-june-2026",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (June 2026)",
@@ -1092,17 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "monthly-civil-partnerships-northern-ireland-july-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): July 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): July 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-08-11T07:00:00Z",
-            "display_date": "11 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
             "id": "outcomes-for-minority-ethnic-and-minority-religion-groups-in-northern-ireland",
             "title": "Outcomes for minority ethnic and minority religion groups in Northern Ireland",
             "summary": "Investigating socioeconomic and self-reported health outcomes for minority ethnic and minority religion groups using data from the 2021 Census.",
@@ -1565,6 +1565,61 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-october-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): October 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): October 2026",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:44:18Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-october-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): October 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): October 2026",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:40:51Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-october-2026",
+            "title": "Monthly Marriages (Northern Ireland): October 2026",
+            "summary": "Monthly Marriages (Northern Ireland): October 2026",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:37:38Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-october-2026",
+            "title": "Monthly Deaths (Northern Ireland): October 2026",
+            "summary": "Monthly Deaths (Northern Ireland): October 2026",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:33:39Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-october-2026",
+            "title": "Monthly Births (Northern Ireland): October 2026",
+            "summary": "Monthly Births (Northern Ireland): October 2026",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (provisional)",
+            "updated": "2026-10-08T14:27:49Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "killed-or-seriously-injured-ksi-casualties-involving-hgvs-in-northern-ireland-2016-2025",
             "title": "Killed or Seriously Injured (KSI) Casualties involving HGVs in Northern Ireland, 2016-2025",
             "summary": "This statistical brief reviews PSNI road traffic collision data from 2016 to 2025 to identify any emerging issues regarding the number of killed or seriously injured (KSI) casualties involving HGVs on roads in Northern Ireland.",
@@ -1939,6 +1994,61 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-stillbirths-northern-ireland-november-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): November 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): November 2026",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:56:31Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-november-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): November 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): November 2026",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:54:54Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-november-2026",
+            "title": "Monthly Marriages (Northern Ireland): November 2026",
+            "summary": "Monthly Marriages (Northern Ireland): November 2026",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:51:33Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-november-2026",
+            "title": "Monthly Deaths (Northern Ireland): November 2026",
+            "summary": "Monthly Deaths (Northern Ireland): November 2026",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:49:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-november-2026",
+            "title": "Monthly Births (Northern Ireland): November 2026",
+            "summary": "Monthly Births (Northern Ireland): November 2026",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-08T14:47:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2026",
             "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, spit and bite guards, police dogs, CED (conductive energy device) and water cannon.",
@@ -2102,6 +2212,61 @@
             "org": "DE",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "monthly-stillbirths-northern-ireland-december-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): December 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): December 2026",
+            "release_date": "2027-01-11T09:30:00Z",
+            "display_date": "11 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-08T15:33:40Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-december-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): December 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): December 2026",
+            "release_date": "2027-01-11T09:30:00Z",
+            "display_date": "11 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-08T15:31:27Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-december-2026",
+            "title": "Monthly Marriages (Northern Ireland): December 2026",
+            "summary": "Monthly Marriages (Northern Ireland): December 2026",
+            "release_date": "2027-01-11T09:30:00Z",
+            "display_date": "11 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-08T15:29:17Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-december-2026",
+            "title": "Monthly Deaths (Northern Ireland): December 2026",
+            "summary": "Monthly Deaths (Northern Ireland): December 2026",
+            "release_date": "2027-01-11T09:30:00Z",
+            "display_date": "11 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-08T15:26:11Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "monthly-births-northern-ireland-december-2026",
+            "title": "Monthly Births (Northern Ireland): December 2026",
+            "summary": "Monthly Births (Northern Ireland): December 2026",
+            "release_date": "2027-01-11T09:30:00Z",
+            "display_date": "11 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-08T15:23:23Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-composite-economic-index-nicei-quarter-3-2026",
