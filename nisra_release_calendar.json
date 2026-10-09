@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-09T15:24:33Z",
+    "modified": "2026-10-09T18:35:34Z",
     "entries": [
         {
             "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
@@ -47,17 +47,6 @@
             "type": "OS"
         },
         {
-            "id": "independent-custody-visiting-report-2025-26",
-            "title": "Independent Custody Visiting Report 2025-26",
-            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
-            "url": "https://www.gov.uk/government/statistics/independent-custody-visiting-report-2025-26",
-            "release_date": "2026-10-08T07:00:00Z",
-            "display_date": "8 October 2026",
-            "org": "NIPB",
-            "updated": "2026-10-08T16:12:20Z",
-            "type": "OS"
-        },
-        {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-june-2026",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (June 2026)",
             "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
@@ -99,6 +88,17 @@
             "display_date": "7 October 2026",
             "org": "DfE",
             "updated": "2026-10-07T09:30:03Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-independent-custody-visiting-report-2025-26",
+            "title": "Northern Ireland Independent Custody Visiting Report 2025-26",
+            "summary": "Annual report covering 1 April 2025 to 31 March 2026 providing data from independent Custody Visiting Volunteers NI, in relation to visits and outcomes.",
+            "url": "https://www.nipolicingboard.org.uk/independent-custody-visiting-reports",
+            "release_date": "2026-10-07T07:00:00Z",
+            "display_date": "7 October 2026",
+            "org": "NIPB",
+            "updated": "2026-10-07T09:30:00Z",
             "type": "OS"
         },
         {
