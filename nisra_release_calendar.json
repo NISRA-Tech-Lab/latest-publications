@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-08T21:25:26Z",
+    "modified": "2026-10-09T09:52:45Z",
     "entries": [
+        {
+            "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
+            "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
+            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
+            "url": "https://www.economy-ni.gov.uk/articles/skills-life-and-work-statistics",
+            "release_date": "2026-10-09T07:00:00Z",
+            "display_date": "9 October 2026",
+            "org": "DfE",
+            "updated": "2026-10-09T09:30:04Z",
+            "type": "OS"
+        },
+        {
+            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2026",
+            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2026",
+            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
+            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
+            "release_date": "2026-10-09T07:00:00Z",
+            "display_date": "9 October 2026",
+            "org": "PSNI",
+            "updated": "2026-10-09T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-2-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 2 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 2 October 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-10-09T07:00:00Z",
+            "display_date": "9 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-09T09:30:03Z",
+            "type": "AOS"
+        },
+        {
+            "id": "experience-of-crime-and-perceptions-of-crime-policing-and-justice-and-organised-crime-findings-from-the-202425-northern-ireland-safe-community-survey",
+            "title": "Experience of Crime and Perceptions of Crime, Policing and Justice and Organised Crime: Findings from the 2024/25 Northern Ireland Safe Community Survey",
+            "summary": "Findings from the 2024/25 Northern Ireland Safe Community Survey. Regarding experience of crime, attitudes towards crime, policing and justice and organised crime.",
+            "url": "https://www.justice-ni.gov.uk/publications/experience-crime-and-perceptions-crime-policing-and-justice-and-organised-crime-findings-202425-northern-ireland-safe-community-survey-niscs",
+            "release_date": "2026-10-09T07:00:00Z",
+            "display_date": "9 October 2026",
+            "org": "DoJ",
+            "updated": "2026-10-09T09:30:00Z",
+            "type": "OS"
+        },
         {
             "id": "independent-custody-visiting-report-2025-26",
             "title": "Independent Custody Visiting Report 2025-26",
@@ -1059,105 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "monthly-births-northern-ireland-july-2026",
-            "title": "Monthly Births (Northern Ireland): July 2026",
-            "summary": "Monthly Births (Northern Ireland): July 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-births",
-            "release_date": "2026-08-11T07:00:00Z",
-            "display_date": "11 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-july-2026",
-            "title": "Monthly Marriages (Northern Ireland): July 2026",
-            "summary": "Monthly Marriages (Northern Ireland): July 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-08-11T07:00:00Z",
-            "display_date": "11 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-july-2026",
-            "title": "Monthly Deaths (Northern Ireland): July 2026",
-            "summary": "Monthly Deaths (Northern Ireland): July 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
-            "release_date": "2026-08-11T07:00:00Z",
-            "display_date": "11 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-july-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): July 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): July 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2026-08-11T07:00:00Z",
-            "display_date": "11 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-11T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "outcomes-for-minority-ethnic-and-minority-religion-groups-in-northern-ireland",
-            "title": "Outcomes for minority ethnic and minority religion groups in Northern Ireland",
-            "summary": "Investigating socioeconomic and self-reported health outcomes for minority ethnic and minority religion groups using data from the 2021 Census.",
-            "release_date": "2026-10-08T09:30:00Z",
-            "display_date": "8 October 2026 9:30am (confirmed)",
-            "updated": "2026-10-08T13:04:34Z",
-            "org": "NISRA",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
-            "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
-            "summary": "This publication covers key information on the Skills for Life and Work programme in Northern Ireland including the number of starts and leavers and occupancy.",
-            "release_date": "2026-10-09T09:30:00Z",
-            "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-10-01T16:16:48Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "experience-of-crime-and-perceptions-of-crime-policing-and-justice-and-organised-crime-findings-from-the-202425-northern-ireland-safe-community-surv",
-            "title": "Experience of Crime and Perceptions of Crime, Policing and Justice and Organised Crime: Findings from the 2024/25 Northern Ireland Safe Community Survey",
-            "summary": "Findings from the 2024/25 Northern Ireland Safe Community Survey. Regarding experience of crime, attitudes towards crime, policing and justice and organised crime.",
-            "release_date": "2026-10-09T09:30:00Z",
-            "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-11T11:05:45Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-2-october-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 2 October 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 2 October 2026.",
-            "release_date": "2026-10-09T09:30:00Z",
-            "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-04T16:28:02Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-30-september-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 30 September 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "release_date": "2026-10-09T09:30:00Z",
-            "display_date": "9 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T14:20:39Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
             "title": "Monthly Stillbirths (Northern Ireland): September 2026",
             "summary": "Monthly Stillbirths (Northern Ireland): September 2026",
@@ -1209,6 +1154,17 @@
             "display_date": "12 October 2026 9:30am (confirmed)",
             "updated": "2026-05-27T14:42:23Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "childrens-social-care-statistics-for-northern-ireland-202526",
+            "title": "Childrens Social Care Statistics for Northern Ireland 2025/26",
+            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
+            "release_date": "2026-10-15T09:30:00Z",
+            "display_date": "15 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-09T10:07:50Z",
+            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1463,17 +1419,6 @@
             "updated": "2026-07-24T16:58:31Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "childrens-social-care-statistics-for-northern-ireland-202526",
-            "title": "Childrens Social Care Statistics for Northern Ireland 2025/26",
-            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
-            "release_date": "2026-10-31T09:30:00Z",
-            "display_date": "October 2026 (provisional)",
-            "updated": "2026-07-24T16:52:20Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -3006,12 +2951,12 @@
             "type": "R"
         },
         {
-            "id": "postprison-mortality-in-northern-ireland",
-            "title": "Post-prison mortality in Northern Ireland",
+            "id": "postprison-mortality-in-northern-ireland-20112021",
+            "title": "Post-prison mortality in Northern Ireland 2011-2021",
             "summary": "Understanding scale and nature of mortality for people who have been in prison in Northern Ireland",
             "release_date": "2026-09-23T11:00:00Z",
             "display_date": "23 September 2026 (confirmed)",
-            "updated": "2026-09-22T16:13:45Z",
+            "updated": "2026-10-08T13:10:58Z",
             "org": "NISRA",
             "type": "R",
             "status": "confirmed",
