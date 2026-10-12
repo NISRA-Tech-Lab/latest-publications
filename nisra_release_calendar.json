@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-09T21:04:50Z",
+    "modified": "2026-10-12T08:39:12Z",
     "entries": [
+        {
+            "id": "monthly-stillbirths-northern-ireland-september-2026",
+            "title": "Monthly Stillbirths (Northern Ireland): September 2026",
+            "summary": "Monthly Stillbirths (Northern Ireland): September 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
+            "release_date": "2026-10-12T07:00:00Z",
+            "display_date": "12 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-deaths-northern-ireland-september-2026",
+            "title": "Monthly Deaths (Northern Ireland): September 2026",
+            "summary": "Monthly Deaths (Northern Ireland): September 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-deaths",
+            "release_date": "2026-10-12T07:00:00Z",
+            "display_date": "12 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-civil-partnerships-northern-ireland-september-2026",
+            "title": "Monthly Civil Partnerships (Northern Ireland): September 2026",
+            "summary": "Monthly Civil Partnerships (Northern Ireland): September 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
+            "release_date": "2026-10-12T07:00:00Z",
+            "display_date": "12 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-marriages-northern-ireland-september-2026",
+            "title": "Monthly Marriages (Northern Ireland): September 2026",
+            "summary": "Monthly Marriages (Northern Ireland): September 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
+            "release_date": "2026-10-12T07:00:00Z",
+            "display_date": "12 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-12T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "monthly-births-northern-ireland-september-2026",
+            "title": "Monthly Births (Northern Ireland): September 2026",
+            "summary": "Monthly Births (Northern Ireland): September 2026",
+            "url": "https://www.nisra.gov.uk/publications/monthly-births",
+            "release_date": "2026-10-12T07:00:00Z",
+            "display_date": "12 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-12T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "skills-for-life-and-work-bulletin-aug-22-to-apr-26",
             "title": "Skills for Life and Work Bulletin - Aug 22 to Apr 26.",
@@ -1046,116 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-08-18T07:00:01Z",
             "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-july-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: July 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-july-2026",
-            "release_date": "2026-08-14T07:00:00Z",
-            "display_date": "14 August 2026",
-            "org": "DfI",
-            "updated": "2026-08-14T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-7-august-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 7 August 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 7 August 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-08-14T07:00:00Z",
-            "display_date": "14 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-14T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-1-202627",
-            "title": "General Medical Services Statistics for NI, Quarter 1 2026/27",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 2026/27",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q1-26-27.html",
-            "release_date": "2026-08-13T07:00:00Z",
-            "display_date": "13 August 2026",
-            "org": "BSO",
-            "updated": "2026-08-13T09:30:10Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-june-2026",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (June 2026)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
-            "release_date": "2026-08-13T07:00:00Z",
-            "display_date": "13 August 2026",
-            "org": "DoH",
-            "updated": "2026-08-13T09:30:07Z",
-            "type": "AOS"
-        },
-        {
-            "id": "emergency-care-waiting-time-statistics-april-june-2026",
-            "title": "Emergency Care Waiting Time Statistics (April - June 2026)",
-            "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target.",
-            "url": "https://www.health-ni.gov.uk/articles/emergency-care-waiting-times",
-            "release_date": "2026-08-12T07:00:00Z",
-            "display_date": "12 August 2026",
-            "org": "DoH",
-            "updated": "2026-08-12T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-stillbirths-northern-ireland-september-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): September 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): September 2026",
-            "release_date": "2026-10-12T09:30:00Z",
-            "display_date": "12 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:46:40Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-september-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): September 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): September 2026",
-            "release_date": "2026-10-12T09:30:00Z",
-            "display_date": "12 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:40:15Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-marriages-northern-ireland-september-2026",
-            "title": "Monthly Marriages (Northern Ireland): September 2026",
-            "summary": "Monthly Marriages (Northern Ireland): September 2026",
-            "release_date": "2026-10-12T09:30:00Z",
-            "display_date": "12 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:32:05Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-deaths-northern-ireland-september-2026",
-            "title": "Monthly Deaths (Northern Ireland): September 2026",
-            "summary": "Monthly Deaths (Northern Ireland): September 2026",
-            "release_date": "2026-10-12T09:30:00Z",
-            "display_date": "12 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T15:24:42Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "monthly-births-northern-ireland-september-2026",
-            "title": "Monthly Births (Northern Ireland): September 2026",
-            "summary": "Monthly Births (Northern Ireland): September 2026",
-            "release_date": "2026-10-12T09:30:00Z",
-            "display_date": "12 October 2026 9:30am (confirmed)",
-            "updated": "2026-05-27T14:42:23Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "childrens-social-care-statistics-for-northern-ireland-202526",
@@ -2269,6 +2214,17 @@
             "status": "confirmed"
         },
         {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202627",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2026/27",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2027-01-28T09:30:00Z",
+            "display_date": "28 January 2027 9:30am (confirmed)",
+            "updated": "2026-10-12T08:20:58Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-statistics-jul-sep-2026",
             "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2026",
             "summary": "Northern Ireland local authority collected municipal waste management statistics report - July to September 2026",
@@ -2509,6 +2465,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202627",
+            "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 4 2026/27",
+            "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
+            "release_date": "2027-04-22T09:30:00Z",
+            "display_date": "22 April 2027 9:30am (confirmed)",
+            "updated": "2026-10-12T08:27:22Z",
+            "org": "OPONI",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "emergency-care-waiting-time-statistics-january-march-2027",
