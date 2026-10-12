@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-12T14:15:25Z",
+    "modified": "2026-10-12T17:50:45Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
@@ -2434,6 +2434,17 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-12-february-2027",
+            "title": "Deaths Registered in Northern Ireland - Week ending 12 February 2027",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 12 February 2027.",
+            "release_date": "2027-02-19T09:30:00Z",
+            "display_date": "19 February 2027 9:30am (confirmed)",
+            "updated": "2026-10-12T15:19:44Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-hsc-active-recruitment-statistics-december-2026",
             "title": "Northern Ireland HSC Active Recruitment Statistics December 2026",
             "summary": "A quarterly publication of HSC vacancies",
@@ -2489,6 +2500,17 @@
             "status": "confirmed"
         },
         {
+            "id": "deaths-registered-in-northern-ireland-week-ending-19-february-2027",
+            "title": "Deaths Registered in Northern Ireland - Week ending 19 February 2027",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 19 February 2027.",
+            "release_date": "2027-02-26T09:30:00Z",
+            "display_date": "26 February 2027 9:30am (confirmed)",
+            "updated": "2026-10-12T15:24:13Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-courts-and-tribunals-service-quarterly-provisional-figures-october-to-december-2026",
             "title": "Northern Ireland Courts and Tribunals Service Quarterly Provisional Figures October to December 2026",
             "summary": "Statistics for the Northern Ireland Court and Tribunals Service for the quarter October to December 2026",
@@ -2520,6 +2542,17 @@
             "org": "DE",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-26-february-2027",
+            "title": "Deaths Registered in Northern Ireland - Week ending 26 February 2027",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 26 February 2027.",
+            "release_date": "2027-03-05T09:30:00Z",
+            "display_date": "5 March 2027 9:30am (confirmed)",
+            "updated": "2026-10-12T15:26:15Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-december-2026",
