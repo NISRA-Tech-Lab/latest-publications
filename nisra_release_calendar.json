@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-12T14:09:37Z",
+    "modified": "2026-10-12T14:15:25Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
@@ -3089,7 +3089,7 @@
             "summary": "Investigating socioeconomic and self-reported health outcomes for minority ethnic and minority religion groups using data from the 2021 Census.",
             "release_date": "2026-10-08T09:30:00Z",
             "display_date": "8 October 2026 (confirmed)",
-            "updated": "2026-10-06T12:17:54Z",
+            "updated": "2026-10-12T10:24:33Z",
             "org": "NISRA",
             "type": "R",
             "status": "confirmed",
