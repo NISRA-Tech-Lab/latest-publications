@@ -35,3 +35,8 @@ This project includes a GitHub Actions workflow file named `update.yml`. The wor
 3. Optionally, rely on GitHub Actions to automate updates via the `update.yml` workflow.
 
 This setup ensures a regularly updated and accurate release calendar for NISRA publications.
+
+## **Upcoming Research repo**
+The repo for the Upcoming Research app can be found at https://github.com/NISRA-Tech-Lab/upcoming-research
+
+The link to access the app is https://nisra-tech-lab.github.io/upcoming-research/
