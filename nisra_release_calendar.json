@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-14T13:53:44Z",
+    "modified": "2026-10-14T16:11:05Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
@@ -1818,6 +1818,17 @@
             "status": "confirmed"
         },
         {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
+            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
+            "release_date": "2026-11-30T09:30:00Z",
+            "display_date": "October to November 2026 (provisional)",
+            "updated": "2026-10-14T16:54:42Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
             "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
@@ -1836,17 +1847,6 @@
             "display_date": "November 2026 (provisional)",
             "updated": "2026-09-22T12:32:11Z",
             "org": "DfE",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
-            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
-            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-09-21T09:48:56Z",
-            "org": "DoH",
             "type": "OS",
             "status": "provisional"
         },
