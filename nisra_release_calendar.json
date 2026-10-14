@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-14T11:00:43Z",
+    "modified": "2026-10-14T13:40:35Z",
     "entries": [
         {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
@@ -1618,6 +1618,17 @@
             "org": "DoF",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
+            "title": "Time Taken To Register Deaths In Northern Ireland, 2025.",
+            "summary": "This report analyses the duration of time taken to register deaths in Northern Ireland, highlighting variations by cause of death and certification type.",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (provisional)",
+            "updated": "2026-10-14T12:32:20Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
