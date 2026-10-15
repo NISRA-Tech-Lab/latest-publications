@@ -1,7 +1,29 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-14T20:16:14Z",
+    "modified": "2026-10-15T08:39:14Z",
     "entries": [
+        {
+            "id": "childrens-social-care-statistics-for-northern-ireland-202526",
+            "title": "Childrens Social Care Statistics for Northern Ireland 2025/26",
+            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
+            "url": "https://www.health-ni.gov.uk/articles/children-need",
+            "release_date": "2026-10-15T07:00:00Z",
+            "display_date": "15 October 2026",
+            "org": "DoH",
+            "updated": "2026-10-15T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-racial-equality-indicators-dashboard",
+            "title": "Northern Ireland Racial Equality Indicators Dashboard",
+            "summary": "A dashboard monitoring progress against the Racial Equality Strategy (2015-2025).",
+            "url": "https://www.executiveoffice-ni.gov.uk/articles/racial-equality-indicators",
+            "release_date": "2026-10-15T07:00:00Z",
+            "display_date": "15 October 2026",
+            "org": "TEO",
+            "updated": "2026-10-15T09:30:01Z",
+            "type": "OS"
+        },
         {
             "id": "monthly-stillbirths-northern-ireland-september-2026",
             "title": "Monthly Stillbirths (Northern Ireland): September 2026",
@@ -1079,50 +1101,6 @@
             "org": "DoF",
             "updated": "2026-08-19T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-june-2026",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 June 2026",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
-            "release_date": "2026-08-19T07:00:00Z",
-            "display_date": "19 August 2026",
-            "org": "PSNI",
-            "updated": "2026-08-19T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-august-2026",
-            "title": "NI Labour Market statistics: August 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2026-08-18T07:00:00Z",
-            "display_date": "18 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-18T07:00:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "childrens-social-care-statistics-for-northern-ireland-202526",
-            "title": "Childrens Social Care Statistics for Northern Ireland 2025/26",
-            "summary": "Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March.",
-            "release_date": "2026-10-15T09:30:00Z",
-            "display_date": "15 October 2026 9:30am (confirmed)",
-            "updated": "2026-10-09T10:07:50Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-racial-equality-indicators-dashboard",
-            "title": "Northern Ireland Racial Equality Indicators Dashboard",
-            "summary": "A dashboard monitoring progress against the Racial Equality Strategy (2015-2025).",
-            "release_date": "2026-10-15T09:30:00Z",
-            "display_date": "15 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-18T14:53:39Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-9-october-2026",
