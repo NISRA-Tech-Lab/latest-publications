@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-15T10:43:02Z",
+    "modified": "2026-10-15T13:23:08Z",
     "entries": [
         {
             "id": "childrens-social-care-statistics-for-northern-ireland-202526",
@@ -1499,6 +1499,17 @@
             "status": "provisional"
         },
         {
+            "id": "a-respect-index-for-northern-ireland-as-measured-by-the-everyday-discrimination-scale-2024-2025",
+            "title": "A Respect Index for Northern Ireland (as measured by the Everyday Discrimination Scale): 2016 - 2025",
+            "summary": "The respect index measures perception of discrimination experienced by individuals in their daily lives.",
+            "release_date": "2026-11-11T09:30:00Z",
+            "display_date": "11 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-06T09:25:04Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "experience-of-sport-by-young-people-in-northern-ireland-2025",
             "title": "Experience of sport by young people in Northern Ireland 2025",
             "summary": "An triennial publication containing survey results on experience of sport by young people in Northern Ireland.",
@@ -1616,6 +1627,17 @@
             "display_date": "18 November 2026 9:30am (confirmed)",
             "updated": "2026-01-21T11:35:39Z",
             "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2025",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2025",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2025",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-15T12:17:53Z",
+            "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1884,15 +1906,15 @@
             "status": "provisional"
         },
         {
-            "id": "finalised-suicide-statistics-in-northern-ireland-2025",
-            "title": "Finalised Suicide Statistics in Northern Ireland, 2025",
-            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2025",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "November 2026 (provisional)",
-            "updated": "2026-05-19T09:50:18Z",
-            "org": "NISRA",
+            "id": "northern-ireland-housing-bulletin-july-september-2026",
+            "title": "Northern Ireland Housing Bulletin July - September 2026",
+            "summary": "A quarterly bulletin containing information on new social housing starts and completions, social housing demand, homelessness, and new dwelling sales and prices from the National House Building Council (NHBC).",
+            "release_date": "2026-12-02T09:30:00Z",
+            "display_date": "2 December 2026 9:30am (confirmed)",
+            "updated": "2026-10-15T12:11:33Z",
+            "org": "DfC",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "carbon-intensity-indicators-northern-ireland-2026",
@@ -3037,6 +3059,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "acute-episode-based-activity-statistics-2026-to-2027",
+            "title": "Acute Episode-Based Activity Statistics 2026 to 2027",
+            "summary": "Presents data on consultant episodes in Health Trusts in Northern Ireland for 2026 to 2027, broken down by specialty, diagnosis, procedure, and resource group.",
+            "release_date": "2027-11-30T09:30:00Z",
+            "display_date": "October to November 2027 (provisional)",
+            "updated": "2026-10-15T13:57:37Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "outcomes-for-minority-ethnic-and-minority-religion-groups-in-northern-ireland--2",
