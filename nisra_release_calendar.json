@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-19T11:50:33Z",
+    "modified": "2026-10-19T15:34:09Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2026",
@@ -1631,6 +1631,17 @@
             "status": "confirmed"
         },
         {
+            "id": "good-jobs-in-northern-ireland-2026",
+            "title": "Good Jobs in Northern Ireland 2026",
+            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T13:55:30Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "registrar-general-northern-ireland-annual-report-2025",
             "title": "Registrar General Northern Ireland Annual Report 2025",
             "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
@@ -1805,6 +1816,50 @@
             "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "police-crime-outcomes-in-northern-ireland-201516-to-202526",
+            "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2025/26",
+            "summary": "Annual update of Police Crime Outcomes.",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T14:41:42Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-hate-motivation-trends-report-202526",
+            "title": "Annual Hate Motivation Trends Report 2025/26",
+            "summary": "Annual trends report on hate motivated incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2025/26.",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T14:36:12Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-domestic-abuse-trends-report-202526",
+            "title": "Annual Domestic Abuse Trends Report 2025/26",
+            "summary": "Annual trends report on domestic abuse incidents and crimes recorded by the police in Northern Ireland, financial years 2004/05 to 2025/26",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T14:32:08Z",
+            "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "annual-crime-statistics-trends-report-202526",
+            "title": "Annual Crime Statistics Trends Report 2025/26",
+            "summary": "Annual trends report on crimes recorded by the police in Northern Ireland, financial years 1998/99 to 2025/26",
+            "release_date": "2026-11-27T09:30:00Z",
+            "display_date": "27 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T14:24:42Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-20-november-2026",
