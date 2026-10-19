@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-19T11:34:42Z",
+    "modified": "2026-10-19T11:50:33Z",
     "entries": [
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2026",
@@ -1210,6 +1210,17 @@
             "updated": "2026-09-04T16:39:28Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-public-expenditure-key-statistics-2025-26",
+            "title": "NI public expenditure key statistics, 2025-26",
+            "summary": "This dashboard provides provisional Northern Ireland Departmental expenditure outturn data for 2025-26 alongside final outturn data for previous years.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-19T12:48:51Z",
+            "org": "NISRA",
+            "type": "OS",
             "status": "confirmed"
         },
         {
