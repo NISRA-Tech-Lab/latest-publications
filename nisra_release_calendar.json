@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-20T13:43:27Z",
+    "modified": "2026-10-20T16:02:08Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-october-2026",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "northern-irelands-material-footprint-2001-to-2023",
+            "title": "Northern Ireland's Material Footprint: 2001 to 2023",
+            "summary": "Estimates of Northern Ireland's material footprint, also known as raw material consumption, covering 2001 to 2023.",
+            "release_date": "2026-10-21T09:30:00Z",
+            "display_date": "21 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-20T14:50:17Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "children-adopted-from-care-in-northern-ireland-202526",
             "title": "Children Adopted from Care in Northern Ireland 2025/26",
             "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
@@ -1121,17 +1132,6 @@
             "display_date": "21 October 2026 9:30am (confirmed)",
             "updated": "2026-09-22T17:14:12Z",
             "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-irelands-material-footprint-2001-to-2023",
-            "title": "Northern Ireland's Material Footprint: 2001 to 2023",
-            "summary": "Estimates of Northern Ireland's material footprint, also known as raw material consumption, covering 2001 to 2023.",
-            "release_date": "2026-10-21T09:30:00Z",
-            "display_date": "21 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T12:26:38Z",
-            "org": "DfE",
             "type": "OS",
             "status": "confirmed"
         },
