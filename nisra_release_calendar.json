@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-19T21:11:06Z",
+    "modified": "2026-10-20T08:38:54Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-october-2026",
+            "title": "NI Labour Market statistics: October 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-10-20T07:00:00Z",
+            "display_date": "20 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-20T07:00:02Z",
+            "type": "AOS"
+        },
         {
             "id": "dva-monthly-tests-conducted-statistics-september-2026",
             "title": "DVA Monthly Tests Conducted Statistics: September 2026",
@@ -1092,28 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2025-to-2026",
-            "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2025 to 2026",
-            "summary": "Annual report on average case processing time for criminal cases dealt with in the Crown and magistrates’ courts in Northern Ireland.",
-            "url": "http://www.justice-ni.gov.uk/publications/case-processing-time-criminal-cases-dealt-courts-northern-ireland-2526",
-            "release_date": "2026-08-20T07:00:00Z",
-            "display_date": "20 August 2026",
-            "org": "DoJ",
-            "updated": "2026-08-20T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "ni-labour-market-statistics-october-2026",
-            "title": "NI Labour Market statistics: October 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-10-20T07:00:00Z",
-            "display_date": "20 October 2026 7:00am (confirmed)",
-            "updated": "2026-02-23T13:33:18Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "children-adopted-from-care-in-northern-ireland-202526",
             "title": "Children Adopted from Care in Northern Ireland 2025/26",
             "summary": "This annual publication details statistical information on children adopted from care in Northern Ireland.",
@@ -1144,6 +1133,17 @@
             "updated": "2026-09-22T12:26:38Z",
             "org": "DfE",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
+            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2026",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics report - Apr-Jun 2026",
+            "release_date": "2026-10-22T09:30:00Z",
+            "display_date": "22 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-20T09:18:19Z",
+            "org": "DAERA",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1178,17 +1178,6 @@
             "org": "OPONI",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-statistics-apr-jun-2025",
-            "title": "Northern Ireland LAC municipal waste statistics - Apr-Jun 2026",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics report - Apr-Jun 2026",
-            "release_date": "2026-10-22T09:30:00Z",
-            "display_date": "22 October 2026 9:30am (provisional)",
-            "updated": "2026-04-10T10:45:14Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "emergency-care-waiting-time-statistics-july-september-2026",
@@ -1730,6 +1719,17 @@
             "status": "confirmed"
         },
         {
+            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2026",
+            "title": "Motoring offences statistics in Northern Ireland to 30 September 2026",
+            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-20T09:23:00Z",
+            "org": "PSNI",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "young-people-not-in-education-employment-or-training-neet-ni-july-to-september-2026",
             "title": "Young people not in education, employment or training (NEET), NI: July to September 2026",
             "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training.",
@@ -1750,17 +1750,6 @@
             "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "motoring-offences-statistics-in-northern-ireland-to-30-september-2026",
-            "title": "Motoring offences statistics in Northern Ireland to 30 September 2026",
-            "summary": "Monthly update of statistics relating to Motoring Offences in Northern Ireland.",
-            "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (provisional)",
-            "updated": "2026-08-11T14:42:08Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-31-october-2026",
