@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-22T11:07:16Z",
+    "modified": "2026-10-22T13:45:11Z",
     "entries": [
         {
             "id": "northern-ireland-planning-statistics-april-to-june-2026",
@@ -2148,17 +2148,6 @@
             "status": "provisional"
         },
         {
-            "id": "northern-ireland-food-and-drinks-processing-report-2023",
-            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024 - Official Statistics in Development",
-            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "November to December 2026 (provisional)",
-            "updated": "2026-10-02T13:13:28Z",
-            "org": "DAERA",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
             "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
             "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
@@ -2344,6 +2333,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-food-and-drinks-processing-report-2023",
+            "title": "Northern Ireland Food and Drinks Processing Report 2023 and 2024 - Official Statistics in Development",
+            "summary": "This annual publication provides estimates for eight key Northern Ireland food and drinks processing sector size indicators and fifteen performance indicators.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-10-22T12:18:56Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
