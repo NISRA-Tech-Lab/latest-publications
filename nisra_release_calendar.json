@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-23T13:39:26Z",
+    "modified": "2026-10-23T16:22:39Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-october-2026",
@@ -1521,6 +1521,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-house-price-index-quarter-3-2026",
+            "title": "Northern Ireland House Price Index Quarter 3 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2026",
+            "release_date": "2026-11-18T09:30:00Z",
+            "display_date": "18 November 2026 9:30am (confirmed)",
+            "updated": "2026-01-21T11:35:39Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "good-jobs-in-northern-ireland-2026",
             "title": "Good Jobs in Northern Ireland 2026",
             "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
@@ -2324,6 +2335,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-january-2027",
+            "title": "NI Labour Market statistics: January 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-01-19T07:00:00Z",
+            "display_date": "19 January 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T15:42:55Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-january-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 15 January 2027",
             "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 15 January 2027.",
@@ -2489,6 +2511,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-february-2027",
+            "title": "NI Labour Market statistics: February 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-02-16T07:00:00Z",
+            "display_date": "16 February 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T15:58:08Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-12-february-2027",
             "title": "Deaths Registered in Northern Ireland - Week ending 12 February 2027",
             "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 12 February 2027.",
@@ -2610,6 +2643,17 @@
             "status": "confirmed"
         },
         {
+            "id": "ni-labour-market-statistics-march-2027",
+            "title": "NI Labour Market statistics: March 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-03-16T07:00:00Z",
+            "display_date": "16 March 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T16:13:47Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-employment-survey-december-2026",
             "title": "Quarterly Employment Survey: December 2026",
             "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis, which are also used by the Office for National Statistics (ONS) to feed into the calculation of the quarterly workforce jobs estimates for the UK as a whole.",
@@ -2652,6 +2696,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-april-2027",
+            "title": "NI Labour Market statistics: April 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-04-20T07:00:00Z",
+            "display_date": "20 April 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T16:36:04Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-4-202627",
@@ -2731,6 +2786,17 @@
             "status": "provisional"
         },
         {
+            "id": "ni-labour-market-statistics-may-2027",
+            "title": "NI Labour Market statistics: May 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-05-18T07:00:00Z",
+            "display_date": "18 May 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T16:46:16Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-benefit-statistics-summary-february-2027",
             "title": "Northern Ireland Benefit Statistics Summary: February 2027",
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
@@ -2795,6 +2861,17 @@
             "org": "DE",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-june-2027",
+            "title": "NI Labour Market statistics: June 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-06-15T07:00:00Z",
+            "display_date": "15 June 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T17:03:03Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "quarterly-employment-survey-march-2027",
@@ -2874,6 +2951,17 @@
             "status": "provisional"
         },
         {
+            "id": "ni-labour-market-statistics-july-2027",
+            "title": "NI Labour Market statistics: July 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-07-20T07:00:00Z",
+            "display_date": "20 July 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T17:15:10Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026--2",
             "title": "Pay in the Northern Ireland Civil Service - Year Ending March 2027",
             "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2027.",
@@ -2916,6 +3004,17 @@
             "org": "DoH",
             "type": "AOS",
             "status": "provisional"
+        },
+        {
+            "id": "ni-labour-market-statistics-august-2027",
+            "title": "NI Labour Market statistics: August 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-08-17T07:00:00Z",
+            "display_date": "17 August 2027 7:00am (confirmed)",
+            "updated": "2026-10-23T17:20:42Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-may-2027",
