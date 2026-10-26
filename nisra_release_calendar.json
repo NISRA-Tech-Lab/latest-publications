@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-26T12:05:11Z",
+    "modified": "2026-10-26T15:09:32Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-october-2026",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "long-term-international-migration-statistics-for-northern-ireland-2025",
+            "title": "Long-Term International Migration Statistics for Northern Ireland (2025)",
+            "summary": "Long-Term International Migration Statistics (2025) Detailed tables from a number of administrative data sources, providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-26T13:14:26Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202526",
             "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2025/26",
             "summary": "This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland.",
@@ -1122,17 +1133,6 @@
             "updated": "2026-10-19T12:48:51Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "long-term-international-migration-statistics-for-northern-ireland-2025",
-            "title": "Long-Term International Migration Statistics for Northern Ireland (2025)",
-            "summary": "Long-Term International Migration Statistics (2025) Detailed tables from a number of administrative data sources, providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
-            "release_date": "2026-10-29T09:30:00Z",
-            "display_date": "29 October 2026 9:30am (confirmed)",
-            "updated": "2026-10-01T09:55:40Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1187,6 +1187,17 @@
             "display_date": "29 October 2026 9:30am (confirmed)",
             "updated": "2026-08-10T14:44:27Z",
             "org": "PSNI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
+            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
+            "release_date": "2026-10-30T09:30:00Z",
+            "display_date": "30 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-26T14:56:30Z",
+            "org": "DoH",
             "type": "OS",
             "status": "confirmed"
         },
@@ -1859,17 +1870,6 @@
             "updated": "2026-10-26T11:07:36Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
-            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
-            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-10-20T10:31:39Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "provisional"
         },
         {
