@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-27T20:49:18Z",
+    "modified": "2026-10-28T09:38:48Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-october-2026",
@@ -1477,17 +1477,6 @@
             "status": "confirmed"
         },
         {
-            "id": "ni-labour-market-statistics-november-2027",
-            "title": "NI Labour Market statistics: November 2027",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-11-16T07:00:00Z",
-            "display_date": "16 November 2026 7:00am (confirmed)",
-            "updated": "2026-10-23T17:38:50Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "ni-labour-market-statistics-november-2026",
             "title": "NI Labour Market statistics: November 2026",
             "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
@@ -1640,6 +1629,17 @@
             "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
+            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
+            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (provisional)",
+            "updated": "2026-10-28T08:48:46Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "young-peoples-attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2026",
@@ -1870,17 +1870,6 @@
             "updated": "2026-10-26T11:07:36Z",
             "org": "DoH",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
-            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
-            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "October to November 2026 (provisional)",
-            "updated": "2026-09-29T12:01:39Z",
-            "org": "NISRA",
-            "type": "OS",
             "status": "provisional"
         },
         {
@@ -3177,6 +3166,17 @@
             "release_date": "2027-10-19T07:00:00Z",
             "display_date": "19 October 2027 7:00am (confirmed)",
             "updated": "2026-10-23T17:30:33Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-labour-market-statistics-november-2027",
+            "title": "NI Labour Market statistics: November 2027",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "release_date": "2027-11-16T07:00:00Z",
+            "display_date": "16 November 2027 7:00am (confirmed)",
+            "updated": "2026-10-28T09:20:29Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
