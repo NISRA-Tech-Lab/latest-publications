@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-28T09:38:48Z",
+    "modified": "2026-10-28T11:50:53Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-16-october-2026",
@@ -1103,6 +1103,17 @@
             "type": "OS"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2026/27.",
+            "release_date": "2026-10-29T09:30:00Z",
+            "display_date": "29 October 2026 9:30am (confirmed)",
+            "updated": "2026-10-28T11:01:47Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "long-term-international-migration-statistics-for-northern-ireland-2025",
             "title": "Long-Term International Migration Statistics for Northern Ireland (2025)",
             "summary": "Long-Term International Migration Statistics (2025) Detailed tables from a number of administrative data sources, providing a useful point of reference relating to recent changes/trends in international migration for Northern Ireland.",
@@ -1143,17 +1154,6 @@
             "display_date": "29 October 2026 9:30am (confirmed)",
             "updated": "2026-09-29T16:01:30Z",
             "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-dental-services-statistics-for-ni-quarter-2-202627",
-            "title": "General Dental Services Statistics for NI, Quarter 2 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 2 of 2026/27.",
-            "release_date": "2026-10-29T09:30:00Z",
-            "display_date": "29 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T13:49:05Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1598,6 +1598,17 @@
             "status": "confirmed"
         },
         {
+            "id": "further-education-sector-activity-in-northern-ireland-202122-to-202526",
+            "title": "Further Education Sector Activity in Northern Ireland: 2021/22 to 2025/26",
+            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2021/22 to 2025/26. The statistics presented cover the characteristics of those enrolling in FE colleges along with analysis of areas of deprivation, funding streams and performance (retention, achievement and success rates).",
+            "release_date": "2026-11-25T09:30:00Z",
+            "display_date": "25 November 2026 9:30am (provisional)",
+            "updated": "2026-10-28T11:37:22Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-benefit-statistics-summary-august-2026",
             "title": "Northern Ireland Benefit Statistics Summary: August 2026",
             "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
@@ -1635,11 +1646,11 @@
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
             "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
             "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (provisional)",
-            "updated": "2026-10-28T08:48:46Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-28T10:10:54Z",
             "org": "NISRA",
             "type": "OS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "young-peoples-attitudes-to-refugees-and-asylum-seekers-in-northern-ireland-2026",
@@ -3178,6 +3189,28 @@
             "display_date": "16 November 2027 7:00am (confirmed)",
             "updated": "2026-10-28T09:20:29Z",
             "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "personal-independence-payment-statistics-august-2027",
+            "title": "Personal Independence Payment Statistics - August 2027",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "release_date": "2027-11-24T09:30:00Z",
+            "display_date": "24 November 2027 9:30am (confirmed)",
+            "updated": "2026-10-28T09:55:57Z",
+            "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-august-2027",
+            "title": "Northern Ireland Benefit Statistics Summary: August 2027",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "release_date": "2027-11-24T09:30:00Z",
+            "display_date": "24 November 2027 9:30am (confirmed)",
+            "updated": "2026-10-28T09:51:14Z",
+            "org": "DfC",
             "type": "AOS",
             "status": "confirmed"
         },
