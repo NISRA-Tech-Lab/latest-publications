@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-29T09:39:02Z",
+    "modified": "2026-10-29T11:58:32Z",
     "entries": [
         {
             "id": "general-dental-services-statistics-for-ni-quarter-2-202627",
@@ -1840,6 +1840,17 @@
             "status": "confirmed"
         },
         {
+            "id": "what-matters-most-202526",
+            "title": "What Matters Most, 2025/26",
+            "summary": "The most pressing issues people aged 16 and over face in their day-to-day lives in Northern Ireland.",
+            "release_date": "2026-12-03T09:30:00Z",
+            "display_date": "3 December 2026 9:30am (provisional)",
+            "updated": "2026-10-29T10:37:21Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "carbon-intensity-indicators-northern-ireland-2026",
             "title": "Carbon intensity indicators: Northern Ireland 2026",
             "summary": "Carbon intensity indicators: Northern Ireland 2026",
@@ -2311,6 +2322,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "alcohol-specific-deaths-in-northern-ireland-2015-to-2025",
+            "title": "Alcohol-Specific deaths in Northern Ireland, 2015 to 2025",
+            "summary": "Number of Alcohol-Specific deaths in Northern Ireland, 2015-2025",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "January 2027 (provisional)",
+            "updated": "2026-10-29T11:21:37Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
