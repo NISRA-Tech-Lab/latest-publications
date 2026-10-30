@@ -1,7 +1,51 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-29T21:16:50Z",
+    "modified": "2026-10-30T09:38:50Z",
     "entries": [
+        {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report",
+            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
+            "url": "https://www.health-ni.gov.uk/articles/young-persons-behaviour-attitudes-survey",
+            "release_date": "2026-10-30T07:00:00Z",
+            "display_date": "30 October 2026",
+            "org": "DoH",
+            "updated": "2026-10-30T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-september-2026",
+            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
+            "url": "https://www.psni.police.uk/official-statistics/drug-seizure-statistics",
+            "release_date": "2026-10-30T07:00:00Z",
+            "display_date": "30 October 2026",
+            "org": "PSNI",
+            "updated": "2026-10-30T09:30:01Z",
+            "type": "OS"
+        },
+        {
+            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2026",
+            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2026",
+            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/road-traffic-collision-statistics",
+            "release_date": "2026-10-30T07:00:00Z",
+            "display_date": "30 October 2026",
+            "org": "PSNI",
+            "updated": "2026-10-30T09:30:01Z",
+            "type": "AOS"
+        },
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-23-october-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 23 October 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 October 2026.",
+            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
+            "release_date": "2026-10-30T07:00:00Z",
+            "display_date": "30 October 2026",
+            "org": "NISRA",
+            "updated": "2026-10-30T09:30:01Z",
+            "type": "AOS"
+        },
         {
             "id": "general-dental-services-statistics-for-ni-quarter-2-202627",
             "title": "General Dental Services Statistics for NI, Quarter 2 2026/27",
@@ -1057,94 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-08-27T09:30:01Z",
             "type": "AOS"
-        },
-        {
-            "id": "hate-incidents-and-crimes-in-northern-ireland-period-ending-30-june-2026",
-            "title": "Hate incidents and crimes in Northern Ireland, period ending 30 June 2026",
-            "summary": "Quarterly update of incidents and crimes with a hate motivation reported to PSNI.",
-            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/hate-motivation-statistics",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "PSNI",
-            "updated": "2026-08-27T09:30:01Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-housing-bulletin-april-june-2026",
-            "title": "Northern Ireland Housing Bulletin April - June 2026",
-            "summary": "A bulletin on new social housing starts, completions and demand, homelessness, and new dwelling sales and prices from the National House Building Council.",
-            "url": "https://www.communities-ni.gov.uk/articles/northern-ireland-housing-bulletin",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "DfC",
-            "updated": "2026-08-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-road-safety-strategy-to-2030-annual-statistical-report-2026",
-            "title": "Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report 2026",
-            "summary": "The Northern Ireland Road Safety Strategy to 2030 Annual Statistical Report monitors the progress of the strategy against agreed targets and key performance indicators.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/northern-ireland-road-safety-strategy-2030-statistics",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "DfI",
-            "updated": "2026-08-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "travel-survey-for-northern-ireland-report-2024-data",
-            "title": "Travel Survey for Northern Ireland Report 2024 data",
-            "summary": "Release of 2024 data from the Travel Survey for Northern Ireland (TSNI) containing key results on how and why people travel within NI.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/travel-survey-northern-ireland",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "DfI",
-            "updated": "2026-08-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
-            "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report ",
-            "summary": "This report presents findings from the mental health and wellbeing modules from the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland",
-            "release_date": "2026-10-30T09:30:00Z",
-            "display_date": "30 October 2026 9:30am (confirmed)",
-            "updated": "2026-10-26T14:56:30Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-23-october-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 23 October 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 23 October 2026.",
-            "release_date": "2026-10-30T09:30:00Z",
-            "display_date": "30 October 2026 9:30am (confirmed)",
-            "updated": "2026-09-04T16:42:38Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-31-august-2026",
-            "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 31 August 2026",
-            "summary": "Monthly statistics update relating to injury road traffic collisions reported to Police.",
-            "release_date": "2026-10-30T09:30:00Z",
-            "display_date": "30 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T15:55:46Z",
-            "org": "PSNI",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "drug-seizures-and-arrests-in-northern-ireland-period-ending-30-september-2026",
-            "title": "Drug seizures and arrests in Northern Ireland, period ending 30 September 2026",
-            "summary": "Quarterly update of class A, B and C drug seizure incidents and arrests by PSNI.",
-            "release_date": "2026-10-30T09:30:00Z",
-            "display_date": "30 October 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T15:05:05Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "employment-vacancies-notified-to-dfc-quarter-two-202627-financial-year",
