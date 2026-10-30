@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-10-30T09:38:50Z",
+    "modified": "2026-10-30T11:52:35Z",
     "entries": [
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
@@ -1129,11 +1129,11 @@
             "title": "Northern Ireland Tourism Statistics, Quarter 2 2026",
             "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 2 2026.",
             "release_date": "2026-11-05T09:30:00Z",
-            "display_date": "5 November 2026 9:30am (provisional)",
-            "updated": "2026-10-08T11:00:43Z",
+            "display_date": "5 November 2026 9:30am (confirmed)",
+            "updated": "2026-10-30T11:35:20Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "walking-and-cycling-in-northern-ireland-202526",
