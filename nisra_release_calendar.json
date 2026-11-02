@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-02T14:30:55Z",
+    "modified": "2026-11-02T18:16:29Z",
     "entries": [
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
@@ -2509,6 +2509,17 @@
             "org": "DfC",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "key-rural-issues-2026",
+            "title": "Key Rural Issues 2026",
+            "summary": "This publication aims to provide evidence to inform the future direction of rural policy in NI, to underpin the Rural Needs Act (2016) and to support equitable treatment of rural communities in policies and programmes across government.",
+            "release_date": "2027-02-25T09:30:00Z",
+            "display_date": "25 February 2027 9:30am (provisional)",
+            "updated": "2026-11-02T16:16:17Z",
+            "org": "DAERA",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-19-february-2027",
