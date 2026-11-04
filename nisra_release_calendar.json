@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-04T13:38:57Z",
+    "modified": "2026-11-04T16:15:18Z",
     "entries": [
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-september-2026",
@@ -1312,6 +1312,17 @@
             "status": "confirmed"
         },
         {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
+            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
+            "release_date": "2026-11-13T09:30:00Z",
+            "display_date": "13 November 2026 9:30am (provisional)",
+            "updated": "2026-11-04T15:16:11Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-6-november-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 6 November 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 6 November 2026.",
@@ -1785,6 +1796,17 @@
             "status": "provisional"
         },
         {
+            "id": "northern-ireland-road-network-and-condition-statistics-2025-26",
+            "title": "Northern Ireland Road Network and Condition Statistics 2025-26",
+            "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
+            "release_date": "2026-12-02T09:30:00Z",
+            "display_date": "2 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-04T15:46:41Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-abortion-statistics-202526",
             "title": "Northern Ireland abortion statistics 2025/26",
             "summary": "The number of medical and surgical abortions at health and social care trusts in Northern Ireland during 2020/21 to 2025/26.",
@@ -2091,17 +2113,6 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
-            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "November to December 2026 (provisional)",
-            "updated": "2026-11-04T09:34:32Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2026",
@@ -2883,6 +2894,17 @@
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "sickness-absence-in-the-northern-ireland-civil-service-202627",
+            "title": "Sickness Absence in the Northern Ireland Civil Service 2026/27",
+            "summary": "This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2026/27 financial year.",
+            "release_date": "2027-07-31T09:30:00Z",
+            "display_date": "June to July 2027 (provisional)",
+            "updated": "2026-11-04T14:28:02Z",
+            "org": "DoF",
+            "type": "AOS",
+            "status": "provisional"
         },
         {
             "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026--2",
