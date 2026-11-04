@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-03T21:52:50Z",
+    "modified": "2026-11-04T09:39:35Z",
     "entries": [
+        {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202324-cohort",
+            "title": "Adult and Youth Reoffending in Northern Ireland (2023/24 Cohort)",
+            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24",
+            "url": "https://datavis.nisra.gov.uk/justice/Adult-and-Youth-Reoffending-in-Northern-Ireland-202324.html",
+            "release_date": "2026-11-04T07:00:00Z",
+            "display_date": "4 November 2026",
+            "org": "DoJ",
+            "updated": "2026-11-04T09:30:07Z",
+            "type": "OS"
+        },
+        {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-september-2026",
+            "title": "CAMHS Waiting Time statistics for Northern Ireland (September 2026)",
+            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
+            "url": "https://www.health-ni.gov.uk/articles/children-and-adolescent-mental-health-service-camhs-statistics",
+            "release_date": "2026-11-04T07:00:00Z",
+            "display_date": "4 November 2026",
+            "org": "DoH",
+            "updated": "2026-11-04T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "employment-vacancies-notified-to-dfc-quarter-two-202627-financial-year",
+            "title": "Employment vacancies notified to DfC Quarter Two 2026/27 financial year",
+            "summary": "Quarterly data showing listings of employment vacancies notified to the Department for Communities",
+            "url": "https://www.communities-ni.gov.uk/topics/statistics-and-research/employment-vacancy-statistics",
+            "release_date": "2026-11-04T07:00:00Z",
+            "display_date": "4 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-04T09:30:05Z",
+            "type": "OS"
+        },
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-mental-health-and-wellbeing-report",
             "title": "Young Persons Behaviour and Attitudes Survey 2025: Mental health and wellbeing report",
@@ -1070,61 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "higher-level-apprenticeships-in-higher-education-ni-academic-year-202425",
-            "title": "Higher Level Apprenticeships in Higher Education NI, academic year 2024/25",
-            "summary": "This bulletin presents a range of analysis on the Higher Level Apprenticeship programmes at Northern Ireland Higher Education Institutions, including the number of starts, participants and qualifications achieved.",
-            "url": "https://www.economy-ni.gov.uk/articles/higher-level-apprenticeships-northern-ireland-heis-statistical-fact-sheets",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "DfE",
-            "updated": "2026-08-27T09:30:09Z",
-            "type": "OS"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q1-202627",
-            "title": "General Pharmaceutical Services Statistics for NI, Q1 2026/27",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2026/27.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q1-26-27.html",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "BSO",
-            "updated": "2026-08-27T09:30:08Z",
-            "type": "AOS"
-        },
-        {
-            "id": "young-people-not-in-education-employment-or-training-neet-ni-april-to-june-2026",
-            "title": "Young people not in education, employment or training (NEET), NI: April to June 2026",
-            "summary": "Estimates of young people (aged 16 to 24 years) in Northern Ireland who are not in education, employment or training.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-labour-force-survey-tables-august-2026",
-            "release_date": "2026-08-27T07:00:00Z",
-            "display_date": "27 August 2026",
-            "org": "NISRA",
-            "updated": "2026-08-27T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "camhs-waiting-time-statistics-for-northern-ireland-september-2026",
-            "title": "CAMHS Waiting Time statistics for Northern Ireland (September 2026)",
-            "summary": "This quarterly report presents Children and Adolescent Mental Health Service (CAMHS) waiting times.",
-            "release_date": "2026-11-04T09:30:00Z",
-            "display_date": "4 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-03T11:45:08Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "employment-vacancies-notified-to-dfc-quarter-two-202627-financial-year",
-            "title": "Employment vacancies notified to DfC Quarter Two 2026/27 financial year",
-            "summary": "Quarterly data showing listings of employment vacancies notified to the Department for Communities",
-            "release_date": "2026-11-04T09:30:00Z",
-            "display_date": "4 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-07T10:23:56Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "adult-and-youth-roffending-in-northern-ireland-202324-cohort",
             "title": "Adult and Youth Roffending in Northern Ireland (2023/24 Cohort)",
             "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24.",
@@ -1829,6 +1807,17 @@
             "status": "confirmed"
         },
         {
+            "id": "monthly-occupancy-statistics-october-2026",
+            "title": "Monthly Occupancy Statistics, October 2026",
+            "summary": "The Hotel Occupancy Survey is an Accredited Official Statistics however the Small Service Accommodation Occupancy report is an Official Statistic.",
+            "release_date": "2026-12-03T09:30:00Z",
+            "display_date": "3 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-04T09:39:59Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "carbon-intensity-indicators-northern-ireland-2026",
             "title": "Carbon intensity indicators: Northern Ireland 2026",
             "summary": "Carbon intensity indicators: Northern Ireland 2026",
@@ -2104,6 +2093,17 @@
             "status": "confirmed"
         },
         {
+            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
+            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
+            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "November to December 2026 (provisional)",
+            "updated": "2026-11-04T09:34:32Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2026",
             "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending September 2026",
             "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
@@ -2121,17 +2121,6 @@
             "release_date": "2026-12-31T09:30:00Z",
             "display_date": "November to December 2026 (provisional)",
             "updated": "2026-09-21T10:10:02Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
-            "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
-            "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "November to December 2026 (provisional)",
-            "updated": "2026-09-21T10:02:57Z",
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
