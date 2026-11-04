@@ -1,18 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-04T09:39:35Z",
+    "modified": "2026-11-04T13:29:11Z",
     "entries": [
-        {
-            "id": "adult-and-youth-reoffending-in-northern-ireland-202324-cohort",
-            "title": "Adult and Youth Reoffending in Northern Ireland (2023/24 Cohort)",
-            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24",
-            "url": "https://datavis.nisra.gov.uk/justice/Adult-and-Youth-Reoffending-in-Northern-Ireland-202324.html",
-            "release_date": "2026-11-04T07:00:00Z",
-            "display_date": "4 November 2026",
-            "org": "DoJ",
-            "updated": "2026-11-04T09:30:07Z",
-            "type": "OS"
-        },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-september-2026",
             "title": "CAMHS Waiting Time statistics for Northern Ireland (September 2026)",
@@ -33,6 +22,17 @@
             "display_date": "4 November 2026",
             "org": "DfC",
             "updated": "2026-11-04T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "adult-and-youth-reoffending-in-northern-ireland-202324-cohort",
+            "title": "Adult and Youth Reoffending in Northern Ireland (2023/24 Cohort)",
+            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24",
+            "url": "https://www.justice-ni.gov.uk/publications/adult-and-youth-reoffending-northern-ireland-202324-cohort",
+            "release_date": "2026-11-04T07:00:00Z",
+            "display_date": "4 November 2026",
+            "org": "DoJ",
+            "updated": "2026-11-04T09:30:00Z",
             "type": "OS"
         },
         {
@@ -1114,6 +1114,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2026/27.",
+            "release_date": "2026-11-05T09:30:00Z",
+            "display_date": "5 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-04T10:34:06Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-tourism-statistics-quarter-2-2026",
             "title": "Northern Ireland Tourism Statistics, Quarter 2 2026",
             "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 2 2026.",
@@ -1143,17 +1154,6 @@
             "display_date": "5 November 2026 9:30am (confirmed)",
             "updated": "2026-09-29T10:56:02Z",
             "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202627",
-            "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2026/27",
-            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 2 of 2026/27.",
-            "release_date": "2026-11-05T09:30:00Z",
-            "display_date": "5 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-25T10:30:00Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1829,17 +1829,6 @@
             "status": "confirmed"
         },
         {
-            "id": "what-matters-most-202526",
-            "title": "Our Population: What Matters Most, 2025/26",
-            "summary": "The most pressing issues people aged 16 and over face in their day-to-day lives in Northern Ireland.",
-            "release_date": "2026-12-03T09:30:00Z",
-            "display_date": "3 December 2026 9:30am (provisional)",
-            "updated": "2026-10-29T12:03:50Z",
-            "org": "TEO",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-27-november-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 27 November 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 27 November 2026.",
@@ -1882,6 +1871,17 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
+        },
+        {
+            "id": "what-matters-most-202526",
+            "title": "Our Population: What Matters Most, 2025/26",
+            "summary": "The most pressing issues people aged 16 and over face in their day-to-day lives in Northern Ireland.",
+            "release_date": "2026-12-10T09:30:00Z",
+            "display_date": "10 December 2026 9:30am (provisional)",
+            "updated": "2026-11-04T12:06:41Z",
+            "org": "TEO",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-4-december-2026",
