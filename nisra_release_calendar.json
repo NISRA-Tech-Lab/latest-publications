@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-04T16:27:56Z",
+    "modified": "2026-11-04T22:02:35Z",
     "entries": [
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-september-2026",
@@ -1101,17 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-08-28T09:30:00Z",
             "type": "AOS"
-        },
-        {
-            "id": "adult-and-youth-roffending-in-northern-ireland-202324-cohort",
-            "title": "Adult and Youth Roffending in Northern Ireland (2023/24 Cohort)",
-            "summary": "Information on the one year proven reoffending rate for individuals who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2023/24.",
-            "release_date": "2026-11-04T09:30:00Z",
-            "display_date": "4 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-29T12:14:35Z",
-            "org": "DoJ",
-            "type": "OS",
-            "status": "confirmed"
         },
         {
             "id": "general-ophthalmic-services-statistics-for-ni-quarter-2-202627",
