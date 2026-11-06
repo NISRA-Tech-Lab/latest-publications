@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-06T09:38:44Z",
+    "modified": "2026-11-06T13:27:58Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-30-october-2026",
@@ -1815,6 +1815,17 @@
             "updated": "2026-08-10T14:35:20Z",
             "org": "PSNI",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "traineeships-level-2-academic-year-202526",
+            "title": "Traineeships (Level 2), academic year 2025/26",
+            "summary": "Statistics in this publication cover key information on the Traineeships (Level2) in Northern Ireland, including occupational areas, starts and achievement.",
+            "release_date": "2026-12-08T09:30:00Z",
+            "display_date": "8 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-06T12:10:47Z",
+            "org": "DfE",
+            "type": "OS",
             "status": "confirmed"
         },
         {
