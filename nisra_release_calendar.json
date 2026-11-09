@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-09T09:38:53Z",
+    "modified": "2026-11-09T14:42:34Z",
     "entries": [
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-30-october-2026",
@@ -1180,6 +1180,17 @@
             "status": "confirmed"
         },
         {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "release_date": "2026-11-12T09:30:00Z",
+            "display_date": "12 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-09T12:44:02Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "killed-or-seriously-injured-ksi-casualties-involving-hgvs-in-northern-ireland-2016-2025",
             "title": "Killed or Seriously Injured (KSI) Casualties involving HGVs in Northern Ireland, 2016-2025",
             "summary": "This statistical brief reviews PSNI road traffic collision data from 2016 to 2025 to identify any emerging issues regarding the number of killed or seriously injured (KSI) casualties involving HGVs on roads in Northern Ireland.",
@@ -1262,7 +1273,7 @@
             "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
             "release_date": "2026-11-13T09:30:00Z",
             "display_date": "13 November 2026 9:30am (confirmed)",
-            "updated": "2026-06-10T12:32:54Z",
+            "updated": "2026-09-11T09:56:40Z",
             "org": "DfI",
             "type": "OS",
             "status": "confirmed"
@@ -1309,6 +1320,17 @@
             "updated": "2026-01-21T11:35:39Z",
             "org": "DoF",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-09T12:42:41Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1697,28 +1719,6 @@
             "status": "provisional"
         },
         {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "November 2026 (provisional)",
-            "updated": "2026-07-24T17:02:38Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2026-11-30T09:30:00Z",
-            "display_date": "November 2026 (provisional)",
-            "updated": "2026-07-24T15:32:10Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "northern-ireland-road-network-and-condition-statistics-2025-26",
             "title": "Northern Ireland Road Network and Condition Statistics 2025-26",
             "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
@@ -1972,6 +1972,17 @@
             "status": "confirmed"
         },
         {
+            "id": "dva-monthly-tests-conducted-statistics-november-2026",
+            "title": "DVA Monthly Tests Conducted Statistics: November 2026",
+            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
+            "release_date": "2026-12-11T09:30:00Z",
+            "display_date": "11 December 2026 9:30am (confirmed)",
+            "updated": "2026-09-11T09:57:28Z",
+            "org": "DfI",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "police-use-of-force-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Police Use of Force statistics for Northern Ireland, period ending 30 September 2026",
             "summary": "Six monthly update of use of force by PSNI, including AEP (Attenuating Energy Projectile), police baton, irritant spray, firearms, spit and bite guards, police dogs, CED (conductive energy device) and water cannon.",
@@ -1979,17 +1990,6 @@
             "display_date": "11 December 2026 9:30am (confirmed)",
             "updated": "2026-08-10T14:40:11Z",
             "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-november-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: November 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "release_date": "2026-12-11T09:30:00Z",
-            "display_date": "11 December 2026 9:30am (confirmed)",
-            "updated": "2026-06-10T12:38:00Z",
-            "org": "DfI",
             "type": "OS",
             "status": "confirmed"
         },
@@ -2134,6 +2134,17 @@
             "updated": "2026-09-21T10:10:02Z",
             "org": "DoH",
             "type": "OS",
+            "status": "provisional"
+        },
+        {
+            "id": "mental-health-and-learning-disability-inpatient-tables-202425",
+            "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
+            "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
+            "release_date": "2026-12-31T09:30:00Z",
+            "display_date": "December 2026 (provisional)",
+            "updated": "2026-09-10T10:21:36Z",
+            "org": "DoH",
+            "type": "AOS",
             "status": "provisional"
         },
         {
@@ -3283,32 +3294,36 @@
     ],
     "cancelled": [
         {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-april-2026-june-2026",
-            "updated": "2026-07-28T12:23:38Z"
-        },
-        {
-            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
-            "updated": "2026-09-03T16:02:57Z"
-        },
-        {
-            "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
-            "updated": "2026-09-03T16:02:11Z"
-        },
-        {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
             "updated": "2026-07-10T10:22:54Z"
         },
         {
-            "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
-            "updated": "2026-08-20T10:13:24Z"
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-april-2026-june-2026",
+            "updated": "2026-07-28T12:23:38Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-july-2026",
             "updated": "2026-07-28T12:16:47Z"
         },
         {
+            "id": "personnel-statistics-for-the-northern-ireland-civil-service-2026",
+            "updated": "2026-08-20T10:13:24Z"
+        },
+        {
+            "id": "domiciliary-care-services-for-adults-in-northern-ireland-2025",
+            "updated": "2026-09-03T16:02:11Z"
+        },
+        {
+            "id": "statistics-on-community-care-for-adults-in-northern-ireland-202425",
+            "updated": "2026-09-03T16:02:57Z"
+        },
+        {
             "id": "benefit-cap-report-northern-ireland-may-2026",
             "updated": "2025-09-18T11:10:24Z"
+        },
+        {
+            "id": "census-2021-uk-armed-forces-veterans-for-northern-ireland",
+            "updated": "2026-04-30T09:34:21Z"
         },
         {
             "id": "employment-in-the-northern-ireland-civil-service-1-april-2026",
@@ -3319,12 +3334,12 @@
             "updated": "2025-09-18T11:10:01Z"
         },
         {
-            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
-            "updated": "2026-02-13T15:48:26Z"
-        },
-        {
             "id": "employment-in-the-northern-ireland-civil-service-1st-january-2026",
             "updated": "2025-07-31T12:30:19Z"
+        },
+        {
+            "id": "quarterly-sickness-absence-in-the-northern-ireland-civil-service-october-2025-december-2025",
+            "updated": "2026-02-13T15:48:26Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-november-2025",
@@ -3339,20 +3354,16 @@
             "updated": "2025-12-04T15:58:02Z"
         },
         {
+            "id": "employment-in-the-northern-ireland-civil-service-1st-oct-2025",
+            "updated": "2025-07-31T12:29:31Z"
+        },
+        {
             "id": "police-crime-outcomes-in-northern-ireland-201516-to-202425",
             "updated": "2025-11-18T10:25:43Z"
         },
         {
             "id": "benefit-cap-report-northern-ireland-august-2025",
             "updated": "2025-09-18T11:07:11Z"
-        },
-        {
-            "id": "employment-in-the-northern-ireland-civil-service-1st-oct-2025",
-            "updated": "2025-07-31T12:29:31Z"
-        },
-        {
-            "id": "camhs-waiting-time-statistics-for-northern-ireland-june-2025",
-            "updated": "2025-07-09T13:46:26Z"
         },
         {
             "id": "personnel-statistics-for-the-northern-ireland-civil-service-2025",
@@ -3363,12 +3374,20 @@
             "updated": "2025-07-07T17:10:06Z"
         },
         {
+            "id": "camhs-waiting-time-statistics-for-northern-ireland-june-2025",
+            "updated": "2025-07-09T13:46:26Z"
+        },
+        {
             "id": "audiology-completed-waits-202425",
             "updated": "2025-06-24T09:50:18Z"
         },
         {
             "id": "northern-ireland-universal-credit-statistics-february-2025",
             "updated": "2025-05-14T13:09:18Z"
+        },
+        {
+            "id": "life-expectancy-in-northern-ireland-2021-23-full-report",
+            "updated": "2025-03-05T13:35:56Z"
         },
         {
             "id": "northern-ireland-tourism-statistics-quarter-3-2024",
@@ -3381,10 +3400,6 @@
         {
             "id": "northern-ireland-house-price-index-quarter-4-2025",
             "updated": "2026-01-20T11:20:31Z"
-        },
-        {
-            "id": "life-expectancy-in-northern-ireland-2021-23-full-report",
-            "updated": "2025-03-05T13:35:56Z"
         },
         {
             "id": "probation-board-ni-annual-caseload-202324",
