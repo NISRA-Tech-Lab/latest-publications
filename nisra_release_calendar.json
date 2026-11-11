@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-11T09:39:07Z",
+    "modified": "2026-11-11T13:12:47Z",
     "entries": [
         {
             "id": "monthly-marriages-northern-ireland-october-2026",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 2026/27",
+            "release_date": "2026-11-12T09:30:00Z",
+            "display_date": "12 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-11T10:08:16Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
             "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
             "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
@@ -1155,17 +1166,6 @@
             "updated": "2026-10-01T17:28:53Z",
             "org": "PPS",
             "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202627",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2026/27",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 2026/27",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T13:51:05Z",
-            "org": "DoH",
-            "type": "AOS",
             "status": "confirmed"
         },
         {
@@ -1675,6 +1675,17 @@
             "status": "confirmed"
         },
         {
+            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2026",
+            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending September 2026",
+            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
+            "release_date": "2026-12-03T09:30:00Z",
+            "display_date": "3 December 2026 9:30am (provisional)",
+            "updated": "2026-11-11T11:22:08Z",
+            "org": "DfE",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "northern-ireland-waiting-time-statistics-diagnostic-waiting-times-september-2026",
             "title": "Northern Ireland waiting time statistics: diagnostic waiting times September 2026",
             "summary": "Presents information on waiting times at the end of each quarter for a diagnostic service and diagnostic reporting turnaround times.",
@@ -2058,17 +2069,6 @@
             "org": "PSNI",
             "type": "AOS",
             "status": "confirmed"
-        },
-        {
-            "id": "electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-september-2026",
-            "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending September 2026",
-            "summary": "This publication aids reporting on performance against the Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ and the Climate Change Act.",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "December 2026 (provisional)",
-            "updated": "2026-10-21T14:19:25Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "provisional"
         },
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
