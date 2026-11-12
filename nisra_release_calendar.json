@@ -1,7 +1,73 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-11T22:53:07Z",
+    "modified": "2026-11-12T09:38:47Z",
     "entries": [
+        {
+            "id": "general-medical-services-statistics-for-ni-quarter-2-202627",
+            "title": "General Medical Services Statistics for NI, Quarter 2 2026/27",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 2026/27",
+            "url": "https://datavis.nisra.gov.uk/bso/fps-gms-quarterly-report-q2-26-27.html",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "BSO",
+            "updated": "2026-11-12T09:30:14Z",
+            "type": "AOS"
+        },
+        {
+            "id": "experience-of-culture-arts-and-heritage-by-young-people-in-northern-ireland-2025",
+            "title": "Experience of culture, arts and heritage by young people in Northern Ireland 2025",
+            "summary": "An triennial publication containing survey results on engagement with  the arts, heritage, museums, libraries and languages by young people in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/culture-arts-and-heritage-statistics",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-12T09:30:07Z",
+            "type": "OS"
+        },
+        {
+            "id": "experience-of-sport-by-young-people-in-northern-ireland-2025",
+            "title": "Experience of sport by young people in Northern Ireland 2025",
+            "summary": "An triennial publication containing survey results on experience of sport by young people in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/experience-sport-northern-ireland",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-12T09:30:07Z",
+            "type": "OS"
+        },
+        {
+            "id": "killed-or-seriously-injured-ksi-casualties-involving-hgvs-in-northern-ireland-2016-2025",
+            "title": "Killed or Seriously Injured (KSI) Casualties involving HGVs in Northern Ireland, 2016-2025",
+            "summary": "This statistical brief reviews PSNI road traffic collision data from 2016 to 2025 to identify any emerging issues regarding the number of killed or seriously injured (KSI) casualties involving HGVs on roads in Northern Ireland.",
+            "url": "https://www.infrastructure-ni.gov.uk/topics/road-safety",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "DfI",
+            "updated": "2026-11-12T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "statistical-bulletin-cases-involving-sexual-offences-202526",
+            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2025/26",
+            "summary": "PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2025/26.",
+            "url": "https://www.ppsni.gov.uk/thematic-bulletins-sexual-offences",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "PPS",
+            "updated": "2026-11-12T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
+            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
+            "url": "https://www.health-ni.gov.uk/articles/child-protection-register",
+            "release_date": "2026-11-12T07:00:00Z",
+            "display_date": "12 November 2026",
+            "org": "DoH",
+            "updated": "2026-11-12T09:30:03Z",
+            "type": "AOS"
+        },
         {
             "id": "monthly-marriages-northern-ireland-october-2026",
             "title": "Monthly Marriages (Northern Ireland): October 2026",
@@ -1037,138 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "monthly-stillbirths-northern-ireland-august-2026",
-            "title": "Monthly Stillbirths (Northern Ireland): August 2026",
-            "summary": "Monthly Stillbirths (Northern Ireland): August 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-stillbirths",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "apprenticeshipsni-statistical-bulletin-oct-19-to-apr-26",
-            "title": "ApprenticeshipsNI Statistical Bulletin - Oct 19 to Apr 26",
-            "summary": "This bulletin covers information on the ApprenticeshipsNI programme in NI including the number of starts and leavers, occupancy and qualifications achieved.",
-            "url": "https://www.economy-ni.gov.uk/articles/apprenticeshipsni-statistics",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "DfE",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-4-september-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 4 September 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 4 September 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "security-situation-statistics-for-northern-ireland-period-ending-31-august-2026",
-            "title": "Security Situation Statistics for Northern Ireland, period ending 31 August 2026",
-            "summary": "Monthly update of statistics relating to the security situation in Northern Ireland.",
-            "url": "https://www.psni.police.uk/official-statistics/security-situation-statistics",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "PSNI",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "monthly-civil-partnerships-northern-ireland-august-2026",
-            "title": "Monthly Civil Partnerships (Northern Ireland): August 2026",
-            "summary": "Monthly Civil Partnerships (Northern Ireland): August 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-civil-partnerships",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202425",
-            "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2024/25",
-            "summary": "Characteristics of those enrolling at UK and NI Higher Education Institutions, in the 2024/25 academic year.",
-            "url": "https://www.economy-ni.gov.uk/articles/higher-education-enrolments",
-            "release_date": "2026-09-10T07:00:00Z",
-            "display_date": "10 September 2026",
-            "org": "DfE",
-            "updated": "2026-09-10T09:30:03Z",
-            "type": "AOS"
-        },
-        {
-            "id": "general-medical-services-statistics-for-ni-quarter-2-202627",
-            "title": "General Medical Services Statistics for NI, Quarter 2 2026/27",
-            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q2 of 2026/27",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-11T10:08:16Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-child-protection-statistics-for-northern-ireland-september-2026",
-            "title": "Quarterly Child Protection Statistics for Northern Ireland (September 2026)",
-            "summary": "This publication presents information on the number of children on the child protection register at the end of each quarter.",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-09T12:44:02Z",
-            "org": "DoH",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "killed-or-seriously-injured-ksi-casualties-involving-hgvs-in-northern-ireland-2016-2025",
-            "title": "Killed or Seriously Injured (KSI) Casualties involving HGVs in Northern Ireland, 2016-2025",
-            "summary": "This statistical brief reviews PSNI road traffic collision data from 2016 to 2025 to identify any emerging issues regarding the number of killed or seriously injured (KSI) casualties involving HGVs on roads in Northern Ireland.",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-02T08:15:36Z",
-            "org": "DfI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "experience-of-sport-by-young-people-in-northern-ireland-2025",
-            "title": "Experience of sport by young people in Northern Ireland 2025",
-            "summary": "An triennial publication containing survey results on experience of sport by young people in Northern Ireland.",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-15T10:26:42Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "experience-of-culture-arts-and-heritage-by-young-people-in-northern-ireland-2025",
-            "title": "Experience of culture, arts and heritage by young people in Northern Ireland 2025",
-            "summary": "An triennial publication containing survey results on engagement with  the arts, heritage, museums, libraries and languages by young people in Northern Ireland.",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-15T10:21:54Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "statistical-bulletin-cases-involving-sexual-offences-202526",
-            "title": "Statistical Bulletin: Cases Involving Sexual Offences 2025/26",
-            "summary": "PPS statistics on caseloads, decisions and outcomes in cases involving sexual offences for the financial year 2025/26.",
-            "release_date": "2026-11-12T09:30:00Z",
-            "display_date": "12 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-01T17:28:53Z",
-            "org": "PPS",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
             "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
             "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
             "summary": "Information on smoking cessation services between 1 April 2025 and 31 March 2026 on clients who set a quit date and the outcome at 4 weeks",
@@ -1389,6 +1323,17 @@
             "status": "confirmed"
         },
         {
+            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
+            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
+            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-12T08:17:33Z",
+            "org": "NISRA",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "results-from-the-northern-ireland-annual-business-inquiry-2025",
             "title": "Results from the Northern Ireland Annual Business Inquiry 2025",
             "summary": "The NIABI is a key resource for measuring the size, performance and structure of the Northern Ireland business economy.",
@@ -1408,17 +1353,6 @@
             "updated": "2026-10-29T13:10:22Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
-            "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
-            "summary": "Findings on Trust in the media and Trust in the NI Assembly broken down by equality (section 75), urban-rural, deprivation and geographical population subgroups.",
-            "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-28T10:10:54Z",
-            "org": "NISRA",
-            "type": "OS",
             "status": "confirmed"
         },
         {
