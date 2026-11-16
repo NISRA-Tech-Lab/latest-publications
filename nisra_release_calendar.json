@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-16T09:39:29Z",
+    "modified": "2026-11-16T14:18:32Z",
     "entries": [
         {
             "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
@@ -1147,6 +1147,17 @@
             "status": "confirmed"
         },
         {
+            "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
+            "title": "Time Taken To Register a Death in NI, 2025.",
+            "summary": "This report analyses the duration of the time taken to register a death in Northern Ireland, highlighting variations by cause of death and certification type.",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-16T13:35:38Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
             "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
             "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
@@ -1154,17 +1165,6 @@
             "display_date": "19 November 2026 9:30am (confirmed)",
             "updated": "2026-11-09T12:42:41Z",
             "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
-            "title": "Time Taken To Register Deaths In Northern Ireland, 2025.",
-            "summary": "This report analyses the duration of time taken to register deaths in Northern Ireland, highlighting variations by cause of death and certification type.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-05T12:36:52Z",
-            "org": "NISRA",
             "type": "OS",
             "status": "confirmed"
         },
