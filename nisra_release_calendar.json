@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-16T14:32:15Z",
+    "modified": "2026-11-17T00:22:09Z",
     "entries": [
         {
             "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
@@ -1697,6 +1697,17 @@
             "status": "confirmed"
         },
         {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-gambling-a-health-perspective",
+            "title": "Young Persons’ Behaviour and Attitudes Survey 2025 - Gambling – a health perspective",
+            "summary": "This publication presents findings from the gambling module in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
+            "release_date": "2026-12-09T09:30:00Z",
+            "display_date": "9 December 2026 9:30am (provisional)",
+            "updated": "2026-11-16T15:54:38Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "experience-of-gambling-by-young-people-in-northern-ireland-2025",
             "title": "Experience of gambling by young people in Northern Ireland 2025",
             "summary": "Publication provides information on young people and their experience of gambling form the Young Persons' Behaviour and Attitudes Survey (YPBAS).",
@@ -1717,6 +1728,17 @@
             "org": "DfC",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
+            "release_date": "2026-12-10T09:30:00Z",
+            "display_date": "10 December 2026 9:30am (provisional)",
+            "updated": "2026-11-16T15:54:09Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "investigating-the-impact-of-the-cycling-proficiency-scheme-in-schools-in-northern-ireland-2026",
@@ -1972,17 +1994,6 @@
             "status": "confirmed"
         },
         {
-            "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
-            "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
-            "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "November to December 2026 (provisional)",
-            "updated": "2026-09-21T10:10:02Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "mental-health-and-learning-disability-inpatient-tables-202425",
             "title": "Mental Health and Learning Disability Inpatient Tables 2024/25",
             "summary": "Presents information on inpatients and compulsory admissions under the Mental Health (NI) Order 1986 in mental health and learning disability hospitals.",
@@ -2159,6 +2170,17 @@
             "status": "confirmed"
         },
         {
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
+            "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
+            "release_date": "2027-01-31T09:30:00Z",
+            "display_date": "December to January 2027 (provisional)",
+            "updated": "2026-11-16T14:44:00Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
+        },
+        {
             "id": "alcohol-specific-deaths-in-northern-ireland-2015-to-2025",
             "title": "Alcohol-Specific deaths in Northern Ireland, 2015 to 2025",
             "summary": "Number of Alcohol-Specific deaths in Northern Ireland, 2015-2025",
@@ -2167,17 +2189,6 @@
             "updated": "2026-10-29T11:21:37Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
-            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
-            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
-            "release_date": "2027-01-31T09:30:00Z",
-            "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-09-21T10:15:12Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "provisional"
         },
         {
