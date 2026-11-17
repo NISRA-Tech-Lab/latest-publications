@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-17T15:22:37Z",
+    "modified": "2026-11-17T23:36:36Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-november-2026",
@@ -1137,11 +1137,11 @@
         },
         {
             "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
-            "title": "Time Taken To Register a Death in NI, 2025.",
+            "title": "Time Taken To Register a Death in NI, 2025",
             "summary": "This report analyses the duration of the time taken to register a death in Northern Ireland, highlighting variations by cause of death and certification type.",
             "release_date": "2026-11-19T09:30:00Z",
             "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-16T13:35:38Z",
+            "updated": "2026-11-17T17:03:00Z",
             "org": "NISRA",
             "type": "AOS",
             "status": "confirmed"
