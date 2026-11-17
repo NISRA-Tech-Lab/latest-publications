@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-17T09:39:02Z",
+    "modified": "2026-11-17T15:10:37Z",
     "entries": [
         {
             "id": "ni-labour-market-statistics-november-2026",
@@ -1532,6 +1532,17 @@
             "status": "provisional"
         },
         {
+            "id": "life-expectancy-in-northern-ireland-2023-25",
+            "title": "Life Expectancy in Northern Ireland 2023-25",
+            "summary": "This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
+            "release_date": "2026-12-01T09:30:00Z",
+            "display_date": "1 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-17T12:09:21Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-road-network-and-condition-statistics-2025-26",
             "title": "Northern Ireland Road Network and Condition Statistics 2025-26",
             "summary": "This report presents statistics on the road network in Northern Ireland and it brings together information on road lengths, condition and expenditure.",
@@ -2222,17 +2233,6 @@
             "updated": "2026-05-18T16:14:30Z",
             "org": "DE",
             "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "life-expectancy-in-northern-ireland-2023-25",
-            "title": "Life Expectancy in Northern Ireland 2023-25",
-            "summary": "This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland.",
-            "release_date": "2027-01-31T09:30:00Z",
-            "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-01-16T14:30:56Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "provisional"
         },
         {
