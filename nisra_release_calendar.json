@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-17T00:22:09Z",
+    "modified": "2026-11-17T09:39:02Z",
     "entries": [
+        {
+            "id": "ni-labour-market-statistics-november-2026",
+            "title": "NI Labour Market statistics: November 2026",
+            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
+            "release_date": "2026-11-17T07:00:00Z",
+            "display_date": "17 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-17T07:00:01Z",
+            "type": "AOS"
+        },
         {
             "id": "statistics-on-smoking-cessation-services-in-northern-ireland-202526",
             "title": "Statistics on smoking cessation services in Northern Ireland 2025/26",
@@ -1092,28 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "monthly-marriages-northern-ireland-august-2026",
-            "title": "Monthly Marriages (Northern Ireland): August 2026",
-            "summary": "Monthly Marriages (Northern Ireland): August 2026",
-            "url": "https://www.nisra.gov.uk/publications/monthly-marriages",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-11T09:30:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-november-2026",
-            "title": "NI Labour Market statistics: November 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "release_date": "2026-11-17T07:00:00Z",
-            "display_date": "17 November 2026 7:00am (confirmed)",
-            "updated": "2026-02-23T14:14:14Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2026",
             "summary": "Quarterly update of persons stopped and searched by PSNI.",
@@ -1730,12 +1719,12 @@
             "status": "confirmed"
         },
         {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
-            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
-            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
+            "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
+            "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
+            "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
             "release_date": "2026-12-10T09:30:00Z",
             "display_date": "10 December 2026 9:30am (provisional)",
-            "updated": "2026-11-16T15:54:09Z",
+            "updated": "2026-11-17T09:07:12Z",
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
@@ -2126,6 +2115,17 @@
             "status": "confirmed"
         },
         {
+            "id": "northern-ireland-planning-statistics-july-to-september-2026",
+            "title": "Northern Ireland planning statistics: July to September 2026",
+            "summary": "Provisional quarterly results for the second quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
+            "release_date": "2027-01-21T09:30:00Z",
+            "display_date": "21 January 2027 9:30am (provisional)",
+            "updated": "2026-11-17T07:59:14Z",
+            "org": "DfI",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-15-january-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 15 January 2027",
             "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 15 January 2027.",
@@ -2170,12 +2170,12 @@
             "status": "confirmed"
         },
         {
-            "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
-            "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
-            "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
             "release_date": "2027-01-31T09:30:00Z",
             "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-11-16T14:44:00Z",
+            "updated": "2026-11-17T09:07:28Z",
             "org": "DoH",
             "type": "OS",
             "status": "provisional"
@@ -2221,17 +2221,6 @@
             "display_date": "December to January 2027 (provisional)",
             "updated": "2026-05-18T16:14:30Z",
             "org": "DE",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "northern-ireland-planning-statistics-july-to-september-2026",
-            "title": "Northern Ireland planning statistics: July to September 2026",
-            "summary": "Provisional quarterly results for the second quarter of 2026/27. Northern Ireland planning volumes and processing performance data.",
-            "release_date": "2027-01-31T09:30:00Z",
-            "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-05-14T13:24:46Z",
-            "org": "DfI",
             "type": "AOS",
             "status": "provisional"
         },
