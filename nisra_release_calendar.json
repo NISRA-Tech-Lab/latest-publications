@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-18T09:38:57Z",
+    "modified": "2026-11-18T14:48:50Z",
     "entries": [
         {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "release_date": "2026-11-19T09:30:00Z",
+            "display_date": "19 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-18T10:10:03Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
             "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
             "title": "Time Taken To Register a Death in NI, 2025",
             "summary": "This report analyses the duration of the time taken to register a death in Northern Ireland, highlighting variations by cause of death and certification type.",
@@ -1155,17 +1166,6 @@
             "updated": "2026-10-15T12:17:53Z",
             "org": "NISRA",
             "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
-            "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T13:54:19Z",
-            "org": "DoH",
-            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -1871,6 +1871,28 @@
             "org": "DAERA",
             "type": "OS",
             "status": "provisional"
+        },
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-september-2026",
+            "title": "Northern Ireland Child Maintenance Service: Data to September 2026",
+            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending September 2026.",
+            "release_date": "2026-12-16T09:30:00Z",
+            "display_date": "16 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-18T14:26:01Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "pension-credit-estimates-of-benefit-take-up-202324",
+            "title": "Pension Credit: Estimates of benefit take-up - 2023/24",
+            "summary": "Estimates of the take-up of Pension Credit in Northern Ireland by caseload and expenditure.",
+            "release_date": "2026-12-16T09:30:00Z",
+            "display_date": "16 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-18T14:22:48Z",
+            "org": "DfC",
+            "type": "OS",
+            "status": "confirmed"
         },
         {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-30-november-2026",
@@ -3106,6 +3128,10 @@
         }
     ],
     "cancelled": [
+        {
+            "id": "northern-ireland-child-maintenance-service-data-to-september-2026--2",
+            "updated": "2026-11-18T11:31:02Z"
+        },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
             "updated": "2026-07-10T10:22:54Z"
