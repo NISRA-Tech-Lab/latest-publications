@@ -1,7 +1,40 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-17T23:36:36Z",
+    "modified": "2026-11-18T09:38:57Z",
     "entries": [
+        {
+            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
+            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2026",
+            "summary": "Quarterly update of persons stopped and searched by PSNI.",
+            "url": "https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/stop-and-search-statistics",
+            "release_date": "2026-11-18T07:00:00Z",
+            "display_date": "18 November 2026",
+            "org": "PSNI",
+            "updated": "2026-11-18T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2026",
+            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2026",
+            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2026",
+            "url": "https://www.finance-ni.gov.uk/topics/new-dwelling-statistics",
+            "release_date": "2026-11-18T07:00:00Z",
+            "display_date": "18 November 2026",
+            "org": "DoF",
+            "updated": "2026-11-18T09:30:00Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-house-price-index-quarter-3-2026",
+            "title": "Northern Ireland House Price Index Quarter 3 2026",
+            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2026",
+            "url": "https://www.finance-ni.gov.uk/articles/northern-ireland-house-price-index",
+            "release_date": "2026-11-18T07:00:00Z",
+            "display_date": "18 November 2026",
+            "org": "DoF",
+            "updated": "2026-11-18T09:30:00Z",
+            "type": "AOS"
+        },
         {
             "id": "ni-labour-market-statistics-november-2026",
             "title": "NI Labour Market statistics: November 2026",
@@ -1068,72 +1101,6 @@
             "org": "DfI",
             "updated": "2026-09-16T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "ni-labour-market-statistics-september-2026",
-            "title": "NI Labour Market statistics: September 2026",
-            "summary": "The NI Labour Market report includes latest statistics on employment, unemployment, inactivity, employees, jobseekers, vacancies, redundancies and earnings.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-market-overview",
-            "release_date": "2026-09-15T07:00:00Z",
-            "display_date": "15 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-15T07:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "quarterly-employment-survey-june-2026",
-            "title": "Quarterly Employment Survey: June 2026",
-            "summary": "The release provides short-term employee jobs estimates for NI on a quarterly basis.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/quarterly-employment-survey",
-            "release_date": "2026-09-15T07:00:00Z",
-            "display_date": "15 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-15T07:00:00Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-cancer-waiting-times-revised-62-day-waits-for-quarters-ending-december-2023-to-march-2026",
-            "title": "Northern Ireland Cancer Waiting Times – Revised 62 Day Waits for Quarters Ending December 2023 to March 2026",
-            "summary": "This publication presents revised data relating to patients commencing treatment following an urgent GP referral (the 62-day cancer waiting time target) for the quarters ending 31 December 2023 to 31 March 2026.",
-            "url": "https://www.health-ni.gov.uk/publications/northern-ireland-waiting-time-statistics-cancer-waiting-times-january-march-2026",
-            "release_date": "2026-09-11T07:00:00Z",
-            "display_date": "11 September 2026",
-            "org": "DoH",
-            "updated": "2026-09-11T09:30:01Z",
-            "type": "AOS"
-        },
-        {
-            "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
-            "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2026",
-            "summary": "Quarterly update of persons stopped and searched by PSNI.",
-            "release_date": "2026-11-18T09:30:00Z",
-            "display_date": "18 November 2026 9:30am (confirmed)",
-            "updated": "2026-08-10T14:45:47Z",
-            "org": "PSNI",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-new-dwelling-statistics-quarter-3-2026",
-            "title": "Northern Ireland New Dwelling Statistics Quarter 3 2026",
-            "summary": "New Dwellings in each local government district in Northern Ireland during Jul - Sep 2026",
-            "release_date": "2026-11-18T09:30:00Z",
-            "display_date": "18 November 2026 9:30am (confirmed)",
-            "updated": "2026-01-21T11:53:17Z",
-            "org": "DoF",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-house-price-index-quarter-3-2026",
-            "title": "Northern Ireland House Price Index Quarter 3 2026",
-            "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Jul - Sep (Quarter 3) 2026",
-            "release_date": "2026-11-18T09:30:00Z",
-            "display_date": "18 November 2026 9:30am (confirmed)",
-            "updated": "2026-01-21T11:35:39Z",
-            "org": "DoF",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
