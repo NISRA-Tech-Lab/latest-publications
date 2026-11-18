@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-18T14:57:47Z",
+    "modified": "2026-11-18T23:00:28Z",
     "entries": [
         {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
@@ -3128,10 +3128,6 @@
         }
     ],
     "cancelled": [
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-september-2026--2",
-            "updated": "2026-11-18T11:31:02Z"
-        },
         {
             "id": "northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026",
             "updated": "2026-07-10T10:22:54Z"
