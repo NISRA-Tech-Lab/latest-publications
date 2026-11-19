@@ -1,7 +1,73 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-18T23:00:28Z",
+    "modified": "2026-11-19T10:00:13Z",
     "entries": [
+        {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "url": "https://datavis.nisra.gov.uk/bso/sodium-valproate-and-topiramate-monitoring-dashboard.html",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "BSO",
+            "updated": "2026-11-19T09:30:18Z",
+            "type": "OS"
+        },
+        {
+            "id": "time-taken-to-register-a-death-in-ni-2025",
+            "title": "Time Taken To Register a Death in NI, 2025",
+            "summary": "This report analyses the duration of the time taken to register a death in Northern Ireland, highlighting variations by cause of death and certification type.",
+            "url": "https://www.nisra.gov.uk/statistics/deaths/time-taken-register-death",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "DoF",
+            "updated": "2026-11-19T09:30:13Z",
+            "type": "AOS"
+        },
+        {
+            "id": "good-jobs-in-northern-ireland-2026",
+            "title": "Good Jobs in Northern Ireland 2026",
+            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
+            "url": "https://www.nisra.gov.uk/publications/good-jobs-northern-ireland",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-19T09:30:08Z",
+            "type": "AOS"
+        },
+        {
+            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
+            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
+            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
+            "url": "https://www.health-ni.gov.uk/articles/direct-payments",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "DoH",
+            "updated": "2026-11-19T09:30:07Z",
+            "type": "OS"
+        },
+        {
+            "id": "finalised-suicide-statistics-in-northern-ireland-2025",
+            "title": "Finalised Suicide Statistics in Northern Ireland, 2025",
+            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2025",
+            "url": "https://www.nisra.gov.uk/statistics/cause-death/suicide-deaths",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-19T09:30:06Z",
+            "type": "AOS"
+        },
+        {
+            "id": "registrar-general-northern-ireland-annual-report-2025",
+            "title": "Registrar General Northern Ireland Annual Report 2025",
+            "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
+            "url": "https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/registrar-general-annual-report",
+            "release_date": "2026-11-19T07:00:00Z",
+            "display_date": "19 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-19T09:30:06Z",
+            "type": "AOS"
+        },
         {
             "id": "stop-and-search-statistics-for-northern-ireland-period-ending-30-september-2026",
             "title": "Stop and Search statistics for Northern Ireland, period ending 30 September 2026",
@@ -1037,138 +1103,6 @@
             "type": "AOS"
         },
         {
-            "id": "statistical-bulletin-cases-involving-hate-crime-202526",
-            "title": "Statistical Bulletin: Cases Involving Hate Crime 2025/26",
-            "summary": "The statistical information includes caseloads, prosecutorial decisions and the outcomes of prosecutions at court in respect of cases involving hate crime.",
-            "url": "https://www.ppsni.gov.uk/thematic-bulletins-hate-crime",
-            "release_date": "2026-09-17T07:00:00Z",
-            "display_date": "17 September 2026",
-            "org": "PPS",
-            "updated": "2026-09-17T09:30:06Z",
-            "type": "OS"
-        },
-        {
-            "id": "northern-ireland-index-of-services-quarter-2-2026",
-            "title": "Northern Ireland Index of Services: Quarter 2 2026",
-            "summary": "Quarterly index of the Northern Ireland private sector services output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-services",
-            "release_date": "2026-09-17T07:00:00Z",
-            "display_date": "17 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-17T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-index-of-production-quarter-2-2026",
-            "title": "Northern Ireland Index of Production: Quarter 2 2026",
-            "summary": "Quarterly Index of the Northern Ireland private sector production output.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/index-production",
-            "release_date": "2026-09-17T07:00:00Z",
-            "display_date": "17 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-17T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "pay-in-the-northern-ireland-civil-service-year-ending-march-2026",
-            "title": "Pay in the Northern Ireland Civil Service -Year Ending March 2026",
-            "summary": "An overview of Northern Ireland Civil Service pay statistics for the year ending March 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/ni-civil-service-human-resource-statistics/pay-statistics",
-            "release_date": "2026-09-17T07:00:00Z",
-            "display_date": "17 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-17T09:30:05Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-child-maintenance-service-data-to-june-2026",
-            "title": "Northern Ireland Child Maintenance Service: Data to June 2026",
-            "summary": "This provides an overview of the performance of the Child Maintenance Service in Northern Ireland and contains information up to the quarter ending June 2026.",
-            "url": "https://www.communities-ni.gov.uk/publications/northern-ireland-child-maintenance-service-statistics-data-june-2026",
-            "release_date": "2026-09-16T07:00:00Z",
-            "display_date": "16 September 2026",
-            "org": "DfC",
-            "updated": "2026-09-16T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "public-transport-statistics-northern-ireland-2025-26",
-            "title": "Public Transport Statistics Northern Ireland 2025-26",
-            "summary": "This report presents statistics on public transport operated by Translink in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/articles/public-transport-statistics-northern-ireland",
-            "release_date": "2026-09-16T07:00:00Z",
-            "display_date": "16 September 2026",
-            "org": "DfI",
-            "updated": "2026-09-16T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
-            "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
-            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-18T10:10:03Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "time-taken-to-register-deaths-in-northern-ireland-2025",
-            "title": "Time Taken To Register a Death in NI, 2025",
-            "summary": "This report analyses the duration of the time taken to register a death in Northern Ireland, highlighting variations by cause of death and certification type.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-17T17:03:00Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "quarterly-direct-payment-statistics-for-northern-ireland-september-2026",
-            "title": "Quarterly Direct Payment Statistics for Northern Ireland (September 2026)",
-            "summary": "Presents quarterly information collected from health and social care trusts on the number of and the amount paid by direct payments.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-09T12:42:41Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "good-jobs-in-northern-ireland-2026",
-            "title": "Good Jobs in Northern Ireland 2026",
-            "summary": "This paper will examine the proportion of good jobs in Northern Ireland sourced from the Northern Ireland Annual Survey of Hours and Earnings (ASHE).",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-19T13:55:30Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "registrar-general-northern-ireland-annual-report-2025",
-            "title": "Registrar General Northern Ireland Annual Report 2025",
-            "summary": "The Annual Report of the Registrar General 2025 will be published in November 2026 with details on births, stillbirths, deaths, marriages, and adoptions.",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-16T09:20:09Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "finalised-suicide-statistics-in-northern-ireland-2025",
-            "title": "Finalised Suicide Statistics in Northern Ireland, 2025",
-            "summary": "Tables detailing the number of deaths due to Suicide in Northern Ireland in 2025",
-            "release_date": "2026-11-19T09:30:00Z",
-            "display_date": "19 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-15T12:17:53Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-november-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 13 November 2026",
             "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 November 2026.",
@@ -1895,6 +1829,17 @@
             "status": "confirmed"
         },
         {
+            "id": "2025-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
+            "title": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "summary": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
+            "release_date": "2026-12-17T09:30:00Z",
+            "display_date": "17 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-19T08:26:40Z",
+            "org": "NISRA",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "police-recorded-crime-in-northern-ireland-period-ending-30-november-2026",
             "title": "Police recorded crime in Northern Ireland, period ending 30 November 2026",
             "summary": "Monthly update of PSNI recorded crime statistics.",
@@ -2200,17 +2145,6 @@
             "updated": "2026-09-21T10:07:15Z",
             "org": "DoH",
             "type": "OS",
-            "status": "provisional"
-        },
-        {
-            "id": "2025-mid-year-population-estimates-for-small-geographical-areas-within-northern-ireland",
-            "title": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "summary": "2025 Mid-Year Population Estimates for Small Geographical Areas within Northern Ireland",
-            "release_date": "2027-01-31T09:30:00Z",
-            "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-06-08T14:36:27Z",
-            "org": "NISRA",
-            "type": "AOS",
             "status": "provisional"
         },
         {
