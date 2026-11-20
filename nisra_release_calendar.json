@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-19T23:09:17Z",
+    "modified": "2026-11-20T09:39:00Z",
     "entries": [
+        {
+            "id": "deaths-registered-in-northern-ireland-week-ending-13-november-2026",
+            "title": "Deaths Registered in Northern Ireland - Week ending 13 November 2026",
+            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 November 2026.",
+            "url": "https://www.nisra.gov.uk/publications/weekly-death-registrations-northern-ireland-2026",
+            "release_date": "2026-11-20T07:00:00Z",
+            "display_date": "20 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-20T09:30:08Z",
+            "type": "AOS"
+        },
         {
             "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-september-2026",
             "title": "NI Sodium Valproate and Topiramate Monitoring Report to September 2026",
@@ -1092,28 +1103,6 @@
             "type": "OS"
         },
         {
-            "id": "northern-ireland-tourism-statistics-quarter-1-2026",
-            "title": "Northern Ireland Tourism Statistics, Quarter 1 2026",
-            "summary": "Compendium of tourism statistics relating to Northern Ireland up to Quarter 1 2026.",
-            "url": "https://www.nisra.gov.uk/publications/quarterly-tourism-statistics-publications",
-            "release_date": "2026-09-17T07:00:00Z",
-            "display_date": "17 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-17T09:30:06Z",
-            "type": "AOS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-13-november-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 13 November 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 13 November 2026.",
-            "release_date": "2026-11-20T09:30:00Z",
-            "display_date": "20 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-12T13:24:26Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
             "id": "women-in-northern-ireland-2025",
             "title": "Women in Northern Ireland: 2026",
             "summary": "Statistics on women in Northern Ireland, labour market, childcare provision, earnings.",
@@ -1176,6 +1165,17 @@
             "display_date": "25 November 2026 9:30am (confirmed)",
             "updated": "2025-11-03T09:46:07Z",
             "org": "DfC",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "northern-ireland-lac-municipal-waste-management-statistics-202526-annual-report",
+            "title": "Northern Ireland LAC municipal waste management statistics 2025/26 annual report",
+            "summary": "Northern Ireland local authority collected municipal waste management statistics 2025/26 annual report",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-20T08:37:31Z",
+            "org": "DAERA",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -1310,17 +1310,6 @@
             "org": "PSNI",
             "type": "OS",
             "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-lac-municipal-waste-management-statistics-202526-annual-report",
-            "title": "Northern Ireland LAC municipal waste management statistics 2025/26 annual report",
-            "summary": "Northern Ireland local authority collected municipal waste management statistics 2025/26 annual report",
-            "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (provisional)",
-            "updated": "2026-02-04T17:23:31Z",
-            "org": "DAERA",
-            "type": "AOS",
-            "status": "provisional"
         },
         {
             "id": "northern-ireland-research-development-2025-results",
@@ -1631,6 +1620,17 @@
             "status": "confirmed"
         },
         {
+            "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
+            "title": "June agricultural and horticultural census, Northern Ireland 2026",
+            "summary": "The data in this statistical publication are sourced from the Agricultural Census conducted in June each year. Data is collected on crop areas, livestock numbers and farm labour. Outputs include time series data and frequency distributions. Results are presented at Northern Ireland and sub-regional level.",
+            "release_date": "2026-12-10T09:30:00Z",
+            "display_date": "10 December 2026 9:30am (provisional)",
+            "updated": "2026-11-20T08:33:32Z",
+            "org": "DAERA",
+            "type": "AOS",
+            "status": "provisional"
+        },
+        {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
             "title": "Young Persons Behaviour and Attitudes Survey 2025: Substance Use (Smoking, Alcohol & Drugs) ",
             "summary": "This publication presents findings from the smoking, alcohol and drugs modules in the 2025 Young Persons Behaviour and Attitudes Survey, Northern Ireland.",
@@ -1935,17 +1935,6 @@
             "display_date": "December 2026 (provisional)",
             "updated": "2026-09-10T10:21:36Z",
             "org": "DoH",
-            "type": "AOS",
-            "status": "provisional"
-        },
-        {
-            "id": "june-agricultural-and-horticultural-census-northern-ireland-2026",
-            "title": "June agricultural and horticultural census, Northern Ireland 2026",
-            "summary": "The data in this statistical publication are sourced from the Agricultural Census conducted in June each year. Data is collected on crop areas, livestock numbers and farm labour. Outputs include time series data and frequency distributions. Results are presented at Northern Ireland and sub-regional level.",
-            "release_date": "2026-12-31T09:30:00Z",
-            "display_date": "December 2026 (provisional)",
-            "updated": "2026-02-23T12:24:35Z",
-            "org": "DAERA",
             "type": "AOS",
             "status": "provisional"
         },
