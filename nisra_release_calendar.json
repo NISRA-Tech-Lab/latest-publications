@@ -1,7 +1,18 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-24T02:59:45Z",
+    "modified": "2026-11-24T09:39:13Z",
     "entries": [
+        {
+            "id": "women-in-northern-ireland-2026",
+            "title": "Women in Northern Ireland: 2026",
+            "summary": "Statistics on women in Northern Ireland, labour market, childcare provision, earnings.",
+            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
+            "release_date": "2026-11-24T07:00:00Z",
+            "display_date": "24 November 2026",
+            "org": "NISRA",
+            "updated": "2026-11-24T09:30:06Z",
+            "type": "AOS"
+        },
         {
             "id": "deaths-registered-in-northern-ireland-week-ending-13-november-2026",
             "title": "Deaths Registered in Northern Ireland - Week ending 13 November 2026",
@@ -1090,28 +1101,6 @@
             "org": "NISRA",
             "updated": "2026-09-18T09:30:02Z",
             "type": "AOS"
-        },
-        {
-            "id": "dva-monthly-tests-conducted-statistics-august-2026",
-            "title": "DVA Monthly Tests Conducted Statistics: August 2026",
-            "summary": "A monthly publication providing statistics on vehicle, driver, and theory tests conducted by the Driver & Vehicle Agency (DVA) in Northern Ireland.",
-            "url": "https://www.infrastructure-ni.gov.uk/publications/driver-and-vehicle-agency-monthly-tests-conducted-statistics-august-2026",
-            "release_date": "2026-09-18T07:00:00Z",
-            "display_date": "18 September 2026",
-            "org": "DfI",
-            "updated": "2026-09-18T09:30:02Z",
-            "type": "OS"
-        },
-        {
-            "id": "women-in-northern-ireland-2025",
-            "title": "Women in Northern Ireland: 2026",
-            "summary": "Statistics on women in Northern Ireland, labour market, childcare provision, earnings.",
-            "release_date": "2026-11-24T09:30:00Z",
-            "display_date": "24 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-27T07:45:43Z",
-            "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "circular-economy-behaviours-in-northern-ireland-202526",
