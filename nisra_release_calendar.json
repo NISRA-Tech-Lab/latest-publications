@@ -1,6 +1,6 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-25T09:39:05Z",
+    "modified": "2026-11-25T16:28:27Z",
     "entries": [
         {
             "id": "circular-economy-behaviours-in-northern-ireland-202526",
@@ -1103,6 +1103,17 @@
             "type": "AOS"
         },
         {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2026/27.",
+            "release_date": "2026-11-26T09:30:00Z",
+            "display_date": "26 November 2026 9:30am (confirmed)",
+            "updated": "2026-11-25T10:35:39Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "northern-ireland-lac-municipal-waste-management-statistics-202526-annual-report",
             "title": "Northern Ireland LAC municipal waste management statistics 2025/26 annual report",
             "summary": "Northern Ireland local authority collected municipal waste management statistics 2025/26 annual report",
@@ -1187,17 +1198,6 @@
             "display_date": "26 November 2026 9:30am (confirmed)",
             "updated": "2026-09-23T11:02:43Z",
             "org": "NISRA",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202627",
-            "title": "General Pharmaceutical Services Statistics for NI, Q2 2026/27",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2026/27.",
-            "release_date": "2026-11-26T09:30:00Z",
-            "display_date": "26 November 2026 9:30am (confirmed)",
-            "updated": "2026-09-22T13:53:17Z",
-            "org": "DoH",
             "type": "AOS",
             "status": "confirmed"
         },
@@ -2049,17 +2049,6 @@
             "status": "provisional"
         },
         {
-            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
-            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
-            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
-            "release_date": "2027-01-31T09:30:00Z",
-            "display_date": "December to January 2027 (provisional)",
-            "updated": "2026-11-17T09:07:28Z",
-            "org": "DoH",
-            "type": "OS",
-            "status": "provisional"
-        },
-        {
             "id": "alcohol-specific-deaths-in-northern-ireland-2015-to-2025",
             "title": "Alcohol-Specific deaths in Northern Ireland, 2015 to 2025",
             "summary": "Number of Alcohol-Specific deaths in Northern Ireland, 2015-2025",
@@ -2256,6 +2245,17 @@
             "org": "NICTS",
             "type": "OS",
             "status": "confirmed"
+        },
+        {
+            "id": "statistics-from-the-northern-ireland-substance-misuse-database-202526-official-statistics-in-development",
+            "title": "Statistics from the Northern Ireland Substance Misuse Database 2025/26 (Official statistics in development)",
+            "summary": "This report summarises information on people presenting to services with problem drug and/or alcohol use during 2025/26.",
+            "release_date": "2027-02-28T09:30:00Z",
+            "display_date": "January to February 2027 (provisional)",
+            "updated": "2026-11-25T13:19:14Z",
+            "org": "DoH",
+            "type": "OS",
+            "status": "provisional"
         },
         {
             "id": "camhs-waiting-time-statistics-for-northern-ireland-december-2026",
