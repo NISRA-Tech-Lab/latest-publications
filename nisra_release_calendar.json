@@ -1,7 +1,62 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-25T00:57:57Z",
+    "modified": "2026-11-25T09:39:05Z",
     "entries": [
+        {
+            "id": "circular-economy-behaviours-in-northern-ireland-202526",
+            "title": "Circular Economy Behaviours in Northern Ireland 2025/26",
+            "summary": "Findings on selected behaviours and factors related to the circular economy among people aged 16 and over in Northern Ireland, from the 2025/26 Continuous Household Survey.",
+            "url": "https://datavis.nisra.gov.uk/Economy/circular-economy-behaviours-northern-ireland-202526.html",
+            "release_date": "2026-11-25T07:00:00Z",
+            "display_date": "25 November 2026",
+            "org": "DfE",
+            "updated": "2026-11-25T09:30:10Z",
+            "type": "OS"
+        },
+        {
+            "id": "northern-ireland-benefit-statistics-summary-august-2026",
+            "title": "Northern Ireland Benefit Statistics Summary: August 2026",
+            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
+            "url": "https://www.communities-ni.gov.uk/articles/benefits-statistics-summary",
+            "release_date": "2026-11-25T07:00:00Z",
+            "display_date": "25 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-25T09:30:05Z",
+            "type": "AOS"
+        },
+        {
+            "id": "northern-ireland-universal-credit-statistics-august-2026",
+            "title": "Northern Ireland Universal Credit Statistics: August 2026",
+            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
+            "url": "https://www.communities-ni.gov.uk/articles/universal-credit-statistics",
+            "release_date": "2026-11-25T07:00:00Z",
+            "display_date": "25 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-25T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "further-education-sector-activity-northern-ireland-2122-2526",
+            "title": "Further Education Sector Activity Northern Ireland: 21/22 - 25/26",
+            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students in the NI FE Sector covering academic years 2021/22 to 2025/26.",
+            "url": "https://www.economy-ni.gov.uk/articles/further-education-college-statistics#toc-2",
+            "release_date": "2026-11-25T07:00:00Z",
+            "display_date": "25 November 2026",
+            "org": "DfE",
+            "updated": "2026-11-25T09:30:05Z",
+            "type": "OS"
+        },
+        {
+            "id": "personal-independence-payment-statistics-august-2026",
+            "title": "Personal Independence Payment Statistics - August 2026",
+            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
+            "url": "https://www.communities-ni.gov.uk/articles/personal-independence-payment-statistics",
+            "release_date": "2026-11-25T07:00:00Z",
+            "display_date": "25 November 2026",
+            "org": "DfC",
+            "updated": "2026-11-25T09:30:05Z",
+            "type": "AOS"
+        },
         {
             "id": "women-in-northern-ireland-2026",
             "title": "Women in Northern Ireland: 2026",
@@ -1046,116 +1101,6 @@
             "org": "PSNI",
             "updated": "2026-09-24T09:30:05Z",
             "type": "AOS"
-        },
-        {
-            "id": "working-and-workless-households-in-northern-ireland-april-to-june-2026",
-            "title": "Working and workless households in Northern Ireland: April to June 2026",
-            "summary": "Information about households and the adults and children living in them by their economic activity status in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/labour-force-survey",
-            "release_date": "2026-09-24T07:00:00Z",
-            "display_date": "24 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-24T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-construction-bulletin-1-april-to-30-june-2026",
-            "title": "Northern Ireland Construction Bulletin: 1 April to 30 June 2026",
-            "summary": "This release provides a measure of construction output in Northern Ireland.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/construction-output-statistics",
-            "release_date": "2026-09-24T07:00:00Z",
-            "display_date": "24 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-24T09:30:04Z",
-            "type": "AOS"
-        },
-        {
-            "id": "northern-ireland-composite-economic-index-nicei-quarter-2-2026",
-            "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 2 2026",
-            "summary": "Quarterly Index of the Northern Ireland economy.",
-            "url": "https://www.nisra.gov.uk/statistics/economic-output-statistics/ni-composite-economic-index",
-            "release_date": "2026-09-24T07:00:00Z",
-            "display_date": "24 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-24T09:30:04Z",
-            "type": "OS"
-        },
-        {
-            "id": "continuous-household-survey-heat-and-insulation-results-202526",
-            "title": "Continuous Household Survey Heat and Insulation Results 2025/26",
-            "summary": "This report presents the results of the household heating and insulation questions from the 2025/26 Northern Ireland Continuous Household Survey.",
-            "url": "https://www.economy-ni.gov.uk/articles/continuous-household-survey-heat-and-insulation-results",
-            "release_date": "2026-09-24T07:00:00Z",
-            "display_date": "24 September 2026",
-            "org": "DfE",
-            "updated": "2026-09-24T09:30:00Z",
-            "type": "OS"
-        },
-        {
-            "id": "deaths-registered-in-northern-ireland-week-ending-11-september-2026",
-            "title": "Deaths Registered in Northern Ireland - Week ending 11 September 2026",
-            "summary": "Tables showing deaths registered in Northern Ireland in 2026, up to and including 11 September 2026.",
-            "url": "https://www.nisra.gov.uk/statistics/death-statistics/weekly-death-registrations-northern-ireland",
-            "release_date": "2026-09-18T07:00:00Z",
-            "display_date": "18 September 2026",
-            "org": "NISRA",
-            "updated": "2026-09-18T09:30:02Z",
-            "type": "AOS"
-        },
-        {
-            "id": "circular-economy-behaviours-in-northern-ireland-202526",
-            "title": "Circular Economy Behaviours in Northern Ireland 2025/26",
-            "summary": "Consumer choices and behaviours in Northern Ireland, based on findings from the 2025/26 Continuous Household Survey (CHS).",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2026-11-24T10:40:32Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "further-education-sector-activity-in-northern-ireland-202122-to-202526",
-            "title": "Further Education Sector Activity in Northern Ireland: 2021/22 to 2025/26",
-            "summary": "This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2021/22 to 2025/26. The statistics presented cover the characteristics of those enrolling in FE colleges along with analysis of areas of deprivation, funding streams and performance (retention, achievement and success rates).",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2026-10-28T14:51:39Z",
-            "org": "DfE",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-benefit-statistics-summary-august-2026",
-            "title": "Northern Ireland Benefit Statistics Summary: August 2026",
-            "summary": "Provides an up to date overview and history of the main benefits administered by the Department for Communities (DfC).",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2025-11-25T09:10:52Z",
-            "org": "DfC",
-            "type": "AOS",
-            "status": "confirmed"
-        },
-        {
-            "id": "northern-ireland-universal-credit-statistics-august-2026",
-            "title": "Northern Ireland Universal Credit Statistics: August 2026",
-            "summary": "Provides experimental statistics on households and individuals on Universal Credit in Northern Ireland.",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2025-11-05T08:12:51Z",
-            "org": "DfC",
-            "type": "OS",
-            "status": "confirmed"
-        },
-        {
-            "id": "personal-independence-payment-statistics-august-2026",
-            "title": "Personal Independence Payment Statistics - August 2026",
-            "summary": "This quarterly contains National Statistics on the characteristics of claimants on Personal Independence Payment in Northern Ireland over time.",
-            "release_date": "2026-11-25T09:30:00Z",
-            "display_date": "25 November 2026 9:30am (confirmed)",
-            "updated": "2025-11-03T09:46:07Z",
-            "org": "DfC",
-            "type": "AOS",
-            "status": "confirmed"
         },
         {
             "id": "northern-ireland-lac-municipal-waste-management-statistics-202526-annual-report",
