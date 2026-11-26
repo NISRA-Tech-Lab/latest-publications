@@ -1,18 +1,7 @@
 {
     "name": "nisra release calendar",
-    "modified": "2026-11-26T09:39:20Z",
+    "modified": "2026-11-26T16:04:03Z",
     "entries": [
-        {
-            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202627",
-            "title": "General Pharmaceutical Services Statistics for NI, Q2 2026/27",
-            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2026/27.",
-            "url": "https://datavis.nisra.gov.uk/bso/fps-pharmacy-quarterly-report-q2-26-27.html",
-            "release_date": "2026-11-26T07:00:00Z",
-            "display_date": "26 November 2026",
-            "org": "BSO",
-            "updated": "2026-11-26T09:30:25Z",
-            "type": "AOS"
-        },
         {
             "id": "programme-for-government-pfg-indicators-trust-in-the-media-and-trust-in-the-ni-assembly-autumn-2025",
             "title": "Programme for Government (PfG) Indicators: Trust in the media and Trust in the NI Assembly, Autumn 2025",
@@ -144,6 +133,17 @@
             "org": "PSNI",
             "updated": "2026-11-26T09:30:02Z",
             "type": "OS"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q2-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q2 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 2 of 2026/27.",
+            "url": "https://datavis.nisra.gov.uk/bso/fps_pharmacy_quarterly_report_q2_26-27.html",
+            "release_date": "2026-11-26T07:00:00Z",
+            "display_date": "26 November 2026",
+            "org": "BSO",
+            "updated": "2026-11-26T09:30:00Z",
+            "type": "AOS"
         },
         {
             "id": "circular-economy-behaviours-in-northern-ireland-202526",
@@ -1415,11 +1415,11 @@
             "title": "June agricultural and horticultural census, Northern Ireland 2026",
             "summary": "The data in this statistical publication are sourced from the Agricultural Census conducted in June each year. Data is collected on crop areas, livestock numbers and farm labour. Outputs include time series data and frequency distributions. Results are presented at Northern Ireland and sub-regional level.",
             "release_date": "2026-12-10T09:30:00Z",
-            "display_date": "10 December 2026 9:30am (provisional)",
-            "updated": "2026-11-20T08:33:32Z",
+            "display_date": "10 December 2026 9:30am (confirmed)",
+            "updated": "2026-11-26T13:01:38Z",
             "org": "DAERA",
             "type": "AOS",
-            "status": "provisional"
+            "status": "confirmed"
         },
         {
             "id": "young-persons-behaviour-and-attitudes-survey-2025-substance-use-smoking-alcohol-drugs",
@@ -1862,6 +1862,17 @@
             "status": "confirmed"
         },
         {
+            "id": "general-dental-services-statistics-for-ni-quarter-3-202627",
+            "title": "General Dental Services Statistics for NI, Quarter 3 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 3 of 2026/27.",
+            "release_date": "2027-01-28T09:30:00Z",
+            "display_date": "28 January 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:05:00Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "complaints-received-by-the-police-ombudsman-for-northern-ireland-quarter-3-202627",
             "title": "Complaints received by the Police Ombudsman for Northern Ireland, Quarter 3 2026/27",
             "summary": "This quarterly bulletin presents the most recent statistics on the number of complaints and allegations received by the Police Ombudsman",
@@ -1939,6 +1950,17 @@
             "status": "provisional"
         },
         {
+            "id": "general-ophthalmic-services-statistics-for-ni-quarter-3-202627",
+            "title": "General Ophthalmic Services Statistics for NI, Quarter 3 2026/27",
+            "summary": "This report presents activity and payment statistics related to Northern Ireland General Ophthalmic Services for quarter 3 of 2026/27.",
+            "release_date": "2027-02-04T09:30:00Z",
+            "display_date": "4 February 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:06:23Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "emergency-care-waiting-time-statistics-october-december-2026",
             "title": "Emergency Care Waiting Time Statistics (October - December 2026)",
             "summary": "Time spent waiting in emergency care departments in Northern Ireland for new and unplanned review attendances, and performance against the ministerial target",
@@ -1972,6 +1994,17 @@
             "status": "provisional"
         },
         {
+            "id": "general-medical-services-statistics-for-ni-quarter-3-202627",
+            "title": "General Medical Services Statistics for NI, Quarter 3 2026/27",
+            "summary": "This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q3 of 2026/27.",
+            "release_date": "2027-02-11T09:30:00Z",
+            "display_date": "11 February 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:07:25Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
             "id": "deaths-registered-in-northern-ireland-week-ending-5-february-2027",
             "title": "Deaths Registered in Northern Ireland - Week ending 5 February 2027",
             "summary": "Tables showing deaths registered in Northern Ireland in 2027, up to and including 5 February 2027.",
@@ -1991,6 +2024,17 @@
             "updated": "2026-10-23T15:58:08Z",
             "org": "NISRA",
             "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "ni-sodium-valproate-and-topiramate-monitoring-report-to-december-2026",
+            "title": "NI Sodium Valproate and Topiramate Monitoring Report to December 2026",
+            "summary": "Statistics on the number of patients, including females of child bearing age, prescribed either Sodium Valproate or Topiramate.",
+            "release_date": "2027-02-18T09:30:00Z",
+            "display_date": "18 February 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:10:38Z",
+            "org": "DoH",
+            "type": "OS",
             "status": "confirmed"
         },
         {
@@ -2057,6 +2101,28 @@
             "updated": "2026-01-28T10:28:17Z",
             "org": "DfC",
             "type": "OS",
+            "status": "confirmed"
+        },
+        {
+            "id": "prescription-cost-analysis-for-northern-ireland-2026",
+            "title": "Prescription Cost Analysis for Northern Ireland, 2026",
+            "summary": "Prescription Cost Analysis provides the number of items and net ingredient cost of all prescriptions dispensed in NI. Drugs are listed by BNF therapeutic class.",
+            "release_date": "2027-02-25T09:30:00Z",
+            "display_date": "25 February 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:13:47Z",
+            "org": "DoH",
+            "type": "AOS",
+            "status": "confirmed"
+        },
+        {
+            "id": "general-pharmaceutical-services-statistics-for-ni-q3-202627",
+            "title": "General Pharmaceutical Services Statistics for NI, Q3 2026/27",
+            "summary": "Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2026/27.",
+            "release_date": "2027-02-25T09:30:00Z",
+            "display_date": "25 February 2027 9:30am (confirmed)",
+            "updated": "2026-11-26T10:12:34Z",
+            "org": "DoH",
+            "type": "AOS",
             "status": "confirmed"
         },
         {
